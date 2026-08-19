@@ -1,0 +1,46 @@
+[
+  {
+    "tag": "Juros",
+    "titulo": "Copom mantém corte e leva Selic a 14% ao ano, a mínima do ciclo",
+    "fonte": "CNN Brasil",
+    "data": "19 Ago",
+    "resumo": "Banco Central reduziu a taxa básica pela quarta vez seguida em 2026, mas o crédito para pequenos negócios segue caro.",
+    "conteudo": "O Copom decidiu, por unanimidade, cortar a Selic em 0,25 ponto percentual na reunião de 4 e 5 de agosto, levando a taxa básica de 14,25% para 14,00% ao ano — o quarto corte consecutivo do ciclo e o menor patamar desde o início do aperto monetário. O Banco Central sinalizou que a porta segue aberta para novos ajustes na próxima reunião, marcada para 15 e 16 de setembro, e o Boletim Focus projeta a Selic encerrando 2026 em torno de 13,75%.\n\nPara quem empreende, o alívio ainda não chega ao bolso: o corte no atacado demora a se refletir nas taxas cobradas pelos bancos, e o juro final para capital de giro e financiamentos de pequenas empresas segue entre os mais altos do mundo em termos reais. Vale a pena negociar linhas com taxas prefixadas antes de novos cortes e evitar rotativo e cheque especial enquanto o custo do crédito produtivo não cai na prática.",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/bc-copom-agosto-2026/",
+    "posicao": 1,
+    "batch_date": "2026-08-19"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Tarifa de 50% dos EUA já afeta 36% das exportações brasileiras",
+    "fonte": "Correio Braziliense",
+    "data": "19 Ago",
+    "resumo": "Tarifaço de Trump, em vigor desde 6 de agosto, atinge siderurgia, café, aço e outros setores exportadores.",
+    "conteudo": "A tarifa de 50% imposta pelos Estados Unidos à maioria dos produtos brasileiros entrou em vigor em 6 de agosto e, segundo o vice-presidente e ministro Geraldo Alckmin, atinge cerca de 35,9% das exportações do país aos EUA — parceiro comercial que responde a US$ 43 bilhões em vendas por ano. Siderurgia, setor automotivo, aeronáutico, petróleo e químicos estão entre os mais impactados, embora Washington tenha isentado itens como aeronaves civis, suco de laranja, celulose e fertilizantes.\n\nEmpresas exportadoras, especialmente as de médio porte com contratos fechados em dólar, precisam reavaliar margens e diversificar mercados diante do risco de cancelamento de pedidos e queda no volume vendido aos EUA. Para negócios da cadeia desses setores no Brasil — fornecedores, transportadoras, prestadores de serviço — vale mapear a exposição indireta ao tarifaço antes de fechar novos contratos de médio prazo.",
+    "url": "https://www.correiobraziliense.com.br/aqui/2026/08/14/tarifaco-de-trump-afeta-produtos-brasileiros-veja-setores/",
+    "posicao": 2,
+    "batch_date": "2026-08-19"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Casas Bahia pede recuperação judicial com dívida de R$ 17,3 bilhões",
+    "fonte": "Migalhas",
+    "data": "19 Ago",
+    "resumo": "Grupo fechou 298 lojas e vai demitir cerca de 3 mil funcionários após prejuízo contábil de R$ 10,1 bilhões.",
+    "conteudo": "O Grupo Casas Bahia formalizou pedido de recuperação judicial em 16 de agosto para reestruturar uma dívida de R$ 17,3 bilhões, depois de fechar o segundo trimestre de 2026 com prejuízo contábil de R$ 10,1 bilhões. A varejista já havia passado por uma recuperação extrajudicial em 2024, mas não conseguiu reequilibrar as contas: fechou 298 lojas — mais de 700 ao somar Ponto Frio e Extra.com — e vai demitir cerca de 3 mil dos 31 mil funcionários.\n\nO caso é um alerta prático para qualquer negócio que cresceu alavancado em dívida de curto prazo: renegociar o passivo uma vez não resolve o problema se a operação não gerar caixa suficiente para sustentá-lo depois. Donos de pequenas e médias empresas que fornecem para grandes varejistas devem ficar atentos a prazos de recebimento e considerar diversificar clientes para reduzir a exposição a um único grande parceiro comercial em dificuldade.",
+    "url": "https://www.migalhas.com.br/quentes/462484/apos-prejuizo-de-r-10-1-bi-casas-bahia-pede-recuperacao-judicial",
+    "posicao": 3,
+    "batch_date": "2026-08-19"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "BC quer usar recebíveis do Pix como garantia para baratear crédito",
+    "fonte": "WSCOM",
+    "data": "19 Ago",
+    "resumo": "Novo modelo do Banco Central vai permitir usar vendas futuras via Pix como garantia em empréstimos para micro e pequenas empresas.",
+    "conteudo": "O Banco Central estuda um mecanismo batizado de \"Pix Garantia\", que vai permitir que micro e pequenos empresários usem o fluxo futuro de recebíveis via Pix como garantia para contratar empréstimos com juros mais baixos junto aos bancos. A lógica é parecida com a do crédito consignado: o valor da venda que entra pelo Pix fica comprometido automaticamente com a instituição financeira até quitar o contrato, reduzindo o risco para quem empresta.\n\nNa prática, isso deve abrir uma porta de crédito mais barato para negócios que hoje não têm garantia real para oferecer ao banco — caso típico de bares, salões, pequenos comércios e prestadores de serviço que recebem majoritariamente por Pix. Vale o dono de negócio já organizar o histórico de recebimentos via Pix e acompanhar o lançamento oficial da modalidade, já que o volume de vendas registrado pode se tornar um ativo para negociar taxas melhores.",
+    "url": "https://wscom.com.br/economia/2026/08/10/bc-planeja-usar-vendas-via-pix-como-garantia-para-baratear-emprestimos-a-pequenas-empresas/",
+    "posicao": 4,
+    "batch_date": "2026-08-19"
+  }
+]
