@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Estrangeiros tiram R$ 18 bi da bolsa e Ibovespa cai pela 11ª vez seguida",
+    "fonte": "ADVFN Brasil",
+    "data": "20 Ago",
+    "resumo": "Saída de capital estrangeiro e dólar acima de R$ 5,17 aumentam a cautela do mercado às vésperas da eleição.",
+    "conteudo": "O Ibovespa encadeou, até a sessão de terça-feira (18/8), onze pregões seguidos de queda, acumulando perda de cerca de 5,5% no mês, enquanto o dólar voltou a ser negociado acima de R$ 5,17. Levantamentos do fluxo da B3 mostram que investidores estrangeiros retiraram mais de R$ 18 bilhões da bolsa brasileira só em agosto, praticamente zerando o saldo positivo acumulado no ano — movimento agravado pelo rebaixamento de recomendação do JPMorgan para ações brasileiras e pela retirada do real da carteira de mercados emergentes do Citi.\n\nPara quem empreende, o dólar mais caro encarece insumos e equipamentos importados e eleva o custo de qualquer dívida atrelada à moeda americana; a fuga de capital também tende a deixar crédito e captação via bolsa mais caros nos próximos meses. Quem depende de importação ou tem parcelas em dólar deve travar câmbio ou renegociar prazos agora, antes que a incerteza eleitoral e fiscal empurre a cotação ainda mais para cima.",
+    "url": "https://br.advfn.com/jornal/2026/08/ibovespa-cai-pela-11a-vez-seguida-com-saida-de-estrangeiros-tensao-global-e-pressao-nos-juros",
+    "posicao": 1,
+    "batch_date": "2026-08-20"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Votação que elevaria limite do MEI de R$ 81 mil é adiada para depois da eleição",
+    "fonte": "InfoMoney",
+    "data": "20 Ago",
+    "resumo": "Câmara não fechou acordo com o governo e empurra para depois de outubro o aumento do teto de faturamento do MEI.",
+    "conteudo": "A Câmara dos Deputados adiou para depois das eleições de outubro a votação do projeto que eleva o limite de faturamento do MEI de R$ 81 mil para R$ 140 mil por ano. Um esforço concentrado estava previsto para a semana de 31 de agosto a 4 de setembro, mas parlamentares não fecharam acordo com a equipe econômica, que resiste a incluir na mesma proposta a revisão das faixas do Simples Nacional. Pelo texto em discussão, o teto subiria em etapas — R$ 110 mil em 2027 e R$ 140 mil somente em 2028 —, com impacto fiscal estimado em R$ 8,1 bilhões até 2029.\n\nQuem fatura perto do limite atual de R$ 81 mil precisa continuar planejando a eventual migração para microempresa (ME) e o Simples Nacional pelas regras de hoje, sem contar com o novo teto neste ano ou no próximo. Vale simular com o contador o impacto tributário dessa migração agora, já que apostar na aprovação do projeto antes de outubro é arriscado diante da falta de acordo em Brasília.",
+    "url": "https://www.infomoney.com.br/politica/falta-de-acordo-adia-para-depois-das-eleicoes-votacao-de-reajuste-no-limite-do-mei/",
+    "posicao": 2,
+    "batch_date": "2026-08-20"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Start Growth abre inscrições para investir R$ 5 milhões em 10 startups B2B SaaS",
+    "fonte": "Startupz",
+    "data": "20 Ago",
+    "resumo": "Programa vai aportar até R$ 500 mil por startup selecionada; inscrições seguem abertas até 28 de agosto.",
+    "conteudo": "A aceleradora Start Growth abriu as inscrições do Batch 2026, que vai selecionar até dez startups brasileiras de SaaS B2B para receber aportes de até R$ 500 mil cada, somando R$ 5 milhões em investimento. As inscrições ficam abertas até 28 de agosto e o programa busca empresas que já tenham solução validada no mercado, tração inicial de vendas e potencial de escalar a operação rapidamente.\n\nPara fundadores de startups B2B, é uma janela concreta de capital num ano em que rodadas maiores seguem seletivas e mais lentas de fechar; vale reunir métricas de tração e um pitch objetivo antes do prazo de 28 de agosto. Mesmo quem não se enquadrar no perfil do programa pode usar os critérios de seleção — tração validada, unit economics claros — como referência do que investidores estão priorizando agora no mercado brasileiro de SaaS.",
+    "url": "https://www.startupz.com.br/artigo/start-growth-abre-batch-2026-e-vai-investir-r-5-milhoes-em-dez-startups-b2b-saas",
+    "posicao": 3,
+    "batch_date": "2026-08-20"
+  },
+  {
+    "tag": "Índices",
+    "titulo": "IGP-M recua de novo em agosto e alivia reajuste de aluguel comercial",
+    "fonte": "FGV / Diário do Grande ABC",
+    "data": "20 Ago",
+    "resumo": "Índice caiu 0,36% na segunda prévia de agosto e acumula alta de apenas 2,76% em 12 meses, a menor da série recente.",
+    "conteudo": "O IGP-M, calculado pela FGV, recuou 0,36% na segunda prévia de agosto de 2026, na sequência da queda de 1,11% registrada na mesma leitura de julho, puxado pela contração do índice de preços no atacado (IPA-M), que passou de -1,72% para -0,50% no período. Com isso, o índice acumula alta de apenas 2,76% em 12 meses até julho — patamar bem abaixo da inflação ao consumidor medida pelo IPCA.\n\nO dado interessa direto a quem aluga ponto comercial, galpão ou escritório com contrato indexado ao IGP-M: reajustes com aniversário em agosto ficam bem mais baixos do que em anos anteriores, aliviando o custo fixo do negócio. Vale conferir o índice acumulado exato na data de aniversário do contrato antes de pagar o reajuste e usar o dado como argumento em renegociações de aluguel comercial com o locador.",
+    "url": "https://www.dgabc.com.br/Noticia/4341991/fgv-igp-m-cai-0-36-na-2-previa-de-agosto-apos-queda-de-1-11-na-mesma-leitura-de-julho",
+    "posicao": 4,
+    "batch_date": "2026-08-20"
+  },
+  {
     "tag": "Juros",
     "titulo": "Copom mantém corte e leva Selic a 14% ao ano, a mínima do ciclo",
     "fonte": "CNN Brasil",
