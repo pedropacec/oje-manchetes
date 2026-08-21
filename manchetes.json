@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "IBS e CBS agora são obrigatórios na nota fiscal; risco é rejeição pelo Fisco",
+    "fonte": "Contábeis",
+    "data": "21 Ago",
+    "resumo": "Desde 3 de agosto, empresas do Lucro Real e Presumido precisam informar IBS e CBS em toda NF-e, sob risco de nota rejeitada.",
+    "conteudo": "Desde o dia 3 de agosto de 2026, empresas enquadradas no Lucro Real e no Lucro Presumido são obrigadas a preencher os campos de IBS e CBS em toda Nota Fiscal Eletrônica (NF-e) emitida, ainda que com alíquotas simbólicas de teste — 0,1% para o IBS e 0,9% para o CBS, sem cobrança efetiva. A omissão desses campos passou a gerar risco real de rejeição do documento pelo Sefaz, já que o período de tolerância terminou em 1º de agosto. Empresas do Simples Nacional e MEIs só entram nessa exigência a partir de janeiro de 2027.\n\nNa prática, quem fatura pelo Lucro Real ou Presumido precisa checar agora se o sistema emissor de notas (ERP, ponto de venda ou plataforma de faturamento) já está atualizado para incluir esses campos — parar de vender por causa de nota rejeitada é um risco que já existe hoje, não daqui a meses. Vale conversar esta semana com o contador ou o fornecedor de software fiscal para confirmar a atualização e evitar dor de cabeça na emissão.",
+    "url": "https://www.contabeis.com.br/artigos/78468/novas-datas-ibs-e-cbs-nas-notas-fiscais-entenda-o-cronograma/",
+    "posicao": 1,
+    "batch_date": "2026-08-21"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Inadimplência de empresas bate recorde: 9,1 milhões de CNPJs negativados",
+    "fonte": "Correio Braziliense",
+    "data": "21 Ago",
+    "resumo": "Levantamento da Serasa Experian mostra recorde histórico de dívidas em atraso, puxado por micro e pequenas empresas.",
+    "conteudo": "A inadimplência empresarial no Brasil bateu novo recorde em junho de 2026: segundo a Serasa Experian, 9,1 milhões de CNPJs estavam negativados, somando R$ 232,9 bilhões em dívidas em atraso, alta de 16,7% em relação a junho de 2025. Micro e pequenas empresas respondem por 8,7 milhões desses CNPJs — cerca de 95% do total —, com dívida média de R$ 25,5 mil por empresa, e o setor de Serviços concentra 55,7% dos negativados.\n\nPara quem empreende, o dado reforça que crédito mais caro e inadimplência de clientes e fornecedores seguem pressionando o caixa das pequenas empresas neste ano. Vale checar regularmente o próprio CNPJ nos birôs de crédito, negociar dívidas em atraso antes que virem protesto e evitar conceder prazo longo a clientes com histórico de atraso, já que a chance de calote segue elevada no cenário atual.",
+    "url": "https://www.correiobraziliense.com.br/economia/2026/08/7481382-inadimplencia-empresarial-atinge-recorde-e-supera-91-milhoes-de-cnpjs-no-brasil.html",
+    "posicao": 2,
+    "batch_date": "2026-08-21"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Ibovespa estabiliza e dólar sobe a R$ 5,19 com petróleo e juros dos EUA",
+    "fonte": "Forbes Brasil",
+    "data": "21 Ago",
+    "resumo": "Bolsa fecha em leve alta e encerra sequência negativa, mas dólar segue pressionado por Treasuries e tensão no Oriente Médio.",
+    "conteudo": "O Ibovespa fechou a quinta-feira (20/8) em leve alta de 0,06%, aos 167.927 pontos, na segunda sessão seguida de recuperação após a sequência negativa que marcou a primeira quinzena de agosto. O dólar, por sua vez, subiu 0,32% e fechou a R$ 5,19, pressionado pela alta do petróleo em meio às tensões no Oriente Médio e pela recuperação dos juros dos títulos do Tesouro americano, um dia depois de o governo dos EUA anunciar medidas de recompra de dívida.\n\nA estabilização da bolsa não significa fim da cautela: o mercado segue de olho no cenário fiscal e nas eleições de outubro, e o dólar continua oscilando perto do maior patamar do ano. Quem tem contas, insumos ou dívidas em dólar deve manter proteção cambial ativa e evitar apostar numa queda rápida da moeda americana nas próximas semanas.",
+    "url": "https://forbes.com.br/forbes-money/2026/08/ibovespa-fecha-estavel-incertezas-fiscais-eleitorais/",
+    "posicao": 3,
+    "batch_date": "2026-08-21"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Abertura de pequenos negócios cresce quase 14% no Brasil em 2026",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "21 Ago",
+    "resumo": "Foram 3,6 milhões de novos negócios entre janeiro e julho, com MEI, microempresas e empresas de pequeno porte à frente.",
+    "conteudo": "O Brasil abriu 3,6 milhões de novos negócios entre janeiro e julho de 2026, alta de quase 14% em relação ao mesmo período de 2025, segundo levantamento da Agência Sebrae de Notícias. Desse total, 3,4 milhões (96,7%) são microempreendedores individuais, microempresas ou empresas de pequeno porte — 77% MEI, 19% ME e quase 4% EPP —, e o setor de Serviços liderou as aberturas em julho, com 308 mil novas empresas, 65% do total.\n\nO ritmo de abertura mostra que, apesar dos juros altos e da inadimplência em alta, formalizar um negócio continua sendo a aposta de milhões de brasileiros neste ano. Para quem já está no mercado, o dado também é um alerta de concorrência crescente, especialmente em Serviços — vale reforçar diferenciação e atendimento antes que a categoria fique mais disputada.",
+    "url": "https://agenciasebrae.com.br/dados/abertura-de-pequenos-negocios-cresce-quase-14-em-2026/",
+    "posicao": 4,
+    "batch_date": "2026-08-21"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Estrangeiros tiram R$ 18 bi da bolsa e Ibovespa cai pela 11ª vez seguida",
     "fonte": "ADVFN Brasil",
