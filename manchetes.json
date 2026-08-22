@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Capital",
+    "titulo": "BNDES lança linha simplificada e já soma R$ 500 milhões a pequenas empresas",
+    "fonte": "Agência BNDES de Notícias",
+    "data": "22 Ago",
+    "resumo": "Linha BNDES Crédito Pequenas Empresas passa de quase 3.800 operações contratadas em cinco meses de operação.",
+    "conteudo": "A linha BNDES Crédito Pequenas Empresas, criada para simplificar e agilizar o acesso a crédito de micro e pequenas empresas, atingiu a marca de R$ 500 milhões em contratações, somando quase 3.800 operações em pouco mais de cinco meses de funcionamento, segundo a Agência BNDES de Notícias. Cooperativas de crédito e bancos cooperativos responderam por 35% do número de operações e 23% do valor total contratado. Pelas regras da linha, cada cliente pode tomar até R$ 500 mil a cada 12 meses, com prazo de até 60 meses e carência de até dois anos, a taxas que somam TLP, Selic ou TFB à remuneração do BNDES de 1,45% ao ano mais o spread do agente financeiro — resultando em custo próximo de 1,3% ao mês na maior parte dos casos.\n\nPara quem toca um pequeno negócio, a linha é uma alternativa concreta a taxas bem abaixo do cartão de crédito rotativo ou do cheque especial, especialmente para financiar capital de giro ou manter empregos em um momento de juros ainda altos e crédito bancário caro. Vale procurar uma cooperativa de crédito ou um banco credenciado ao BNDES para simular as condições, já que o repasse costuma ser mais rápido do que em linhas tradicionais.",
+    "url": "https://agenciadenoticias.bndes.gov.br/cultura/BNDES-Credito-Pequenas-Empresas-atinge-R$-500-milhoes-em-contratacoes/",
+    "posicao": 1,
+    "batch_date": "2026-08-22"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Lula liga para Trump e tenta destravar tarifaço de até 37,5% ao Brasil",
+    "fonte": "InfoMoney",
+    "data": "22 Ago",
+    "resumo": "Ligação de 1h20 entre os presidentes reabre negociação, mas as tarifas seguem em vigor sobre boa parte das exportações brasileiras.",
+    "conteudo": "O presidente Lula ligou para Donald Trump na sexta-feira (21/8), em conversa de 1 hora e 20 minutos classificada como \"amistosa e cordial\", para contestar as tarifas aplicadas pelos Estados Unidos a produtos brasileiros, que chegam a 37,5% em parte das mercadorias. Lula chamou as tarifas de infundadas e defendeu a retomada das negociações; Trump concordou em restabelecer o diálogo entre as equipes técnicas dos dois países o quanto antes. As tarifas afetam cerca de 15% das exportações brasileiras aos EUA em valores de 2025 — perto de US$ 5,8 bilhões —, atingindo setores como madeira, móveis, máquinas, equipamentos, calçados, cerâmica e açúcar.\n\nPara negócios que exportam para os EUA ou dependem de cadeias ligadas a esses setores, a retomada do diálogo é um sinal positivo, mas não muda o cenário imediato: as tarifas continuam valendo enquanto as equipes técnicas não fecham um novo acordo. Vale manter a diversificação de mercados já iniciada nos últimos meses e evitar fechar contratos de longo prazo com clientes americanos que dependam de uma queda rápida da tarifa.",
+    "url": "https://www.infomoney.com.br/politica/lula-liga-para-trump-contesta-tarifaco-e-acerta-retomada-de-negociacoes-com-os-eua/",
+    "posicao": 2,
+    "batch_date": "2026-08-22"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Ibovespa fecha semana em alta e dólar cai a R$ 5,14 com petróleo em alta",
+    "fonte": "InfoMoney",
+    "data": "22 Ago",
+    "resumo": "Bolsa acumula terceira sessão seguida de ganhos e sobe 2,45% na semana, enquanto o dólar recua ao menor valor em dez dias.",
+    "conteudo": "O Ibovespa fechou a sexta-feira (21/8) em alta de 1,85%, aos 171.031 pontos, terceira sessão seguida de ganhos, com valorização acumulada de 2,45% na semana puxada pelos bancos. O dólar recuou 0,93%, a R$ 5,1451, menor valor de fechamento em pouco mais de dez dias, em meio ao enfraquecimento da moeda americana no exterior. Já o petróleo subiu com o aumento da tensão entre Estados Unidos e Irã sobre o Estreito de Ormuz, rota por onde passa um quinto do petróleo mundial; ainda assim, investidores estrangeiros retiraram mais de R$ 22 bilhões da bolsa brasileira só em agosto, até o dia 19.\n\nA melhora pontual da bolsa e do câmbio não elimina a cautela: a saída consistente de capital estrangeiro mostra que o investidor de fora segue seletivo com o Brasil às vésperas da eleição de outubro. Para quem tem insumos, equipamentos ou dívidas atreladas ao dólar, o recuo é uma janela para travar câmbio a um preço melhor, sem abandonar a proteção cambial — o mesmo vale para o custo de combustíveis, que tende a subir se a tensão no Oriente Médio persistir.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21082026/",
+    "posicao": 3,
+    "batch_date": "2026-08-22"
+  },
+  {
+    "tag": "Bancos",
+    "titulo": "Bancários encerram greve de 24h; nova rodada de negociação é dia 24",
+    "fonte": "Seu Dinheiro",
+    "data": "22 Ago",
+    "resumo": "Paralisação nacional afetou agências e caixas na quinta (20); categoria cobra reajuste real de 5% e volta à mesa na segunda.",
+    "conteudo": "Os bancários fizeram uma paralisação nacional de 24 horas na quinta-feira (20/8), com os serviços normalizando ao longo da sexta (21/8), depois de a Fenaban não apresentar um índice de reajuste salarial na oitava rodada de negociação da Campanha Nacional dos Bancários 2026. A categoria pede aumento real de 5%, reposição da inflação, reajuste do piso, do vale-refeição e do vale-alimentação, além de maior participação nos lucros e resultados (PLR); uma nova rodada de negociação com os bancos está marcada para 24 de agosto.\n\nPara quem depende de atendimento presencial, compensação de cheques ou linhas de crédito bancário, vale evitar agendar operações urgentes perto de datas de possíveis novas paralisações e usar Pix, aplicativos e canais digitais como alternativa nesses dias. O desfecho da negociação também interessa a qualquer empresa que paga PLR à própria equipe, já que o acordo dos bancários costuma servir de referência para outras categorias nas campanhas salariais do segundo semestre.",
+    "url": "https://www.seudinheiro.com/2026/economia/greve-dos-bancarios-paralisacao-de-24-horas-quinta-feira-bancos-mlem/",
+    "posicao": 4,
+    "batch_date": "2026-08-22"
+  },
+  {
     "tag": "Tributário",
     "titulo": "IBS e CBS agora são obrigatórios na nota fiscal; risco é rejeição pelo Fisco",
     "fonte": "Contábeis",
