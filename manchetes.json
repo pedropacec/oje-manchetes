@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Pagamentos",
+    "titulo": "BC confirma cobrança híbrida no Pix e prazo termina em novembro",
+    "fonte": "TechTudo",
+    "data": "24 Ago",
+    "resumo": "Regra que combina Pix e boleto numa única cobrança, com QR Code obrigatório, entra em vigor a partir de novembro de 2026.",
+    "conteudo": "O Banco Central confirmou que a cobrança híbrida — modalidade que combina Pix e boleto numa única cobrança, com QR Code obrigatório mesmo em boletos tradicionais — passa a ser exigida dos emissores a partir de novembro de 2026, dentro da agenda evolutiva do Pix para 2026 e 2027. A atualização caminha junto com o chamado split tributário, mecanismo que vai separar automaticamente a parcela de impostos no momento do pagamento, testado ainda em 2026 com alíquota simbólica de 1% de CBS e IBS antes da entrada em vigor plena da Reforma Tributária em 2027.\n\nPara quem emite boletos ou cobranças recorrentes — aluguel, mensalidades, prestação de serviços —, o prazo de novembro é curto: vale checar agora com o banco, a adquirente ou o ERP se o sistema já vai gerar o QR Code Pix dentro do boleto, já que o cliente vai poder escolher pagar por qualquer um dos dois meios. Quem se adiantar tende a reduzir atraso de recebimento e custo de conciliação bancária antes que a exigência vire obrigação para todo o mercado.",
+    "url": "https://www.techtudo.com.br/listas/2026/08/mudancas-no-pix-bc-promete-split-tributario-cobranca-hibrida-e-mais-veja-edapps.ghtml",
+    "posicao": 1,
+    "batch_date": "2026-08-24"
+  },
+  {
+    "tag": "Trabalho",
+    "titulo": "Bancários e Fenaban voltam à mesa hoje na 9ª rodada da campanha salarial",
+    "fonte": "BNews São Paulo",
+    "data": "24 Ago",
+    "resumo": "Categoria e bancos se reúnem nesta segunda-feira após greve nacional de 24 horas e recuo parcial da Fenaban na proposta de reajuste.",
+    "conteudo": "Nesta segunda-feira (24/8), o Comando Nacional dos Bancários e a Fenaban se reúnem pela 9ª rodada de negociação da Campanha Nacional dos Bancários 2026, depois de uma paralisação nacional de 24 horas no dia 20 de agosto, aprovada em assembleias com mais de 50 mil trabalhadores em todo o país. Na 8ª rodada, em 18 de agosto, os bancos recuaram da proposta de reajuste diferenciado por faixa salarial e do congelamento do piso de contratação, mas ainda não apresentaram um índice de reajuste salarial para a categoria.\n\nPara o dono de negócio, o desfecho interessa em duas frentes: a categoria bancária costuma servir de referência para outras campanhas salariais do segundo semestre, então o índice final ajuda a estimar o custo do próprio reajuste da equipe; e uma eventual nova paralisação pode atrasar compensação de cheques, aprovação de crédito e outras rotinas bancárias da empresa. Vale ter Pix e canais digitais como alternativa para não travar pagamentos caso a negociação de hoje não avance.",
+    "url": "https://www.bnewssaopaulo.com.br/noticias/politica/greve-dos-bancarios-nova-rodada-de-negociacao-esta-prevista-para-segunda-feira-24.html",
+    "posicao": 2,
+    "batch_date": "2026-08-24"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Empresas põem 7 propostas de produtividade no centro da eleição de 2026",
+    "fonte": "Exame",
+    "data": "24 Ago",
+    "resumo": "Movimento Brasil Competitivo lança pacote com uso de IA e reformas estruturais para pautar a campanha presidencial de outubro.",
+    "conteudo": "O Movimento Brasil Competitivo (MBC) lançou um conjunto de 7 propostas para colocar produtividade e crescimento no centro do debate da eleição presidencial de outubro de 2026, incluindo o uso de inteligência artificial para aumentar a eficiência das empresas e dos serviços públicos. Segundo a diretora-executiva do MBC, Tatiana Ribeiro, a discussão não se limita ao próximo mandato, mas ao país que se quer construir até 2030 — o Brasil teria condições de crescer mais e atrair mais investimento, mas esbarra na dificuldade histórica de transformar prioridades conhecidas em agenda concreta de implementação.\n\nPara quem empreende, a iniciativa é um sinal de que o debate eleitoral deste ano deve girar em torno de temas com impacto direto no negócio, como redução de burocracia, acesso a crédito e capital, regras de contratação e adoção de tecnologia. Vale acompanhar como cada pré-candidato responde a essas 7 propostas ao longo da campanha, já que elas ajudam a antecipar o ambiente regulatório e tributário que a empresa vai enfrentar a partir de 2027.",
+    "url": "https://exame.com/brasil/as-7-propostas-que-empresas-querem-colocar-no-centro-da-eleicao-de-2026/",
+    "posicao": 3,
+    "batch_date": "2026-08-24"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Ex-CTO do Nubank capta US$ 85 milhões na maior rodada seed da América Latina",
+    "fonte": "Forbes Brasil",
+    "data": "24 Ago",
+    "resumo": "Fintech Decade bate recorde latino-americano de captação seed após 11 meses de desenvolvimento em modo stealth.",
+    "conteudo": "A fintech Decade, fundada por Vitor Olivier — ex-CTO do Nubank — e Felipe Meneses, cofundador da Hyperplane (adquirida pelo próprio Nubank), anunciou em 4 de agosto uma rodada seed de US$ 85 milhões (cerca de R$ 440 milhões), a maior já captada nessa fase por uma startup latino-americana, superando o recorde anterior de US$ 40 milhões da brasileira Pax. A rodada foi liderada pelos fundos internacionais Benchmark, Diffusion e Greenoaks, com participação das gestoras brasileiras Atlantico e Norte Ventures, e havia sido fechada ainda no fim de 2025, financiando 11 meses de desenvolvimento em modo stealth antes do anúncio público.\n\nA Decade usa inteligência artificial e Open Finance para reunir contas, investimentos e outros ativos financeiros dos clientes num só lugar e recomendar decisões de patrimônio. Para fundadores brasileiros, o caso mostra que fundos internacionais de peso continuam dispostos a apostar alto em fintechs em estágio inicial no país, mesmo com juros altos — desde que o time já tenha histórico comprovado dentro de grandes players do setor.",
+    "url": "https://forbes.com.br/forbes-money/2026/08/ex-cto-nubank-decade-rodada-seed-85-milhoes/",
+    "posicao": 4,
+    "batch_date": "2026-08-24"
+  },
+  {
     "tag": "Tributário",
     "titulo": "Simples Nacional: regime de caixa acaba em 2027 e opção para o ano abre em setembro",
     "fonte": "Contábeis",
@@ -130,49 +174,5 @@
     "url": "https://agenciasebrae.com.br/dados/abertura-de-pequenos-negocios-cresce-quase-14-em-2026/",
     "posicao": 4,
     "batch_date": "2026-08-21"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Estrangeiros tiram R$ 18 bi da bolsa e Ibovespa cai pela 11ª vez seguida",
-    "fonte": "ADVFN Brasil",
-    "data": "20 Ago",
-    "resumo": "Saída de capital estrangeiro e dólar acima de R$ 5,17 aumentam a cautela do mercado às vésperas da eleição.",
-    "conteudo": "O Ibovespa encadeou, até a sessão de terça-feira (18/8), onze pregões seguidos de queda, acumulando perda de cerca de 5,5% no mês, enquanto o dólar voltou a ser negociado acima de R$ 5,17. Levantamentos do fluxo da B3 mostram que investidores estrangeiros retiraram mais de R$ 18 bilhões da bolsa brasileira só em agosto, praticamente zerando o saldo positivo acumulado no ano — movimento agravado pelo rebaixamento de recomendação do JPMorgan para ações brasileiras e pela retirada do real da carteira de mercados emergentes do Citi.\n\nPara quem empreende, o dólar mais caro encarece insumos e equipamentos importados e eleva o custo de qualquer dívida atrelada à moeda americana; a fuga de capital também tende a deixar crédito e captação via bolsa mais caros nos próximos meses. Quem depende de importação ou tem parcelas em dólar deve travar câmbio ou renegociar prazos agora, antes que a incerteza eleitoral e fiscal empurre a cotação ainda mais para cima.",
-    "url": "https://br.advfn.com/jornal/2026/08/ibovespa-cai-pela-11a-vez-seguida-com-saida-de-estrangeiros-tensao-global-e-pressao-nos-juros",
-    "posicao": 1,
-    "batch_date": "2026-08-20"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Votação que elevaria limite do MEI de R$ 81 mil é adiada para depois da eleição",
-    "fonte": "InfoMoney",
-    "data": "20 Ago",
-    "resumo": "Câmara não fechou acordo com o governo e empurra para depois de outubro o aumento do teto de faturamento do MEI.",
-    "conteudo": "A Câmara dos Deputados adiou para depois das eleições de outubro a votação do projeto que eleva o limite de faturamento do MEI de R$ 81 mil para R$ 140 mil por ano. Um esforço concentrado estava previsto para a semana de 31 de agosto a 4 de setembro, mas parlamentares não fecharam acordo com a equipe econômica, que resiste a incluir na mesma proposta a revisão das faixas do Simples Nacional. Pelo texto em discussão, o teto subiria em etapas — R$ 110 mil em 2027 e R$ 140 mil somente em 2028 —, com impacto fiscal estimado em R$ 8,1 bilhões até 2029.\n\nQuem fatura perto do limite atual de R$ 81 mil precisa continuar planejando a eventual migração para microempresa (ME) e o Simples Nacional pelas regras de hoje, sem contar com o novo teto neste ano ou no próximo. Vale simular com o contador o impacto tributário dessa migração agora, já que apostar na aprovação do projeto antes de outubro é arriscado diante da falta de acordo em Brasília.",
-    "url": "https://www.infomoney.com.br/politica/falta-de-acordo-adia-para-depois-das-eleicoes-votacao-de-reajuste-no-limite-do-mei/",
-    "posicao": 2,
-    "batch_date": "2026-08-20"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Start Growth abre inscrições para investir R$ 5 milhões em 10 startups B2B SaaS",
-    "fonte": "Startupz",
-    "data": "20 Ago",
-    "resumo": "Programa vai aportar até R$ 500 mil por startup selecionada; inscrições seguem abertas até 28 de agosto.",
-    "conteudo": "A aceleradora Start Growth abriu as inscrições do Batch 2026, que vai selecionar até dez startups brasileiras de SaaS B2B para receber aportes de até R$ 500 mil cada, somando R$ 5 milhões em investimento. As inscrições ficam abertas até 28 de agosto e o programa busca empresas que já tenham solução validada no mercado, tração inicial de vendas e potencial de escalar a operação rapidamente.\n\nPara fundadores de startups B2B, é uma janela concreta de capital num ano em que rodadas maiores seguem seletivas e mais lentas de fechar; vale reunir métricas de tração e um pitch objetivo antes do prazo de 28 de agosto. Mesmo quem não se enquadrar no perfil do programa pode usar os critérios de seleção — tração validada, unit economics claros — como referência do que investidores estão priorizando agora no mercado brasileiro de SaaS.",
-    "url": "https://www.startupz.com.br/artigo/start-growth-abre-batch-2026-e-vai-investir-r-5-milhoes-em-dez-startups-b2b-saas",
-    "posicao": 3,
-    "batch_date": "2026-08-20"
-  },
-  {
-    "tag": "Índices",
-    "titulo": "IGP-M recua de novo em agosto e alivia reajuste de aluguel comercial",
-    "fonte": "FGV / Diário do Grande ABC",
-    "data": "20 Ago",
-    "resumo": "Índice caiu 0,36% na segunda prévia de agosto e acumula alta de apenas 2,76% em 12 meses, a menor da série recente.",
-    "conteudo": "O IGP-M, calculado pela FGV, recuou 0,36% na segunda prévia de agosto de 2026, na sequência da queda de 1,11% registrada na mesma leitura de julho, puxado pela contração do índice de preços no atacado (IPA-M), que passou de -1,72% para -0,50% no período. Com isso, o índice acumula alta de apenas 2,76% em 12 meses até julho — patamar bem abaixo da inflação ao consumidor medida pelo IPCA.\n\nO dado interessa direto a quem aluga ponto comercial, galpão ou escritório com contrato indexado ao IGP-M: reajustes com aniversário em agosto ficam bem mais baixos do que em anos anteriores, aliviando o custo fixo do negócio. Vale conferir o índice acumulado exato na data de aniversário do contrato antes de pagar o reajuste e usar o dado como argumento em renegociações de aluguel comercial com o locador.",
-    "url": "https://www.dgabc.com.br/Noticia/4341991/fgv-igp-m-cai-0-36-na-2-previa-de-agosto-apos-queda-de-1-11-na-mesma-leitura-de-julho",
-    "posicao": 4,
-    "batch_date": "2026-08-20"
   }
 ]
