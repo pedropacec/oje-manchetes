@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Ibovespa fecha aos 175 mil pontos na 5ª alta seguida; dólar perto de R$ 5,16",
+    "fonte": "InfoMoney",
+    "data": "28 Ago",
+    "resumo": "Bolsa brasileira acumula cinco pregões seguidos de ganhos, embalada por resultados fortes nos EUA e câmbio estável.",
+    "conteudo": "O Ibovespa fechou o pregão de quinta-feira (27/8) aos 175.135 pontos, alta de 0,31% e quinto dia seguido de ganhos, em sessão puxada por balanços corporativos acima do esperado nos Estados Unidos e por uma agenda mais leve de notícias locais. O dólar operou perto de R$ 5,16, enquanto o mercado segue de olho no diferencial entre a Selic, em 14% ao ano, e os juros dos EUA, mantidos pelo Federal Reserve entre 3,50% e 3,75%.\n\nEssa sequência de altas na bolsa com câmbio estável cria uma janela mais previsível para quem importa insumos ou fecha contratos em dólar no curto prazo, mas o diferencial de juros entre Brasil e EUA continua tornando o crédito bancário caro por aqui. Vale aproveitar o momento de calmaria cambial para travar preços de importação e negociar prazos mais longos, sem apostar numa queda rápida da Selic no curto prazo.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27082026/",
+    "posicao": 1,
+    "batch_date": "2026-08-28"
+  },
+  {
+    "tag": "Emprego",
+    "titulo": "Novo Caged mostra 129 mil vagas formais em julho e alta de 2,9% no ano",
+    "fonte": "Agência Gov",
+    "data": "28 Ago",
+    "resumo": "Ministério do Trabalho divulgou saldo positivo em quase todos os setores, com serviços e comércio à frente da geração de empregos.",
+    "conteudo": "O Novo Caged registrou saldo positivo de mais de 129 mil vagas com carteira assinada em julho, número divulgado nesta quinta-feira (27/8) pelo Ministério do Trabalho e Emprego. No acumulado de janeiro a julho, o país já gerou 1,34 milhão de empregos formais, alta de 2,86% sobre igual período de 2025, com destaque para serviços, comércio, indústria e construção civil, além de saldo positivo em 25 estados.\n\nUm mercado de trabalho ainda aquecido significa mais concorrência por mão de obra qualificada e pressão sobre o custo da folha de pagamento, principalmente em comércio e serviços. Donos de pequenos negócios que planejam contratar para o fim de ano fazem bem em antecipar esse movimento agora — revisar salários e benefícios antes que a disputa por talentos aperte ainda mais nos próximos meses tende a sair mais barato do que competir por candidatos num mercado já mais restrito.",
+    "url": "https://agenciagov.ebc.com.br/noticias/202508/novo-caged-brasil-gera-mais-de-129-mil-empregos-formais-em-julho",
+    "posicao": 2,
+    "batch_date": "2026-08-28"
+  },
+  {
+    "tag": "Fiscal",
+    "titulo": "Dívida pública federal sobe a R$ 9,28 tri em julho, diz Tesouro Nacional",
+    "fonte": "Revista Oeste",
+    "data": "28 Ago",
+    "resumo": "Tesouro projeta estoque entre R$ 9,7 tri e R$ 10,3 tri até o fim do ano, refletindo o custo de rolar a dívida com a Selic em 14%.",
+    "conteudo": "A dívida pública federal (DPF) chegou a R$ 9,28 trilhões em julho, alta de 0,22% no mês, segundo o Relatório Mensal da Dívida divulgado pelo Tesouro Nacional nesta quarta-feira (26/8). A variação foi puxada pela apropriação de R$ 85,53 bilhões em juros, compensada em parte por um resgate líquido de R$ 65,14 bilhões. No mesmo relatório, o Tesouro projeta que o estoque termine 2026 entre R$ 9,7 trilhões e R$ 10,3 trilhões.\n\nUma dívida pública em expansão mantém pressão sobre os juros de mercado e sobre o custo do crédito bancário, o que afeta diretamente linhas de financiamento e capital de giro para pequenas e médias empresas. É um bom momento para travar taxas já negociadas com o banco e evitar depender de capital de giro caro enquanto esse cenário fiscal não se estabiliza.",
+    "url": "https://revistaoeste.com/economia/divida-publica-federal-cresce-em-julho-e-chega-a-r-928-trilhoes/",
+    "posicao": 3,
+    "batch_date": "2026-08-28"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Startup Summit fecha com R$ 353,7 mi em intenções de investimento",
+    "fonte": "ND Mais",
+    "data": "28 Ago",
+    "resumo": "Evento em Florianópolis reuniu mais de 10 mil pessoas e trouxe pela 1ª vez ao Brasil uma etapa da Startup World Cup.",
+    "conteudo": "O Startup Summit 2026, realizado em Florianópolis entre 26 e 28 de agosto pelo Sebrae e pela Acate, reuniu mais de 10 mil participantes, entre eles investidores nacionais e estrangeiros, grandes empresas e representantes do setor público. Uma das novidades desta edição foi sediar a etapa oficial da Startup World Cup, uma das maiores competições globais de startups, e o evento projetou R$ 353,7 milhões em intenções de investimento a partir das conexões feitas entre startups, fundos e empresas ao longo dos três dias.\n\nPara quem empreende fora do eixo Rio–São Paulo, eventos desse porte funcionam como vitrine de acesso a investidores e grandes empresas parceiras sem o custo de estruturar uma rodada tradicional de captação sozinho. Vale mapear editais, prêmios e feiras setoriais como este ao longo do ano — são normalmente a porta de entrada mais barata para capital e clientes corporativos para quem ainda não tem rede de contatos no mercado financeiro.",
+    "url": "https://ndmais.com.br/tecnologia/startup-summit-2026-fortalece-conexao-do-brasil-com-o-ecossistema-global-de-inovacao/",
+    "posicao": 4,
+    "batch_date": "2026-08-28"
+  },
+  {
     "tag": "Juros",
     "titulo": "IPCA-15 tem 1ª deflação do ano em agosto e supera expectativa do mercado",
     "fonte": "InfoMoney",
@@ -130,49 +174,5 @@
     "url": "https://agenciasebrae.com.br/dados/pequenos-negocios-ampliam-presenca-no-comercio-exterior-e-ja-representam-quase-40-das-empresas-exportadoras/",
     "posicao": 4,
     "batch_date": "2026-08-25"
-  },
-  {
-    "tag": "Pagamentos",
-    "titulo": "BC confirma cobrança híbrida no Pix e prazo termina em novembro",
-    "fonte": "TechTudo",
-    "data": "24 Ago",
-    "resumo": "Regra que combina Pix e boleto numa única cobrança, com QR Code obrigatório, entra em vigor a partir de novembro de 2026.",
-    "conteudo": "O Banco Central confirmou que a cobrança híbrida — modalidade que combina Pix e boleto numa única cobrança, com QR Code obrigatório mesmo em boletos tradicionais — passa a ser exigida dos emissores a partir de novembro de 2026, dentro da agenda evolutiva do Pix para 2026 e 2027. A atualização caminha junto com o chamado split tributário, mecanismo que vai separar automaticamente a parcela de impostos no momento do pagamento, testado ainda em 2026 com alíquota simbólica de 1% de CBS e IBS antes da entrada em vigor plena da Reforma Tributária em 2027.\n\nPara quem emite boletos ou cobranças recorrentes — aluguel, mensalidades, prestação de serviços —, o prazo de novembro é curto: vale checar agora com o banco, a adquirente ou o ERP se o sistema já vai gerar o QR Code Pix dentro do boleto, já que o cliente vai poder escolher pagar por qualquer um dos dois meios. Quem se adiantar tende a reduzir atraso de recebimento e custo de conciliação bancária antes que a exigência vire obrigação para todo o mercado.",
-    "url": "https://www.techtudo.com.br/listas/2026/08/mudancas-no-pix-bc-promete-split-tributario-cobranca-hibrida-e-mais-veja-edapps.ghtml",
-    "posicao": 1,
-    "batch_date": "2026-08-24"
-  },
-  {
-    "tag": "Trabalho",
-    "titulo": "Bancários e Fenaban voltam à mesa hoje na 9ª rodada da campanha salarial",
-    "fonte": "BNews São Paulo",
-    "data": "24 Ago",
-    "resumo": "Categoria e bancos se reúnem nesta segunda-feira após greve nacional de 24 horas e recuo parcial da Fenaban na proposta de reajuste.",
-    "conteudo": "Nesta segunda-feira (24/8), o Comando Nacional dos Bancários e a Fenaban se reúnem pela 9ª rodada de negociação da Campanha Nacional dos Bancários 2026, depois de uma paralisação nacional de 24 horas no dia 20 de agosto, aprovada em assembleias com mais de 50 mil trabalhadores em todo o país. Na 8ª rodada, em 18 de agosto, os bancos recuaram da proposta de reajuste diferenciado por faixa salarial e do congelamento do piso de contratação, mas ainda não apresentaram um índice de reajuste salarial para a categoria.\n\nPara o dono de negócio, o desfecho interessa em duas frentes: a categoria bancária costuma servir de referência para outras campanhas salariais do segundo semestre, então o índice final ajuda a estimar o custo do próprio reajuste da equipe; e uma eventual nova paralisação pode atrasar compensação de cheques, aprovação de crédito e outras rotinas bancárias da empresa. Vale ter Pix e canais digitais como alternativa para não travar pagamentos caso a negociação de hoje não avance.",
-    "url": "https://www.bnewssaopaulo.com.br/noticias/politica/greve-dos-bancarios-nova-rodada-de-negociacao-esta-prevista-para-segunda-feira-24.html",
-    "posicao": 2,
-    "batch_date": "2026-08-24"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Empresas põem 7 propostas de produtividade no centro da eleição de 2026",
-    "fonte": "Exame",
-    "data": "24 Ago",
-    "resumo": "Movimento Brasil Competitivo lança pacote com uso de IA e reformas estruturais para pautar a campanha presidencial de outubro.",
-    "conteudo": "O Movimento Brasil Competitivo (MBC) lançou um conjunto de 7 propostas para colocar produtividade e crescimento no centro do debate da eleição presidencial de outubro de 2026, incluindo o uso de inteligência artificial para aumentar a eficiência das empresas e dos serviços públicos. Segundo a diretora-executiva do MBC, Tatiana Ribeiro, a discussão não se limita ao próximo mandato, mas ao país que se quer construir até 2030 — o Brasil teria condições de crescer mais e atrair mais investimento, mas esbarra na dificuldade histórica de transformar prioridades conhecidas em agenda concreta de implementação.\n\nPara quem empreende, a iniciativa é um sinal de que o debate eleitoral deste ano deve girar em torno de temas com impacto direto no negócio, como redução de burocracia, acesso a crédito e capital, regras de contratação e adoção de tecnologia. Vale acompanhar como cada pré-candidato responde a essas 7 propostas ao longo da campanha, já que elas ajudam a antecipar o ambiente regulatório e tributário que a empresa vai enfrentar a partir de 2027.",
-    "url": "https://exame.com/brasil/as-7-propostas-que-empresas-querem-colocar-no-centro-da-eleicao-de-2026/",
-    "posicao": 3,
-    "batch_date": "2026-08-24"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Ex-CTO do Nubank capta US$ 85 milhões na maior rodada seed da América Latina",
-    "fonte": "Forbes Brasil",
-    "data": "24 Ago",
-    "resumo": "Fintech Decade bate recorde latino-americano de captação seed após 11 meses de desenvolvimento em modo stealth.",
-    "conteudo": "A fintech Decade, fundada por Vitor Olivier — ex-CTO do Nubank — e Felipe Meneses, cofundador da Hyperplane (adquirida pelo próprio Nubank), anunciou em 4 de agosto uma rodada seed de US$ 85 milhões (cerca de R$ 440 milhões), a maior já captada nessa fase por uma startup latino-americana, superando o recorde anterior de US$ 40 milhões da brasileira Pax. A rodada foi liderada pelos fundos internacionais Benchmark, Diffusion e Greenoaks, com participação das gestoras brasileiras Atlantico e Norte Ventures, e havia sido fechada ainda no fim de 2025, financiando 11 meses de desenvolvimento em modo stealth antes do anúncio público.\n\nA Decade usa inteligência artificial e Open Finance para reunir contas, investimentos e outros ativos financeiros dos clientes num só lugar e recomendar decisões de patrimônio. Para fundadores brasileiros, o caso mostra que fundos internacionais de peso continuam dispostos a apostar alto em fintechs em estágio inicial no país, mesmo com juros altos — desde que o time já tenha histórico comprovado dentro de grandes players do setor.",
-    "url": "https://forbes.com.br/forbes-money/2026/08/ex-cto-nubank-decade-rodada-seed-85-milhoes/",
-    "posicao": 4,
-    "batch_date": "2026-08-24"
   }
 ]
