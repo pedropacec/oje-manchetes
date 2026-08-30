@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Capital",
+    "titulo": "Braskem pede recuperação extrajudicial para renegociar R$ 54 bilhões em dívidas",
+    "fonte": "Correio Braziliense",
+    "data": "30 Ago",
+    "resumo": "Maior petroquímica do país busca apoio de credores para renegociar dívida bilionária sem passar por recuperação judicial.",
+    "conteudo": "A Braskem protocolou na Justiça de São Paulo um pedido de recuperação extrajudicial para renegociar uma dívida estimada em cerca de R$ 54 bilhões (outros documentos do processo citam R$ 56,5 bilhões). O plano prevê 90 dias de proteção judicial enquanto a petroquímica busca apoio de mais de 50% dos credores em cada classe afetada — entre eles bancos como BNDES, Banco do Brasil, Itaú Unibanco, Bradesco e Santander. A companhia projeta gastar US$ 3,7 bilhões com o serviço da dívida entre julho de 2026 e dezembro de 2027, pressionada por um ciclo prolongado de excesso de oferta e margens comprimidas na petroquímica global, além dos custos ainda em aberto do caso de Maceió.\n\nA crise da maior petroquímica do país tende a deixar bancos e fornecedores mais cautelosos ao conceder crédito a empresas da cadeia química e plástica nos próximos meses, e aumenta o risco de repasse de custos ao longo da cadeia — de embalagens a insumos industriais. Quem depende de resina ou de outros derivados petroquímicos como insumo faz bem em diversificar fornecedores e negociar contratos mais curtos até o desfecho da renegociação, já que qualquer instabilidade na Braskem pode se refletir em preço e prazo de entrega desses materiais.",
+    "url": "https://www.correiobraziliense.com.br/economia/2026/08/7485799-braskem-pede-recuperacao-extrajudicial-para-renegociar-rs-54-bi.html",
+    "posicao": 1,
+    "batch_date": "2026-08-30"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Casas Bahia fecha 298 lojas e demite 3 mil após pedido de recuperação judicial",
+    "fonte": "Metrópoles",
+    "data": "30 Ago",
+    "resumo": "Varejista busca fôlego após balanço bilionário no vermelho, com efeito direto sobre concorrentes e fornecedores.",
+    "conteudo": "O Grupo Casas Bahia fechou 298 lojas e demitiu cerca de 3 mil funcionários ao longo de agosto, dentro do pedido de recuperação judicial protocolado para renegociar uma dívida de R$ 17,3 bilhões — dos quais R$ 16,4 bilhões (94,8%) estão nas mãos de credores quirografários. O pedido veio um dia depois de a varejista divulgar prejuízo líquido de R$ 10,1 bilhões no segundo trimestre, dezoito vezes pior que o resultado do mesmo período de 2025, e apenas dois anos depois de a empresa já ter renegociado R$ 4,8 bilhões em dívidas numa recuperação extrajudicial anterior.\n\nPara donos de loja física ou de e-commerce que concorrem com a rede, o fechamento de quase 300 unidades reabre espaço de mercado e de ponto comercial em várias cidades — vale mapear se algum imóvel ou fornecedor liberado pela Casas Bahia pode virar oportunidade. Já para quem vende para a rede como fornecedor, o processo de recuperação judicial significa fila de credores e prazo mais incerto para receber: é hora de rever limites de crédito concedidos à varejista e, se possível, buscar garantias adicionais antes de fechar novos pedidos.",
+    "url": "https://www.metropoles.com/brasil/economia-br/casas-bahia-plano-preve-demissao-de-3-mil-pessoas-e-fim-de-298-lojas",
+    "posicao": 2,
+    "batch_date": "2026-08-30"
+  },
+  {
+    "tag": "Agro",
+    "titulo": "Exportações do agro sobem 9,8% em agosto e crédito rural bate R$ 580 bi em CPR",
+    "fonte": "Agrimídia",
+    "data": "30 Ago",
+    "resumo": "Secex e dados de crédito rural mostram o agro brasileiro girando mais dinheiro tanto na exportação quanto no financiamento privado.",
+    "conteudo": "As exportações do agronegócio brasileiro cresceram 9,8% até a terceira semana de agosto ante igual período de 2025, puxadas pela soja (+11,4%), pelo café não torrado (+26%) e por animais vivos (+141,9%), segundo dados da Secex. No acumulado de janeiro a agosto, as exportações totais do país somaram US$ 218,6 bilhões e 490,1 milhões de toneladas. No crédito, o estoque de Cédulas de Produto Rural (CPR) chegou a R$ 580,78 bilhões em julho, distribuído em 372 mil títulos com ticket médio de R$ 1,56 milhão, e somente no primeiro mês da safra 2026/27 foram registrados R$ 37,53 bilhões em novas CPRs.\n\nPara quem vende para o agro ou depende de commodities agrícolas como insumo, o ritmo mais forte de exportação é sinal de demanda aquecida lá fora, mas também de dólar mais disputado por quem precisa importar máquinas e insumos do setor. Já o recorde no estoque de CPR mostra que o financiamento privado segue crescendo como alternativa ao crédito bancário tradicional — vale considerar esse instrumento tanto para quem produz quanto para quem compra do produtor rural, negociando prazos atrelados à safra em vez de linhas de capital de giro mais caras.",
+    "url": "https://agrimidia.com.br/suinocultura-industrial/2026/08/28/credito-do-agro-atinge-r-58078-bilhoes-em-cpr-e-exportacoes-somam-us-2186-bilhoes-no-ano/",
+    "posicao": 3,
+    "batch_date": "2026-08-30"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Fintech Robbin capta US$ 8 milhões para parcelar compras entre varejo e indústria",
+    "fonte": "Startups.com.br",
+    "data": "30 Ago",
+    "resumo": "Rodada seed e FIDC bilionário mostram investidores ainda dispostos a apostar em crédito B2B para o varejo.",
+    "conteudo": "A fintech paulista Robbin, fundada em 2023 por dois ex-executivos do Itaú BBA e pelo fundador da OpenCo, captou uma rodada seed de US$ 8 milhões (cerca de R$ 40 milhões) liderada pelas gestoras Canary, Atlântico e Caravela, com participação da AB Seed, da Norte Ventures e dos fundos internacionais Clocktower e Tomorrow Capital. Junto com o aporte, a empresa estruturou um FIDC de US$ 100 milhões (cerca de R$ 502 milhões) em parceria com a gestora Augme, da XP, para financiar sua operação de crédito. A Robbin permite que varejistas parcelem compras feitas diretamente da indústria, substituindo o boleto à vista por uma linha de crédito B2B.\n\nPara donos de loja ou de indústria que hoje só compram ou vendem à vista via boleto, esse tipo de fintech de crédito B2B abre uma alternativa de fluxo de caixa sem depender de cheque especial ou de capital de giro bancário mais caro. Vale pesquisar se fornecedores ou distribuidores já oferecem esse tipo de parcelamento direto na nota — pode ser uma forma mais barata de financiar estoque do que recorrer a empréstimo tradicional, especialmente com a Selic ainda em patamar elevado.",
+    "url": "https://startups.com.br/negocios/fintech/fintech-robbin-capta-us-8m-com-canary-atlantico-e-caravela/",
+    "posicao": 4,
+    "batch_date": "2026-08-30"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Dólar dispara a R$ 5,22 após discurso duro do novo chefe do Fed",
     "fonte": "InfoMoney",
@@ -130,49 +174,5 @@
     "url": "https://startups.com.br/negocios/uncover-levanta-serie-a-de-r-80m-para-expandir-globalmente/",
     "posicao": 4,
     "batch_date": "2026-08-27"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Brasil e EUA marcam para 31/8 1ª reunião sobre tarifaço após ligação Lula-Trump",
-    "fonte": "Correio Braziliense",
-    "data": "26 Ago",
-    "resumo": "Ministro Márcio Elias Rosa e o representante comercial dos EUA, Jamieson Greer, se reúnem por vídeo na segunda-feira para discutir as tarifas sobre produtos brasileiros.",
-    "conteudo": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, e o representante comercial dos Estados Unidos, Jamieson Greer, têm reunião virtual marcada para a próxima segunda-feira (31/8), a partir das 14h30 no horário de Brasília. É o primeiro encontro entre as equipes técnicas dos dois países desde a ligação de 1h20 entre os presidentes Lula e Trump, na sexta-feira (21/8). O Brasil segue sob duas tarifas dos EUA: uma de 25% aplicada especificamente a produtos brasileiros, ligada a temas como uso do Pix, questões ambientais e barreiras de mercado, e outra de 12,5%, sob alegação de trabalho forçado, que atinge também outros países.\n\nPara quem exporta aos Estados Unidos, a data marcada é só o primeiro passo de uma negociação que pode se arrastar — as tarifas continuam valendo até que um novo acordo seja fechado, e o governo brasileiro já sinalizou que pode acionar a Lei de Reciprocidade Econômica caso a mesa não avance. Vale manter os planos de diversificação de mercado que já vinham sendo feitos nas últimas semanas e evitar apostar em uma reversão rápida da tarifa ao fechar contratos e definir preços para o segundo semestre.",
-    "url": "https://www.correiobraziliense.com.br/economia/2026/08/7486859-ministro-se-reunira-com-representante-de-comercio-dos-eua-na-segunda-feira.html",
-    "posicao": 1,
-    "batch_date": "2026-08-26"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Confiança do consumidor cai ao menor nível desde 2022, mostra FGV",
-    "fonte": "FGV IBRE",
-    "data": "26 Ago",
-    "resumo": "Índice caiu pela quarta vez seguida em agosto, pressionado por endividamento das famílias e juros ainda em dois dígitos.",
-    "conteudo": "O Índice de Confiança do Consumidor (ICC), calculado pela FGV IBRE, caiu 3,6 pontos em agosto ante julho, para 84,7 pontos — o menor patamar desde 2022 e a quarta queda seguida do indicador. O recuo foi puxado pelo Índice de Expectativas, que caiu 5,4 pontos, para 86,1 pontos, também o pior nível desde julho de 2022, enquanto o Índice da Situação Atual recuou 0,6 ponto, para 83,8 pontos. Segundo a FGV, o resultado foi uniforme entre as faixas de renda e reflete o peso do endividamento e da Selic ainda em dois dígitos sobre o bolso das famílias.\n\nConsumidor mais pessimista tende a segurar a compra de bens duráveis e adiar decisões maiores, o que pode esfriar as vendas do segundo semestre mesmo em setores que não dependem diretamente de crédito. Vale revisar a meta de vendas de fim de ano com um viés mais conservador e reforçar promoções e parcelamento para produtos de ticket mais alto, já que a piora na confiança tende a pesar mais sobre esse tipo de compra.",
-    "url": "https://bpmoney.com.br/economia/confianca-consumidor-cai-menor-nivel-desde-2022-fgv/",
-    "posicao": 2,
-    "batch_date": "2026-08-26"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Inadimplência entre pequenos negócios cai a um dos menores níveis desde 2022",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "26 Ago",
-    "resumo": "Pesquisa Pulso dos Pequenos Negócios mostra 21% dos micro e pequenos empreendedores com dívidas em atraso em agosto, mesmo com juros ainda altos.",
-    "conteudo": "A 11ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, mostra que 21% dos micro e pequenos empreendedores estavam com dívidas ou empréstimos em atraso em agosto — uma das menores taxas de inadimplência desde agosto de 2022 e patamar próximo aos 20% registrados no mesmo mês do ano passado. O levantamento aponta melhora gradual na saúde financeira desse grupo, mesmo com a Selic ainda em patamar elevado e o crédito PJ mais caro.\n\nPara quem toca um pequeno negócio, o dado é um bom termômetro para negociar condições melhores com bancos e fornecedores, já que uma inadimplência menor no setor tende a deixar as instituições financeiras mais dispostas a conceder crédito e prazos. Ainda assim, vale manter o cuidado: os juros elevados continuam sendo o principal risco apontado pelo mercado para o caixa das pequenas empresas, então reforçar a reserva de capital de giro segue sendo prioridade.",
-    "url": "https://agenciasebrae.com.br/economia-e-politica/financas-em-dia-cai-a-inadimplencia-entre-pequenos-negocios/",
-    "posicao": 3,
-    "batch_date": "2026-08-26"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Prêmio Sebrae Startups: 30 finalistas se apresentam hoje em Florianópolis",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "26 Ago",
-    "resumo": "Etapa final do prêmio, dentro do Startup Summit, define hoje o Top 10; campeã nacional leva R$ 250 mil na sexta-feira (28/8).",
-    "conteudo": "Nesta quarta-feira (26/8), as 30 startups finalistas do Prêmio Sebrae Startups 2026 se apresentam ao vivo no Startup Summit, em Florianópolis, para definir o Top 10 — dez campeãs de categoria que recebem R$ 40 mil cada e passam a integrar o grupo de Campeãs Nacionais do Sebrae. O Top 3 sai na quinta-feira (27/8), e a campeã nacional, que leva R$ 250 mil, é anunciada no palco principal do evento na sexta-feira (28/8). A edição deste ano recebeu mais de 2,6 mil inscrições de startups de todas as regiões do país.\n\nPara fundadores, o prêmio funciona menos como uma loteria e mais como uma porta de entrada para uma rede de conexões: mesmo quem não chega ao Top 10 ganha visibilidade nas dez categorias do prêmio, de agro a saúde, o que ajuda a mapear onde investidores e grandes empresas estão de olho agora. Vale acompanhar os resultados desta semana como referência de tese de investimento para quem pensa em captar recursos ou se posicionar em algum desses setores nos próximos meses.",
-    "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/conheca-as-30-startups-finalistas-do-premio-sebrae-startups-que-irao-concorrer-por-r-250-mil/",
-    "posicao": 4,
-    "batch_date": "2026-08-26"
   }
 ]
