@@ -1,6 +1,50 @@
 [
   {
     "tag": "Capital",
+    "titulo": "Hoje é o último dia para pequeno negócio renegociar dívida no Desenrola 2.0",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "31 Ago",
+    "resumo": "Prazo prorrogado do programa federal de renegociação de dívidas de MEIs e pequenas empresas termina nesta segunda-feira.",
+    "conteudo": "O governo federal prorrogou até esta segunda-feira (31/8) o prazo de adesão ao Novo Desenrola Brasil (Desenrola 2.0), programa que permite a micro e pequenas empresas renegociar dívidas contraídas via Pronampe e Procred 360, este último exclusivo para MEIs. A extensão foi formalizada em portaria publicada no Diário Oficial da União. Segundo o Sebrae, pequenos negócios já renegociaram mais de R$ 25 bilhões em dívidas desde o lançamento do programa, com descontos, carência e prazos mais longos de pagamento.\n\nQuem tem empréstimo do Pronampe ou do Procred 360 em atraso ou difícil de pagar no ritmo atual — com a Selic ainda em 14% ao ano pesando no bolso — tem só até o fim do dia de hoje para entrar no programa e travar condições melhores. Depois desse prazo, a renegociação volta a depender de negociação direta com o banco, normalmente com taxas mais altas e sem os benefícios do Desenrola; vale usar a calculadora de capacidade de pagamento gratuita do Sebrae antes de decidir.",
+    "url": "https://agenciasebrae.com.br/economia-e-politica/ultima-semana-para-renegociar-dividas-por-meio-do-desenrola-2-0/",
+    "posicao": 1,
+    "batch_date": "2026-08-31"
+  },
+  {
+    "tag": "Trabalho",
+    "titulo": "Fim da escala 6x1 avança no Senado e pode custar até R$ 267 bi às empresas",
+    "fonte": "Senado Notícias",
+    "data": "27 Ago",
+    "resumo": "Relator aprovou na CCJ o texto que reduz a jornada máxima para 40 horas semanais, com votação prevista para quarta-feira.",
+    "conteudo": "O senador Omar Aziz (PSD-AM) apresentou na quinta-feira (27/8) parecer favorável, na Comissão de Constituição e Justiça (CCJ) do Senado, à PEC 221/2019, que acaba com a escala 6x1 e reduz a jornada máxima de trabalho de 44 para 40 horas semanais, mantendo dois dias de descanso remunerado. O relator manteve o texto aprovado pela Câmara e rejeitou as 12 emendas apresentadas na comissão; a votação na CCJ está marcada para esta quarta-feira (2/9). Um estudo da Confederação Nacional da Indústria (CNI) estima que a mudança pode elevar entre R$ 178,2 bilhões e R$ 267,2 bilhões ao ano os custos com empregados formais, dependendo se as empresas optam por pagar hora extra ou contratar mais gente.\n\nSetores que funcionam de domingo a domingo com equipe fixa — comércio, supermercados, farmácias, restaurantes, hotéis, segurança e limpeza — são os mais expostos a esse aumento de custo, que pode passar de 10% na folha só com a redução de jornada, antes de somar reflexos em hora extra e escalas adicionais. Ainda dá tempo de simular o impacto financeiro da mudança e comparar os dois caminhos possíveis — pagar hora extra ou contratar — antes de a PEC avançar para votação em plenário nas próximas semanas.",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/08/27/pec-do-fim-da-escala-6x1-ja-conta-com-relatorio-favoravel-na-ccj",
+    "posicao": 2,
+    "batch_date": "2026-08-31"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Inadimplência do crédito livre bate recorde histórico de 6,4% em julho",
+    "fonte": "Forbes Brasil",
+    "data": "28 Ago",
+    "resumo": "Banco Central mostra juros ainda perto de 48% ao ano mesmo com atraso batendo o maior nível da série iniciada em 2011.",
+    "conteudo": "A inadimplência nas operações de crédito com recursos livres subiu para 6,4% em julho, ante 6,0% em junho, o maior nível da série histórica do Banco Central, iniciada em março de 2011, segundo o relatório de Estatísticas Monetárias e de Crédito divulgado na sexta-feira (28/8). Entre pessoas físicas, o atraso chegou a 7,8%, e entre empresas, a 4,2%. Mesmo com o calote em alta, a taxa média de juros do crédito livre segue em patamar elevado, em 47,7% ao ano — recuo de 2 pontos percentuais ante junho —, enquanto o estoque total de crédito do país cresceu 0,3% no mês, a R$ 7,372 trilhões.\n\nUm crédito mais caro e mais inadimplente deixa os bancos mais seletivos na hora de aprovar empréstimo e renovar limite para empresa, principalmente para quem já está com o nome sujo ou atrasado. Vale rever agora os prazos de recebimento dados a clientes e fornecedores, reforçar a análise de crédito antes de vender a prazo, e negociar linhas com o banco enquanto a taxa ainda está em leve queda — esperar a inadimplência subir mais só deve deixar o crédito ainda mais restrito adiante.",
+    "url": "https://forbes.com.br/forbes-money/2026/08/inadimplencia-no-brasil-sobe-a-64-em-julho-e-atinge-maior-nivel-da-serie-historica/",
+    "posicao": 3,
+    "batch_date": "2026-08-31"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Simples Nacional tem janela de setembro para decidir sobre novo regime do IBS/CBS",
+    "fonte": "Contábeis",
+    "data": "29 Ago",
+    "resumo": "Empresas que querem sair do split payment do Simples Nacional em 2027 precisam optar pelo regime regular até 30 de setembro.",
+    "conteudo": "O Comitê Gestor do Simples Nacional publicou a Resolução CGSN nº 190/2026, que abre uma nova janela de opção entre 1º e 30 de setembro para empresas do Simples que querem recolher o IBS e a CBS pelo regime regular, e não mais dentro do regime unificado, a partir de janeiro de 2027. Quem não fizer nada continua automaticamente no Simples Nacional tradicional e fica de fora, no primeiro ano, do mecanismo de split payment — a retenção automática de tributos no momento do pagamento —, que passa a valer plenamente para o regime regular. A opção, feita pelo Portal do Simples Nacional, tem validade semestral e é irretratável no período.\n\nPara quem já está satisfeito no Simples Nacional e não vende para grandes empresas que exigem crédito de IBS/CBS destacado na nota, o caminho mais simples costuma ser não mexer em nada e seguir no regime unificado. Já quem vende principalmente para outras empresas — e perde competitividade por não gerar crédito tributário completo para o cliente — deve simular com o contador se compensa migrar para o regime regular já em 2027, já que a decisão de setembro só volta a valer no semestre seguinte.",
+    "url": "https://www.contabeis.com.br/noticias/78966/simples-nacional-quem-deve-fazer-opcao-em-setembro/",
+    "posicao": 4,
+    "batch_date": "2026-08-31"
+  },
+  {
+    "tag": "Capital",
     "titulo": "Braskem pede recuperação extrajudicial para renegociar R$ 54 bilhões em dívidas",
     "fonte": "Correio Braziliense",
     "data": "30 Ago",
@@ -125,54 +169,10 @@
     "titulo": "Startup Summit fecha com R$ 353,7 mi em intenções de investimento",
     "fonte": "ND Mais",
     "data": "28 Ago",
-    "resumo": "Evento em Florianópolis reuniu mais de 10 mil pessoas e trouxe pela 1ª vez ao Brasil uma etapa da Startup World Cup.",
+    "resumo": "Evento em Florianópolis reuniu mais de 10 mil participantes e trouxe pela 1ª vez ao Brasil uma etapa da Startup World Cup.",
     "conteudo": "O Startup Summit 2026, realizado em Florianópolis entre 26 e 28 de agosto pelo Sebrae e pela Acate, reuniu mais de 10 mil participantes, entre eles investidores nacionais e estrangeiros, grandes empresas e representantes do setor público. Uma das novidades desta edição foi sediar a etapa oficial da Startup World Cup, uma das maiores competições globais de startups, e o evento projetou R$ 353,7 milhões em intenções de investimento a partir das conexões feitas entre startups, fundos e empresas ao longo dos três dias.\n\nPara quem empreende fora do eixo Rio–São Paulo, eventos desse porte funcionam como vitrine de acesso a investidores e grandes empresas parceiras sem o custo de estruturar uma rodada tradicional de captação sozinho. Vale mapear editais, prêmios e feiras setoriais como este ao longo do ano — são normalmente a porta de entrada mais barata para capital e clientes corporativos para quem ainda não tem rede de contatos no mercado financeiro.",
     "url": "https://ndmais.com.br/tecnologia/startup-summit-2026-fortalece-conexao-do-brasil-com-o-ecossistema-global-de-inovacao/",
     "posicao": 4,
     "batch_date": "2026-08-28"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "IPCA-15 tem 1ª deflação do ano em agosto e supera expectativa do mercado",
-    "fonte": "InfoMoney",
-    "data": "27 Ago",
-    "resumo": "Prévia da inflação caiu 0,40% em agosto, puxada pela conta de luz, e veio mais forte que o esperado pelos economistas.",
-    "conteudo": "O IPCA-15, prévia oficial da inflação calculada pelo IBGE, recuou 0,40% em agosto — a primeira deflação do índice em 2026 e um resultado mais forte que a queda de 0,30% esperada pelo mercado, segundo pesquisa da Reuters com economistas. A queda foi puxada pela conta de luz residencial, que caiu 6,25% com a entrada do Bônus de Itaipu nas faturas de agosto, além de recuos de 1,00% em Transportes e 0,57% em Alimentação e Bebidas. No acumulado de 12 meses, o índice foi a 4,24%, ante 4,52% no período anterior, e soma alta de 3,09% no ano.\n\nPara quem toca um negócio, o resultado é um alívio pontual mais do que uma mudança de cenário: boa parte da queda veio de um bônus tarifário de energia que não se repete todo mês, então vale não descontar esse efeito ao projetar custos fixos dos próximos meses. Ainda assim, uma inflação mais baixa que o esperado dá ao Banco Central um argumento a mais para continuar reduzindo a Selic nas próximas reuniões, o que tende a baratear o crédito e o capital de giro aos poucos ao longo do segundo semestre.",
-    "url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-agosto-2026/",
-    "posicao": 1,
-    "batch_date": "2026-08-27"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Motta indica relator da MP que pode zerar taxa de 20% sobre compras até US$ 50",
-    "fonte": "Metrópoles",
-    "data": "27 Ago",
-    "resumo": "Após reunião com Lula e Alcolumbre, comissão mista da MP da 'taxa das blusinhas' ganha comando e mira votação já na semana que vem.",
-    "conteudo": "O presidente da Câmara, Hugo Motta (Republicanos-PB), indicou nesta quarta-feira (26/8) o deputado Reginaldo Lopes (PT-MG) para presidir a comissão mista que vai analisar a Medida Provisória 1357/2026, que suspende a cobrança do imposto de importação de 20% sobre compras internacionais de até US$ 50 — a chamada 'taxa das blusinhas'. O anúncio veio após reunião de Motta com o presidente Lula e o presidente do Senado, Davi Alcolumbre, no Palácio da Alvorada, onde os três combinaram acelerar a votação da matéria já na semana que vem. A relatoria da MP ficou a cargo do Senado, e o texto perde validade se não for votado até setembro.\n\nPara quem compra insumos ou revende produtos importados de baixo valor — inclusive concorrentes diretos de plataformas como Shein e AliExpress —, a definição da MP muda a conta do produto final: sem a taxa de 20%, compras de até US$ 50 seguem isentas apenas do imposto de importação, mas continuam sujeitas ao ICMS e às regras do Remessa Conforme. Vale acompanhar a tramitação nas próximas duas semanas, já que uma eventual perda de validade da MP faria a cobrança suspensa voltar a valer automaticamente.",
-    "url": "https://www.metropoles.com/brasil/motta-anuncia-avanco-de-comissao-da-mp-da-taxa-das-blusinhas-apos-reuniao-com-lula",
-    "posicao": 2,
-    "batch_date": "2026-08-27"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Ranking Exame Negócios em Expansão 2026 bate recorde com 491 empresas",
-    "fonte": "Exame",
-    "data": "27 Ago",
-    "resumo": "Evento em São Paulo revelou as empresas que mais cresceram em vendas, com alta de 15% no número de inscritas ante 2025.",
-    "conteudo": "O ranking Exame Negócios em Expansão 2026 revelou nesta quarta-feira (26/8), no BTG Pactual Hall, em São Paulo, as 491 empresas brasileiras selecionadas na edição deste ano — recorde da premiação e 21 a mais que a edição anterior. Ao todo, 838 empresas se inscreveram para participar do anuário, alta de 15% em relação a 2025. O ranking avalia empresas privadas sediadas no Brasil com receita operacional líquida anual entre R$ 2 milhões e R$ 1 bilhão, reconhecendo as que mais expandiram vendas e conquistaram mercado, divididas em sete categorias.\n\nPara donos de pequenas e médias empresas em fase de crescimento, o ranking funciona como vitrine: aparecer entre as selecionadas costuma abrir porta com investidores, bancos e potenciais parceiros comerciais, além de servir de referência de metas de expansão para o setor. Vale ficar de olho nos critérios da próxima edição — a receita líquida entre R$ 2 milhões e R$ 1 bilhão é a régua usada para medir quem já saiu do estágio inicial e está em ritmo de expansão consistente.",
-    "url": "https://exame.com/negocios/exame-negocios-em-expansao-2026-ranking-bate-recorde-com-491-empresas-selecionadas/",
-    "posicao": 3,
-    "batch_date": "2026-08-27"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Martech brasileira Uncover capta R$ 80 milhões para expandir aos EUA",
-    "fonte": "Startups.com.br",
-    "data": "27 Ago",
-    "resumo": "Rodada Série A foi liderada pela Cloud9 Capital, com Endeavor e ABSeed Ventures, para acelerar a entrada da startup no mercado americano.",
-    "conteudo": "A martech brasileira Uncover, fundada em 2021 por Daniel e Matheus Guinezi e por Gilberto Villar, captou uma rodada Série A de R$ 80 milhões liderada pela gestora Cloud9 Capital, com participação da Endeavor e da ABSeed Ventures. A empresa desenvolveu uma plataforma de Marketing Mix Modeling que usa inteligência artificial para prever o retorno de investimentos em mídia, hoje usada por clientes como Unilever, Volkswagen, Burger King e Magalu para otimizar mais de R$ 30 bilhões em orçamentos de publicidade. Com o aporte, a startup também reforçou o conselho com três novos executivos e mira fechar 2026 com uma base de clientes consolidada nos Estados Unidos.\n\nO caso mostra que fundos continuam dispostos a apostar em startups B2B brasileiras que já provaram receita e retenção com grandes marcas, mesmo em um ano de juros altos e crédito caro — desde que o produto resolva um problema caro para o cliente, como o retorno sobre investimento em mídia. Para fundadores que pensam em captar uma rodada Série A, o movimento da Uncover reforça a tese de que mostrar tração com clientes grandes e um plano claro de internacionalização pesa mais na decisão dos investidores do que só o crescimento de receita no mercado doméstico.",
-    "url": "https://startups.com.br/negocios/uncover-levanta-serie-a-de-r-80m-para-expandir-globalmente/",
-    "posicao": 4,
-    "batch_date": "2026-08-27"
   }
 ]
