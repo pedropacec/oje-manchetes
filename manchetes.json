@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Economia",
+    "titulo": "PIB cresce 0,5% no 2º trimestre e confirma economia perdendo fôlego",
+    "fonte": "O Hoje",
+    "data": "02 Set",
+    "resumo": "IBGE mostra economia brasileira desacelerando pelo segundo trimestre seguido, com PIB de R$ 3,4 trilhões e leitura mista entre os setores.",
+    "conteudo": "O Produto Interno Bruto (PIB) do Brasil cresceu 0,5% no segundo trimestre de 2026 frente aos três primeiros meses do ano, segundo dados do IBGE divulgados nesta terça-feira (1º/9). O resultado veio acima da mediana de mercado, que projetava alta de 0,4%, mas ficou bem abaixo do ritmo de 1,1% registrado no primeiro trimestre. Na comparação com igual período de 2025, o PIB avançou 2%, somando R$ 3,4 trilhões em valores correntes; no acumulado de quatro trimestres, a expansão foi de 1,9%. Por setor, a agropecuária liderou com alta de 2,8%, enquanto indústria e serviços cresceram bem menos — 0,1% e 0,2%, respectivamente —, e as exportações recuaram 0,8% no trimestre.\n\nA desaceleração sequencial reforça a leitura de que o ciclo de juros altos já está freando a atividade, o que tende a pesar a favor de novos cortes de Selic adiante — bom sinal para quem depende de crédito para capital de giro ou expansão. Por outro lado, o resultado fraco em indústria e serviços, os setores que mais empregam, é um alerta para quem vende para esse público: vale calibrar as metas de vendas do segundo semestre com essa desaceleração em mente, em vez de projetar a mesma demanda do primeiro trimestre.",
+    "url": "https://ohoje.com/2026/09/01/pib-do-brasil-cresce-05-no-2o-trimestre-de-2026-aponta-ibge/",
+    "posicao": 1,
+    "batch_date": "2026-09-02"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Ibovespa encosta nos 180 mil pontos na 10ª alta seguida; dólar cai a R$ 5,15",
+    "fonte": "Money Times",
+    "data": "02 Set",
+    "resumo": "Índice fechou terça-feira em alta de 1,30%, aos 179.722 pontos, puxado por Petrobras e por otimismo com o cenário eleitoral.",
+    "conteudo": "O Ibovespa fechou a terça-feira (1º/9) em alta de 1,30%, aos 179.722,48 pontos, emendando a décima sessão seguida de valorização e se aproximando dos 180 mil pontos. O movimento foi puxado por Petrobras — PETR3 subiu 4,16%, a R$ 52,38, e PETR4 avançou 4,00%, a R$ 46,82 — em meio a petróleo mais caro e à melhora da percepção do mercado sobre a corrida eleitoral entre o presidente Lula e o senador Flávio Bolsonaro, cuja diferença nas pesquisas mais recentes diminuiu. O dólar à vista fechou o dia cotado a R$ 5,15, em queda, beneficiado também pela entrada de fluxo estrangeiro em opções ligadas ao ETF EWZ e a ações da Petrobras.\n\nDez pregões seguidos de alta e um dólar mais baixo ajudam a segurar o custo de quem compra insumos, peças ou equipamentos importados, e abrem uma boa janela para travar contratos de importação enquanto o câmbio está favorável. Mas a sequência está amarrada a fatores que podem virar rápido — petróleo internacional e humor eleitoral —, então não vale se planejar como se o dólar mais baixo fosse garantido até outubro; quem tem câmbio para fechar deve aproveitar a janela agora, sem esperar uma queda ainda maior.",
+    "url": "https://www.moneytimes.com.br/ibovespa-1-9-26-apsa/",
+    "posicao": 2,
+    "batch_date": "2026-09-02"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Senado aprova Redata e libera incentivo fiscal bilionário a data centers",
+    "fonte": "Agência Brasil",
+    "data": "02 Set",
+    "resumo": "Projeto aprovado sem alterações suspende impostos sobre equipamentos de data center e segue direto para sanção presidencial.",
+    "conteudo": "O Senado aprovou, nesta terça-feira (1º/9), sem alterações, o projeto de lei que cria o Regime Especial de Tributação para Serviços de Data Center (Redata), que agora segue direto para sanção presidencial, sem precisar voltar à Câmara. O texto suspende a cobrança de Imposto de Importação, PIS/Cofins, PIS/Cofins-Importação e IPI sobre equipamentos usados na instalação ou expansão de data centers no país. O governo federal estima uma renúncia fiscal de cerca de R$ 5,2 bilhões ainda em 2026, caindo para R$ 1 bilhão por ano nos dois anos seguintes; em contrapartida, as empresas beneficiadas terão de usar energia limpa ou renovável, comprovar eficiência no uso de água para resfriamento dos equipamentos e reservar 10% da capacidade dos data centers para atender empresas do mercado interno.\n\nPara negócios de tecnologia, e-commerce e qualquer empresa que dependa de nuvem, processamento de dados ou IA, mais data centers instalados no Brasil tendem a baratear e aproximar esse tipo de infraestrutura no médio prazo, além de abrir uma fatia de 10% da capacidade reservada especificamente para empresas nacionais. Vale mapear se os fornecedores de nuvem ou hospedagem que atendem o negócio pretendem usar o Redata para expandir a operação no Brasil — migrar de um provedor internacional para um data center local pode passar a fazer mais sentido de custo à medida que os projetos beneficiados pela lei saem do papel.",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-projeto-que-cria-incentivos-para-data-centers-no-brasil",
+    "posicao": 3,
+    "batch_date": "2026-09-02"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Celcoin compra Vert Capital e entra no mercado de capitais com aporte de R$ 500 mi",
+    "fonte": "Startups.com.br",
+    "data": "02 Set",
+    "resumo": "Fintech vai investir R$ 500 milhões em três anos após adquirir a securitizadora, que administra R$ 97 bilhões em operações estruturadas.",
+    "conteudo": "A fintech Celcoin anunciou nesta terça-feira (1º/9) a compra da Vert Capital, uma das maiores administradoras independentes de operações estruturadas do país, com cerca de R$ 97 bilhões sob gestão e participação em mais de 490 operações — entre elas fundos de direitos creditórios (FIDCs), certificados de recebíveis e debêntures. Como parte da estratégia, a Celcoin vai investir R$ 500 milhões nos próximos três anos, sendo R$ 200 milhões só em tecnologia, e projeta fechar o ano com R$ 800 milhões em receita recorrente anual (ARR) somando as duas operações.\n\nFIDCs e outras estruturas de securitização são hoje uma das principais fontes de crédito alternativo para empresas que não conseguem — ou não querem — depender só de empréstimo bancário tradicional, especialmente com a Selic ainda em dois dígitos. Uma fintech de infraestrutura de pagamentos como a Celcoin assumindo esse tipo de operação tende a baratear e agilizar o acesso a crédito estruturado para empresas de médio porte nos próximos meses; vale perguntar ao contador ou ao banco de relacionamento se esse tipo de financiamento via recebíveis é uma alternativa viável para o negócio antes de renovar uma linha de capital de giro mais cara.",
+    "url": "https://startups.com.br/negocios/fintech/celcoin-compra-vert-capital-e-mira-mercado-de-capitais/",
+    "posicao": 4,
+    "batch_date": "2026-09-02"
+  },
+  {
     "tag": "Trabalho",
     "titulo": "Bancários fecham acordo com reajuste real de 0,6% acima do INPC",
     "fonte": "Sindicato dos Bancários",
@@ -130,49 +174,5 @@
     "url": "https://startups.com.br/negocios/fintech/fintech-robbin-capta-us-8m-com-canary-atlantico-e-caravela/",
     "posicao": 4,
     "batch_date": "2026-08-30"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Dólar dispara a R$ 5,22 após discurso duro do novo chefe do Fed",
-    "fonte": "InfoMoney",
-    "data": "29 Ago",
-    "resumo": "Kevin Warsh fez sua estreia em Jackson Hole sem sinalizar corte de juros nos EUA, e o câmbio no Brasil reagiu na hora.",
-    "conteudo": "O dólar comercial fechou a sexta-feira (28/8) cotado acima de R$ 5,22, no maior patamar em semanas, enquanto o Ibovespa amenizou as perdas do dia e encerrou com leve alta de 0,30%, aos 175.664 pontos. O movimento foi provocado pelo discurso de estreia do novo presidente do Federal Reserve, Kevin Warsh, no simpósio de Jackson Hole: ele disse estar impressionado com a força da economia americana, mas afirmou que os sinais de convergência da inflação à meta ainda não o convenceram, e evitou sinalizar quando o Fed vai retomar os cortes de juros.\n\nPara quem compra insumos ou fecha contratos em dólar, a sinalização é de que o custo do câmbio deve continuar pressionado enquanto o Fed mantiver essa cautela, o que também segura o espaço para novos cortes na Selic por aqui. Vale rever agora os preços de importação e travar condições com fornecedores e bancos antes de uma nova rodada de alta do dólar, em vez de apostar numa acomodação rápida do câmbio nas próximas semanas.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-recua-apos-warsh-levar-mercado-a-ajustar-expectativa-sobre-juros-dos-eua/",
-    "posicao": 1,
-    "batch_date": "2026-08-29"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "MP que zera taxa das blusinhas tem parecer marcado para segunda",
-    "fonte": "Senado Notícias",
-    "data": "29 Ago",
-    "resumo": "Comissão mista antecipou a eleição de relatora e já marcou a reunião que decide o fim da taxa de 20% sobre compras até US$ 50.",
-    "conteudo": "A comissão mista que analisa a Medida Provisória 1.357/2026, que suspende a cobrança de 20% de imposto de importação sobre compras internacionais de até US$ 50 — a chamada 'taxa das blusinhas' —, antecipou nesta sexta-feira (28/8) a eleição do seu comando: o deputado Reginaldo Lopes (PT-MG) ficou com a presidência e a senadora Leila Barros (PDT-DF) com a relatoria. A reunião para apresentação do parecer já está marcada para a próxima segunda-feira (31/8), às 16h, com expectativa de votação em Câmara e Senado já na terça-feira (1/9) — a MP perde validade se não virar lei até 8 de setembro.\n\nPara quem revende ou usa como insumo produtos importados de baixo valor, a corrida contra o prazo é o dado que importa: sem a taxa de 20%, compras de até US$ 50 seguem isentas apenas do imposto de importação, mas continuam sujeitas ao ICMS e às regras do Remessa Conforme. Vale acompanhar de perto as votações de segunda e terça, já que uma eventual perda de prazo faz a cobrança suspensa voltar a valer automaticamente sobre esse tipo de compra.",
-    "url": "https://www12.senado.leg.br/noticias/materias/2026/08/27/eleicao-de-comissao-da-mp-da-taxa-das-blusinhas-e-antecipada-para-sexta",
-    "posicao": 2,
-    "batch_date": "2026-08-29"
-  },
-  {
-    "tag": "Preços",
-    "titulo": "IGP-M cai 0,22% em agosto, mas insumos agrícolas disparam 2,73%",
-    "fonte": "FGV",
-    "data": "29 Ago",
-    "resumo": "Índice apurado pela FGV desacelerou a queda do mês passado, com custo da construção também em alta puxado pela mão de obra.",
-    "conteudo": "O IGP-M recuou 0,22% em agosto, divulgou a FGV nesta sexta-feira (28/8), depois de uma queda de 1,16% em julho. O resultado foi contido pelos produtos agropecuários, que saltaram de uma retração de 0,20% para uma alta de 2,73% no Índice de Preços ao Produtor Amplo, enquanto o Índice Nacional de Custo da Construção acelerou de 0,62% para 0,85%, puxado pela mão de obra, que subiu de 0,93% para 1,56%. No acumulado de 12 meses, o índice está em 2,16%.\n\nO IGP-M é a régua usada para reajustar boa parte dos contratos de aluguel comercial e vários contratos B2B no Brasil, então a desaceleração da queda é um alerta: o índice está perdendo fôlego para baixar mais. Quem tem contrato de aluguel ou fornecimento indexado ao IGP-M vencendo nos próximos meses faz bem em simular o reajuste com esse novo patamar, e quem depende de insumos agropecuários ou de obra e reforma deve monitorar de perto essa alta recente antes de fechar orçamentos.",
-    "url": "https://diariodocomercio.com.br/economia/igpm-queda-agosto-fgv/",
-    "posicao": 3,
-    "batch_date": "2026-08-29"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Startup Summit fecha com R$ 395,5 mi e QualityStorm é campeã",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "29 Ago",
-    "resumo": "Evento em Florianópolis superou a própria projeção feita durante os três dias e revelou a vencedora do Prêmio Sebrae Startups 2026.",
-    "conteudo": "O Startup Summit 2026, promovido pelo Sebrae e pela Acate, encerrou nesta sexta-feira (28/8) o terceiro e último dia em Florianópolis com R$ 395,5 milhões em intenção de negócios e investimentos — acima da projeção de R$ 353,7 milhões divulgada ainda durante o evento. A 9ª edição reuniu mais de 11 mil participantes, cerca de 3 mil startups e 150 fundos de venture capital, além de mais de 30 delegações estrangeiras, de países como Japão, Canadá, Estônia, Bélgica e Portugal. No encerramento, a startup QualityStorm foi anunciada como grande campeã do Prêmio Sebrae Startups 2026.\n\nO salto na projeção final mostra que boa parte das conexões de negócio de um evento desse porte só se confirma nos últimos dias, quando startups, fundos e grandes empresas fecham as reuniões marcadas ao longo da feira — vale manter a agenda cheia até o encerramento, não só nos primeiros dias. Para quem não foi a Florianópolis, o caminho é acompanhar a lista de vencedores e finalistas do Prêmio Sebrae Startups como termômetro de onde investidores estão apostando agora, e já se programar para a próxima edição.",
-    "url": "https://agenciasebrae.com.br/economia-e-politica/startup-summit-registra-quase-r-400-milhoes-em-intencao-de-investimentos-e-revela-vencedor-do-premio-sebrae-startups/",
-    "posicao": 4,
-    "batch_date": "2026-08-29"
   }
 ]
