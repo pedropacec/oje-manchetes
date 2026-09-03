@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Ibovespa dispara 3% a 185 mil pontos e dólar cai a R$ 5,09 com trégua eleitoral",
+    "fonte": "InfoMoney",
+    "data": "03 Set",
+    "resumo": "Bolsa emenda 11ª alta seguida após pesquisa mostrar Lula e Flávio Bolsonaro tecnicamente empatados no 2º turno.",
+    "conteudo": "O Ibovespa fechou a quarta-feira (2/9) aos 185.205 pontos, alta de 3,05% e a 11ª sessão seguida de valorização, puxado por ações como Vale e Itaú Unibanco — o maior fechamento do índice desde o início de maio. O movimento veio depois que uma pesquisa Quaest apontou o presidente Lula com 42% das intenções de voto num eventual segundo turno contra 41% do senador Flávio Bolsonaro, um empate técnico dentro da margem de erro. No câmbio, o dólar recuou e fechou cotado a R$ 5,09, reforçando a leitura do mercado de que um resultado eleitoral mais competitivo reduz o risco de rupturas bruscas na política econômica.\n\nBolsa em alta e dólar mais baixo tendem a baratear insumos e equipamentos importados e a destravar um pouco mais o crédito, já que investidores mais confiantes cobram prêmios de risco menores das empresas brasileiras. Para quem depende de importação ou tem dívida atrelada à variação cambial, vale aproveitar a janela para renegociar contratos e travar preços agora, sem tratar esse movimento como tendência garantida — pesquisa eleitoral ainda pode virar de novo até outubro.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-02092026/",
+    "posicao": 1,
+    "batch_date": "2026-09-03"
+  },
+  {
+    "tag": "Exportação",
+    "titulo": "UE suspende importação de carne bovina, frango, ovos e mel do Brasil a partir de hoje",
+    "fonte": "Forbes Brasil",
+    "data": "03 Set",
+    "resumo": "Bloco europeu barra produtos animais brasileiros por falta de garantias sobre uso de antimicrobianos na pecuária.",
+    "conteudo": "A partir desta quinta-feira (3/9), a União Europeia suspendeu as importações de carne bovina, frango, ovos e mel do Brasil, depois de retirar o país, em maio, da lista de nações que cumprem as regras do bloco sobre uso de antimicrobianos na criação de animais. Em 2025, o Brasil foi o segundo maior exportador de carne bovina para a UE, com mais de 92 mil toneladas embarcadas e receita acima de €713 milhões; segundo o próprio bloco, a retomada das compras de frango e mel pode ser mais rápida, condicionada ao resultado de uma auditoria em andamento, enquanto o processo para a carne bovina tende a ser mais demorado.\n\nPara exportadores desses setores, o efeito imediato é buscar mercados alternativos — Oriente Médio e Ásia já absorvem parte do volume que hoje vai para a Europa — e revisar contratos de câmbio e logística montados em torno do fluxo europeu. Mesmo quem não exporta diretamente sente o reflexo: o volume de carne e frango que deixa de ir para a UE tende a sobrar no mercado interno e pressionar preços para baixo no curto prazo, o que pode virar oportunidade para negócios de alimentação e food service renegociarem condições com fornecedores.",
+    "url": "https://forbes.com.br/forbes-agro/2026/09/ue-diz-que-suspendera-importacoes-de-carne-do-brasil-a-partir-de-3-de-setembro/",
+    "posicao": 2,
+    "batch_date": "2026-09-03"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Startup Summit fecha com até R$ 412 milhões em intenções de investimento",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "03 Set",
+    "resumo": "Balanço final do evento em Florianópolis (26 a 28/8) consolida rodadas de negócio entre 1.000 startups e 250 fundos de investimento.",
+    "conteudo": "O balanço final do Startup Summit 2026, divulgado pelo Sebrae, mostra que as rodadas de negócios realizadas durante o evento em Florianópolis, entre 26 e 28 de agosto, resultaram em intenções de investimento entre R$ 210 milhões e R$ 412 milhões. O número consolida os compromissos registrados nos encontros entre as 1.000 startups expositoras e 250 fundos de investimento nacionais e estrangeiros presentes, num evento que também reuniu 200 palestrantes.\n\nUma intenção de investimento ainda não é dinheiro em caixa — o valor final depende de due diligence e negociação de termos, processo que costuma levar meses. Ainda assim, o volume mostra que capital para startups em estágio inicial segue circulando mesmo com a Selic em patamar elevado, e serve de termômetro para fundadores calibrarem expectativa de valuation e prazo de captação ao planejar a próxima rodada.",
+    "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/startup-summit-2026-registra-ate-r-412-milhoes-em-intencao-de-investimentos/",
+    "posicao": 3,
+    "batch_date": "2026-09-03"
+  },
+  {
+    "tag": "Varejo",
+    "titulo": "Magalu fecha parceria com Mercado Livre e ação dispara 17% na bolsa",
+    "fonte": "Money Times",
+    "data": "03 Set",
+    "resumo": "Magazine Luiza vai vender cerca de 27 mil produtos próprios dentro do marketplace do Mercado Livre, com entrega pelo Magalog.",
+    "conteudo": "A Magazine Luiza fechou parceria para listar cerca de 27 mil produtos de estoque próprio — das marcas Magazine Luiza, KaBuM! e Época Cosméticos — dentro do marketplace do Mercado Livre, com vendas já começando em setembro. A entrega ficará a cargo do Magalog, operador logístico da própria Magalu, e o anúncio surpreendeu o mercado justamente por unir duas plataformas rivais: as ações da varejista (MGLU3) dispararam cerca de 17% na sessão desta quarta-feira (2/9), cotadas a R$ 5,40.\n\nO movimento mostra uma tendência que vale para negócios de qualquer porte: em vez de competir sozinho por tráfego e atenção do consumidor, cada vez mais faz sentido vender dentro de marketplaces que já têm audiência formada, mesmo quando eles concorrem em outras frentes. Quem vende online e ainda não está presente em grandes marketplaces pode usar esse caso para justificar internamente o investimento em integração com essas plataformas, avaliando o impacto na margem antes de migrar um volume relevante de vendas para lá.",
+    "url": "https://www.moneytimes.com.br/magazine-luiza-mglu3-fecha-parceria-com-o-mercado-livre-lmrs/",
+    "posicao": 4,
+    "batch_date": "2026-09-03"
+  },
+  {
     "tag": "Economia",
     "titulo": "PIB cresce 0,5% no 2º trimestre e confirma economia perdendo fôlego",
     "fonte": "O Hoje",
@@ -130,49 +174,5 @@
     "url": "https://www.contabeis.com.br/noticias/78966/simples-nacional-quem-deve-fazer-opcao-em-setembro/",
     "posicao": 4,
     "batch_date": "2026-08-31"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Braskem pede recuperação extrajudicial para renegociar R$ 54 bilhões em dívidas",
-    "fonte": "Correio Braziliense",
-    "data": "30 Ago",
-    "resumo": "Maior petroquímica do país busca apoio de credores para renegociar dívida bilionária sem passar por recuperação judicial.",
-    "conteudo": "A Braskem protocolou na Justiça de São Paulo um pedido de recuperação extrajudicial para renegociar uma dívida estimada em cerca de R$ 54 bilhões (outros documentos do processo citam R$ 56,5 bilhões). O plano prevê 90 dias de proteção judicial enquanto a petroquímica busca apoio de mais de 50% dos credores em cada classe afetada — entre eles bancos como BNDES, Banco do Brasil, Itaú Unibanco, Bradesco e Santander. A companhia projeta gastar US$ 3,7 bilhões com o serviço da dívida entre julho de 2026 e dezembro de 2027, pressionada por um ciclo prolongado de excesso de oferta e margens comprimidas na petroquímica global, além dos custos ainda em aberto do caso de Maceió.\n\nA crise da maior petroquímica do país tende a deixar bancos e fornecedores mais cautelosos ao conceder crédito a empresas da cadeia química e plástica nos próximos meses, e aumenta o risco de repasse de custos ao longo da cadeia — de embalagens a insumos industriais. Quem depende de resina ou de outros derivados petroquímicos como insumo faz bem em diversificar fornecedores e negociar contratos mais curtos até o desfecho da renegociação, já que qualquer instabilidade na Braskem pode se refletir em preço e prazo de entrega desses materiais.",
-    "url": "https://www.correiobraziliense.com.br/economia/2026/08/7485799-braskem-pede-recuperacao-extrajudicial-para-renegociar-rs-54-bi.html",
-    "posicao": 1,
-    "batch_date": "2026-08-30"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Casas Bahia fecha 298 lojas e demite 3 mil após pedido de recuperação judicial",
-    "fonte": "Metrópoles",
-    "data": "30 Ago",
-    "resumo": "Varejista busca fôlego após balanço bilionário no vermelho, com efeito direto sobre concorrentes e fornecedores.",
-    "conteudo": "O Grupo Casas Bahia fechou 298 lojas e demitiu cerca de 3 mil funcionários ao longo de agosto, dentro do pedido de recuperação judicial protocolado para renegociar uma dívida de R$ 17,3 bilhões — dos quais R$ 16,4 bilhões (94,8%) estão nas mãos de credores quirografários. O pedido veio um dia depois de a varejista divulgar prejuízo líquido de R$ 10,1 bilhões no segundo trimestre, dezoito vezes pior que o resultado do mesmo período de 2025, e apenas dois anos depois de a empresa já ter renegociado R$ 4,8 bilhões em dívidas numa recuperação extrajudicial anterior.\n\nPara donos de loja física ou de e-commerce que concorrem com a rede, o fechamento de quase 300 unidades reabre espaço de mercado e de ponto comercial em várias cidades — vale mapear se algum imóvel ou fornecedor liberado pela Casas Bahia pode virar oportunidade. Já para quem vende para a rede como fornecedor, o processo de recuperação judicial significa fila de credores e prazo mais incerto para receber: é hora de rever limites de crédito concedidos à varejista e, se possível, buscar garantias adicionais antes de fechar novos pedidos.",
-    "url": "https://www.metropoles.com/brasil/economia-br/casas-bahia-plano-preve-demissao-de-3-mil-pessoas-e-fim-de-298-lojas",
-    "posicao": 2,
-    "batch_date": "2026-08-30"
-  },
-  {
-    "tag": "Agro",
-    "titulo": "Exportações do agro sobem 9,8% em agosto e crédito rural bate R$ 580 bi em CPR",
-    "fonte": "Agrimídia",
-    "data": "30 Ago",
-    "resumo": "Secex e dados de crédito rural mostram o agro brasileiro girando mais dinheiro tanto na exportação quanto no financiamento privado.",
-    "conteudo": "As exportações do agronegócio brasileiro cresceram 9,8% até a terceira semana de agosto ante igual período de 2025, puxadas pela soja (+11,4%), pelo café não torrado (+26%) e por animais vivos (+141,9%), segundo dados da Secex. No acumulado de janeiro a agosto, as exportações totais do país somaram US$ 218,6 bilhões e 490,1 milhões de toneladas. No crédito, o estoque de Cédulas de Produto Rural (CPR) chegou a R$ 580,78 bilhões em julho, distribuído em 372 mil títulos com ticket médio de R$ 1,56 milhão, e somente no primeiro mês da safra 2026/27 foram registrados R$ 37,53 bilhões em novas CPRs.\n\nPara quem vende para o agro ou depende de commodities agrícolas como insumo, o ritmo mais forte de exportação é sinal de demanda aquecida lá fora, mas também de dólar mais disputado por quem precisa importar máquinas e insumos do setor. Já o recorde no estoque de CPR mostra que o financiamento privado segue crescendo como alternativa ao crédito bancário tradicional — vale considerar esse instrumento tanto para quem produz quanto para quem compra do produtor rural, negociando prazos atrelados à safra em vez de linhas de capital de giro mais caras.",
-    "url": "https://agrimidia.com.br/suinocultura-industrial/2026/08/28/credito-do-agro-atinge-r-58078-bilhoes-em-cpr-e-exportacoes-somam-us-2186-bilhoes-no-ano/",
-    "posicao": 3,
-    "batch_date": "2026-08-30"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Fintech Robbin capta US$ 8 milhões para parcelar compras entre varejo e indústria",
-    "fonte": "Startups.com.br",
-    "data": "30 Ago",
-    "resumo": "Rodada seed e FIDC bilionário mostram investidores ainda dispostos a apostar em crédito B2B para o varejo.",
-    "conteudo": "A fintech paulista Robbin, fundada em 2023 por dois ex-executivos do Itaú BBA e pelo fundador da OpenCo, captou uma rodada seed de US$ 8 milhões (cerca de R$ 40 milhões) liderada pelas gestoras Canary, Atlântico e Caravela, com participação da AB Seed, da Norte Ventures e dos fundos internacionais Clocktower e Tomorrow Capital. Junto com o aporte, a empresa estruturou um FIDC de US$ 100 milhões (cerca de R$ 502 milhões) em parceria com a gestora Augme, da XP, para financiar sua operação de crédito. A Robbin permite que varejistas parcelem compras feitas diretamente da indústria, substituindo o boleto à vista por uma linha de crédito B2B.\n\nPara donos de loja ou de indústria que hoje só compram ou vendem à vista via boleto, esse tipo de fintech de crédito B2B abre uma alternativa de fluxo de caixa sem depender de cheque especial ou de capital de giro bancário mais caro. Vale pesquisar se fornecedores ou distribuidores já oferecem esse tipo de parcelamento direto na nota — pode ser uma forma mais barata de financiar estoque do que recorrer a empréstimo tradicional, especialmente com a Selic ainda em patamar elevado.",
-    "url": "https://startups.com.br/negocios/fintech/fintech-robbin-capta-us-8m-com-canary-atlantico-e-caravela/",
-    "posicao": 4,
-    "batch_date": "2026-08-30"
   }
 ]
