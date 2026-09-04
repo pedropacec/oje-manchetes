@@ -1,6 +1,50 @@
 [
   {
     "tag": "Mercado",
+    "titulo": "Ibovespa trava sequência de 11 altas; dólar em R$ 5,11 à espera do payroll dos EUA",
+    "fonte": "Money Times",
+    "data": "04 Set",
+    "resumo": "Bolsa bateu 188,9 mil pontos na quinta e fechou estável; mercado agora observa o relatório de emprego americano.",
+    "conteudo": "O Ibovespa chegou a bater 188.891 pontos na máxima de quinta-feira (3/9), o maior nível desde o início de maio, mas devolveu parte do ganho e fechou o dia praticamente estável, em 185.188 pontos — encerrando uma sequência de 11 pregões seguidos de alta. O dólar seguiu a mesma toada e fechou cotado pouco abaixo de R$ 5,11. Nesta sexta-feira (4/9), o mercado brasileiro opera de olho no payroll dos EUA, relatório de emprego divulgado às 9h30 (horário de Brasília), com analistas projetando a criação de cerca de 55 mil vagas fora da agricultura em agosto.\n\nO payroll costuma mexer rápido com juros americanos, dólar e fluxo para mercados emergentes como o Brasil — um número de emprego muito forte tende a elevar os juros dos títulos dos EUA, fortalecer o dólar lá fora e pressionar ações e câmbio por aqui. Para quem tem contrato, insumo ou dívida atrelados ao dólar, vale acompanhar o resultado desta sexta antes de fechar preços ou travar câmbio: depois de 11 altas seguidas e o real perto de R$ 5,10, o espaço para surpresas negativas no curto prazo aumentou.",
+    "url": "https://www.moneytimes.com.br/mercado-aguarda-payroll-com-apostas-divididas-sobre-os-juros-ibovespa-em-dolar-sobe-nesta-sexta-feira-4/",
+    "posicao": 1,
+    "batch_date": "2026-09-04"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Copom se reúne dia 15/9 com corte de 0,25 ponto na Selic no radar",
+    "fonte": "InfoMoney",
+    "data": "04 Set",
+    "resumo": "Boletim Focus mantém projeção da Selic em 13,75% ao ano para o fim de 2026, com espaço estreito para novos cortes.",
+    "conteudo": "O Copom volta a se reunir nos dias 15 e 16 de setembro, e o mercado trabalha com uma redução de 0,25 ponto percentual na Selic, hoje em 14,00% ao ano após o corte de agosto. O sinal veio do IPCA-15, que surpreendeu para baixo, mas a inflação em 12 meses acelerou a 4,37% e a projeção para 2026 subiu a 4,86% — acima do teto de 4,5% da meta contínua, o que limita o espaço para cortes adicionais. O Boletim Focus mais recente, divulgado em 31/8, manteve pela quarta semana seguida a estimativa da Selic em 13,75% ao ano para o fim de 2026 e reduziu a projeção de crescimento do PIB para 1,92%.\n\nNa prática, mesmo com um eventual corte este mês, o crédito para empresas segue caro por bastante tempo — juro de dois dígitos altos não sai do orçamento tão cedo. Quem tem dívida a taxa flutuante ou está avaliando financiar capital de giro ou expansão deve considerar travar taxa fixa agora e não apostar numa queda rápida do custo do crédito ao longo de 2026; o ciclo de afrouxamento monetário segue lento e sujeito a pausas se a inflação não ceder.",
+    "url": "https://www.infomoney.com.br/economia/reuniao-copom-selic-manutencao-corte-2026/",
+    "posicao": 2,
+    "batch_date": "2026-09-04"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Projeto eleva teto do MEI para R$ 140 mil, mas Câmara adia votação",
+    "fonte": "Câmara dos Deputados",
+    "data": "04 Set",
+    "resumo": "PLP 186/2026 do governo aumenta o faturamento permitido do MEI e libera contratar 2 funcionários, mas o texto ainda tramita.",
+    "conteudo": "Enviado pelo governo à Câmara em 29 de junho, o PLP 186/2026 eleva o teto de faturamento anual do MEI dos atuais R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil a partir de 2028, além de permitir a contratação de até dois funcionários — hoje o limite é um. O projeto também prevê ajuste nas demais faixas do Simples Nacional, elevando o teto das microempresas de R$ 360 mil para R$ 1,2 milhão e das empresas de pequeno porte de R$ 4,8 milhões para R$ 12 milhões. O texto segue em análise nas comissões temáticas da Câmara, com a votação em plenário adiada para o segundo semestre de 2026.\n\nPara quem já bateu ou está perto do teto atual de R$ 81 mil, a proposta pode adiar a migração forçada para microempresa — com toda a burocracia e carga tributária extra que isso traz — até 2027 ou 2028. Mas como o projeto ainda não foi votado, nada muda na prática hoje: o MEI que está no limite precisa continuar planejando o enquadramento pelas regras atuais e acompanhar a tramitação antes de expandir contratação ou faturamento apostando numa mudança que ainda não é lei.",
+    "url": "https://www.camara.leg.br/noticias/1286510-projeto-do-governo-aumenta-teto-da-receita-de-mei-para-ate-r-140-mil-em-2028/",
+    "posicao": 3,
+    "batch_date": "2026-09-04"
+  },
+  {
+    "tag": "Exportação",
+    "titulo": "Balança comercial cresce 30% no ano e mira superávit recorde de US$ 90 bi em 2026",
+    "fonte": "Agrolink",
+    "data": "04 Set",
+    "resumo": "Saldo comercial do Brasil já soma US$ 54,15 bilhões em 2026, alta puxada por indústria extrativa e agropecuária.",
+    "conteudo": "Até a terceira semana de agosto, a balança comercial brasileira acumulou superávit de US$ 5,11 bilhões no mês, alta de 19,7% ante o mesmo período de 2025, com exportações de US$ 24,14 bilhões (+14,3%) e importações de US$ 19,03 bilhões (+13%), segundo dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). No acumulado de 2026, o saldo positivo já soma US$ 54,15 bilhões, avanço de 30,2% sobre igual período do ano passado, puxado por indústria extrativa (+34,2%) e agropecuária (+9,8%); o MDIC projeta superávit recorde de US$ 90 bilhões para o ano fechado.\n\nUm superávit crescente reforça a entrada de dólares no país e ajuda a segurar o câmbio mais baixo, o que barateia insumos e equipamentos importados — bom para quem depende de matéria-prima estrangeira. Mas o resultado também mostra que boa parte do fôlego vem de commodities (minério, petróleo, grãos), setores pouco sensíveis ao câmbio; para negócios que exportam manufaturados ou serviços, o cenário pede atenção à competitividade fora das commodities e ao andamento das negociações tarifárias com os EUA, que ainda pesam sobre parte da pauta exportadora brasileira.",
+    "url": "https://www.agrolink.com.br/noticias/balanca-comercial--brasil-acumula-superavit-de-us--52-bilhoes_517998.html",
+    "posicao": 4,
+    "batch_date": "2026-09-04"
+  },
+  {
+    "tag": "Mercado",
     "titulo": "Ibovespa dispara 3% a 185 mil pontos e dólar cai a R$ 5,09 com trégua eleitoral",
     "fonte": "InfoMoney",
     "data": "03 Set",
@@ -130,49 +174,5 @@
     "url": "https://agenciasebrae.com.br/dados/empreendedorismo-em-alta-abertura-de-novos-pequenos-negocios-cresce-14-em-2026/",
     "posicao": 4,
     "batch_date": "2026-09-01"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Hoje é o último dia para pequeno negócio renegociar dívida no Desenrola 2.0",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "31 Ago",
-    "resumo": "Prazo prorrogado do programa federal de renegociação de dívidas de MEIs e pequenas empresas termina nesta segunda-feira.",
-    "conteudo": "O governo federal prorrogou até esta segunda-feira (31/8) o prazo de adesão ao Novo Desenrola Brasil (Desenrola 2.0), programa que permite a micro e pequenas empresas renegociar dívidas contraídas via Pronampe e Procred 360, este último exclusivo para MEIs. A extensão foi formalizada em portaria publicada no Diário Oficial da União. Segundo o Sebrae, pequenos negócios já renegociaram mais de R$ 25 bilhões em dívidas desde o lançamento do programa, com descontos, carência e prazos mais longos de pagamento.\n\nQuem tem empréstimo do Pronampe ou do Procred 360 em atraso ou difícil de pagar no ritmo atual — com a Selic ainda em 14% ao ano pesando no bolso — tem só até o fim do dia de hoje para entrar no programa e travar condições melhores. Depois desse prazo, a renegociação volta a depender de negociação direta com o banco, normalmente com taxas mais altas e sem os benefícios do Desenrola; vale usar a calculadora de capacidade de pagamento gratuita do Sebrae antes de decidir.",
-    "url": "https://agenciasebrae.com.br/economia-e-politica/ultima-semana-para-renegociar-dividas-por-meio-do-desenrola-2-0/",
-    "posicao": 1,
-    "batch_date": "2026-08-31"
-  },
-  {
-    "tag": "Trabalho",
-    "titulo": "Fim da escala 6x1 avança no Senado e pode custar até R$ 267 bi às empresas",
-    "fonte": "Senado Notícias",
-    "data": "27 Ago",
-    "resumo": "Relator aprovou na CCJ o texto que reduz a jornada máxima para 40 horas semanais, com votação prevista para quarta-feira.",
-    "conteudo": "O senador Omar Aziz (PSD-AM) apresentou na quinta-feira (27/8) parecer favorável, na Comissão de Constituição e Justiça (CCJ) do Senado, à PEC 221/2019, que acaba com a escala 6x1 e reduz a jornada máxima de trabalho de 44 para 40 horas semanais, mantendo dois dias de descanso remunerado. O relator manteve o texto aprovado pela Câmara e rejeitou as 12 emendas apresentadas na comissão; a votação na CCJ está marcada para esta quarta-feira (2/9). Um estudo da Confederação Nacional da Indústria (CNI) estima que a mudança pode elevar entre R$ 178,2 bilhões e R$ 267,2 bilhões ao ano os custos com empregados formais, dependendo se as empresas optam por pagar hora extra ou contratar mais gente.\n\nSetores que funcionam de domingo a domingo com equipe fixa — comércio, supermercados, farmácias, restaurantes, hotéis, segurança e limpeza — são os mais expostos a esse aumento de custo, que pode passar de 10% na folha só com a redução de jornada, antes de somar reflexos em hora extra e escalas adicionais. Ainda dá tempo de simular o impacto financeiro da mudança e comparar os dois caminhos possíveis — pagar hora extra ou contratar — antes de a PEC avançar para votação em plenário nas próximas semanas.",
-    "url": "https://www12.senado.leg.br/noticias/materias/2026/08/27/pec-do-fim-da-escala-6x1-ja-conta-com-relatorio-favoravel-na-ccj",
-    "posicao": 2,
-    "batch_date": "2026-08-31"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Inadimplência do crédito livre bate recorde histórico de 6,4% em julho",
-    "fonte": "Forbes Brasil",
-    "data": "28 Ago",
-    "resumo": "Banco Central mostra juros ainda perto de 48% ao ano mesmo com atraso batendo o maior nível da série iniciada em 2011.",
-    "conteudo": "A inadimplência nas operações de crédito com recursos livres subiu para 6,4% em julho, ante 6,0% em junho, o maior nível da série histórica do Banco Central, iniciada em março de 2011, segundo o relatório de Estatísticas Monetárias e de Crédito divulgado na sexta-feira (28/8). Entre pessoas físicas, o atraso chegou a 7,8%, e entre empresas, a 4,2%. Mesmo com o calote em alta, a taxa média de juros do crédito livre segue em patamar elevado, em 47,7% ao ano — recuo de 2 pontos percentuais ante junho —, enquanto o estoque total de crédito do país cresceu 0,3% no mês, a R$ 7,372 trilhões.\n\nUm crédito mais caro e mais inadimplente deixa os bancos mais seletivos na hora de aprovar empréstimo e renovar limite para empresa, principalmente para quem já está com o nome sujo ou atrasado. Vale rever agora os prazos de recebimento dados a clientes e fornecedores, reforçar a análise de crédito antes de vender a prazo, e negociar linhas com o banco enquanto a taxa ainda está em leve queda — esperar a inadimplência subir mais só deve deixar o crédito ainda mais restrito adiante.",
-    "url": "https://forbes.com.br/forbes-money/2026/08/inadimplencia-no-brasil-sobe-a-64-em-julho-e-atinge-maior-nivel-da-serie-historica/",
-    "posicao": 3,
-    "batch_date": "2026-08-31"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Simples Nacional tem janela de setembro para decidir sobre novo regime do IBS/CBS",
-    "fonte": "Contábeis",
-    "data": "29 Ago",
-    "resumo": "Empresas que querem sair do split payment do Simples Nacional em 2027 precisam optar pelo regime regular até 30 de setembro.",
-    "conteudo": "O Comitê Gestor do Simples Nacional publicou a Resolução CGSN nº 190/2026, que abre uma nova janela de opção entre 1º e 30 de setembro para empresas do Simples que querem recolher o IBS e a CBS pelo regime regular, e não mais dentro do regime unificado, a partir de janeiro de 2027. Quem não fizer nada continua automaticamente no Simples Nacional tradicional e fica de fora, no primeiro ano, do mecanismo de split payment — a retenção automática de tributos no momento do pagamento —, que passa a valer plenamente para o regime regular. A opção, feita pelo Portal do Simples Nacional, tem validade semestral e é irretratável no período.\n\nPara quem já está satisfeito no Simples Nacional e não vende para grandes empresas que exigem crédito de IBS/CBS destacado na nota, o caminho mais simples costuma ser não mexer em nada e seguir no regime unificado. Já quem vende principalmente para outras empresas — e perde competitividade por não gerar crédito tributário completo para o cliente — deve simular com o contador se compensa migrar para o regime regular já em 2027, já que a decisão de setembro só volta a valer no semestre seguinte.",
-    "url": "https://www.contabeis.com.br/noticias/78966/simples-nacional-quem-deve-fazer-opcao-em-setembro/",
-    "posicao": 4,
-    "batch_date": "2026-08-31"
   }
 ]
