@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "Simples Nacional tem até 30/9 para decidir sobre IBS e CBS de 2027",
+    "fonte": "Receita Federal",
+    "data": "05 Set",
+    "resumo": "Resolução CGSN nº 186/2026 abre janela para micro e pequenas empresas optarem entre manter tudo na guia única ou recolher os novos tributos por fora.",
+    "conteudo": "A Resolução CGSN nº 186/2026, publicada em abril, abriu de 1º a 30 de setembro a janela para micro e pequenas empresas do Simples Nacional decidirem, pelo Portal do Simples, como vão recolher o IBS e a CBS a partir de janeiro de 2027. A opção padrão mantém tudo na guia única do DAS; mas quem quiser pode escolher o chamado regime híbrido, recolhendo IBS e CBS separadamente, pelo regime regular, entre janeiro e junho de 2027 — o que pode gerar crédito tributário para os clientes que comprarem da empresa. A escolha pode ser cancelada até o fim de novembro.\n\nQuem vende principalmente para o consumidor final tende a não sentir diferença e pode manter a guia única sem se preocupar. Já quem fatura majoritariamente para outras empresas — fornecedores, prestadores de serviço para indústria e afins — deve avaliar com o contador se vale a pena sair do DAS nessa parte, porque gerar crédito de IBS/CBS pode pesar na hora de não perder cliente para um concorrente do regime regular. É a primeira decisão prática da reforma tributária para quem está no Simples, e deixar passar o prazo pode custar competitividade já em 2027.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/abril/cgsn-define-prazos-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-para-2027",
+    "posicao": 1,
+    "batch_date": "2026-09-05"
+  },
+  {
+    "tag": "Trabalho",
+    "titulo": "CCJ do Senado aprova fim da escala 6x1; PEC vai ao plenário",
+    "fonte": "Senado Notícias",
+    "data": "05 Set",
+    "resumo": "Proposta reduz jornada de 44 para 40 horas sem cortar salário; estudos apontam alta de até 22% no custo da hora trabalhada.",
+    "conteudo": "A Comissão de Constituição e Justiça do Senado aprovou, em 2 de setembro, o texto da PEC 221/2019, relatada pelo senador Omar Aziz (PSD-AM), que reduz a jornada máxima semanal de 44 para 40 horas, com até 8 horas diárias e dois dias de descanso remunerado — um deles preferencialmente aos domingos —, sem redução de salário. A matéria segue agora para o plenário do Senado, onde precisa de 49 dos 81 votos, em dois turnos, para ser promulgada; o governo articula convocar sessão extraordinária ainda em setembro para tentar aprovar a mudança antes do recesso eleitoral.\n\nPara quem opera com escala 6x1 — comércio, serviços, indústria com turnos —, cálculos que já circulam entre entidades como a Fecomércio-SP apontam alta de até 22% no custo da hora trabalhada, e a CNI estima impacto de R$ 178 bilhões a R$ 267 bilhões ao ano para o setor produtivo como um todo; pequenos e médios negócios, com a folha pesando mais na receita, tendem a sentir o aperto primeiro. Mesmo sem lei aprovada, vale simular agora o efeito de uma escala 5x2 no quadro de funcionários, porque a proposta ganhou força política para andar rápido no Senado nas próximas semanas.",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario",
+    "posicao": 2,
+    "batch_date": "2026-09-05"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Payroll dos EUA surpreende com 162 mil vagas; dólar sobe a R$ 5,13",
+    "fonte": "InfoMoney",
+    "data": "05 Set",
+    "resumo": "Criação de empregos nos EUA veio quase 3x acima do esperado em agosto, reforçando aposta em juro americano mais alto por mais tempo.",
+    "conteudo": "O payroll de agosto nos Estados Unidos, divulgado nesta sexta-feira (4/9), mostrou a criação de 162 mil vagas de trabalho, bem acima da previsão de cerca de 56 mil do consenso Reuters; a taxa de desemprego ficou estável em 4,1% e o salário médio por hora subiu 3,1% em 12 meses, acima do esperado. Com o mercado de trabalho americano mais aquecido do que se imaginava, cresceu a aposta de que o Federal Reserve mantenha os juros altos por mais tempo. No Brasil, o dólar fechou a sexta a R$ 5,13, alta de 0,52% no dia, e o Ibovespa amenizou a queda mas encerrou perto da estabilidade, interrompendo a sequência de 11 pregões seguidos de alta.\n\nPayroll forte nos EUA tende a segurar o dólar mais caro e os juros americanos mais altos por mais tempo, o que encarece dívida e insumo importado cotados em dólar e reduz o apetite do investidor estrangeiro por ativos de mercados emergentes como o Brasil. Quem depende de matéria-prima ou equipamento importado, ou tem parcela da dívida atrelada ao câmbio, deve considerar travar preço ou proteção cambial agora: o cenário de juro americano elevado por mais tempo tende a manter o real pressionado nas próximas semanas.",
+    "url": "https://www.infomoney.com.br/economia/payroll-relatorio-emprego-eua-agosto-2026/",
+    "posicao": 3,
+    "batch_date": "2026-09-05"
+  },
+  {
+    "tag": "Importação",
+    "titulo": "MP que zera taxa das blusinhas perde validade na terça (8/9) sem votação",
+    "fonte": "Agência Brasil",
+    "data": "05 Set",
+    "resumo": "Comissão mista aprovou texto que isenta de imposto compras internacionais até US$ 50, mas Câmara e Senado ainda precisam votar até terça-feira.",
+    "conteudo": "A comissão mista do Congresso aprovou o texto-base da medida provisória que zera a alíquota de 20% do imposto de importação sobre compras internacionais de até US$ 50 e reduz de 60% para 30% a alíquota para remessas de até US$ 3 mil vindas do exterior; a versão aprovada também isenta de imposto a importação de medicamentos sem similar nacional. O texto agora precisa ser votado em plenário pela Câmara e pelo Senado até a próxima terça-feira (8/9), prazo em que a MP perde validade — se isso ocorrer sem votação, a cobrança de 20% sobre remessas de até US$ 50 pode voltar a valer.\n\nPara quem revende produtos importados via plataformas internacionais ou compra insumos em pequenas remessas do exterior, a definição dessa MP nos próximos dias muda direto o custo de reposição de estoque; já quem vende produto nacional concorrente de itens de baixo valor importados deve monitorar o texto final, porque alíquota menor tende a acirrar a concorrência de preço com remessas internacionais. Vale evitar fechar grandes pedidos por remessa postal até a votação de terça, para não travar preço presumindo uma isenção que ainda não está garantida.",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/comissao-aprova-mp-da-taxa-das-blusinhas-texto-segue-plenarios",
+    "posicao": 4,
+    "batch_date": "2026-09-05"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Ibovespa trava sequência de 11 altas; dólar em R$ 5,11 à espera do payroll dos EUA",
     "fonte": "Money Times",
@@ -130,49 +174,5 @@
     "url": "https://startups.com.br/negocios/fintech/celcoin-compra-vert-capital-e-mira-mercado-de-capitais/",
     "posicao": 4,
     "batch_date": "2026-09-02"
-  },
-  {
-    "tag": "Trabalho",
-    "titulo": "Bancários fecham acordo com reajuste real de 0,6% acima do INPC",
-    "fonte": "Sindicato dos Bancários",
-    "data": "01 Set",
-    "resumo": "Acordo entre bancários e Fenaban prevê reposição do INPC mais 0,6% de aumento real em 2026 e 2027, e serve de referência para outras negociações salariais do semestre.",
-    "conteudo": "Depois de mais de 30 horas seguidas de negociação, entre a noite de sexta-feira (28/8) e a manhã de sábado (29/8), o Comando Nacional dos Bancários e a Fenaban fecharam uma proposta de reajuste que prevê reposição total do INPC mais 0,6% de aumento real, válida tanto para 2026 quanto para 2027 e aplicada a salários, PLR, vale-refeição e vale-alimentação. O acordo encerra um impasse que já havia levado a categoria a uma paralisação nacional de 24 horas em 20 de agosto; agora a proposta vai a assembleias de votação marcadas para os dias 3 e 4 de setembro, e o índice final de reajuste ainda depende da divulgação do INPC acumulado até a data-base da categoria, em 1º de setembro.\n\nComo o acordo bancário costuma servir de piso de referência para outras campanhas salariais do segundo semestre, o índice fechado agora — INPC mais 0,6% real — já é um bom parâmetro para o dono de negócio simular o impacto do próprio reajuste de equipe neste fim de ano, mesmo em setores fora do sistema financeiro. Vale também acompanhar o resultado da assembleia dos dias 3 e 4: se a categoria aprovar a proposta, some do radar o risco de uma nova paralisação que atrase compensação de cheques e outras rotinas bancárias da empresa.",
-    "url": "https://spbancarios.com.br/08/2026/bancarios-alcancam-aumento-real-para-2026-e-2027-mantem-direitos-e-avancam-em-novas",
-    "posicao": 1,
-    "batch_date": "2026-09-01"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Brasil e EUA reatam conversa sobre tarifaço, mas reunião termina sem avanço",
-    "fonte": "CNN Brasil",
-    "data": "01 Set",
-    "resumo": "Ministros brasileiros e o representante comercial dos EUA se reuniram por vídeo nesta segunda, mas as tarifas de até 37,5% sobre produtos brasileiros seguem em vigor.",
-    "conteudo": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, e o chanceler Mauro Vieira se reuniram por videoconferência nesta segunda-feira (31/8), às 14h30, com o representante comercial dos Estados Unidos, Jamieson Greer, na primeira rodada técnica desde a ligação entre os presidentes Lula e Trump, em 21 de agosto. Do lado brasileiro, os ministros classificaram como discriminatórias as tarifas aplicadas pelos EUA a produtos brasileiros — que somam até 37,5% em algumas categorias —, mas a reunião terminou sem redução das sobretaxas, prazo definido ou concessões concretas de qualquer lado; segundo o governo, Trump orientou sua equipe a buscar um acordo, e novas reuniões técnicas devem anteceder uma rodada ministerial.\n\nPara quem exporta aos Estados Unidos, o recado prático é que as tarifas continuam valendo como estão, sem data para cair, e o encontro de ontem foi só o primeiro passo de uma negociação que tende a se arrastar por semanas. Vale manter os planos de diversificação de mercado e evitar fechar contratos de exportação para os EUA no segundo semestre apostando numa reversão rápida da tarifa — o cenário mais provável, pelo menos por enquanto, é de tarifa alta por mais tempo.",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-e-eua-se-reunem-para-retomar-negociacoes-sobre-novo-tarifaco/",
-    "posicao": 2,
-    "batch_date": "2026-09-01"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa emenda 9ª alta seguida e bate 177,4 mil pontos",
-    "fonte": "Money Times",
-    "data": "01 Set",
-    "resumo": "Índice fechou a segunda-feira em alta de 1%, no maior nível em nove pregões seguidos, enquanto o dólar recuou a R$ 5,18.",
-    "conteudo": "O Ibovespa fechou a segunda-feira (31/8) com alta de 1%, aos 177.418,78 pontos, emendando a nona sessão seguida de valorização. O movimento foi puxado por Petrobras (PETR4, +3%), Vale (VALE3, +1%) e os grandes bancos (até +2%), num dia de petróleo em alta após novos ataques entre Estados Unidos e Irã e investidores repercutindo pesquisas eleitorais para outubro. O dólar à vista fechou a R$ 5,1801, em queda de 0,32% no dia.\n\nNove altas seguidas na bolsa e um dólar mais baixo tendem a segurar o custo de insumos e equipamentos importados no curto prazo, o que ajuda quem compra matéria-prima ou maquinário no exterior. Mas a sequência está apoiada em fatores externos voláteis — petróleo e cenário eleitoral —, então vale aproveitar a janela de câmbio mais baixo para travar contratos de importação sem contar que o movimento continue no mesmo ritmo nas próximas semanas.",
-    "url": "https://www.moneytimes.com.br/ibovespa-31-8-26-apsa/",
-    "posicao": 3,
-    "batch_date": "2026-09-01"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Abertura de pequenos negócios cresce quase 14% em 2026",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "01 Set",
-    "resumo": "Levantamento do Sebrae mostra 3,6 milhões de empresas abertas entre janeiro e julho, com o setor de serviços puxando o crescimento.",
-    "conteudo": "Um levantamento do Sebrae com base em dados da Receita Federal mostra que o Brasil abriu 3,6 milhões de novas empresas entre janeiro e julho de 2026, quase 14% a mais que no mesmo período de 2025. Desse total, 3,4 milhões — 96,7% — são pequenos negócios: microempreendedores individuais, microempresas e empresas de pequeno porte, com o MEI crescendo 14,5% e as micro e pequenas empresas mais de 11% na comparação anual. Só em julho, o setor de serviços liderou as aberturas, com 308 mil novas empresas, 65% do total do mês.\n\nPara quem já toca um negócio, o crescimento acelerado de aberturas — sobretudo em serviços — é sinal de concorrência mais apertada no curto prazo, mas também de um mercado consumidor mais dinâmico e de mais fornecedores e parceiros em potencial para fechar parcerias. Vale usar o dado como termômetro do próprio setor: quem está em serviços deve revisar o que diferencia o negócio da concorrência recém-chegada, enquanto quem pensa em abrir uma segunda unidade tem, pela primeira vez em anos, um cenário de formalização em alta a favor.",
-    "url": "https://agenciasebrae.com.br/dados/empreendedorismo-em-alta-abertura-de-novos-pequenos-negocios-cresce-14-em-2026/",
-    "posicao": 4,
-    "batch_date": "2026-09-01"
   }
 ]
