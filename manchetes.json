@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Importação",
+    "titulo": "Senado aprova fim definitivo da taxa das blusinhas; texto vai à sanção",
+    "fonte": "Senado Notícias",
+    "data": "06 Set",
+    "resumo": "Compras internacionais de até US$ 50 seguem isentas de Imposto de Importação, e o Senado ainda criou uma faixa de alíquota reduzida para pedidos maiores.",
+    "conteudo": "O Plenário do Senado aprovou, em 3 de setembro, a Medida Provisória 1.357/2026, confirmando de forma definitiva a isenção do Imposto de Importação — hoje em 20% — para compras internacionais de até US$ 50 feitas por pessoa física. O texto, relatado pela senadora Leila Barros, também criou uma faixa intermediária com alíquota reduzida a 30% para remessas entre US$ 50 e US$ 3 mil (cerca de R$ 15 mil), bem abaixo dos até 60% cobrados hoje nessa faixa. A proposta segue agora para sanção presidencial, e o Ministério da Fazenda terá de apresentar o primeiro relatório de acompanhamento dos efeitos da isenção já em novembro, com revisões a cada seis meses.\n\nPara quem revende produtos importados ou monta catálogo com fornecedores de fora do país, a regra dá previsibilidade: a isenção da faixa de até US$ 50 deixa de ser provisória, e a nova faixa intermediária reduz o custo de trazer lotes um pouco maiores, o que pode viabilizar compras consolidadas com fornecedores internacionais. Vale lembrar que o ICMS estadual continua incidindo normalmente sobre qualquer valor, então o cálculo de margem em compras internacionais precisa considerar a alíquota do estado de destino antes de fechar preço com o cliente final.",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
+    "posicao": 1,
+    "batch_date": "2026-09-06"
+  },
+  {
+    "tag": "Tarifas",
+    "titulo": "Tarifaço dos EUA derruba exportação brasileira em 9,7% no ano até agosto",
+    "fonte": "Forbes Brasil",
+    "data": "06 Set",
+    "resumo": "Balança comercial teve superávit recorde de US$ 7,39 bi em agosto, mas as vendas ao mercado americano ainda sofrem com as tarifas de Trump.",
+    "conteudo": "O MDIC divulgou nesta semana que a balança comercial brasileira fechou agosto de 2026 com superávit de US$ 7,39 bilhões, alta de 23,8% sobre agosto de 2025, com exportações totais de US$ 33,16 bilhões (+12,2%) e importações de US$ 25,76 bilhões (+9,2%). O recorte por destino, porém, mostra o efeito do tarifaço americano: no acumulado de janeiro a agosto, as exportações brasileiras para os Estados Unidos somaram US$ 24,1 bilhões, queda de 9,7% na comparação anual, puxada por uma retração de 13,6% no volume de produtos embarcados, já que cerca de 20% da pauta exportada aos EUA está sob tarifa adicional.\n\nO dado mostra dois Brasis exportadores: quem vende aos EUA produtos fora da lista tarifada — como aeronaves, suco de frutas e carnes — ainda consegue crescer em valor, enquanto quem depende de itens taxados perde competitividade e precisa buscar mercados alternativos, já que China e outros parceiros seguem sustentando o superávit geral. Para negócios exportadores de pequeno e médio porte, o recado é diversificar destino e cliente antes de depender de um único mercado sujeito a decisões políticas fora do controle da empresa.",
+    "url": "https://forbes.com.br/forbes-money/2026/09/brasil-vende-mais-para-eua-apesar-de-tarifas-e-tem-superavit-comercial-de-us7394-bi-em-agosto/",
+    "posicao": 2,
+    "batch_date": "2026-09-06"
+  },
+  {
+    "tag": "Trabalho",
+    "titulo": "Fim da escala 6x1 é adiado no Senado e só deve ser votado após 1º turno",
+    "fonte": "Agência Brasil",
+    "data": "06 Set",
+    "resumo": "Base do governo recuou por falta de votos garantidos, e a PEC que reduz a jornada para 40 horas só volta ao plenário depois do dia 4 de outubro.",
+    "conteudo": "Depois de a Comissão de Constituição e Justiça aprovar, em 2 de setembro, a PEC 221/2019 — que acaba com a escala 6x1 e reduz a jornada máxima de 44 para 40 horas semanais —, o governo decidiu não levar o texto ao plenário do Senado ainda naquela semana. Sem garantia dos 49 votos (três quintos) necessários em dois turnos, líderes da base preferiram recuar diante da obstrução liderada pela oposição, e a expectativa agora é de votação apenas depois do primeiro turno das eleições, marcado para 4 de outubro, com nova tentativa prevista para a segunda semana do mês.\n\nO adiamento tira da mesa, por ora, uma mudança que afetaria diretamente a escala de funcionários em comércio, indústria e serviços — a PEC prevê transição de 14 meses sem redução salarial. Quem já vinha revendo escala e custo de mão de obra por causa do projeto ganha mais alguns meses para planejar a adaptação, mas o tema deve voltar com força ao noticiário assim que passar o primeiro turno, e vale acompanhar de perto: uma aprovação em outubro ou novembro ainda pegaria em cheio o planejamento de contratações de fim de ano.",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
+    "posicao": 3,
+    "batch_date": "2026-09-06"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Fintech Bull capta R$ 20 milhões e mira R$ 1 bi em crédito até 2026",
+    "fonte": "CNN Brasil",
+    "data": "06 Set",
+    "resumo": "Rodada seed liderada por Maya e Caravela, com a Canary repetindo aporte, financia a expansão da startup para além do consignado privado.",
+    "conteudo": "A Bull, startup fundada em 2025 por Juliana Freitas e José Pires Neto que oferece infraestrutura de \"crédito como serviço\" para outras empresas lançarem seus próprios produtos financeiros, captou R$ 20 milhões em rodada seed liderada pelos fundos Maya e Caravela, com participação da Canary — que já havia liderado o pré-seed de R$ 10 milhões da empresa, um ano antes, ao lado da Endeavor. O dinheiro vai para investimento em inteligência artificial, infraestrutura de dados, segurança e automação de processos, para a empresa sair do consignado privado e ganhar um portfólio multiproduto. A Bull já soma mais de 20 clientes de médio e grande porte na plataforma.\n\nO caso ilustra onde o capital de risco brasileiro está apostando em 2026: menos rodadas, mas para empresas que já provaram o modelo de negócio e miram nicho específico dentro de um mercado maior — no caso, dar a qualquer empresa a capacidade de oferecer crédito sem virar um banco. Para donos de negócio que hoje dependem de fintechs prontas para oferecer crediário ou financiamento ao cliente final, esse tipo de infraestrutura white-label tende a baratear e agilizar o lançamento de produtos financeiros próprios nos próximos meses.",
+    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/bull-capta-r-20-milhoes-para-investir-em-plataforma-de-credito-e-ia/",
+    "posicao": 4,
+    "batch_date": "2026-09-06"
+  },
+  {
     "tag": "Tributário",
     "titulo": "Simples Nacional tem até 30/9 para decidir sobre IBS e CBS de 2027",
     "fonte": "Receita Federal",
@@ -30,17 +74,6 @@
     "conteudo": "O payroll de agosto nos Estados Unidos, divulgado nesta sexta-feira (4/9), mostrou a criação de 162 mil vagas de trabalho, bem acima da previsão de cerca de 56 mil do consenso Reuters; a taxa de desemprego ficou estável em 4,1% e o salário médio por hora subiu 3,1% em 12 meses, acima do esperado. Com o mercado de trabalho americano mais aquecido do que se imaginava, cresceu a aposta de que o Federal Reserve mantenha os juros altos por mais tempo. No Brasil, o dólar fechou a sexta a R$ 5,13, alta de 0,52% no dia, e o Ibovespa amenizou a queda mas encerrou perto da estabilidade, interrompendo a sequência de 11 pregões seguidos de alta.\n\nPayroll forte nos EUA tende a segurar o dólar mais caro e os juros americanos mais altos por mais tempo, o que encarece dívida e insumo importado cotados em dólar e reduz o apetite do investidor estrangeiro por ativos de mercados emergentes como o Brasil. Quem depende de matéria-prima ou equipamento importado, ou tem parcela da dívida atrelada ao câmbio, deve considerar travar preço ou proteção cambial agora: o cenário de juro americano elevado por mais tempo tende a manter o real pressionado nas próximas semanas.",
     "url": "https://www.infomoney.com.br/economia/payroll-relatorio-emprego-eua-agosto-2026/",
     "posicao": 3,
-    "batch_date": "2026-09-05"
-  },
-  {
-    "tag": "Importação",
-    "titulo": "MP que zera taxa das blusinhas perde validade na terça (8/9) sem votação",
-    "fonte": "Agência Brasil",
-    "data": "05 Set",
-    "resumo": "Comissão mista aprovou texto que isenta de imposto compras internacionais até US$ 50, mas Câmara e Senado ainda precisam votar até terça-feira.",
-    "conteudo": "A comissão mista do Congresso aprovou o texto-base da medida provisória que zera a alíquota de 20% do imposto de importação sobre compras internacionais de até US$ 50 e reduz de 60% para 30% a alíquota para remessas de até US$ 3 mil vindas do exterior; a versão aprovada também isenta de imposto a importação de medicamentos sem similar nacional. O texto agora precisa ser votado em plenário pela Câmara e pelo Senado até a próxima terça-feira (8/9), prazo em que a MP perde validade — se isso ocorrer sem votação, a cobrança de 20% sobre remessas de até US$ 50 pode voltar a valer.\n\nPara quem revende produtos importados via plataformas internacionais ou compra insumos em pequenas remessas do exterior, a definição dessa MP nos próximos dias muda direto o custo de reposição de estoque; já quem vende produto nacional concorrente de itens de baixo valor importados deve monitorar o texto final, porque alíquota menor tende a acirrar a concorrência de preço com remessas internacionais. Vale evitar fechar grandes pedidos por remessa postal até a votação de terça, para não travar preço presumindo uma isenção que ainda não está garantida.",
-    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/comissao-aprova-mp-da-taxa-das-blusinhas-texto-segue-plenarios",
-    "posicao": 4,
     "batch_date": "2026-09-05"
   },
   {
@@ -130,49 +163,5 @@
     "url": "https://www.moneytimes.com.br/magazine-luiza-mglu3-fecha-parceria-com-o-mercado-livre-lmrs/",
     "posicao": 4,
     "batch_date": "2026-09-03"
-  },
-  {
-    "tag": "Economia",
-    "titulo": "PIB cresce 0,5% no 2º trimestre e confirma economia perdendo fôlego",
-    "fonte": "O Hoje",
-    "data": "02 Set",
-    "resumo": "IBGE mostra economia brasileira desacelerando pelo segundo trimestre seguido, com PIB de R$ 3,4 trilhões e leitura mista entre os setores.",
-    "conteudo": "O Produto Interno Bruto (PIB) do Brasil cresceu 0,5% no segundo trimestre de 2026 frente aos três primeiros meses do ano, segundo dados do IBGE divulgados nesta terça-feira (1º/9). O resultado veio acima da mediana de mercado, que projetava alta de 0,4%, mas ficou bem abaixo do ritmo de 1,1% registrado no primeiro trimestre. Na comparação com igual período de 2025, o PIB avançou 2%, somando R$ 3,4 trilhões em valores correntes; no acumulado de quatro trimestres, a expansão foi de 1,9%. Por setor, a agropecuária liderou com alta de 2,8%, enquanto indústria e serviços cresceram bem menos — 0,1% e 0,2%, respectivamente —, e as exportações recuaram 0,8% no trimestre.\n\nA desaceleração sequencial reforça a leitura de que o ciclo de juros altos já está freando a atividade, o que tende a pesar a favor de novos cortes de Selic adiante — bom sinal para quem depende de crédito para capital de giro ou expansão. Por outro lado, o resultado fraco em indústria e serviços, os setores que mais empregam, é um alerta para quem vende para esse público: vale calibrar as metas de vendas do segundo semestre com essa desaceleração em mente, em vez de projetar a mesma demanda do primeiro trimestre.",
-    "url": "https://ohoje.com/2026/09/01/pib-do-brasil-cresce-05-no-2o-trimestre-de-2026-aponta-ibge/",
-    "posicao": 1,
-    "batch_date": "2026-09-02"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa encosta nos 180 mil pontos na 10ª alta seguida; dólar cai a R$ 5,15",
-    "fonte": "Money Times",
-    "data": "02 Set",
-    "resumo": "Índice fechou terça-feira em alta de 1,30%, aos 179.722 pontos, puxado por Petrobras e por otimismo com o cenário eleitoral.",
-    "conteudo": "O Ibovespa fechou a terça-feira (1º/9) em alta de 1,30%, aos 179.722,48 pontos, emendando a décima sessão seguida de valorização e se aproximando dos 180 mil pontos. O movimento foi puxado por Petrobras — PETR3 subiu 4,16%, a R$ 52,38, e PETR4 avançou 4,00%, a R$ 46,82 — em meio a petróleo mais caro e à melhora da percepção do mercado sobre a corrida eleitoral entre o presidente Lula e o senador Flávio Bolsonaro, cuja diferença nas pesquisas mais recentes diminuiu. O dólar à vista fechou o dia cotado a R$ 5,15, em queda, beneficiado também pela entrada de fluxo estrangeiro em opções ligadas ao ETF EWZ e a ações da Petrobras.\n\nDez pregões seguidos de alta e um dólar mais baixo ajudam a segurar o custo de quem compra insumos, peças ou equipamentos importados, e abrem uma boa janela para travar contratos de importação enquanto o câmbio está favorável. Mas a sequência está amarrada a fatores que podem virar rápido — petróleo internacional e humor eleitoral —, então não vale se planejar como se o dólar mais baixo fosse garantido até outubro; quem tem câmbio para fechar deve aproveitar a janela agora, sem esperar uma queda ainda maior.",
-    "url": "https://www.moneytimes.com.br/ibovespa-1-9-26-apsa/",
-    "posicao": 2,
-    "batch_date": "2026-09-02"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Senado aprova Redata e libera incentivo fiscal bilionário a data centers",
-    "fonte": "Agência Brasil",
-    "data": "02 Set",
-    "resumo": "Projeto aprovado sem alterações suspende impostos sobre equipamentos de data center e segue direto para sanção presidencial.",
-    "conteudo": "O Senado aprovou, nesta terça-feira (1º/9), sem alterações, o projeto de lei que cria o Regime Especial de Tributação para Serviços de Data Center (Redata), que agora segue direto para sanção presidencial, sem precisar voltar à Câmara. O texto suspende a cobrança de Imposto de Importação, PIS/Cofins, PIS/Cofins-Importação e IPI sobre equipamentos usados na instalação ou expansão de data centers no país. O governo federal estima uma renúncia fiscal de cerca de R$ 5,2 bilhões ainda em 2026, caindo para R$ 1 bilhão por ano nos dois anos seguintes; em contrapartida, as empresas beneficiadas terão de usar energia limpa ou renovável, comprovar eficiência no uso de água para resfriamento dos equipamentos e reservar 10% da capacidade dos data centers para atender empresas do mercado interno.\n\nPara negócios de tecnologia, e-commerce e qualquer empresa que dependa de nuvem, processamento de dados ou IA, mais data centers instalados no Brasil tendem a baratear e aproximar esse tipo de infraestrutura no médio prazo, além de abrir uma fatia de 10% da capacidade reservada especificamente para empresas nacionais. Vale mapear se os fornecedores de nuvem ou hospedagem que atendem o negócio pretendem usar o Redata para expandir a operação no Brasil — migrar de um provedor internacional para um data center local pode passar a fazer mais sentido de custo à medida que os projetos beneficiados pela lei saem do papel.",
-    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-projeto-que-cria-incentivos-para-data-centers-no-brasil",
-    "posicao": 3,
-    "batch_date": "2026-09-02"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Celcoin compra Vert Capital e entra no mercado de capitais com aporte de R$ 500 mi",
-    "fonte": "Startups.com.br",
-    "data": "02 Set",
-    "resumo": "Fintech vai investir R$ 500 milhões em três anos após adquirir a securitizadora, que administra R$ 97 bilhões em operações estruturadas.",
-    "conteudo": "A fintech Celcoin anunciou nesta terça-feira (1º/9) a compra da Vert Capital, uma das maiores administradoras independentes de operações estruturadas do país, com cerca de R$ 97 bilhões sob gestão e participação em mais de 490 operações — entre elas fundos de direitos creditórios (FIDCs), certificados de recebíveis e debêntures. Como parte da estratégia, a Celcoin vai investir R$ 500 milhões nos próximos três anos, sendo R$ 200 milhões só em tecnologia, e projeta fechar o ano com R$ 800 milhões em receita recorrente anual (ARR) somando as duas operações.\n\nFIDCs e outras estruturas de securitização são hoje uma das principais fontes de crédito alternativo para empresas que não conseguem — ou não querem — depender só de empréstimo bancário tradicional, especialmente com a Selic ainda em dois dígitos. Uma fintech de infraestrutura de pagamentos como a Celcoin assumindo esse tipo de operação tende a baratear e agilizar o acesso a crédito estruturado para empresas de médio porte nos próximos meses; vale perguntar ao contador ou ao banco de relacionamento se esse tipo de financiamento via recebíveis é uma alternativa viável para o negócio antes de renovar uma linha de capital de giro mais cara.",
-    "url": "https://startups.com.br/negocios/fintech/celcoin-compra-vert-capital-e-mira-mercado-de-capitais/",
-    "posicao": 4,
-    "batch_date": "2026-09-02"
   }
 ]
