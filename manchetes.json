@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tarifas",
+    "titulo": "Brasil e EUA reabrem negociação sobre tarifaço, mas sem acordo ainda",
+    "fonte": "Poder360",
+    "data": "07 Set",
+    "resumo": "Primeira rodada de conversas desde a ligação entre Lula e Trump terminou sem definição sobre alíquotas, e nova reunião presencial só deve ocorrer no fim de setembro.",
+    "conteudo": "Em 1º de setembro, o chanceler Mauro Vieira e o secretário de Comércio Exterior Márcio Elias Rosa se reuniram por videoconferência com o representante comercial dos Estados Unidos, Jamieson Greer, no primeiro contato direto entre as equipes desde que as tarifas de 25% e 12,5% sobre produtos brasileiros entraram em vigor. O próprio governo brasileiro classificou o encontro como exploratório: terminou sem acordo sobre setores, alíquotas ou concessões, com o Brasil reiterando que considera as tarifas discriminatórias. Uma nova rodada, agora presencial, está prevista para o fim de setembro ou início de outubro nos Estados Unidos, e não se descarta um encontro entre Lula e Trump à margem da Assembleia-Geral da ONU, que abre em 22 de setembro.\n\nEnquanto a negociação não avança, exportadores que vendem aos EUA seguem operando sob a tarifa adicional e sem previsibilidade sobre quando — ou se — haverá redução, o que reforça a necessidade de diversificar mercado de destino em vez de esperar por uma solução de curto prazo. Já quem compra insumo ou equipamento importado dos EUA deve acompanhar o desfecho da rodada de fim de setembro antes de travar contrato de longo prazo, já que um eventual acordo pode mudar rapidamente o custo final de peças e componentes vindos do país.",
+    "url": "https://www.poder360.com.br/poder-governo/brasil-se-reune-com-eua-e-nao-espera-acordo-sobre-tarifaco-agora/",
+    "posicao": 1,
+    "batch_date": "2026-09-07"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Sebrae propõe crédito de até R$ 1 milhão com teto de spread para PMEs",
+    "fonte": "Brasil 247",
+    "data": "07 Set",
+    "resumo": "Guia entregue a candidatos a presidente e a governador sugere programa nacional de crédito produtivo com spread bancário limitado a 8 pontos percentuais.",
+    "conteudo": "O Sebrae divulgou um guia de propostas de política de crédito dirigido aos candidatos à Presidência e aos governos estaduais nas eleições de outubro, defendendo a criação de um Programa Nacional de Crédito Produtivo com operações de até R$ 1 milhão por CNPJ, subsídio federal e teto de spread bancário de 8 pontos percentuais. A entidade também propõe uma linha de até R$ 30 mil para formalização de trabalhadores informais e um fundo de até R$ 10 bilhões para investimento em inovação. O pano de fundo é o custo do crédito hoje: com a Selic em 14% ao ano, o spread bancário cobrado de micro e pequenas empresas chegou a uma média de 31,59% em 2025, um dos principais gargalos para o crescimento do setor produtivo, segundo a própria entidade.\n\nSe algum governo eleito adotar a proposta, uma linha com spread limitado a 8 pontos percentuais reduziria pela metade — ou mais — o custo de crédito hoje disponível para boa parte dos pequenos negócios, mudando o cálculo de viabilidade de investimentos como compra de equipamento ou reforço de capital de giro. Por ora é só proposta de campanha, sem prazo definido; ainda assim, vale acompanhar quais candidatos incorporam a pauta ao programa de governo, já que o tema tende a ganhar espaço nos debates eleitorais das próximas semanas.",
+    "url": "https://www.brasil247.com/empreender/sebrae-propoe-teto-para-spread-e-credito-de-ate-r-1-milhao-a-pequenos-negocios/",
+    "posicao": 2,
+    "batch_date": "2026-09-07"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "HackTown fecha 10ª edição hoje e deve injetar R$ 30 mi em MG",
+    "fonte": "Exame",
+    "data": "07 Set",
+    "resumo": "Festival de inovação em Santa Rita do Sapucaí reúne cerca de 15 mil participantes e mais de 500 empresas na 10ª edição, encerrada nesta segunda-feira.",
+    "conteudo": "O HackTown, festival de tecnologia e inovação realizado em Santa Rita do Sapucaí (MG), no Vale da Eletrônica, chega hoje ao fim de sua 10ª edição, iniciada em 3 de setembro. O evento reuniu cerca de 15 mil participantes, mais de 500 empresas e 100 startups, com executivos de Nvidia, Google, Meta, Amazon Web Services, Microsoft e IBM entre os palestrantes das 21 trilhas de conteúdo. A organização projeta movimentação de cerca de R$ 30 milhões na economia da região ao longo dos cinco dias — bem abaixo do recorde de mais de R$ 370 milhões em negócios fechados na edição de 2024, mas ainda um volume relevante para o comércio e os serviços locais.\n\nPara negócios de Minas Gerais e região, sobretudo os de tecnologia e serviços, eventos como o HackTown funcionam como vitrine de conexão com investidores e grandes empresas sem sair do estado — alternativa mais barata do que participar de feiras em São Paulo ou no exterior. Quem vende produto ou serviço para outras empresas pode usar esse tipo de evento regional para testar proposta de valor e fechar as primeiras parcerias antes de tentar escalar para eventos nacionais maiores, como o Startup Summit.",
+    "url": "https://exame.com/negocios/evento-de-inovacao-no-vale-da-eletronica-em-minas-gerais-deve-movimentar-r-30-milhoes-na-regiao/",
+    "posicao": 3,
+    "batch_date": "2026-09-07"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Lula e Flávio Bolsonaro fazem atos opostos no 7 de Setembro",
+    "fonte": "Exame",
+    "data": "07 Set",
+    "resumo": "A 27 dias do 1º turno, presidente mantém agenda institucional em Brasília enquanto senador mobiliza ato contra Moraes na Paulista.",
+    "conteudo": "Nesta segunda-feira, feriado da Independência, o presidente Luiz Inácio Lula da Silva participa do tradicional desfile cívico-militar em Brasília, mantendo o formato institucional sem ato de campanha paralelo. Já o senador Flávio Bolsonaro (PL), pré-candidato à Presidência, convocou manifestação na Avenida Paulista, em São Paulo, às 15h, com meta de reunir 100 mil pessoas e mirando principalmente o ministro Alexandre de Moraes, do STF. A data marca a reta final antes do primeiro turno das eleições, marcado para 4 de outubro.\n\nPesquisas mostram corrida presidencial polarizada e ainda indefinida a menos de um mês da votação, o que tende a manter volatilidade em ativos sensíveis a risco político — câmbio e bolsa entre eles — nas próximas semanas. Para quem toma decisão de investimento, contratação ou renegociação de contrato de longo prazo, faz sentido evitar compromissos que dependam de um cenário eleitoral específico até o quadro do primeiro turno ficar mais claro, usando cláusulas de reajuste ou revisão que absorvam um eventual solavanco de curto prazo no câmbio ou nos juros.",
+    "url": "https://exame.com/brasil/7-de-setembro-veja-os-planos-de-lula-flavio-bolsonaro-e-outros-candidatos/",
+    "posicao": 4,
+    "batch_date": "2026-09-07"
+  },
+  {
     "tag": "Importação",
     "titulo": "Senado aprova fim definitivo da taxa das blusinhas; texto vai à sanção",
     "fonte": "Senado Notícias",
@@ -129,39 +173,6 @@
     "conteudo": "O Ibovespa fechou a quarta-feira (2/9) aos 185.205 pontos, alta de 3,05% e a 11ª sessão seguida de valorização, puxado por ações como Vale e Itaú Unibanco — o maior fechamento do índice desde o início de maio. O movimento veio depois que uma pesquisa Quaest apontou o presidente Lula com 42% das intenções de voto num eventual segundo turno contra 41% do senador Flávio Bolsonaro, um empate técnico dentro da margem de erro. No câmbio, o dólar recuou e fechou cotado a R$ 5,09, reforçando a leitura do mercado de que um resultado eleitoral mais competitivo reduz o risco de rupturas bruscas na política econômica.\n\nBolsa em alta e dólar mais baixo tendem a baratear insumos e equipamentos importados e a destravar um pouco mais o crédito, já que investidores mais confiantes cobram prêmios de risco menores das empresas brasileiras. Para quem depende de importação ou tem dívida atrelada à variação cambial, vale aproveitar a janela para renegociar contratos e travar preços agora, sem tratar esse movimento como tendência garantida — pesquisa eleitoral ainda pode virar de novo até outubro.",
     "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-02092026/",
     "posicao": 1,
-    "batch_date": "2026-09-03"
-  },
-  {
-    "tag": "Exportação",
-    "titulo": "UE suspende importação de carne bovina, frango, ovos e mel do Brasil a partir de hoje",
-    "fonte": "Forbes Brasil",
-    "data": "03 Set",
-    "resumo": "Bloco europeu barra produtos animais brasileiros por falta de garantias sobre uso de antimicrobianos na pecuária.",
-    "conteudo": "A partir desta quinta-feira (3/9), a União Europeia suspendeu as importações de carne bovina, frango, ovos e mel do Brasil, depois de retirar o país, em maio, da lista de nações que cumprem as regras do bloco sobre uso de antimicrobianos na criação de animais. Em 2025, o Brasil foi o segundo maior exportador de carne bovina para a UE, com mais de 92 mil toneladas embarcadas e receita acima de €713 milhões; segundo o próprio bloco, a retomada das compras de frango e mel pode ser mais rápida, condicionada ao resultado de uma auditoria em andamento, enquanto o processo para a carne bovina tende a ser mais demorado.\n\nPara exportadores desses setores, o efeito imediato é buscar mercados alternativos — Oriente Médio e Ásia já absorvem parte do volume que hoje vai para a Europa — e revisar contratos de câmbio e logística montados em torno do fluxo europeu. Mesmo quem não exporta diretamente sente o reflexo: o volume de carne e frango que deixa de ir para a UE tende a sobrar no mercado interno e pressionar preços para baixo no curto prazo, o que pode virar oportunidade para negócios de alimentação e food service renegociarem condições com fornecedores.",
-    "url": "https://forbes.com.br/forbes-agro/2026/09/ue-diz-que-suspendera-importacoes-de-carne-do-brasil-a-partir-de-3-de-setembro/",
-    "posicao": 2,
-    "batch_date": "2026-09-03"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Startup Summit fecha com até R$ 412 milhões em intenções de investimento",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "03 Set",
-    "resumo": "Balanço final do evento em Florianópolis (26 a 28/8) consolida rodadas de negócio entre 1.000 startups e 250 fundos de investimento.",
-    "conteudo": "O balanço final do Startup Summit 2026, divulgado pelo Sebrae, mostra que as rodadas de negócios realizadas durante o evento em Florianópolis, entre 26 e 28 de agosto, resultaram em intenções de investimento entre R$ 210 milhões e R$ 412 milhões. O número consolida os compromissos registrados nos encontros entre as 1.000 startups expositoras e 250 fundos de investimento nacionais e estrangeiros presentes, num evento que também reuniu 200 palestrantes.\n\nUma intenção de investimento ainda não é dinheiro em caixa — o valor final depende de due diligence e negociação de termos, processo que costuma levar meses. Ainda assim, o volume mostra que capital para startups em estágio inicial segue circulando mesmo com a Selic em patamar elevado, e serve de termômetro para fundadores calibrarem expectativa de valuation e prazo de captação ao planejar a próxima rodada.",
-    "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/startup-summit-2026-registra-ate-r-412-milhoes-em-intencao-de-investimentos/",
-    "posicao": 3,
-    "batch_date": "2026-09-03"
-  },
-  {
-    "tag": "Varejo",
-    "titulo": "Magalu fecha parceria com Mercado Livre e ação dispara 17% na bolsa",
-    "fonte": "Money Times",
-    "data": "03 Set",
-    "resumo": "Magazine Luiza vai vender cerca de 27 mil produtos próprios dentro do marketplace do Mercado Livre, com entrega pelo Magalog.",
-    "conteudo": "A Magazine Luiza fechou parceria para listar cerca de 27 mil produtos de estoque próprio — das marcas Magazine Luiza, KaBuM! e Época Cosméticos — dentro do marketplace do Mercado Livre, com vendas já começando em setembro. A entrega ficará a cargo do Magalog, operador logístico da própria Magalu, e o anúncio surpreendeu o mercado justamente por unir duas plataformas rivais: as ações da varejista (MGLU3) dispararam cerca de 17% na sessão desta quarta-feira (2/9), cotadas a R$ 5,40.\n\nO movimento mostra uma tendência que vale para negócios de qualquer porte: em vez de competir sozinho por tráfego e atenção do consumidor, cada vez mais faz sentido vender dentro de marketplaces que já têm audiência formada, mesmo quando eles concorrem em outras frentes. Quem vende online e ainda não está presente em grandes marketplaces pode usar esse caso para justificar internamente o investimento em integração com essas plataformas, avaliando o impacto na margem antes de migrar um volume relevante de vendas para lá.",
-    "url": "https://www.moneytimes.com.br/magazine-luiza-mglu3-fecha-parceria-com-o-mercado-livre-lmrs/",
-    "posicao": 4,
     "batch_date": "2026-09-03"
   }
 ]
