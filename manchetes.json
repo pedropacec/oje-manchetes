@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Combustíveis",
+    "titulo": "Petróleo perto de US$ 100 aumenta pressão por reajuste de combustíveis",
+    "fonte": "Seu Dinheiro",
+    "data": "08 Set",
+    "resumo": "Brent fechou perto da marca psicológica de US$ 100 por barril nesta semana, e cresce a aposta em novo aumento de gasolina e diesel pela Petrobras.",
+    "conteudo": "O barril do petróleo Brent fechou a US$ 97,29 na segunda-feira (7/9), alta de 1,05% no dia e avanço de quase 11% em um mês, puxado pela escalada de ataques a instalações de energia na Arábia Saudita em meio ao conflito entre Estados Unidos e Irã. O preço já está cerca de 47% acima do praticado há um ano, e o Goldman Sachs projeta o barril a até US$ 120 se os ataques a rotas de navegação se intensificarem. Nos Estados Unidos e na Europa as distribuidoras já reajustaram os preços nas bombas, o que aumenta a pressão para que a Petrobras faça o mesmo no Brasil.\n\nPara transportadoras, comércio com frota própria e qualquer negócio que dependa de logística, o defasamento entre o preço internacional e o praticado aqui tende a se estreitar nas próximas semanas, encarecendo frete e entrega. Vale negociar agora contrato de transporte com cláusula de reajuste atrelada ao diesel e revisar a política de preços do próprio negócio, para não ser pego de surpresa caso a Petrobras anuncie novo aumento antes do fim do mês.",
+    "url": "https://www.seudinheiro.com/2026/empresas/ate-quando-a-petrobras-petr4-vai-aguentar-petroleo-acima-de-us-100-aumenta-a-pressao-sobre-o-reajuste-da-gasolina-lvgb/",
+    "posicao": 1,
+    "batch_date": "2026-09-08"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Fachin dá até 11/9 para Moraes e Mendonça se explicarem sobre caso Vorcaro",
+    "fonte": "CNN Brasil",
+    "data": "08 Set",
+    "resumo": "Presidente do STF abriu prazo de cinco dias úteis para ministros e PGR se manifestarem sobre a crise aberta pelas mensagens entre Moraes e o banqueiro Daniel Vorcaro.",
+    "conteudo": "O presidente do STF, ministro Edson Fachin, determinou na quinta-feira (3/9) que Alexandre de Moraes, André Mendonça, o procurador-geral Paulo Gonet e o diretor-geral da Polícia Federal, Andrei Rodrigues, apresentem manifestação sobre a crise do caso Vorcaro em até cinco dias úteis, com prazo até esta sexta (11/9). A determinação segue a decisão de Mendonça, de 1º de setembro, de retirar o sigilo de um relatório da PF que mostra mensagens entre Moraes e Daniel Vorcaro, fundador do Banco Master — banco liquidado pelo Banco Central cujo rombo já consumiu mais de R$ 40 bilhões do Fundo Garantidor de Créditos (FGC). A análise do caso no plenário do STF foi empurrada para depois de 14 de setembro.\n\nO episódio prolonga um período de instabilidade institucional às vésperas do primeiro turno das eleições, em 4 de outubro, o que tende a manter o prêmio de risco elevado sobre câmbio e juros de curto prazo enquanto o desfecho não fica claro. Para quem mantém caixa em bancos médios, o caso Master também é lembrete prático: o teto de garantia do FGC é de R$ 250 mil por CPF ou CNPJ em cada instituição, então vale revisar a concentração de recursos da empresa em um único banco antes de qualquer nova turbulência no setor financeiro.",
+    "url": "https://www.cnnbrasil.com.br/politica/fachin-da-5-dias-para-manifestacao-de-moraes-mendonca-andrei-e-gonet/",
+    "posicao": 2,
+    "batch_date": "2026-09-08"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Startups brasileiras captam US$ 377 milhões em agosto, alta de 364%",
+    "fonte": "Bloomberg Línea",
+    "data": "08 Set",
+    "resumo": "Levantamento da Bloomberg Línea mostra recuperação nas rodadas de investimento no Brasil em agosto, puxada por fintechs e por startups de inteligência artificial.",
+    "conteudo": "Startups da América Latina captaram US$ 627 milhões em 40 rodadas em agosto de 2026, e as brasileiras ficaram com 60% desse total — US$ 377 milhões, salto de 364% sobre julho. Fintechs dominaram as captações da região, concentrando 83% do capital (US$ 518 milhões), enquanto startups de inteligência artificial levantaram US$ 165 milhões. Do total investido, US$ 230 milhões vieram de rodadas de equity (37%), US$ 174 milhões de operações de dívida, US$ 115 milhões de FIDCs e US$ 108 milhões de operações que combinam equity e FIDC.\n\nO salto não significa volta de dinheiro fácil: o capital segue concentrado em empresas que já provam geração de caixa ou redução de custo mensurável, sobretudo em crédito e automação com IA, e não em ideias em estágio inicial. Para quem busca investimento agora, vale ajustar o discurso para métricas de receita recorrente e eficiência operacional em vez de potencial de crescimento; e para negócios com recebíveis previsíveis, o peso crescente de dívida e FIDCs no total captado mostra que crédito estruturado pode ser alternativa à diluição societária.",
+    "url": "https://www.bloomberglinea.com.br/startups/rodadas-da-semana-startups-brasileiras-captaram-us-377-milhoes-em-agosto/",
+    "posicao": 3,
+    "batch_date": "2026-09-08"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Sharpi capta US$ 4 milhões para automatizar vendas B2B pelo WhatsApp",
+    "fonte": "Startups.com.br",
+    "data": "08 Set",
+    "resumo": "Startup que transforma mensagens de WhatsApp em pedido estruturado no ERP capta rodada seed liderada por NXTP e ONEVC, com clientes na distribuição e na indústria.",
+    "conteudo": "A Sharpi, startup fundada em 2023 que transforma mensagens, áudios e arquivos trocados no WhatsApp em pedidos estruturados dentro do ERP do cliente, captou rodada seed de US$ 4 milhões liderada pelos fundos NXTP e ONEVC, com participação de Clocktower Ventures e MAYA Capital — que já haviam investido no pré-seed de US$ 1,2 milhão da empresa. A tecnologia integra sistemas como SAP, Totvs e Sankhya e promete reduzir o tempo de processamento de um pedido de até 8 horas para cerca de 30 minutos, com precisão de até 98%. A base de clientes ativos saltou de cerca de seis para mais de vinte nos últimos meses, com crescimento mensal de 60% e mais de R$ 2 bilhões em transações já processadas pela plataforma.\n\nPara donos de negócio de distribuição, atacado e indústria que ainda fecham grande parte dos pedidos por WhatsApp de forma manual, o caso mostra que dá para automatizar essa etapa sem trocar o ERP já em uso. Antes de contratar uma solução do tipo, vale medir quanto tempo a equipe comercial gasta hoje digitando pedido recebido por mensagem e comparar com o custo da ferramenta — o ganho tende a aparecer rápido em operações com alto volume de pedidos recorrentes.",
+    "url": "https://startups.com.br/negocios/rodada-de-investimento/sharpi-capta-us-4m-para-conectar-whatsapp-a-erps/",
+    "posicao": 4,
+    "batch_date": "2026-09-08"
+  },
+  {
     "tag": "Tarifas",
     "titulo": "Brasil e EUA reabrem negociação sobre tarifaço, mas sem acordo ainda",
     "fonte": "Poder360",
@@ -119,60 +163,5 @@
     "url": "https://www.infomoney.com.br/economia/payroll-relatorio-emprego-eua-agosto-2026/",
     "posicao": 3,
     "batch_date": "2026-09-05"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa trava sequência de 11 altas; dólar em R$ 5,11 à espera do payroll dos EUA",
-    "fonte": "Money Times",
-    "data": "04 Set",
-    "resumo": "Bolsa bateu 188,9 mil pontos na quinta e fechou estável; mercado agora observa o relatório de emprego americano.",
-    "conteudo": "O Ibovespa chegou a bater 188.891 pontos na máxima de quinta-feira (3/9), o maior nível desde o início de maio, mas devolveu parte do ganho e fechou o dia praticamente estável, em 185.188 pontos — encerrando uma sequência de 11 pregões seguidos de alta. O dólar seguiu a mesma toada e fechou cotado pouco abaixo de R$ 5,11. Nesta sexta-feira (4/9), o mercado brasileiro opera de olho no payroll dos EUA, relatório de emprego divulgado às 9h30 (horário de Brasília), com analistas projetando a criação de cerca de 55 mil vagas fora da agricultura em agosto.\n\nO payroll costuma mexer rápido com juros americanos, dólar e fluxo para mercados emergentes como o Brasil — um número de emprego muito forte tende a elevar os juros dos títulos dos EUA, fortalecer o dólar lá fora e pressionar ações e câmbio por aqui. Para quem tem contrato, insumo ou dívida atrelados ao dólar, vale acompanhar o resultado desta sexta antes de fechar preços ou travar câmbio: depois de 11 altas seguidas e o real perto de R$ 5,10, o espaço para surpresas negativas no curto prazo aumentou.",
-    "url": "https://www.moneytimes.com.br/mercado-aguarda-payroll-com-apostas-divididas-sobre-os-juros-ibovespa-em-dolar-sobe-nesta-sexta-feira-4/",
-    "posicao": 1,
-    "batch_date": "2026-09-04"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Copom se reúne dia 15/9 com corte de 0,25 ponto na Selic no radar",
-    "fonte": "InfoMoney",
-    "data": "04 Set",
-    "resumo": "Boletim Focus mantém projeção da Selic em 13,75% ao ano para o fim de 2026, com espaço estreito para novos cortes.",
-    "conteudo": "O Copom volta a se reunir nos dias 15 e 16 de setembro, e o mercado trabalha com uma redução de 0,25 ponto percentual na Selic, hoje em 14,00% ao ano após o corte de agosto. O sinal veio do IPCA-15, que surpreendeu para baixo, mas a inflação em 12 meses acelerou a 4,37% e a projeção para 2026 subiu a 4,86% — acima do teto de 4,5% da meta contínua, o que limita o espaço para cortes adicionais. O Boletim Focus mais recente, divulgado em 31/8, manteve pela quarta semana seguida a estimativa da Selic em 13,75% ao ano para o fim de 2026 e reduziu a projeção de crescimento do PIB para 1,92%.\n\nNa prática, mesmo com um eventual corte este mês, o crédito para empresas segue caro por bastante tempo — juro de dois dígitos altos não sai do orçamento tão cedo. Quem tem dívida a taxa flutuante ou está avaliando financiar capital de giro ou expansão deve considerar travar taxa fixa agora e não apostar numa queda rápida do custo do crédito ao longo de 2026; o ciclo de afrouxamento monetário segue lento e sujeito a pausas se a inflação não ceder.",
-    "url": "https://www.infomoney.com.br/economia/reuniao-copom-selic-manutencao-corte-2026/",
-    "posicao": 2,
-    "batch_date": "2026-09-04"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Projeto eleva teto do MEI para R$ 140 mil, mas Câmara adia votação",
-    "fonte": "Câmara dos Deputados",
-    "data": "04 Set",
-    "resumo": "PLP 186/2026 do governo aumenta o faturamento permitido do MEI e libera contratar 2 funcionários, mas o texto ainda tramita.",
-    "conteudo": "Enviado pelo governo à Câmara em 29 de junho, o PLP 186/2026 eleva o teto de faturamento anual do MEI dos atuais R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil a partir de 2028, além de permitir a contratação de até dois funcionários — hoje o limite é um. O projeto também prevê ajuste nas demais faixas do Simples Nacional, elevando o teto das microempresas de R$ 360 mil para R$ 1,2 milhão e das empresas de pequeno porte de R$ 4,8 milhões para R$ 12 milhões. O texto segue em análise nas comissões temáticas da Câmara, com a votação em plenário adiada para o segundo semestre de 2026.\n\nPara quem já bateu ou está perto do teto atual de R$ 81 mil, a proposta pode adiar a migração forçada para microempresa — com toda a burocracia e carga tributária extra que isso traz — até 2027 ou 2028. Mas como o projeto ainda não foi votado, nada muda na prática hoje: o MEI que está no limite precisa continuar planejando o enquadramento pelas regras atuais e acompanhar a tramitação antes de expandir contratação ou faturamento apostando numa mudança que ainda não é lei.",
-    "url": "https://www.camara.leg.br/noticias/1286510-projeto-do-governo-aumenta-teto-da-receita-de-mei-para-ate-r-140-mil-em-2028/",
-    "posicao": 3,
-    "batch_date": "2026-09-04"
-  },
-  {
-    "tag": "Exportação",
-    "titulo": "Balança comercial cresce 30% no ano e mira superávit recorde de US$ 90 bi em 2026",
-    "fonte": "Agrolink",
-    "data": "04 Set",
-    "resumo": "Saldo comercial do Brasil já soma US$ 54,15 bilhões em 2026, alta puxada por indústria extrativa e agropecuária.",
-    "conteudo": "Até a terceira semana de agosto, a balança comercial brasileira acumulou superávit de US$ 5,11 bilhões no mês, alta de 19,7% ante o mesmo período de 2025, com exportações de US$ 24,14 bilhões (+14,3%) e importações de US$ 19,03 bilhões (+13%), segundo dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). No acumulado de 2026, o saldo positivo já soma US$ 54,15 bilhões, avanço de 30,2% sobre igual período do ano passado, puxado por indústria extrativa (+34,2%) e agropecuária (+9,8%); o MDIC projeta superávit recorde de US$ 90 bilhões para o ano fechado.\n\nUm superávit crescente reforça a entrada de dólares no país e ajuda a segurar o câmbio mais baixo, o que barateia insumos e equipamentos importados — bom para quem depende de matéria-prima estrangeira. Mas o resultado também mostra que boa parte do fôlego vem de commodities (minério, petróleo, grãos), setores pouco sensíveis ao câmbio; para negócios que exportam manufaturados ou serviços, o cenário pede atenção à competitividade fora das commodities e ao andamento das negociações tarifárias com os EUA, que ainda pesam sobre parte da pauta exportadora brasileira.",
-    "url": "https://www.agrolink.com.br/noticias/balanca-comercial--brasil-acumula-superavit-de-us--52-bilhoes_517998.html",
-    "posicao": 4,
-    "batch_date": "2026-09-04"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa dispara 3% a 185 mil pontos e dólar cai a R$ 5,09 com trégua eleitoral",
-    "fonte": "InfoMoney",
-    "data": "03 Set",
-    "resumo": "Bolsa emenda 11ª alta seguida após pesquisa mostrar Lula e Flávio Bolsonaro tecnicamente empatados no 2º turno.",
-    "conteudo": "O Ibovespa fechou a quarta-feira (2/9) aos 185.205 pontos, alta de 3,05% e a 11ª sessão seguida de valorização, puxado por ações como Vale e Itaú Unibanco — o maior fechamento do índice desde o início de maio. O movimento veio depois que uma pesquisa Quaest apontou o presidente Lula com 42% das intenções de voto num eventual segundo turno contra 41% do senador Flávio Bolsonaro, um empate técnico dentro da margem de erro. No câmbio, o dólar recuou e fechou cotado a R$ 5,09, reforçando a leitura do mercado de que um resultado eleitoral mais competitivo reduz o risco de rupturas bruscas na política econômica.\n\nBolsa em alta e dólar mais baixo tendem a baratear insumos e equipamentos importados e a destravar um pouco mais o crédito, já que investidores mais confiantes cobram prêmios de risco menores das empresas brasileiras. Para quem depende de importação ou tem dívida atrelada à variação cambial, vale aproveitar a janela para renegociar contratos e travar preços agora, sem tratar esse movimento como tendência garantida — pesquisa eleitoral ainda pode virar de novo até outubro.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-02092026/",
-    "posicao": 1,
-    "batch_date": "2026-09-03"
   }
 ]
