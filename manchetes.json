@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Ibovespa fecha no maior nível desde maio e dólar cai a R$ 5,09",
+    "fonte": "Brasil 247",
+    "data": "09 Set",
+    "resumo": "Bolsa brasileira encadeou mais um pregão positivo nesta terça (8/9) e o dólar recuou ao menor patamar em um mês, com investidor estrangeiro voltando aos ativos brasileiros.",
+    "conteudo": "O Ibovespa fechou a terça-feira (8/9) em alta de 1,20%, aos 187.366,84 pontos — maior nível desde 4 de maio —, puxado por ações de bancos e de commodities em meio ao retorno do fluxo de capital estrangeiro à bolsa brasileira. No mesmo pregão, o dólar recuou 0,79% e encerrou cotado a R$ 5,089, o menor valor em um mês, mesmo com o cenário externo pressionado por petróleo acima de US$ 90 o barril e juros ainda elevados dos títulos do Tesouro americano.\n\nPara negócios que compram insumo, equipamento ou matéria-prima importada, o dólar mais barato reduz o custo de reposição de estoque nas próximas semanas — vale aproveitar a janela para negociar ou travar câmbio em pedidos de importação já planejados. Já quem exporta sente o efeito contrário na margem em reais, o que reforça a importância de acompanhar a cotação diária antes de fechar contrato de médio prazo com cliente no exterior.",
+    "url": "https://www.brasil247.com/economia/dolar-cai-a-r-508-e-atinge-menor-valor-em-um-mes-e-ibovespa-avanca/",
+    "posicao": 1,
+    "batch_date": "2026-09-09"
+  },
+  {
+    "tag": "Indústria",
+    "titulo": "Produção de veículos tem melhor agosto desde 2013, mostra Anfavea",
+    "fonte": "Forbes Brasil",
+    "data": "09 Set",
+    "resumo": "Fabricantes produziram 271,2 mil veículos em agosto, alta de 9,4% sobre o mesmo mês de 2025, e as vendas internas saltaram 22,1% na mesma comparação.",
+    "conteudo": "A Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea) informou nesta terça-feira (8/9) que a produção de veículos somou 271,2 mil unidades em agosto, alta de 6,8% sobre julho e de 9,4% ante agosto de 2025 — o melhor resultado do mês desde 2013, segundo o presidente da entidade, Igor Calvet. As vendas no mercado interno chegaram a 275,1 mil unidades, salto de 22,1% em um ano, e veículos elétricos e híbridos já respondem por 24,4% dos emplacamentos do mês; no acumulado do ano, a produção soma quase 1,9 milhão de unidades, alta de 8,5%.\n\nO desempenho do setor automotivo costuma antecipar o ritmo da indústria como um todo, puxando autopeças, siderurgia, logística e revenda — uma cadeia que também sustenta pequenos negócios fornecedores de montadoras e concessionárias. Para quem está fora do setor, o dado funciona como termômetro de crédito e consumo: alta nas vendas de bens duráveis costuma vir acompanhada de mais disposição do consumidor para gastar em outras categorias, o que pode ajudar o faturamento do varejo e dos serviços no fim do ano.",
+    "url": "https://forbes.com.br/forbes-money/2026/09/producao-veiculos-brasil-anfa-vea-agosto-2026/",
+    "posicao": 2,
+    "batch_date": "2026-09-09"
+  },
+  {
+    "tag": "MEI",
+    "titulo": "Projeto que eleva teto do MEI para R$ 130 mil segue parado na Câmara",
+    "fonte": "Exame",
+    "data": "09 Set",
+    "resumo": "Regime de urgência foi aprovado ainda em março e comissão especial foi instalada em abril, mas o plenário não votou o novo limite de faturamento, e o teto de R$ 81 mil segue valendo.",
+    "conteudo": "A Câmara dos Deputados aprovou em regime de urgência, em março, o Projeto de Lei Complementar 108/2021, que eleva o teto de faturamento anual do Microempreendedor Individual (MEI) de R$ 81 mil para R$ 130 mil — valor já aprovado pelo Senado —, patamar que pode chegar a R$ 144,9 mil na versão em discussão na Câmara, além de permitir a contratação de até dois funcionários. Uma comissão especial para relatar o texto foi instalada em 29 de abril, e o relator, deputado Jorge Goetten, chegou a avaliar que a votação em plenário sairia ainda em agosto, mas o texto segue sem data confirmada, pendente de acordo com o governo sobre o alcance da atualização — e o teto de R$ 81 mil, o mesmo desde 2018, continua em vigor.\n\nEnquanto o novo teto não sai do papel, quem está perto de bater o limite de R$ 81 mil em 2026 corre o risco de ser desenquadrado do MEI automaticamente em 2027, migrando para o Simples Nacional — regime com alíquotas maiores e mais obrigação acessória. Vale simular agora o faturamento projetado até dezembro com o contador e, se o limite for estourado, já planejar a transição para microempresa em vez de contar com uma mudança de lei que, mesmo aprovada, não deve valer de forma retroativa para o faturamento já realizado em 2026.",
+    "url": "https://exame.com/economia/camara-aprova-regime-de-urgencia-para-projeto-que-eleva-teto-do-faturamento-de-meis/",
+    "posicao": 3,
+    "batch_date": "2026-09-09"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Abertura de pequenos negócios cresce quase 14% no país, mostra Sebrae",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "09 Set",
+    "resumo": "Levantamento do Sebrae com base em dados da Receita Federal mostra 2,05 milhões de novos pequenos negócios abertos entre janeiro e abril, puxados pelo setor de serviços.",
+    "conteudo": "Levantamento do Sebrae com base em dados da Receita Federal mostra que o Brasil somou 2.050.548 novos pequenos negócios — MEIs, microempresas e pequenas empresas — entre janeiro e abril de 2026, alta de quase 14% sobre o mesmo período de 2025 e equivalente a 97% de todos os CNPJs abertos no país no intervalo. O setor de Serviços liderou as aberturas, com 1.327.408 novos registros (+15%), seguido por Comércio (411,8 mil), Indústria (159,7 mil), Construção (136,3 mil) e Agropecuária (15,4 mil); São Paulo, Minas Gerais e Rio de Janeiro concentraram quase metade das novas empresas no período.\n\nO ritmo de abertura mostra que empreender segue sendo alternativa concreta de renda e ocupação mesmo com juros altos, e reforça que quem vende produto ou serviço para outros pequenos negócios — contabilidade, tecnologia, insumo, embalagem — tem uma base de clientes potenciais crescendo a dois dígitos ao ano. Para quem está avaliando abrir empresa agora, o dado também é um alerta de concorrência: em setores como serviços e comércio, que concentram a maior parte das aberturas, diferenciação de nicho e atendimento tendem a pesar mais do que apenas entrar no mercado.",
+    "url": "https://agenciasebrae.com.br/dados/empreendedorismo-em-alta-abertura-de-novos-pequenos-negocios-cresce-14-em-2026/",
+    "posicao": 4,
+    "batch_date": "2026-09-09"
+  },
+  {
     "tag": "Combustíveis",
     "titulo": "Petróleo perto de US$ 100 aumenta pressão por reajuste de combustíveis",
     "fonte": "Seu Dinheiro",
@@ -130,38 +174,5 @@
     "url": "https://www.cnnbrasil.com.br/economia/money/negocios/bull-capta-r-20-milhoes-para-investir-em-plataforma-de-credito-e-ia/",
     "posicao": 4,
     "batch_date": "2026-09-06"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Simples Nacional tem até 30/9 para decidir sobre IBS e CBS de 2027",
-    "fonte": "Receita Federal",
-    "data": "05 Set",
-    "resumo": "Resolução CGSN nº 186/2026 abre janela para micro e pequenas empresas optarem entre manter tudo na guia única ou recolher os novos tributos por fora.",
-    "conteudo": "A Resolução CGSN nº 186/2026, publicada em abril, abriu de 1º a 30 de setembro a janela para micro e pequenas empresas do Simples Nacional decidirem, pelo Portal do Simples, como vão recolher o IBS e a CBS a partir de janeiro de 2027. A opção padrão mantém tudo na guia única do DAS; mas quem quiser pode escolher o chamado regime híbrido, recolhendo IBS e CBS separadamente, pelo regime regular, entre janeiro e junho de 2027 — o que pode gerar crédito tributário para os clientes que comprarem da empresa. A escolha pode ser cancelada até o fim de novembro.\n\nQuem vende principalmente para o consumidor final tende a não sentir diferença e pode manter a guia única sem se preocupar. Já quem fatura majoritariamente para outras empresas — fornecedores, prestadores de serviço para indústria e afins — deve avaliar com o contador se vale a pena sair do DAS nessa parte, porque gerar crédito de IBS/CBS pode pesar na hora de não perder cliente para um concorrente do regime regular. É a primeira decisão prática da reforma tributária para quem está no Simples, e deixar passar o prazo pode custar competitividade já em 2027.",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/abril/cgsn-define-prazos-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-para-2027",
-    "posicao": 1,
-    "batch_date": "2026-09-05"
-  },
-  {
-    "tag": "Trabalho",
-    "titulo": "CCJ do Senado aprova fim da escala 6x1; PEC vai ao plenário",
-    "fonte": "Senado Notícias",
-    "data": "05 Set",
-    "resumo": "Proposta reduz jornada de 44 para 40 horas sem cortar salário; estudos apontam alta de até 22% no custo da hora trabalhada.",
-    "conteudo": "A Comissão de Constituição e Justiça do Senado aprovou, em 2 de setembro, o texto da PEC 221/2019, relatada pelo senador Omar Aziz (PSD-AM), que reduz a jornada máxima semanal de 44 para 40 horas, com até 8 horas diárias e dois dias de descanso remunerado — um deles preferencialmente aos domingos —, sem redução de salário. A matéria segue agora para o plenário do Senado, onde precisa de 49 dos 81 votos, em dois turnos, para ser promulgada; o governo articula convocar sessão extraordinária ainda em setembro para tentar aprovar a mudança antes do recesso eleitoral.\n\nPara quem opera com escala 6x1 — comércio, serviços, indústria com turnos —, cálculos que já circulam entre entidades como a Fecomércio-SP apontam alta de até 22% no custo da hora trabalhada, e a CNI estima impacto de R$ 178 bilhões a R$ 267 bilhões ao ano para o setor produtivo como um todo; pequenos e médios negócios, com a folha pesando mais na receita, tendem a sentir o aperto primeiro. Mesmo sem lei aprovada, vale simular agora o efeito de uma escala 5x2 no quadro de funcionários, porque a proposta ganhou força política para andar rápido no Senado nas próximas semanas.",
-    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario",
-    "posicao": 2,
-    "batch_date": "2026-09-05"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Payroll dos EUA surpreende com 162 mil vagas; dólar sobe a R$ 5,13",
-    "fonte": "InfoMoney",
-    "data": "05 Set",
-    "resumo": "Criação de empregos nos EUA veio quase 3x acima do esperado em agosto, reforçando aposta em juro americano mais alto por mais tempo.",
-    "conteudo": "O payroll de agosto nos Estados Unidos, divulgado nesta sexta-feira (4/9), mostrou a criação de 162 mil vagas de trabalho, bem acima da previsão de cerca de 56 mil do consenso Reuters; a taxa de desemprego ficou estável em 4,1% e o salário médio por hora subiu 3,1% em 12 meses, acima do esperado. Com o mercado de trabalho americano mais aquecido do que se imaginava, cresceu a aposta de que o Federal Reserve mantenha os juros altos por mais tempo. No Brasil, o dólar fechou a sexta a R$ 5,13, alta de 0,52% no dia, e o Ibovespa amenizou a queda mas encerrou perto da estabilidade, interrompendo a sequência de 11 pregões seguidos de alta.\n\nPayroll forte nos EUA tende a segurar o dólar mais caro e os juros americanos mais altos por mais tempo, o que encarece dívida e insumo importado cotados em dólar e reduz o apetite do investidor estrangeiro por ativos de mercados emergentes como o Brasil. Quem depende de matéria-prima ou equipamento importado, ou tem parcela da dívida atrelada ao câmbio, deve considerar travar preço ou proteção cambial agora: o cenário de juro americano elevado por mais tempo tende a manter o real pressionado nas próximas semanas.",
-    "url": "https://www.infomoney.com.br/economia/payroll-relatorio-emprego-eua-agosto-2026/",
-    "posicao": 3,
-    "batch_date": "2026-09-05"
   }
 ]
