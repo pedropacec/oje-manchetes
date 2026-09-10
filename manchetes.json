@@ -1,6 +1,50 @@
 [
   {
     "tag": "Mercado",
+    "titulo": "Bolsa cai e dólar sobe a R$ 5,11 com escalada no Oriente Médio",
+    "fonte": "Poder360",
+    "data": "10 Set",
+    "resumo": "Ibovespa perdeu 0,93% nesta quarta (9/9) e o dólar subiu a R$ 5,112, com o petróleo Brent acima de US$ 101 após novos ataques entre EUA, Irã e Arábia Saudita.",
+    "conteudo": "O Ibovespa fechou a quarta-feira (9/9) em queda de 0,93%, aos 185.629,05 pontos, enquanto o dólar avançou e foi cotado a R$ 5,112. O movimento acompanhou a piora do conflito no Oriente Médio: o petróleo Brent para novembro fechou acima de US$ 101 o barril, o maior nível desde julho, depois de uma troca de ataques entre Estados Unidos e Irã e de uma nova ofensiva de rebeldes houthis do Iêmen contra instalações de energia na Arábia Saudita.\n\nPara quem depende de frete, combustível ou insumo importado, a combinação de petróleo mais caro e dólar em alta tende a elevar o custo de operação nas próximas semanas — vale reforçar o controle de estoque e evitar travar contrato longo em dólar sem proteção cambial enquanto o conflito não se estabiliza. A oscilação também é um alerta para quem tem caixa aplicado em renda variável: dias de aversão a risco como esse podem se repetir enquanto durar a tensão geopolítica.",
+    "url": "https://www.poder360.com.br/poder-economia/ibovespa-cai-093-e-fecha-a-185-629-pontos-dolar-avanca-a-r-5112/",
+    "posicao": 1,
+    "batch_date": "2026-09-10"
+  },
+  {
+    "tag": "Combustíveis",
+    "titulo": "Petrobras reajusta gasolina e preço sobe a R$ 3,24 nas distribuidoras hoje",
+    "fonte": "Brasil 247",
+    "data": "10 Set",
+    "resumo": "A partir desta quinta (10/9), a gasolina A vendida pela Petrobras às distribuidoras passa a custar R$ 3,24 por litro, após reajuste de R$ 0,19 e fim de um desconto temporário.",
+    "conteudo": "A Petrobras anunciou nesta quarta-feira (9/9) reajuste de R$ 0,19 por litro na gasolina A vendida às distribuidoras, elevando o preço médio para R$ 3,24 a partir desta quinta-feira (10/9). O aumento decorre do fim do desconto de R$ 0,44 por litro que a estatal vinha aplicando sob a Medida Provisória 1.358/2026, cuja validade se encerrou; para segurar o impacto no bolso do consumidor, o governo federal reduziu em R$ 0,63 por litro os tributos federais sobre o combustível, o que deve neutralizar a alta nos postos.\n\nMesmo com a compensação tributária, o repasse até a bomba varia de posto a posto e de região, o que pode pressionar o custo de frete e logística de quem depende de entrega própria ou terceirizada. Donos de negócio que usam veículo no dia a dia — de food truck a prestador de serviço — devem monitorar o preço local nos próximos dias e reavaliar rota ou renegociar contrato de transporte caso o repasse na sua região fique acima do previsto pelo governo.",
+    "url": "https://www.brasil247.com/economia/petrobras-ajusta-gasolina-a-r-324-por-litro-e-governo-corta-tributos-para-conter-alta-de-precos/",
+    "posicao": 2,
+    "batch_date": "2026-09-10"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Empresas do Simples têm até 30/9 para escolher regime de IBS e CBS de 2027",
+    "fonte": "Contábeis",
+    "data": "10 Set",
+    "resumo": "Empresas optantes pelo Simples Nacional precisam decidir até o fim de setembro se recolherão IBS e CBS na guia única ou em regime híbrido separado a partir de 2027.",
+    "conteudo": "A Receita Federal abriu, de 1º a 30 de setembro de 2026, a janela para as empresas do Simples Nacional escolherem a forma de recolhimento dos novos tributos da reforma tributária — o IBS e a CBS — que vale para 2027. A opção é entre manter os dois tributos dentro da guia única do Simples, no modelo tradicional, ou migrar para o regime híbrido, em que IBS e CBS passam a ser apurados e pagos separadamente, fora do DAS; o MEI fica de fora dessa escolha, já que seu calendário de adesão continua sendo em janeiro, sem opção pelo regime híbrido. Quem não se manifestar dentro do prazo permanece automaticamente no modelo tradicional a partir de janeiro de 2027.\n\nEssa decisão de setembro é o primeiro efeito prático da reforma tributária no caixa de milhões de pequenos negócios: o regime híbrido pode reduzir a carga em operações com bastante crédito de insumo, como indústria e comércio que compram de fornecedor também no regime regular, mas exige controle fiscal mais sofisticado do que a guia única. Vale rodar a simulação com o contador antes do fim do mês — a escolha feita agora só produz efeito em 2027, mas errar a opção pode significar pagar mais imposto do que o necessário durante todo o próximo ano.",
+    "url": "https://www.contabeis.com.br/artigos/78874/simples-nacional-e-reforma-setembro-2026-define-impostos-2027/",
+    "posicao": 3,
+    "batch_date": "2026-09-10"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Hotmart Fire reúne 10 mil empreendedores digitais em BH até sábado",
+    "fonte": "Portal Belo Horizonte",
+    "data": "10 Set",
+    "resumo": "O maior festival de marketing digital e empreendedorismo da América Latina começa hoje na Expominas, com mais de 140 palestrantes e ingresso a partir de R$ 687.",
+    "conteudo": "A 11ª edição do Hotmart Fire começa nesta quinta-feira (10/9) na Expominas, em Belo Horizonte, e segue até sábado (12/9), reunindo cerca de 10 mil participantes entre empreendedores digitais, criadores de conteúdo e profissionais de marketing. São mais de 140 palestrantes e 100 horas de programação, com trilhas sobre gestão de tráfego pago, inteligência artificial aplicada a vendas, precificação, construção de marca e administração de negócio digital; os ingressos partem de R$ 687.\n\nPara quem toca negócio fora do universo de infoprodutos, o evento vale menos pelo palco principal e mais pelas trilhas técnicas de tráfego pago, IA para vendas e precificação — temas que servem a qualquer operação que venda online, mesmo produto físico. Estar em BH nesta semana também é oportunidade de networking direto com fornecedor de tecnologia e agência que normalmente só aparecem em evento de São Paulo, reduzindo o custo de deslocamento para quem já está na região.",
+    "url": "https://portalbelohorizonte.com.br/2026/eventos/festival/marketing/fire-festival-2026",
+    "posicao": 4,
+    "batch_date": "2026-09-10"
+  },
+  {
+    "tag": "Mercado",
     "titulo": "Ibovespa fecha no maior nível desde maio e dólar cai a R$ 5,09",
     "fonte": "Brasil 247",
     "data": "09 Set",
@@ -86,93 +130,5 @@
     "url": "https://startups.com.br/negocios/rodada-de-investimento/sharpi-capta-us-4m-para-conectar-whatsapp-a-erps/",
     "posicao": 4,
     "batch_date": "2026-09-08"
-  },
-  {
-    "tag": "Tarifas",
-    "titulo": "Brasil e EUA reabrem negociação sobre tarifaço, mas sem acordo ainda",
-    "fonte": "Poder360",
-    "data": "07 Set",
-    "resumo": "Primeira rodada de conversas desde a ligação entre Lula e Trump terminou sem definição sobre alíquotas, e nova reunião presencial só deve ocorrer no fim de setembro.",
-    "conteudo": "Em 1º de setembro, o chanceler Mauro Vieira e o secretário de Comércio Exterior Márcio Elias Rosa se reuniram por videoconferência com o representante comercial dos Estados Unidos, Jamieson Greer, no primeiro contato direto entre as equipes desde que as tarifas de 25% e 12,5% sobre produtos brasileiros entraram em vigor. O próprio governo brasileiro classificou o encontro como exploratório: terminou sem acordo sobre setores, alíquotas ou concessões, com o Brasil reiterando que considera as tarifas discriminatórias. Uma nova rodada, agora presencial, está prevista para o fim de setembro ou início de outubro nos Estados Unidos, e não se descarta um encontro entre Lula e Trump à margem da Assembleia-Geral da ONU, que abre em 22 de setembro.\n\nEnquanto a negociação não avança, exportadores que vendem aos EUA seguem operando sob a tarifa adicional e sem previsibilidade sobre quando — ou se — haverá redução, o que reforça a necessidade de diversificar mercado de destino em vez de esperar por uma solução de curto prazo. Já quem compra insumo ou equipamento importado dos EUA deve acompanhar o desfecho da rodada de fim de setembro antes de travar contrato de longo prazo, já que um eventual acordo pode mudar rapidamente o custo final de peças e componentes vindos do país.",
-    "url": "https://www.poder360.com.br/poder-governo/brasil-se-reune-com-eua-e-nao-espera-acordo-sobre-tarifaco-agora/",
-    "posicao": 1,
-    "batch_date": "2026-09-07"
-  },
-  {
-    "tag": "Crédito",
-    "titulo": "Sebrae propõe crédito de até R$ 1 milhão com teto de spread para PMEs",
-    "fonte": "Brasil 247",
-    "data": "07 Set",
-    "resumo": "Guia entregue a candidatos a presidente e a governador sugere programa nacional de crédito produtivo com spread bancário limitado a 8 pontos percentuais.",
-    "conteudo": "O Sebrae divulgou um guia de propostas de política de crédito dirigido aos candidatos à Presidência e aos governos estaduais nas eleições de outubro, defendendo a criação de um Programa Nacional de Crédito Produtivo com operações de até R$ 1 milhão por CNPJ, subsídio federal e teto de spread bancário de 8 pontos percentuais. A entidade também propõe uma linha de até R$ 30 mil para formalização de trabalhadores informais e um fundo de até R$ 10 bilhões para investimento em inovação. O pano de fundo é o custo do crédito hoje: com a Selic em 14% ao ano, o spread bancário cobrado de micro e pequenas empresas chegou a uma média de 31,59% em 2025, um dos principais gargalos para o crescimento do setor produtivo, segundo a própria entidade.\n\nSe algum governo eleito adotar a proposta, uma linha com spread limitado a 8 pontos percentuais reduziria pela metade — ou mais — o custo de crédito hoje disponível para boa parte dos pequenos negócios, mudando o cálculo de viabilidade de investimentos como compra de equipamento ou reforço de capital de giro. Por ora é só proposta de campanha, sem prazo definido; ainda assim, vale acompanhar quais candidatos incorporam a pauta ao programa de governo, já que o tema tende a ganhar espaço nos debates eleitorais das próximas semanas.",
-    "url": "https://www.brasil247.com/empreender/sebrae-propoe-teto-para-spread-e-credito-de-ate-r-1-milhao-a-pequenos-negocios/",
-    "posicao": 2,
-    "batch_date": "2026-09-07"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "HackTown fecha 10ª edição hoje e deve injetar R$ 30 mi em MG",
-    "fonte": "Exame",
-    "data": "07 Set",
-    "resumo": "Festival de inovação em Santa Rita do Sapucaí reúne cerca de 15 mil participantes e mais de 500 empresas na 10ª edição, encerrada nesta segunda-feira.",
-    "conteudo": "O HackTown, festival de tecnologia e inovação realizado em Santa Rita do Sapucaí (MG), no Vale da Eletrônica, chega hoje ao fim de sua 10ª edição, iniciada em 3 de setembro. O evento reuniu cerca de 15 mil participantes, mais de 500 empresas e 100 startups, com executivos de Nvidia, Google, Meta, Amazon Web Services, Microsoft e IBM entre os palestrantes das 21 trilhas de conteúdo. A organização projeta movimentação de cerca de R$ 30 milhões na economia da região ao longo dos cinco dias — bem abaixo do recorde de mais de R$ 370 milhões em negócios fechados na edição de 2024, mas ainda um volume relevante para o comércio e os serviços locais.\n\nPara negócios de Minas Gerais e região, sobretudo os de tecnologia e serviços, eventos como o HackTown funcionam como vitrine de conexão com investidores e grandes empresas sem sair do estado — alternativa mais barata do que participar de feiras em São Paulo ou no exterior. Quem vende produto ou serviço para outras empresas pode usar esse tipo de evento regional para testar proposta de valor e fechar as primeiras parcerias antes de tentar escalar para eventos nacionais maiores, como o Startup Summit.",
-    "url": "https://exame.com/negocios/evento-de-inovacao-no-vale-da-eletronica-em-minas-gerais-deve-movimentar-r-30-milhoes-na-regiao/",
-    "posicao": 3,
-    "batch_date": "2026-09-07"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Lula e Flávio Bolsonaro fazem atos opostos no 7 de Setembro",
-    "fonte": "Exame",
-    "data": "07 Set",
-    "resumo": "A 27 dias do 1º turno, presidente mantém agenda institucional em Brasília enquanto senador mobiliza ato contra Moraes na Paulista.",
-    "conteudo": "Nesta segunda-feira, feriado da Independência, o presidente Luiz Inácio Lula da Silva participa do tradicional desfile cívico-militar em Brasília, mantendo o formato institucional sem ato de campanha paralelo. Já o senador Flávio Bolsonaro (PL), pré-candidato à Presidência, convocou manifestação na Avenida Paulista, em São Paulo, às 15h, com meta de reunir 100 mil pessoas e mirando principalmente o ministro Alexandre de Moraes, do STF. A data marca a reta final antes do primeiro turno das eleições, marcado para 4 de outubro.\n\nPesquisas mostram corrida presidencial polarizada e ainda indefinida a menos de um mês da votação, o que tende a manter volatilidade em ativos sensíveis a risco político — câmbio e bolsa entre eles — nas próximas semanas. Para quem toma decisão de investimento, contratação ou renegociação de contrato de longo prazo, faz sentido evitar compromissos que dependam de um cenário eleitoral específico até o quadro do primeiro turno ficar mais claro, usando cláusulas de reajuste ou revisão que absorvam um eventual solavanco de curto prazo no câmbio ou nos juros.",
-    "url": "https://exame.com/brasil/7-de-setembro-veja-os-planos-de-lula-flavio-bolsonaro-e-outros-candidatos/",
-    "posicao": 4,
-    "batch_date": "2026-09-07"
-  },
-  {
-    "tag": "Importação",
-    "titulo": "Senado aprova fim definitivo da taxa das blusinhas; texto vai à sanção",
-    "fonte": "Senado Notícias",
-    "data": "06 Set",
-    "resumo": "Compras internacionais de até US$ 50 seguem isentas de Imposto de Importação, e o Senado ainda criou uma faixa de alíquota reduzida para pedidos maiores.",
-    "conteudo": "O Plenário do Senado aprovou, em 3 de setembro, a Medida Provisória 1.357/2026, confirmando de forma definitiva a isenção do Imposto de Importação — hoje em 20% — para compras internacionais de até US$ 50 feitas por pessoa física. O texto, relatado pela senadora Leila Barros, também criou uma faixa intermediária com alíquota reduzida a 30% para remessas entre US$ 50 e US$ 3 mil (cerca de R$ 15 mil), bem abaixo dos até 60% cobrados hoje nessa faixa. A proposta segue agora para sanção presidencial, e o Ministério da Fazenda terá de apresentar o primeiro relatório de acompanhamento dos efeitos da isenção já em novembro, com revisões a cada seis meses.\n\nPara quem revende produtos importados ou monta catálogo com fornecedores de fora do país, a regra dá previsibilidade: a isenção da faixa de até US$ 50 deixa de ser provisória, e a nova faixa intermediária reduz o custo de trazer lotes um pouco maiores, o que pode viabilizar compras consolidadas com fornecedores internacionais. Vale lembrar que o ICMS estadual continua incidindo normalmente sobre qualquer valor, então o cálculo de margem em compras internacionais precisa considerar a alíquota do estado de destino antes de fechar preço com o cliente final.",
-    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
-    "posicao": 1,
-    "batch_date": "2026-09-06"
-  },
-  {
-    "tag": "Tarifas",
-    "titulo": "Tarifaço dos EUA derruba exportação brasileira em 9,7% no ano até agosto",
-    "fonte": "Forbes Brasil",
-    "data": "06 Set",
-    "resumo": "Balança comercial teve superávit recorde de US$ 7,39 bi em agosto, mas as vendas ao mercado americano ainda sofrem com as tarifas de Trump.",
-    "conteudo": "O MDIC divulgou nesta semana que a balança comercial brasileira fechou agosto de 2026 com superávit de US$ 7,39 bilhões, alta de 23,8% sobre agosto de 2025, com exportações totais de US$ 33,16 bilhões (+12,2%) e importações de US$ 25,76 bilhões (+9,2%). O recorte por destino, porém, mostra o efeito do tarifaço americano: no acumulado de janeiro a agosto, as exportações brasileiras para os Estados Unidos somaram US$ 24,1 bilhões, queda de 9,7% na comparação anual, puxada por uma retração de 13,6% no volume de produtos embarcados, já que cerca de 20% da pauta exportada aos EUA está sob tarifa adicional.\n\nO dado mostra dois Brasis exportadores: quem vende aos EUA produtos fora da lista tarifada — como aeronaves, suco de frutas e carnes — ainda consegue crescer em valor, enquanto quem depende de itens taxados perde competitividade e precisa buscar mercados alternativos, já que China e outros parceiros seguem sustentando o superávit geral. Para negócios exportadores de pequeno e médio porte, o recado é diversificar destino e cliente antes de depender de um único mercado sujeito a decisões políticas fora do controle da empresa.",
-    "url": "https://forbes.com.br/forbes-money/2026/09/brasil-vende-mais-para-eua-apesar-de-tarifas-e-tem-superavit-comercial-de-us7394-bi-em-agosto/",
-    "posicao": 2,
-    "batch_date": "2026-09-06"
-  },
-  {
-    "tag": "Trabalho",
-    "titulo": "Fim da escala 6x1 é adiado no Senado e só deve ser votado após 1º turno",
-    "fonte": "Agência Brasil",
-    "data": "06 Set",
-    "resumo": "Base do governo recuou por falta de votos garantidos, e a PEC que reduz a jornada para 40 horas só volta ao plenário depois do dia 4 de outubro.",
-    "conteudo": "Depois de a Comissão de Constituição e Justiça aprovar, em 2 de setembro, a PEC 221/2019 — que acaba com a escala 6x1 e reduz a jornada máxima de 44 para 40 horas semanais —, o governo decidiu não levar o texto ao plenário do Senado ainda naquela semana. Sem garantia dos 49 votos (três quintos) necessários em dois turnos, líderes da base preferiram recuar diante da obstrução liderada pela oposição, e a expectativa agora é de votação apenas depois do primeiro turno das eleições, marcado para 4 de outubro, com nova tentativa prevista para a segunda semana do mês.\n\nO adiamento tira da mesa, por ora, uma mudança que afetaria diretamente a escala de funcionários em comércio, indústria e serviços — a PEC prevê transição de 14 meses sem redução salarial. Quem já vinha revendo escala e custo de mão de obra por causa do projeto ganha mais alguns meses para planejar a adaptação, mas o tema deve voltar com força ao noticiário assim que passar o primeiro turno, e vale acompanhar de perto: uma aprovação em outubro ou novembro ainda pegaria em cheio o planejamento de contratações de fim de ano.",
-    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
-    "posicao": 3,
-    "batch_date": "2026-09-06"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Fintech Bull capta R$ 20 milhões e mira R$ 1 bi em crédito até 2026",
-    "fonte": "CNN Brasil",
-    "data": "06 Set",
-    "resumo": "Rodada seed liderada por Maya e Caravela, com a Canary repetindo aporte, financia a expansão da startup para além do consignado privado.",
-    "conteudo": "A Bull, startup fundada em 2025 por Juliana Freitas e José Pires Neto que oferece infraestrutura de \"crédito como serviço\" para outras empresas lançarem seus próprios produtos financeiros, captou R$ 20 milhões em rodada seed liderada pelos fundos Maya e Caravela, com participação da Canary — que já havia liderado o pré-seed de R$ 10 milhões da empresa, um ano antes, ao lado da Endeavor. O dinheiro vai para investimento em inteligência artificial, infraestrutura de dados, segurança e automação de processos, para a empresa sair do consignado privado e ganhar um portfólio multiproduto. A Bull já soma mais de 20 clientes de médio e grande porte na plataforma.\n\nO caso ilustra onde o capital de risco brasileiro está apostando em 2026: menos rodadas, mas para empresas que já provaram o modelo de negócio e miram nicho específico dentro de um mercado maior — no caso, dar a qualquer empresa a capacidade de oferecer crédito sem virar um banco. Para donos de negócio que hoje dependem de fintechs prontas para oferecer crediário ou financiamento ao cliente final, esse tipo de infraestrutura white-label tende a baratear e agilizar o lançamento de produtos financeiros próprios nos próximos meses.",
-    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/bull-capta-r-20-milhoes-para-investir-em-plataforma-de-credito-e-ia/",
-    "posicao": 4,
-    "batch_date": "2026-09-06"
   }
 ]
