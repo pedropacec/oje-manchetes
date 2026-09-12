@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Juros",
+    "titulo": "IPCA tem deflação de 0,32% em agosto e reforça corte da Selic dia 16",
+    "fonte": "InfoMoney",
+    "data": "12 Set",
+    "resumo": "Inflação oficial surpreendeu para baixo e taxa em 12 meses caiu a 4,22%, ampliando a aposta em novo corte de juros pelo Copom na próxima semana.",
+    "conteudo": "O IBGE divulgou nesta sexta-feira (11/9) que o IPCA registrou deflação de 0,32% em agosto, resultado mais forte que os -0,29% esperados pelo mercado em pesquisa da Reuters. Com isso, a inflação acumulada em 12 meses recuou de 4,52% para 4,22%, e o índice acumula alta de 3,11% no ano. Habitação (-1,87%) e Transportes (-0,86%) puxaram a queda, refletindo a retração nos preços de energia e combustíveis no período.\n\nO dado chega dias antes da reunião do Copom, marcada para 15 e 16 de setembro, e reforça entre analistas a aposta em mais um corte de 0,25 ponto na Selic, hoje em 14% ao ano. Para quem toca negócio, isso é motivo a mais para não travar agora uma linha de crédito longa a taxa fixa alta: vale esperar o anúncio do Banco Central antes de renovar financiamento de capital de giro ou repactuar dívida, já que o custo do dinheiro deve seguir em trajetória de queda nos próximos meses.",
+    "url": "https://www.infomoney.com.br/economia/ipca-inflacao-agosto-2026-dados-ibge/",
+    "posicao": 1,
+    "batch_date": "2026-09-12"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Ibovespa fecha 4ª semana seguida em alta mesmo com dólar a R$ 5,13",
+    "fonte": "InfoMoney",
+    "data": "12 Set",
+    "resumo": "Bolsa brasileira perdeu 0,56% nesta sexta (11/9), mas fechou a quarta semana consecutiva no positivo, em meio à expectativa eleitoral e à alta do dólar.",
+    "conteudo": "O Ibovespa fechou a sexta-feira (11/9) em queda de 0,56%, aos 187.206,89 pontos, mas ainda acumulou alta de 1,11% na semana — a quarta seguida em território positivo. O dólar, por sua vez, subiu 0,44% no dia e fechou cotado a R$ 5,1254 na venda, movimento puxado pela cautela dos investidores com os desdobramentos políticos do fim de semana e pelo cenário eleitoral mais disputado para outubro.\n\nPara quem depende de câmbio para importar insumo ou pagar fornecedor no exterior, a volta do dólar acima de R$ 5,12 é sinal para reforçar o hedge cambial e evitar deixar pagamento internacional sem cotação travada até a próxima semana. A sequência positiva da bolsa, mesmo com ruído político, mostra que o investidor segue precificando cenário eleitoral e ajuste de juros ao mesmo tempo — o que deve manter a volatilidade diária alta até as eleições de outubro.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11092026/",
+    "posicao": 2,
+    "batch_date": "2026-09-12"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Senado aprova Redata; data centers ganham isenção de R$ 5,2 bi",
+    "fonte": "Senado Notícias",
+    "data": "12 Set",
+    "resumo": "Regime especial de tributação para data centers segue para sanção de Lula até 25/9, com isenção de tributos sobre equipamento importado para o setor.",
+    "conteudo": "O Senado aprovou em 1º de setembro o Projeto de Lei 278/2026, que cria o Redata, regime especial de tributação para serviços de data center, com isenção de Imposto de Importação, PIS/Cofins e IPI sobre equipamentos importados para o setor. Como o texto já havia passado pela Câmara em fevereiro e o Senado fez apenas ajustes de redação, ele seguiu direto para sanção presidencial em 4 de setembro, com prazo até 25 de setembro para Lula sancionar ou vetar; o governo estima renúncia fiscal de R$ 5,2 bilhões em 2026, caindo para R$ 1 bilhão ao ano nos dois anos seguintes.\n\nO Redata mira atrair investimento pesado de big techs e provedores de nuvem no Brasil, mas o efeito prático para negócios menores aparece na cadeia: mais data center instalado no país tende a baratear no médio prazo serviços de nuvem, hospedagem e processamento de IA usados por e-commerce, fintech e qualquer empresa que rode sistema em nuvem. Vale acompanhar a sanção nas próximas semanas — a regra também pode intensificar a disputa por energia e mão de obra técnica nas regiões que concentrarem os novos data centers, algo já sentido em processos seletivos de TI.",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/incentivo-para-instalacao-de-data-centers-no-brasil-e-aprovado-pelo-senado",
+    "posicao": 3,
+    "batch_date": "2026-09-12"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Bull capta R$ 20 milhões para virar motor de crédito de outras empresas",
+    "fonte": "Bloomberg Línea",
+    "data": "12 Set",
+    "resumo": "Startup de crédito como serviço levantou rodada seed liderada por Maya Capital e Caravela e mira originar R$ 1 bilhão em crédito até o fim do ano.",
+    "conteudo": "A Bull, startup brasileira de credit-as-a-service fundada em 2025, anunciou em 1º de setembro uma rodada seed de R$ 20 milhões (cerca de US$ 3,9 milhões), liderada pelos fundos Maya Capital e Caravela, com participação da Canary. A empresa permite que outras companhias lancem produtos de crédito próprios — como cartão ou empréstimo consignado — sem precisar montar um banco do zero, e já soma mais de 20 clientes cerca de um ano após sair do MVP; a meta é ultrapassar R$ 100 milhões em crédito originado por mês ainda no terceiro trimestre e chegar a R$ 1 bilhão até dezembro.\n\nO modelo da Bull retrata uma tendência que já chega a pequenos e médios negócios: infraestrutura de crédito como serviço, que permite a uma varejista, marketplace ou plataforma de assinatura oferecer financiamento ao próprio cliente sem depender de banco tradicional nem construir sistema de crédito internamente. Para quem vende a prazo ou tem base de clientes recorrente, vale mapear esse tipo de parceria como alternativa para reter venda e fidelizar cliente sem assumir o risco de crédito diretamente no caixa da empresa.",
+    "url": "https://www.bloomberglinea.com.br/startups/um-ano-apos-pre-seed-bull-capta-r-20-milhoes-para-expandir-alem-do-credito-consignado/",
+    "posicao": 4,
+    "batch_date": "2026-09-12"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Ibovespa dispara 1,42% e sobe a 188 mil pontos; dólar cai a R$ 5,08",
     "fonte": "Forbes Brasil",
@@ -130,27 +174,5 @@
     "url": "https://agenciasebrae.com.br/dados/empreendedorismo-em-alta-abertura-de-novos-pequenos-negocios-cresce-14-em-2026/",
     "posicao": 4,
     "batch_date": "2026-09-09"
-  },
-  {
-    "tag": "Combustíveis",
-    "titulo": "Petróleo perto de US$ 100 aumenta pressão por reajuste de combustíveis",
-    "fonte": "Seu Dinheiro",
-    "data": "08 Set",
-    "resumo": "Brent fechou perto da marca psicológica de US$ 100 por barril nesta semana, e cresce a aposta em novo aumento de gasolina e diesel pela Petrobras.",
-    "conteudo": "O barril do petróleo Brent fechou a US$ 97,29 na segunda-feira (7/9), alta de 1,05% no dia e avanço de quase 11% em um mês, puxado pela escalada de ataques a instalações de energia na Arábia Saudita em meio ao conflito entre Estados Unidos e Irã. O preço já está cerca de 47% acima do praticado há um ano, e o Goldman Sachs projeta o barril a até US$ 120 se os ataques a rotas de navegação se intensificarem. Nos Estados Unidos e na Europa as distribuidoras já reajustaram os preços nas bombas, o que aumenta a pressão para que a Petrobras faça o mesmo no Brasil.\n\nPara transportadoras, comércio com frota própria e qualquer negócio que dependa de logística, o defasamento entre o preço internacional e o praticado aqui tende a se estreitar nas próximas semanas, encarecendo frete e entrega. Vale negociar agora contrato de transporte com cláusula de reajuste atrelada ao diesel e revisar a política de preços do próprio negócio, para não ser pego de surpresa caso a Petrobras anuncie novo aumento antes do fim do mês.",
-    "url": "https://www.seudinheiro.com/2026/empresas/ate-quando-a-petrobras-petr4-vai-aguentar-petroleo-acima-de-us-100-aumenta-a-pressao-sobre-o-reajuste-da-gasolina-lvgb/",
-    "posicao": 1,
-    "batch_date": "2026-09-08"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Fachin dá até 11/9 para Moraes e Mendonça se explicarem sobre caso Vorcaro",
-    "fonte": "CNN Brasil",
-    "data": "08 Set",
-    "resumo": "Presidente do STF abriu prazo de cinco dias úteis para ministros e PGR se manifestarem sobre a crise aberta pelas mensagens entre Moraes e o banqueiro Daniel Vorcaro.",
-    "conteudo": "O presidente do STF, ministro Edson Fachin, determinou na quinta-feira (3/9) que Alexandre de Moraes, André Mendonça, o procurador-geral Paulo Gonet e o diretor-geral da Polícia Federal, Andrei Rodrigues, apresentem manifestação sobre a crise do caso Vorcaro em até cinco dias úteis, com prazo até esta sexta (11/9). A determinação segue a decisão de Mendonça, de 1º de setembro, de retirar o sigilo de um relatório da PF que mostra mensagens entre Moraes e Daniel Vorcaro, fundador do Banco Master — banco liquidado pelo Banco Central cujo rombo já consumiu mais de R$ 40 bilhões do Fundo Garantidor de Créditos (FGC). A análise do caso no plenário do STF foi empurrada para depois de 14 de setembro.\n\nO episódio prolonga um período de instabilidade institucional às vésperas do primeiro turno das eleições, em 4 de outubro, o que tende a manter o prêmio de risco elevado sobre câmbio e juros de curto prazo enquanto o desfecho não fica claro. Para quem mantém caixa em bancos médios, o caso Master também é lembrete prático: o teto de garantia do FGC é de R$ 250 mil por CPF ou CNPJ em cada instituição, então vale revisar a concentração de recursos da empresa em um único banco antes de qualquer nova turbulência no setor financeiro.",
-    "url": "https://www.cnnbrasil.com.br/politica/fachin-da-5-dias-para-manifestacao-de-moraes-mendonca-andrei-e-gonet/",
-    "posicao": 2,
-    "batch_date": "2026-09-08"
   }
 ]
