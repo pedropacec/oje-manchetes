@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Crédito",
+    "titulo": "Recorde: 9,2 milhões de empresas negativadas, MG é o 2º estado mais afetado",
+    "fonte": "Brasil 247",
+    "data": "13 Set",
+    "resumo": "Levantamento da Serasa Experian aponta recorde histórico de inadimplência empresarial em julho, com Minas Gerais como o segundo estado com mais CNPJs negativados do país.",
+    "conteudo": "A Serasa Experian registrou em julho um novo recorde histórico de inadimplência empresarial: 9,2 milhões de CNPJs estavam com dívidas em atraso, somando 67,2 milhões de contratos negativados e R$ 238,6 bilhões em débitos. As micro e pequenas empresas concentraram a maior parte do problema, com 8,7 milhões de CNPJs negativados e R$ 206 bilhões em dívidas, e o setor de Serviços respondeu por 55,8% do total. No ranking estadual, São Paulo lidera com 3,15 milhões de empresas negativadas, seguido por Minas Gerais, com 915,4 mil, e Rio de Janeiro, com 870,2 mil.\n\nCom Minas Gerais entre os estados mais afetados e o setor de Serviços concentrando a inadimplência, redobrar o cuidado ao conceder prazo de pagamento para clientes e fornecedores é essencial: vale consultar o CNPJ do parceiro antes de fechar negócio, diversificar a carteira de clientes para não depender de poucos pagadores e negociar prazos mais curtos com quem já mostra sinal de atraso, já que, com a Selic ainda em 14% ao ano, o custo de carregar recebíveis inadimplentes penaliza duplamente o caixa da empresa.",
+    "url": "https://www.brasil247.com/economia/inadimplencia-das-empresas-atinge-recorde-de-92-milhoes-de-cnpjs-em-julho-revela-serasa-experian/",
+    "posicao": 1,
+    "batch_date": "2026-09-13"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Lula e Flávio Bolsonaro empatam tecnicamente a 3 semanas do 1º turno",
+    "fonte": "CNN Brasil",
+    "data": "13 Set",
+    "resumo": "Nova pesquisa Datafolha mostra corrida presidencial cada vez mais apertada, com Lula e Flávio Bolsonaro tecnicamente empatados numa simulação de segundo turno.",
+    "conteudo": "A Datafolha divulgou nesta sexta-feira (11/9) nova rodada da pesquisa presidencial, com 2.002 entrevistados ouvidos entre 8 e 10 de setembro, margem de erro de 2 pontos percentuais e registro no TSE sob o código BR-01833/2026. No primeiro turno, Lula (PT) aparece com 39% das intenções de voto, Flávio Bolsonaro (PL) com 35% e Augusto Cury (Avante) com 6%. Numa simulação de segundo turno, o instituto encontrou empate técnico: Lula tem 46% contra 44% de Flávio, diferença dentro da margem de erro.\n\nCom o primeiro turno marcado para 4 de outubro e a disputa cada vez mais acirrada, a tendência é de mais volatilidade no câmbio e na bolsa nas próximas semanas, à medida que o mercado precifica cenários distintos de política econômica. Para quem toca negócio, é hora de evitar travar contratos longos atrelados ao dólar sem proteção cambial e de adiar decisões de investimento mais dependentes de sinalização tributária ou regulatória para depois que o quadro eleitoral clarear.",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-46-no-2o-turno-flavio-44/",
+    "posicao": 2,
+    "batch_date": "2026-09-13"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Dívida em atraso cai entre pequenos negócios, mas crédito segue travado",
+    "fonte": "Poder360",
+    "data": "13 Set",
+    "resumo": "Pesquisa do Sebrae mostra melhora no endividamento dos pequenos negócios em julho, mas quase metade de quem pede empréstimo ainda tem o crédito negado pelos bancos.",
+    "conteudo": "A 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, ouviu 5.773 micro e pequenas empresas em todo o país e mostrou melhora no quadro de endividamento: em julho, 25% dos negócios tinham dívidas em atraso, três pontos percentuais a menos que os 28% de março, enquanto a fatia de empresas sem nenhuma dívida subiu de 39% para 43% no período (margem de erro de 1,3 ponto, confiança de 95%). Apesar da melhora, o crédito bancário segue apertado: entre os empresários que buscaram empréstimo nos três meses anteriores à pesquisa, 46% conseguiram aprovação, 44% tiveram o pedido negado e 9% ainda aguardavam resposta.\n\nO recado prático é duplo: o cenário de endividamento está menos ruim do que no início do ano, mas ainda vale a pena chegar ao banco bem preparado, já que quase metade dos pedidos de crédito é recusada. Manter o CNPJ regularizado, o fluxo de caixa organizado e comparar propostas de cooperativas de crédito e fintechs, além dos bancos tradicionais, aumenta as chances de aprovação e evita recorrer ao cartão de crédito rotativo como capital de giro, opção bem mais cara no fim do mês.",
+    "url": "https://www.poder360.com.br/poder-empreendedor/25-dos-pequenos-negocios-tem-dividas-em-atraso/",
+    "posicao": 3,
+    "batch_date": "2026-09-13"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Pix tem nova regra contra golpe e dá mais prazo para lojista se defender",
+    "fonte": "Estado de Minas",
+    "data": "13 Set",
+    "resumo": "Banco Central ampliou de 30 para 80 dias o prazo para o recebedor de um Pix contestar estorno suspeito de fraude, medida em vigor desde 1º de setembro.",
+    "conteudo": "Desde a terça-feira (1/9), está em vigor uma nova regra do Banco Central que amplia de 30 para 80 dias o prazo para quem recebeu um Pix contestar um estorno feito pelo Mecanismo Especial de Devolução (MED) quando houver suspeita de fraude. A mudança mira o golpe conhecido como 'MED falso', em que o pagador aciona o mecanismo de emergência alegando fraude para tentar reaver, de má-fé, o dinheiro de uma compra ou serviço que já foi efetivamente entregue.\n\nPara quem vende usando Pix como principal meio de recebimento — caso de boa parte dos pequenos negócios e MEIs — o prazo maior é uma proteção a mais, mas exige organização: vale guardar por pelo menos 80 dias as provas de cada venda, como nota fiscal, comprovante de entrega e histórico de conversa com o cliente, para conseguir contestar a tempo um estorno indevido e não sair no prejuízo por falta de documentação.",
+    "url": "https://www.em.com.br/economia/2026/09/7491342-nova-regra-do-pix-entra-em-vigor-nesta-terca-1-9-veja-o-que-muda.html",
+    "posicao": 4,
+    "batch_date": "2026-09-13"
+  },
+  {
     "tag": "Juros",
     "titulo": "IPCA tem deflação de 0,32% em agosto e reforça corte da Selic dia 16",
     "fonte": "InfoMoney",
@@ -130,49 +174,5 @@
     "url": "https://portalbelohorizonte.com.br/2026/eventos/festival/marketing/fire-festival-2026",
     "posicao": 4,
     "batch_date": "2026-09-10"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa fecha no maior nível desde maio e dólar cai a R$ 5,09",
-    "fonte": "Brasil 247",
-    "data": "09 Set",
-    "resumo": "Bolsa brasileira encadeou mais um pregão positivo nesta terça (8/9) e o dólar recuou ao menor patamar em um mês, com investidor estrangeiro voltando aos ativos brasileiros.",
-    "conteudo": "O Ibovespa fechou a terça-feira (8/9) em alta de 1,20%, aos 187.366,84 pontos — maior nível desde 4 de maio —, puxado por ações de bancos e de commodities em meio ao retorno do fluxo de capital estrangeiro à bolsa brasileira. No mesmo pregão, o dólar recuou 0,79% e encerrou cotado a R$ 5,089, o menor valor em um mês, mesmo com o cenário externo pressionado por petróleo acima de US$ 90 o barril e juros ainda elevados dos títulos do Tesouro americano.\n\nPara negócios que compram insumo, equipamento ou matéria-prima importada, o dólar mais barato reduz o custo de reposição de estoque nas próximas semanas — vale aproveitar a janela para negociar ou travar câmbio em pedidos de importação já planejados. Já quem exporta sente o efeito contrário na margem em reais, o que reforça a importância de acompanhar a cotação diária antes de fechar contrato de médio prazo com cliente no exterior.",
-    "url": "https://www.brasil247.com/economia/dolar-cai-a-r-508-e-atinge-menor-valor-em-um-mes-e-ibovespa-avanca/",
-    "posicao": 1,
-    "batch_date": "2026-09-09"
-  },
-  {
-    "tag": "Indústria",
-    "titulo": "Produção de veículos tem melhor agosto desde 2013, mostra Anfavea",
-    "fonte": "Forbes Brasil",
-    "data": "09 Set",
-    "resumo": "Fabricantes produziram 271,2 mil veículos em agosto, alta de 9,4% sobre o mesmo mês de 2025, e as vendas internas saltaram 22,1% na mesma comparação.",
-    "conteudo": "A Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea) informou nesta terça-feira (8/9) que a produção de veículos somou 271,2 mil unidades em agosto, alta de 6,8% sobre julho e de 9,4% ante agosto de 2025 — o melhor resultado do mês desde 2013, segundo o presidente da entidade, Igor Calvet. As vendas no mercado interno chegaram a 275,1 mil unidades, salto de 22,1% em um ano, e veículos elétricos e híbridos já respondem por 24,4% dos emplacamentos do mês; no acumulado do ano, a produção soma quase 1,9 milhão de unidades, alta de 8,5%.\n\nO desempenho do setor automotivo costuma antecipar o ritmo da indústria como um todo, puxando autopeças, siderurgia, logística e revenda — uma cadeia que também sustenta pequenos negócios fornecedores de montadoras e concessionárias. Para quem está fora do setor, o dado funciona como termômetro de crédito e consumo: alta nas vendas de bens duráveis costuma vir acompanhada de mais disposição do consumidor para gastar em outras categorias, o que pode ajudar o faturamento do varejo e dos serviços no fim do ano.",
-    "url": "https://forbes.com.br/forbes-money/2026/09/producao-veiculos-brasil-anfa-vea-agosto-2026/",
-    "posicao": 2,
-    "batch_date": "2026-09-09"
-  },
-  {
-    "tag": "MEI",
-    "titulo": "Projeto que eleva teto do MEI para R$ 130 mil segue parado na Câmara",
-    "fonte": "Exame",
-    "data": "09 Set",
-    "resumo": "Regime de urgência foi aprovado ainda em março e comissão especial foi instalada em abril, mas o plenário não votou o novo limite de faturamento, e o teto de R$ 81 mil segue valendo.",
-    "conteudo": "A Câmara dos Deputados aprovou em regime de urgência, em março, o Projeto de Lei Complementar 108/2021, que eleva o teto de faturamento anual do Microempreendedor Individual (MEI) de R$ 81 mil para R$ 130 mil — valor já aprovado pelo Senado —, patamar que pode chegar a R$ 144,9 mil na versão em discussão na Câmara, além de permitir a contratação de até dois funcionários. Uma comissão especial para relatar o texto foi instalada em 29 de abril, e o relator, deputado Jorge Goetten, chegou a avaliar que a votação em plenário sairia ainda em agosto, mas o texto segue sem data confirmada, pendente de acordo com o governo sobre o alcance da atualização — e o teto de R$ 81 mil, o mesmo desde 2018, continua em vigor.\n\nEnquanto o novo teto não sai do papel, quem está perto de bater o limite de R$ 81 mil em 2026 corre o risco de ser desenquadrado do MEI automaticamente em 2027, migrando para o Simples Nacional — regime com alíquotas maiores e mais obrigação acessória. Vale simular agora o faturamento projetado até dezembro com o contador e, se o limite for estourado, já planejar a transição para microempresa em vez de contar com uma mudança de lei que, mesmo aprovada, não deve valer de forma retroativa para o faturamento já realizado em 2026.",
-    "url": "https://exame.com/economia/camara-aprova-regime-de-urgencia-para-projeto-que-eleva-teto-de-faturamento-de-meis/",
-    "posicao": 3,
-    "batch_date": "2026-09-09"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Abertura de pequenos negócios cresce quase 14% no país, mostra Sebrae",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "09 Set",
-    "resumo": "Levantamento do Sebrae com base em dados da Receita Federal mostra 2,05 milhões de novos pequenos negócios abertos entre janeiro e abril, puxados pelo setor de serviços.",
-    "conteudo": "Levantamento do Sebrae com base em dados da Receita Federal mostra que o Brasil somou 2.050.548 novos pequenos negócios — MEIs, microempresas e pequenas empresas — entre janeiro e abril de 2026, alta de quase 14% sobre o mesmo período de 2025 e equivalente a 97% de todos os CNPJs abertos no país no intervalo. O setor de Serviços liderou as aberturas, com 1.327.408 novos registros (+15%), seguido por Comércio (411,8 mil), Indústria (159,7 mil), Construção (136,3 mil) e Agropecuária (15,4 mil); São Paulo, Minas Gerais e Rio de Janeiro concentraram quase metade das novas empresas no período.\n\nO ritmo de abertura mostra que empreender segue sendo alternativa concreta de renda e ocupação mesmo com juros altos, e reforça que quem vende produto ou serviço para outros pequenos negócios — contabilidade, tecnologia, insumo, embalagem — tem uma base de clientes potenciais crescendo a dois dígitos ao ano. Para quem está avaliando abrir empresa agora, o dado também é um alerta de concorrência: em setores como serviços e comércio, que concentram a maior parte das aberturas, diferenciação de nicho e atendimento tendem a pesar mais do que apenas entrar no mercado.",
-    "url": "https://agenciasebrae.com.br/dados/empreendedorismo-em-alta-abertura-de-novos-pequenos-negocios-cresce-14-em-2026/",
-    "posicao": 4,
-    "batch_date": "2026-09-09"
   }
 ]
