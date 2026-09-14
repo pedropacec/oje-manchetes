@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Combustíveis",
+    "titulo": "Petróleo dispara a US$ 108 e acende alerta para o preço da gasolina no Brasil",
+    "fonte": "CNN Brasil",
+    "data": "14 Set",
+    "resumo": "Ataque a um navio no Estreito de Ormuz e o fechamento de um oleoduto saudita levaram o Brent a mais de US$ 108 o barril nesta segunda, reacendendo o risco de repasse para os combustíveis no Brasil.",
+    "conteudo": "Nesta segunda-feira (14/9), o petróleo Brent operava acima de US$ 108 o barril, maior patamar em meses, depois que um navio foi atacado no Estreito de Ormuz — com a morte de um tripulante — e a Arábia Saudita fechou o oleoduto Leste-Oeste, principal rota que contorna o estreito. O WTI, referência americana, também subiu, negociado perto de US$ 102. A escalada ocorre dias depois de um ataque com drones lançado do Iraque ter mirado a mesma infraestrutura saudita, em 12 de setembro.\n\nSegundo estimativa da XP, uma alta sustentada de 10% no Brent pressiona o IPCA em cerca de 25 pontos-base pelo canal direto dos combustíveis e pelo indireto do diesel e do frete — e o desconto tributário que hoje segura a gasolina nas bombas vale só até 5 de outubro. Quem depende de frete, logística própria ou insumo importado deve reforçar o controle de custo de combustível nas próximas semanas e evitar fechar contrato longo sem cláusula de reajuste, já que o conflito no Oriente Médio segue sem sinal de trégua.",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/gasolina-vai-subir-no-brasil-entenda-os-impactos-da-disparada-do-petroleo/",
+    "posicao": 1,
+    "batch_date": "2026-09-14"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Vorcaro depõe à PF nesta terça sobre rombo de R$ 52 bi do Master no FGC",
+    "fonte": "Brasil 247",
+    "data": "14 Set",
+    "resumo": "Ex-controlador do Banco Master presta depoimento à Polícia Federal nesta terça-feira sobre operações de crédito de R$ 12 bilhões com o BRB, no maior rombo da história do Fundo Garantidor de Créditos.",
+    "conteudo": "A Polícia Federal marcou para esta terça-feira (15/9), às 14h, o depoimento de Daniel Vorcaro, ex-controlador do Banco Master, sobre suspeitas de irregularidades em operações de crédito de R$ 12 bilhões entre o Master e o banco público BRB, além da contratação de perfis para atacar o Banco Central nas redes sociais. As liquidações do Master, do Will Bank e do Banco Pleno — todos ligados a Vorcaro — já custaram cerca de R$ 52 bilhões ao Fundo Garantidor de Créditos (FGC), a maior ativação da história do fundo, sendo R$ 40,6 bilhões só do Master.\n\nO caso reforça um lembrete prático para quem guarda caixa da empresa em banco menor ou fintech que paga juro muito acima da média para atrair depósito: a garantia do FGC cobre até R$ 250 mil por CPF ou CNPJ em cada instituição (ou conglomerado), então vale checar esse limite antes de concentrar todo o capital de giro numa única conta. O episódio também deve manter bancos e reguladores mais conservadores na análise de crédito nos próximos meses, o que tende a dificultar ainda mais a aprovação de empréstimo para pequenas empresas.",
+    "url": "https://www.brasil247.com/brasil/pf-marca-depoimento-de-vorcaro-sobre-caso-master-brb/",
+    "posicao": 2,
+    "batch_date": "2026-09-14"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Semana da Super Quarta: mercado vê 95% de chance de corte da Selic dia 16",
+    "fonte": "Exame",
+    "data": "14 Set",
+    "resumo": "Copom decide a Selic no mesmo dia em que o Federal Reserve decide os juros americanos, e o mercado de opções da B3 já precifica corte quase certo para 13,75% ao ano.",
+    "conteudo": "A semana começou nesta segunda-feira (14/9) com a divulgação do Boletim Focus e olho na 'Super Quarta' de 16 de setembro, quando o Copom decide a Selic — hoje em 14% ao ano — no mesmo dia em que o Federal Reserve americano anuncia sua própria taxa de juros. Segundo o mercado de opções da B3, a probabilidade de um novo corte de 0,25 ponto percentual, levando a Selic a 13,75% ao ano, já passa de 95%. Ainda nesta segunda, o mercado também acompanha dados de vendas no varejo de julho e o índice de confiança empresarial da CNI, ambos com potencial de mexer no câmbio e na bolsa ao longo do dia.\n\nCom o corte da Selic praticamente certo, vale cautela redobrada para quem for contratar empréstimo ou financiamento nos próximos dias: travar uma taxa fixa alta agora, antes da decisão de quarta, pode significar pagar mais caro do que o necessário já a partir de outubro. Por outro lado, a coincidência com a decisão do Fed no mesmo dia tende a aumentar a volatilidade do dólar nessa 'Super Quarta' — um motivo a mais para quem opera com câmbio evitar fechar contrato de importação ou exportação sem proteção até o fim da semana.",
+    "url": "https://exame.com/invest/mercados/focus-dados-da-china-e-novas-pesquisas-eleitorais-o-que-move-os-mercados/",
+    "posicao": 3,
+    "batch_date": "2026-09-14"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Feira do Empreendedor do Sebrae leva rodadas de crédito e negócios a Curitiba",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "14 Set",
+    "resumo": "Evento gratuito reúne cerca de 200 atividades entre palestras e rodadas de negócios e de crédito na ViaSoft Experience, de 16 a 19 de setembro.",
+    "conteudo": "A Feira do Empreendedor do Sebrae/PR acontece de 16 a 19 de setembro, das 14h às 22h, na ViaSoft Experience, no campus da Universidade Positivo, em Curitiba, com entrada gratuita. A programação reúne cerca de 200 atividades, entre palestras, conteúdos práticos, atendimentos individuais e rodadas de negócios e de crédito, além da feirinha 'Compre do Pequeno' para comercialização de produtos de empreendedores locais. Os temas centrais incluem inteligência artificial aplicada a vendas, presença digital, gestão financeira, produtividade e competitividade.\n\nPara o empreendedor mineiro, o modelo do evento — que combina capacitação com acesso direto a rodada de crédito e de negócios num único lugar — é um roteiro que vale replicar mesmo fora do Paraná: procurar o escritório regional do Sebrae-MG para saber a data do próximo evento parecido pode acelerar tanto a captação de crédito quanto o networking com fornecedor, sem custo de inscrição. Rodada de crédito organizada por entidade como o Sebrae costuma aprovar financiamento mais rápido do que a via tradicional de agência bancária.",
+    "url": "https://pr.agenciasebrae.com.br/economia-e-politica/feira-do-empreendedor-sebrae-transforma-curitiba-na-capital-do-empreendedorismo-em-setembro/",
+    "posicao": 4,
+    "batch_date": "2026-09-14"
+  },
+  {
     "tag": "Crédito",
     "titulo": "Recorde: 9,2 milhões de empresas negativadas, MG é o 2º estado mais afetado",
     "fonte": "Brasil 247",
@@ -130,49 +174,5 @@
     "url": "https://moonbh.com.br/capital-m/2026/09/10/grupo-churrascada-bh-expansao-minas-faturamento/",
     "posicao": 4,
     "batch_date": "2026-09-11"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Bolsa cai e dólar sobe a R$ 5,11 com escalada no Oriente Médio",
-    "fonte": "Poder360",
-    "data": "10 Set",
-    "resumo": "Ibovespa perdeu 0,93% nesta quarta (9/9) e o dólar subiu a R$ 5,112, com o petróleo Brent acima de US$ 101 após novos ataques entre EUA, Irã e Arábia Saudita.",
-    "conteudo": "O Ibovespa fechou a quarta-feira (9/9) em queda de 0,93%, aos 185.629,05 pontos, enquanto o dólar avançou e foi cotado a R$ 5,112. O movimento acompanhou a piora do conflito no Oriente Médio: o petróleo Brent para novembro fechou acima de US$ 101 o barril, o maior nível desde julho, depois de uma troca de ataques entre Estados Unidos e Irã e de uma nova ofensiva de rebeldes houthis do Iêmen contra instalações de energia na Arábia Saudita.\n\nPara quem depende de frete, combustível ou insumo importado, a combinação de petróleo mais caro e dólar em alta tende a elevar o custo de operação nas próximas semanas — vale reforçar o controle de estoque e evitar travar contrato longo em dólar sem proteção cambial enquanto o conflito não se estabiliza. A oscilação também é um alerta para quem tem caixa aplicado em renda variável: dias de aversão a risco como esse podem se repetir enquanto durar a tensão geopolítica.",
-    "url": "https://www.poder360.com.br/poder-economia/ibovespa-cai-093-e-fecha-a-185-629-pontos-dolar-avanca-a-r-5112/",
-    "posicao": 1,
-    "batch_date": "2026-09-10"
-  },
-  {
-    "tag": "Combustíveis",
-    "titulo": "Petrobras reajusta gasolina e preço sobe a R$ 3,24 nas distribuidoras hoje",
-    "fonte": "Brasil 247",
-    "data": "10 Set",
-    "resumo": "A partir desta quinta (10/9), a gasolina A vendida pela Petrobras às distribuidoras passa a custar R$ 3,24 por litro, após reajuste de R$ 0,19 e fim de um desconto temporário.",
-    "conteudo": "A Petrobras anunciou nesta quarta-feira (9/9) reajuste de R$ 0,19 por litro na gasolina A vendida às distribuidoras, elevando o preço médio para R$ 3,24 a partir desta quinta-feira (10/9). O aumento decorre do fim do desconto de R$ 0,44 por litro que a estatal vinha aplicando sob a Medida Provisória 1.358/2026, cuja validade se encerrou; para segurar o impacto no bolso do consumidor, o governo federal reduziu em R$ 0,63 por litro os tributos federais sobre o combustível, o que deve neutralizar a alta nos postos.\n\nMesmo com a compensação tributária, o repasse até a bomba varia de posto a posto e de região, o que pode pressionar o custo de frete e logística de quem depende de entrega própria ou terceirizada. Donos de negócio que usam veículo no dia a dia — de food truck a prestador de serviço — devem monitorar o preço local nos próximos dias e reavaliar rota ou renegociar contrato de transporte caso o repasse na sua região fique acima do previsto pelo governo.",
-    "url": "https://www.brasil247.com/economia/petrobras-ajusta-gasolina-a-r-324-por-litro-e-governo-corta-tributos-para-conter-alta-de-precos/",
-    "posicao": 2,
-    "batch_date": "2026-09-10"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Empresas do Simples têm até 30/9 para escolher regime de IBS e CBS de 2027",
-    "fonte": "Contábeis",
-    "data": "10 Set",
-    "resumo": "Empresas optantes pelo Simples Nacional precisam decidir até o fim de setembro se recolherão IBS e CBS na guia única ou em regime híbrido separado a partir de 2027.",
-    "conteudo": "A Receita Federal abriu, de 1º a 30 de setembro de 2026, a janela para as empresas do Simples Nacional escolherem a forma de recolhimento dos novos tributos da reforma tributária — o IBS e a CBS — que vale para 2027. A opção é entre manter os dois tributos dentro da guia única do Simples, no modelo tradicional, ou migrar para o regime híbrido, em que IBS e CBS passam a ser apurados e pagos separadamente, fora do DAS; o MEI fica de fora dessa escolha, já que seu calendário de adesão continua sendo em janeiro, sem opção pelo regime híbrido. Quem não se manifestar dentro do prazo permanece automaticamente no modelo tradicional a partir de janeiro de 2027.\n\nEssa decisão de setembro é o primeiro efeito prático da reforma tributária no caixa de milhões de pequenos negócios: o regime híbrido pode reduzir a carga em operações com bastante crédito de insumo, como indústria e comércio que compram de fornecedor também no regime regular, mas exige controle fiscal mais sofisticado do que a guia única. Vale rodar a simulação com o contador antes do fim do mês — a escolha feita agora só produz efeito em 2027, mas errar a opção pode significar pagar mais imposto do que o necessário durante todo o próximo ano.",
-    "url": "https://www.contabeis.com.br/artigos/78874/simples-nacional-e-reforma-setembro-2026-define-impostos-2027/",
-    "posicao": 3,
-    "batch_date": "2026-09-10"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Hotmart Fire reúne 10 mil empreendedores digitais em BH até sábado",
-    "fonte": "Portal Belo Horizonte",
-    "data": "10 Set",
-    "resumo": "O maior festival de marketing digital e empreendedorismo da América Latina começa hoje na Expominas, com mais de 140 palestrantes e ingresso a partir de R$ 687.",
-    "conteudo": "A 11ª edição do Hotmart Fire começa nesta quinta-feira (10/9) na Expominas, em Belo Horizonte, e segue até sábado (12/9), reunindo cerca de 10 mil participantes entre empreendedores digitais, criadores de conteúdo e profissionais de marketing. São mais de 140 palestrantes e 100 horas de programação, com trilhas sobre gestão de tráfego pago, inteligência artificial aplicada a vendas, precificação, construção de marca e administração de negócio digital; os ingressos partem de R$ 687.\n\nPara quem toca negócio fora do universo de infoprodutos, o evento vale menos pelo palco principal e mais pelas trilhas técnicas de tráfego pago, IA para vendas e precificação — temas que servem a qualquer operação que venda online, mesmo produto físico. Estar em BH nesta semana também é oportunidade de networking direto com fornecedor de tecnologia e agência que normalmente só aparecem em evento de São Paulo, reduzindo o custo de deslocamento para quem já está na região.",
-    "url": "https://portalbelohorizonte.com.br/2026/eventos/festival/marketing/fire-festival-2026",
-    "posicao": 4,
-    "batch_date": "2026-09-10"
   }
 ]
