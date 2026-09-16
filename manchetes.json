@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Juros",
+    "titulo": "Copom decide hoje 5º corte seguido da Selic, mas sinaliza fim do ciclo",
+    "fonte": "Forbes Brasil",
+    "data": "16 Set",
+    "resumo": "Copom deve cortar a Selic de 14% para 13,75% nesta quarta, no mesmo dia da decisão do Fed, mas analistas já apontam espaço cada vez menor para novos cortes.",
+    "conteudo": "O Copom se reúne nesta terça e quarta (15 e 16/9) e deve anunciar, por volta das 18h30 de hoje, o quinto corte seguido de 0,25 ponto percentual na Selic, levando a taxa básica de 14% para 13,75% ao ano — decisão considerada praticamente certa pelo mercado e que deve sair unânime entre os membros do comitê. A \"Super Quarta\" coincide com o dia em que o Federal Reserve americano também anuncia sua própria taxa de juros, o que tende a aumentar a volatilidade do dólar e da bolsa brasileira ao longo do pregão.\n\nMais relevante que o corte em si é o tom que deve acompanhar o comunicado: casas como o Itaú defendem manter a porta aberta sem sinalizar novos cortes, enquanto a XP ainda projeta a Selic em 13,25% até o fim do ano — sinal de que o ciclo de queda dos juros pode estar perto do fim diante da inflação ainda acima do teto da meta e do risco fiscal. Para quem toma crédito para capital de giro ou financiamento de equipamento, o recado prático é aproveitar o corte de hoje, mas evitar apostar em novas quedas agressivas ao negociar prazo e taxa nos próximos meses.",
+    "url": "https://forbes.com.br/forbes-money/2026/09/copom-selic-superquarta-inflacao-fiscal-petroleo/",
+    "posicao": 1,
+    "batch_date": "2026-09-16"
+  },
+  {
+    "tag": "Combustíveis",
+    "titulo": "Governo amplia subsídio a diesel e gasolina em R$ 7 bi por mês",
+    "fonte": "Agência Brasil",
+    "data": "16 Set",
+    "resumo": "Decreto e medida provisória assinados por Lula reduzem tributos da gasolina e criam subvenção de R$ 1 por litro de diesel, com impacto fiscal de R$ 7 bilhões mensais.",
+    "conteudo": "Em decreto e medida provisória assinados em 9/9, o governo ampliou o pacote de contenção dos preços dos combustíveis: a alíquota de PIS/Cofins sobre a gasolina caiu R$ 0,63 por litro, e uma nova subvenção de R$ 1 por litro de diesel rodoviário passou a valer para produtores e importadores que aderirem ao mecanismo, com revisão do valor a cada 30 dias pelo Ministério da Fazenda. Segundo o Ministério do Planejamento, o custo mensal das novas medidas soma R$ 7 bilhões, elevando para R$ 37,5 bilhões o total gasto ou não arrecadado com contenção de combustíveis desde março.\n\nPara negócios que dependem de frete, logística própria ou frota veicular, a expectativa é de preço mais estável no diesel e na gasolina nas bombas nas próximas semanas — mas vale lembrar que o valor do subsídio pode ser reduzido, suspenso ou prorrogado a cada revisão mensal, o que torna arriscado fechar contrato de frete de longo prazo sem cláusula de reajuste atrelada ao preço dos combustíveis.",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/novas-medidas-para-combustiveis-terao-impacto-de-r-7-bilhoes-por-mes",
+    "posicao": 2,
+    "batch_date": "2026-09-16"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Fim da 'taxa das blusinhas' é sancionado; alíquota geral cai para 30%",
+    "fonte": "CartaCapital",
+    "data": "16 Set",
+    "resumo": "Lula sancionou a isenção do imposto de 20% sobre compras internacionais de até US$ 50 e reduziu de 60% para 30% a alíquota para remessas de até R$ 3 mil.",
+    "conteudo": "O presidente Lula sancionou, em 10/9, o projeto que extingue a chamada 'taxa das blusinhas' — tarifa de importação de 20% cobrada sobre compras internacionais de até US$ 50 feitas pela internet. A nova lei também reduz de 60% para 30% a alíquota do Imposto de Importação para remessas de até R$ 3 mil, zera o imposto federal na faixa isenta e abre exceção para medicamentos sem similar nacional — mas mantém a cobrança do ICMS estadual sobre essas compras.\n\nPara o lojista brasileiro que compete com plataforma de compra internacional como Shein e AliExpress, a mudança reduz parte da vantagem de preço do concorrente estrangeiro na faixa acima de US$ 50, mas não elimina a distorção para quem vende até esse valor, que segue isento de imposto federal. Quem importa insumo ou mercadoria para revenda também sai ganhando com a alíquota menor até R$ 3 mil — vale reavaliar com o despachante aduaneiro se compensa trazer lotes menores agora que o custo tributário da importação caiu.",
+    "url": "https://www.cartacapital.com.br/economia/lula-sanciona-isencao-da-taxa-das-blusinhas-em-compras-de-ate-us-50/",
+    "posicao": 3,
+    "batch_date": "2026-09-16"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Sebrae reúne hoje especialistas para discutir IA e negócio 60+",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "16 Set",
+    "resumo": "Seminário on-line gratuito do Sebrae, das 9h às 11h30 desta quarta, traz dados inéditos do GEM sobre empreendedorismo sênior e o avanço da inteligência artificial nos pequenos negócios.",
+    "conteudo": "O Sebrae promove nesta quarta-feira (16/9), das 9h às 11h30, transmissão on-line gratuita reunindo especialistas da Anegepe (Associação Nacional de Estudos em Empreendedorismo e Gestão de Pequenas Empresas) para apresentar os dados mais recentes da pesquisa Global Entrepreneurship Monitor (GEM) 2025/2026. Pela primeira vez, o levantamento incluiu empreendedores com mais de 65 anos, e o evento traz dois estudos de caso — um de negócio que usa inteligência artificial e outro de empreendedor 60+ — além do lançamento do livro \"Empreendedorismo no Brasil\".\n\nCom a inclusão inédita da faixa 65+ na pesquisa, o dado confirma uma tendência que já aparece no dia a dia de muitos pequenos negócios brasileiros: sócio ou fundador que empreende depois da aposentadoria, muitas vezes reaproveitando rede de contatos e capital acumulado ao longo da carreira. Para quem já toca negócio, vale acompanhar a transmissão gratuita para identificar onde a IA já está sendo aplicada com resultado prático em empresas do mesmo porte, sem precisar contratar consultoria cara para começar.",
+    "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/seminario-analisa-empreendedorismo-senior-e-uso-de-ia-nos-pequenos-negocios/",
+    "posicao": 4,
+    "batch_date": "2026-09-16"
+  },
+  {
     "tag": "Política",
     "titulo": "STF decide hoje se abre inquérito contra Moraes, em sessão inédita",
     "fonte": "Gazeta Brasil",
@@ -130,49 +174,5 @@
     "url": "https://www.em.com.br/economia/2026/09/7491342-nova-regra-do-pix-entra-em-vigor-nesta-terca-1-9-veja-o-que-muda.html",
     "posicao": 4,
     "batch_date": "2026-09-13"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "IPCA tem deflação de 0,32% em agosto e reforça corte da Selic dia 16",
-    "fonte": "InfoMoney",
-    "data": "12 Set",
-    "resumo": "Inflação oficial surpreendeu para baixo e taxa em 12 meses caiu a 4,22%, ampliando a aposta em novo corte de juros pelo Copom na próxima semana.",
-    "conteudo": "O IBGE divulgou nesta sexta-feira (11/9) que o IPCA registrou deflação de 0,32% em agosto, resultado mais forte que os -0,29% esperados pelo mercado em pesquisa da Reuters. Com isso, a inflação acumulada em 12 meses recuou de 4,52% para 4,22%, e o índice acumula alta de 3,11% no ano. Habitação (-1,87%) e Transportes (-0,86%) puxaram a queda, refletindo a retração nos preços de energia e combustíveis no período.\n\nO dado chega dias antes da reunião do Copom, marcada para 15 e 16 de setembro, e reforça entre analistas a aposta em mais um corte de 0,25 ponto na Selic, hoje em 14% ao ano. Para quem toca negócio, isso é motivo a mais para não travar agora uma linha de crédito longa a taxa fixa alta: vale esperar o anúncio do Banco Central antes de renovar financiamento de capital de giro ou repactuar dívida, já que o custo do dinheiro deve seguir em trajetória de queda nos próximos meses.",
-    "url": "https://www.infomoney.com.br/economia/ipca-inflacao-agosto-2026-dados-ibge/",
-    "posicao": 1,
-    "batch_date": "2026-09-12"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa fecha 4ª semana seguida em alta mesmo com dólar a R$ 5,13",
-    "fonte": "InfoMoney",
-    "data": "12 Set",
-    "resumo": "Bolsa brasileira perdeu 0,56% nesta sexta (11/9), mas fechou a quarta semana consecutiva no positivo, em meio à expectativa eleitoral e à alta do dólar.",
-    "conteudo": "O Ibovespa fechou a sexta-feira (11/9) em queda de 0,56%, aos 187.206,89 pontos, mas ainda acumulou alta de 1,11% na semana — a quarta seguida em território positivo. O dólar, por sua vez, subiu 0,44% no dia e fechou cotado a R$ 5,1254 na venda, movimento puxado pela cautela dos investidores com os desdobramentos políticos do fim de semana e pelo cenário eleitoral mais disputado para outubro.\n\nPara quem depende de câmbio para importar insumo ou pagar fornecedor no exterior, a volta do dólar acima de R$ 5,12 é sinal para reforçar o hedge cambial e evitar deixar pagamento internacional sem cotação travada até a próxima semana. A sequência positiva da bolsa, mesmo com ruído político, mostra que o investidor segue precificando cenário eleitoral e ajuste de juros ao mesmo tempo — o que deve manter a volatilidade diária alta até as eleições de outubro.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11092026/",
-    "posicao": 2,
-    "batch_date": "2026-09-12"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Senado aprova Redata; data centers ganham isenção de R$ 5,2 bi",
-    "fonte": "Senado Notícias",
-    "data": "12 Set",
-    "resumo": "Regime especial de tributação para data centers segue para sanção de Lula até 25/9, com isenção de tributos sobre equipamento importado para o setor.",
-    "conteudo": "O Senado aprovou em 1º de setembro o Projeto de Lei 278/2026, que cria o Redata, regime especial de tributação para serviços de data center, com isenção de Imposto de Importação, PIS/Cofins e IPI sobre equipamentos importados para o setor. Como o texto já havia passado pela Câmara em fevereiro e o Senado fez apenas ajustes de redação, ele seguiu direto para sanção presidencial em 4 de setembro, com prazo até 25 de setembro para Lula sancionar ou vetar; o governo estima renúncia fiscal de R$ 5,2 bilhões em 2026, caindo para R$ 1 bilhão ao ano nos dois anos seguintes.\n\nO Redata mira atrair investimento pesado de big techs e provedores de nuvem no Brasil, mas o efeito prático para negócios menores aparece na cadeia: mais data center instalado no país tende a baratear no médio prazo serviços de nuvem, hospedagem e processamento de IA usados por e-commerce, fintech e qualquer empresa que rode sistema em nuvem. Vale acompanhar a sanção nas próximas semanas — a regra também pode intensificar a disputa por energia e mão de obra técnica nas regiões que concentrarem os novos data centers, algo já sentido em processos seletivos de TI.",
-    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/incentivo-para-instalacao-de-data-centers-no-brasil-e-aprovado-pelo-senado",
-    "posicao": 3,
-    "batch_date": "2026-09-12"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Bull capta R$ 20 milhões para virar motor de crédito de outras empresas",
-    "fonte": "Bloomberg Línea",
-    "data": "12 Set",
-    "resumo": "Startup de crédito como serviço levantou rodada seed liderada por Maya Capital e Caravela e mira originar R$ 1 bilhão em crédito até o fim do ano.",
-    "conteudo": "A Bull, startup brasileira de credit-as-a-service fundada em 2025, anunciou em 1º de setembro uma rodada seed de R$ 20 milhões (cerca de US$ 3,9 milhões), liderada pelos fundos Maya Capital e Caravela, com participação da Canary. A empresa permite que outras companhias lancem produtos de crédito próprios — como cartão ou empréstimo consignado — sem precisar montar um banco do zero, e já soma mais de 20 clientes cerca de um ano após sair do MVP; a meta é ultrapassar R$ 100 milhões em crédito originado por mês ainda no terceiro trimestre e chegar a R$ 1 bilhão até dezembro.\n\nO modelo da Bull retrata uma tendência que já chega a pequenos e médios negócios: infraestrutura de crédito como serviço, que permite a uma varejista, marketplace ou plataforma de assinatura oferecer financiamento ao próprio cliente sem depender de banco tradicional nem construir sistema de crédito internamente. Para quem vende a prazo ou tem base de clientes recorrente, vale mapear esse tipo de parceria como alternativa para reter venda e fidelizar cliente sem assumir o risco de crédito diretamente no caixa da empresa.",
-    "url": "https://www.bloomberglinea.com.br/startups/um-ano-apos-pre-seed-bull-capta-r-20-milhoes-para-expandir-alem-do-credito-consignado/",
-    "posicao": 4,
-    "batch_date": "2026-09-12"
   }
 ]
