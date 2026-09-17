@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Fed sobe juros pela 1ª vez em 3 anos no mesmo dia em que Copom corta a Selic",
+    "fonte": "Seu Dinheiro",
+    "data": "17 Set",
+    "resumo": "Enquanto o Banco Central cortou a Selic para 13,75% nesta quarta, o Federal Reserve elevou os juros americanos pela primeira vez desde 2023, movimento que tende a pressionar o dólar e encarecer insumo importado.",
+    "conteudo": "Nesta quarta-feira (16/9), o Federal Reserve elevou a taxa básica de juros dos Estados Unidos em 0,25 ponto percentual, para a faixa entre 3,75% e 4% ao ano — a primeira alta americana desde 2023 —, no mesmo dia em que o Copom cortou a Selic de 14% para 13,75% ao ano, o quinto corte seguido no Brasil. O movimento em direções opostas chamou atenção do mercado justamente na semana em que as exportações brasileiras aos Estados Unidos, afetadas pelo tarifaço imposto por Washington, já acumulavam queda de 9,7% entre janeiro e agosto, para US$ 24,1 bilhões.\n\nPara quem toca negócio, o recado prático é de cautela: juros mais altos nos EUA tendem a fortalecer o dólar globalmente, o que encarece insumo importado e dívida atrelada à moeda americana, mesmo com a Selic mais baixa reduzindo o custo do crédito interno. Quem compra matéria-prima ou equipamento no exterior faz bem em travar cotação ou negociar prazo de pagamento agora, antes que o efeito da alta americana chegue à prateleira nas próximas semanas.",
+    "url": "https://www.seudinheiro.com/2026/internacional/fed-eleva-juros-pela-1a-vez-em-3-anos-e-isso-mexe-diretamente-com-seus-investimentos-ccgg/",
+    "posicao": 1,
+    "batch_date": "2026-09-17"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Lula sanciona Redata e isenta impostos para instalação de data centers",
+    "fonte": "Poder360",
+    "data": "17 Set",
+    "resumo": "Novo regime tributário especial suspende Imposto de Importação, IPI e PIS/Cofins para data centers, com renúncia fiscal de R$ 5,2 bilhões neste ano e expectativa de atrair até R$ 1 trilhão em investimentos.",
+    "conteudo": "O presidente Lula sancionou, em 15/9, o projeto de lei complementar que cria o Redata, regime especial de tributação para serviços de data center aprovado pelo Congresso em 3/9. A lei suspende a cobrança de Imposto de Importação, IPI e PIS/Cofins sobre equipamentos usados na instalação e modernização desses centros de dados, com renúncia fiscal estimada pelo governo em R$ 5,2 bilhões neste ano, caindo para cerca de R$ 1 bilhão anual nos dois anos seguintes — e a expectativa oficial é atrair entre R$ 500 bilhões e R$ 1 trilhão em investimentos no setor.\n\nPara o dono de negócio, o Redata interessa em dois planos: diretamente, para quem já opera ou pretende montar infraestrutura de TI, hospedagem ou nuvem no Brasil, que passa a competir em condição tributária mais próxima da de outros países; e indiretamente, para fornecedores de construção civil, energia, refrigeração e serviços especializados que tendem a ganhar demanda com a corrida por data centers nos próximos anos — vale mapear desde já se a cadeia do seu negócio pode se conectar a esses projetos.",
+    "url": "https://www.poder360.com.br/poder-governo/lula-sanciona-politica-para-atrair-data-centers-ao-brasil/",
+    "posicao": 2,
+    "batch_date": "2026-09-17"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Arvo capta R$ 106 milhões na maior Série A da saúde no Brasil",
+    "fonte": "Exame",
+    "data": "17 Set",
+    "resumo": "Healthtech que usa IA para auditar contas entre operadoras de saúde levantou o maior aporte Série A do setor no país, liderado pelos fundos Kaszek e Base10 Partners.",
+    "conteudo": "A healthtech Arvo anunciou nesta quinta-feira (17/9) uma rodada Série A de R$ 106 milhões, liderada pelas gestoras Kaszek e Base10 Partners, com participação da K50 Ventures e da Canary, fundo que já havia liderado o aporte anterior da empresa. É a maior captação Série A do setor de saúde no Brasil e uma das cinco maiores rodadas do país nos últimos três anos. Fundada em 2022 por Fabricio Valadão e Rafael Tinocco, a Arvo usa inteligência artificial para auditar e cruzar contas médicas entre operadoras de saúde e prestadores, hoje a serviço de clientes como Porto Saúde, Saúde Petrobras, Athena e Unimed Nacional, num mercado em que o setor estima haver mais de R$ 40 bilhões em glosas e fraudes por ano.\n\nO caso interessa a quem empreende em dois sentidos: mostra que investidor de peso segue disposto a apostar em tecnologia B2B que ataca um problema de custo concreto — no caso, o rombo bilionário de glosa e fraude na saúde —, e não só em aplicativo voltado ao consumidor final; e serve de lembrete para clínica, laboratório ou operadora de pequeno porte de que ferramenta de auditoria automatizada por IA deve se popularizar rápido no setor, tornando o processo manual de conferência de conta cada vez mais um ponto fraco competitivo.",
+    "url": "https://exame.com/negocios/startup-capta-r-106-milhoes-para-ajudar-operadoras-de-saude-a-nao-serem-passadas-para-tras/",
+    "posicao": 3,
+    "batch_date": "2026-09-17"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Pesquisa mostra que preparação para Black Friday já começa em setembro",
+    "fonte": "CartaCapital",
+    "data": "17 Set",
+    "resumo": "Levantamento sobre jornada de compra do consumidor mostra que Black Friday deve movimentar R$ 14,4 bilhões no e-commerce brasileiro, e pequeno lojista que não começar a se preparar agora corre risco de perder venda.",
+    "conteudo": "Pesquisa sobre a jornada de compra do consumidor brasileiro, divulgada nesta semana, mostra que a Black Friday deve movimentar cerca de R$ 14,4 bilhões no comércio eletrônico do país em 2026 e representa parcela relevante do faturamento anual de 60% dos pequenos e médios lojistas que vendem on-line. O levantamento aponta que o consumidor leva, em média, 35 dias e cerca de 49 buscas até fechar a compra, e mais da metade das conversões registradas em novembro já nasce de pesquisas iniciadas em outubro — o que empurra o início real da temporada para setembro.\n\nPara quem tem loja física ou virtual, a conta é simples: quem só começa a pensar em Black Friday em novembro já perdeu boa parte da disputa pela atenção do cliente. Vale usar as próximas semanas para reaquecer a base de e-mail e WhatsApp, negociar prazo com fornecedor e transportadora — já que atraso na entrega é uma das maiores causas de carrinho abandonado — e revisar as opções de parcelamento e meios de pagamento oferecidos na loja.",
+    "url": "https://www.cartacapital.com.br/do-micro-ao-macro/preparacao-black-friday-setembro/",
+    "posicao": 4,
+    "batch_date": "2026-09-17"
+  },
+  {
     "tag": "Juros",
     "titulo": "Copom decide hoje 5º corte seguido da Selic, mas sinaliza fim do ciclo",
     "fonte": "Forbes Brasil",
@@ -130,49 +174,5 @@
     "url": "https://pr.agenciasebrae.com.br/economia-e-politica/feira-do-empreendedor-sebrae-transforma-curitiba-na-capital-do-empreendedorismo-em-setembro/",
     "posicao": 4,
     "batch_date": "2026-09-14"
-  },
-  {
-    "tag": "Crédito",
-    "titulo": "Recorde: 9,2 milhões de empresas negativadas, MG é o 2º estado mais afetado",
-    "fonte": "Brasil 247",
-    "data": "13 Set",
-    "resumo": "Levantamento da Serasa Experian aponta recorde histórico de inadimplência empresarial em julho, com Minas Gerais como o segundo estado com mais CNPJs negativados do país.",
-    "conteudo": "A Serasa Experian registrou em julho um novo recorde histórico de inadimplência empresarial: 9,2 milhões de CNPJs estavam com dívidas em atraso, somando 67,2 milhões de contratos negativados e R$ 238,6 bilhões em débitos. As micro e pequenas empresas concentraram a maior parte do problema, com 8,7 milhões de CNPJs negativados e R$ 206 bilhões em dívidas, e o setor de Serviços respondeu por 55,8% do total. No ranking estadual, São Paulo lidera com 3,15 milhões de empresas negativadas, seguido por Minas Gerais, com 915,4 mil, e Rio de Janeiro, com 870,2 mil.\n\nCom Minas Gerais entre os estados mais afetados e o setor de Serviços concentrando a inadimplência, redobrar o cuidado ao conceder prazo de pagamento para clientes e fornecedores é essencial: vale consultar o CNPJ do parceiro antes de fechar negócio, diversificar a carteira de clientes para não depender de poucos pagadores e negociar prazos mais curtos com quem já mostra sinal de atraso, já que, com a Selic ainda em 14% ao ano, o custo de carregar recebíveis inadimplentes penaliza duplamente o caixa da empresa.",
-    "url": "https://www.brasil247.com/economia/inadimplencia-das-empresas-atinge-recorde-de-92-milhoes-de-cnpjs-em-julho-revela-serasa-experian/",
-    "posicao": 1,
-    "batch_date": "2026-09-13"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Lula e Flávio Bolsonaro empatam tecnicamente a 3 semanas do 1º turno",
-    "fonte": "CNN Brasil",
-    "data": "13 Set",
-    "resumo": "Nova pesquisa Datafolha mostra corrida presidencial cada vez mais apertada, com Lula e Flávio Bolsonaro tecnicamente empatados numa simulação de segundo turno.",
-    "conteudo": "A Datafolha divulgou nesta sexta-feira (11/9) nova rodada da pesquisa presidencial, com 2.002 entrevistados ouvidos entre 8 e 10 de setembro, margem de erro de 2 pontos percentuais e registro no TSE sob o código BR-01833/2026. No primeiro turno, Lula (PT) aparece com 39% das intenções de voto, Flávio Bolsonaro (PL) com 35% e Augusto Cury (Avante) com 6%. Numa simulação de segundo turno, o instituto encontrou empate técnico: Lula tem 46% contra 44% de Flávio, diferença dentro da margem de erro.\n\nCom o primeiro turno marcado para 4 de outubro e a disputa cada vez mais acirrada, a tendência é de mais volatilidade no câmbio e na bolsa nas próximas semanas, à medida que o mercado precifica cenários distintos de política econômica. Para quem toca negócio, é hora de evitar travar contratos longos atrelados ao dólar sem proteção cambial e de adiar decisões de investimento mais dependentes de sinalização tributária ou regulatória para depois que o quadro eleitoral clarear.",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-46-no-2o-turno-flavio-44/",
-    "posicao": 2,
-    "batch_date": "2026-09-13"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Dívida em atraso cai entre pequenos negócios, mas crédito segue travado",
-    "fonte": "Poder360",
-    "data": "13 Set",
-    "resumo": "Pesquisa do Sebrae mostra melhora no endividamento dos pequenos negócios em julho, mas quase metade de quem pede empréstimo ainda tem o crédito negado pelos bancos.",
-    "conteudo": "A 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, ouviu 5.773 micro e pequenas empresas em todo o país e mostrou melhora no quadro de endividamento: em julho, 25% dos negócios tinham dívidas em atraso, três pontos percentuais a menos que os 28% de março, enquanto a fatia de empresas sem nenhuma dívida subiu de 39% para 43% no período (margem de erro de 1,3 ponto, confiança de 95%). Apesar da melhora, o crédito bancário segue apertado: entre os empresários que buscaram empréstimo nos três meses anteriores à pesquisa, 46% conseguiram aprovação, 44% tiveram o pedido negado e 9% ainda aguardavam resposta.\n\nO recado prático é duplo: o cenário de endividamento está menos ruim do que no início do ano, mas ainda vale a pena chegar ao banco bem preparado, já que quase metade dos pedidos de crédito é recusada. Manter o CNPJ regularizado, o fluxo de caixa organizado e comparar propostas de cooperativas de crédito e fintechs, além dos bancos tradicionais, aumenta as chances de aprovação e evita recorrer ao cartão de crédito rotativo como capital de giro, opção bem mais cara no fim do mês.",
-    "url": "https://www.poder360.com.br/poder-empreendedor/25-dos-pequenos-negocios-tem-dividas-em-atraso/",
-    "posicao": 3,
-    "batch_date": "2026-09-13"
-  },
-  {
-    "tag": "Pagamentos",
-    "titulo": "Pix tem nova regra contra golpe e dá mais prazo para lojista se defender",
-    "fonte": "Estado de Minas",
-    "data": "13 Set",
-    "resumo": "Banco Central ampliou de 30 para 80 dias o prazo para o recebedor de um Pix contestar estorno suspeito de fraude, medida em vigor desde 1º de setembro.",
-    "conteudo": "Desde a terça-feira (1/9), está em vigor uma nova regra do Banco Central que amplia de 30 para 80 dias o prazo para quem recebeu um Pix contestar um estorno feito pelo Mecanismo Especial de Devolução (MED) quando houver suspeita de fraude. A mudança mira o golpe conhecido como 'MED falso', em que o pagador aciona o mecanismo de emergência alegando fraude para tentar reaver, de má-fé, o dinheiro de uma compra ou serviço que já foi efetivamente entregue.\n\nPara quem vende usando Pix como principal meio de recebimento — caso de boa parte dos pequenos negócios e MEIs — o prazo maior é uma proteção a mais, mas exige organização: vale guardar por pelo menos 80 dias as provas de cada venda, como nota fiscal, comprovante de entrega e histórico de conversa com o cliente, para conseguir contestar a tempo um estorno indevido e não sair no prejuízo por falta de documentação.",
-    "url": "https://www.em.com.br/economia/2026/09/7491342-nova-regra-do-pix-entra-em-vigor-nesta-terca-1-9-veja-o-que-muda.html",
-    "posicao": 4,
-    "batch_date": "2026-09-13"
   }
 ]
