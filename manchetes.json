@@ -1,6 +1,50 @@
 [
   {
     "tag": "Mercado",
+    "titulo": "Eleições de 2026 esfriam fusões e aquisições, mas turbinam valor dos negócios",
+    "fonte": "O Tempo",
+    "data": "18 Set",
+    "resumo": "Estudo mostra que o número de fusões e aquisições no Brasil caiu 35% no 1º semestre de 2026 por causa das eleições e dos juros altos, mas o valor médio dos negócios subiu.",
+    "conteudo": "O mercado brasileiro de fusões e aquisições movimentou R$ 166,8 bilhões no primeiro semestre de 2026, distribuídos em 593 operações, segundo estudo divulgado nesta sexta-feira (18/9). O número de negócios fechados caiu 35% na comparação com o mesmo período de 2025, mas o capital total movimentado subiu 3% — sinal de que menos negócios estão sendo fechados, porém de maior porte. O levantamento aponta a proximidade das eleições de 2026 e os juros ainda elevados como principais fatores da retração, e mostra que fundos de private equity e venture capital ampliaram sua fatia de 43% para 50% das operações do período.\n\nPara quem pensa em vender parte ou todo o negócio, comprar um concorrente ou buscar sócio investidor, o recado é que 2026 tende a ser um ano de negociação mais dura e demorada: comprador estratégico está mais seletivo, e fundo com caixa em mãos aproveita a incerteza eleitoral para negociar preço mais baixo. Quem já está em processo de venda ou fusão faz bem em reforçar a due diligence e organizar os números do negócio agora, já que o comprador cauteloso tende a exigir mais garantia e prazo mais longo até o fechamento do que em anos anteriores.",
+    "url": "https://www.otempo.com.br/economia/2026/9/18/eleicoes-de-2026-reconfiguram-mercado-de-fusoes-e-aquisicoes-no-brasil-aponta-estudo",
+    "posicao": 1,
+    "batch_date": "2026-09-18"
+  },
+  {
+    "tag": "Economia",
+    "titulo": "Economia brasileira recua 0,4% em julho, 2º mês seguido de queda, aponta FGV",
+    "fonte": "O Povo",
+    "data": "18 Set",
+    "resumo": "Monitor do PIB da FGV mostra que a atividade econômica caiu pelo segundo mês seguido em julho, com agropecuária em contração e indústria e serviços estagnados.",
+    "conteudo": "O Monitor do PIB, calculado pelo Ibre/FGV e divulgado nesta quinta-feira (17/9), mostrou que a atividade econômica brasileira recuou 0,4% em julho ante junho, o segundo mês seguido de queda, depois de uma retração de 1% em junho. Na comparação com julho de 2025, o indicador ainda avança 1,3%, e o acumulado em 12 meses segue positivo, em 1,8%. O resultado mensal reflete contração na agropecuária e estagnação tanto na indústria quanto nos serviços, num quadro em que o tarifaço dos Estados Unidos sobre as exportações brasileiras e os juros internos ainda elevados pesam sobre a produção.\n\nPara quem vende para outras empresas ou depende do consumo das famílias, dois meses seguidos de recuo mensal são um sinal para revisar a meta de vendas do segundo semestre com mais cautela, sem entrar em pânico — o acumulado de 12 meses ainda é positivo, e consumo das famílias e investimentos seguiram crescendo no trimestre. Vale redobrar o acompanhamento do fluxo de caixa e evitar comprometer capital de giro com estoque grande ou expansão agressiva nos próximos meses, até ficar mais claro se a desaceleração de julho é passageira ou o início de uma tendência mais longa.",
+    "url": "https://www.opovo.com.br/noticias/economia/2026/09/17/monitor-do-pib-apurado-pela-fgv-aponta-queda-de-04-em-julho-ante-junho.html",
+    "posicao": 2,
+    "batch_date": "2026-09-18"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Aprovação de crédito para pequenos negócios bate recorde desde 2022",
+    "fonte": "Portal da Capital",
+    "data": "18 Set",
+    "resumo": "Pesquisa do Sebrae mostra que 46% dos pequenos negócios que buscaram crédito nos últimos três meses tiveram o pedido aprovado, e a inadimplência do setor também caiu.",
+    "conteudo": "Levantamento da 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, divulgado em 15/9, mostra que 46% das micro e pequenas empresas que buscaram crédito nos últimos três meses tiveram o pedido aprovado pelas instituições financeiras — o maior percentual da série histórica iniciada em 2022. A proporção de pequenos negócios com dívida em atraso também recuou, de 28% no primeiro trimestre para 25% em julho, na esteira dos sucessivos cortes da Selic, hoje em 13,75% ao ano após o quinto corte seguido do Copom.\n\nA melhora não significa que o crédito ficou barato — a Selic ainda está em patamar elevado —, mas indica que o banco está mais disposto a aprovar pedido de pequeno negócio do que em anos anteriores, o que amplia a margem de negociação de quem vai atrás de capital de giro ou financiamento de equipamento agora. Vale aproveitar o momento para comparar propostas em mais de uma instituição e negociar prazo e taxa com base no histórico de pagamento em dia, já que a inadimplência mais baixa do seu segmento tende a pesar a favor na análise de crédito.",
+    "url": "https://www.portaldacapital.com/2026/09/15/inadimplencia-de-pequenos-negocios-cai-e-aprovacao-de-credito-atinge-maior-nivel-desde-2022/",
+    "posicao": 3,
+    "batch_date": "2026-09-18"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Nuvia capta R$ 10 milhões e atrai estreia de fundos internacionais no país",
+    "fonte": "Startups.com.br",
+    "data": "18 Set",
+    "resumo": "Startup brasileira de IA para vendas e atendimento levantou R$ 10 milhões em rodada liderada por dois fundos latino-americanos que fazem sua primeira aposta no Brasil.",
+    "conteudo": "A Nuvia, startup brasileira de inteligência artificial para vendas e atendimento fundada em 2024 por John Paz, Jader Campos e Arthur Sorelli, anunciou nesta quinta-feira (17/9) uma rodada de R$ 10 milhões (US$ 1,8 milhão), liderada pelos fundos latino-americanos Amador Capital e Nascent, com participação da gestora já investidora NXTP, além de Crivo Ventures, Delusional Capital e um clube de investidores reunido pela Spectra Investimentos. A rodada marca a estreia desses três fundos estrangeiros no mercado brasileiro. A ferramenta da empresa integra canais como WhatsApp, Instagram, voz, site e e-mail a sistemas de CRM, permitindo que agentes de inteligência artificial conduzam parte do atendimento comercial e só repassem o cliente a um humano quando necessário.\n\nO caso mostra que fundo estrangeiro segue disposto a fazer sua primeira aposta no Brasil mesmo em ano eleitoral e de juro alto, desde que o problema atacado seja concreto — no caso, reduzir custo e tempo de atendimento comercial. Para o dono de pequeno ou médio negócio, o mais relevante é a direção do produto: ferramenta de IA para automatizar parte da venda e do atendimento por WhatsApp e redes sociais deve ficar mais acessível e popular nos próximos meses, o que vale testar mesmo em escala pequena antes que vire pré-requisito para competir no seu setor.",
+    "url": "https://startups.com.br/dados-e-agentes/nuvia-levanta-us-18m-para-acelerar-expansao-na-america-latina/",
+    "posicao": 4,
+    "batch_date": "2026-09-18"
+  },
+  {
+    "tag": "Mercado",
     "titulo": "Fed sobe juros pela 1ª vez em 3 anos no mesmo dia em que Copom corta a Selic",
     "fonte": "Seu Dinheiro",
     "data": "17 Set",
@@ -130,49 +174,5 @@
     "url": "https://www.startupz.com.br/artigo/chico-rei-capta-r-4-5-milhoes-via-crowdfunding-e-acelera-a-uma-penca-sua-retailtech-de-print-on-demand",
     "posicao": 4,
     "batch_date": "2026-09-15"
-  },
-  {
-    "tag": "Combustíveis",
-    "titulo": "Petróleo dispara a US$ 108 e acende alerta para o preço da gasolina no Brasil",
-    "fonte": "CNN Brasil",
-    "data": "14 Set",
-    "resumo": "Ataque a um navio no Estreito de Ormuz e o fechamento de um oleoduto saudita levaram o Brent a mais de US$ 108 o barril nesta segunda, reacendendo o risco de repasse para os combustíveis no Brasil.",
-    "conteudo": "Nesta segunda-feira (14/9), o petróleo Brent operava acima de US$ 108 o barril, maior patamar em meses, depois que um navio foi atacado no Estreito de Ormuz — com a morte de um tripulante — e a Arábia Saudita fechou o oleoduto Leste-Oeste, principal rota que contorna o estreito. O WTI, referência americana, também subiu, negociado perto de US$ 102. A escalada ocorre dias depois de um ataque com drones lançado do Iraque ter mirado a mesma infraestrutura saudita, em 12 de setembro.\n\nSegundo estimativa da XP, uma alta sustentada de 10% no Brent pressiona o IPCA em cerca de 25 pontos-base pelo canal direto dos combustíveis e pelo indireto do diesel e do frete — e o desconto tributário que hoje segura a gasolina nas bombas vale só até 5 de outubro. Quem depende de frete, logística própria ou insumo importado deve reforçar o controle de custo de combustível nas próximas semanas e evitar fechar contrato longo sem cláusula de reajuste, já que o conflito no Oriente Médio segue sem sinal de trégua.",
-    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/gasolina-vai-subir-no-brasil-entenda-os-impactos-da-disparada-do-petroleo/",
-    "posicao": 1,
-    "batch_date": "2026-09-14"
-  },
-  {
-    "tag": "Crédito",
-    "titulo": "Vorcaro depõe à PF nesta terça sobre rombo de R$ 52 bi do Master no FGC",
-    "fonte": "Brasil 247",
-    "data": "14 Set",
-    "resumo": "Ex-controlador do Banco Master presta depoimento à Polícia Federal nesta terça-feira sobre operações de crédito de R$ 12 bilhões com o BRB, no maior rombo da história do Fundo Garantidor de Créditos.",
-    "conteudo": "A Polícia Federal marcou para esta terça-feira (15/9), às 14h, o depoimento de Daniel Vorcaro, ex-controlador do Banco Master, sobre suspeitas de irregularidades em operações de crédito de R$ 12 bilhões entre o Master e o banco público BRB, além da contratação de perfis para atacar o Banco Central nas redes sociais. As liquidações do Master, do Will Bank e do Banco Pleno — todos ligados a Vorcaro — já custaram cerca de R$ 52 bilhões ao Fundo Garantidor de Créditos (FGC), a maior ativação da história do fundo, sendo R$ 40,6 bilhões só do Master.\n\nO caso reforça um lembrete prático para quem guarda caixa da empresa em banco menor ou fintech que paga juro muito acima da média para atrair depósito: a garantia do FGC cobre até R$ 250 mil por CPF ou CNPJ em cada instituição (ou conglomerado), então vale checar esse limite antes de concentrar todo o capital de giro numa única conta. O episódio também deve manter bancos e reguladores mais conservadores na análise de crédito nos próximos meses, o que tende a dificultar ainda mais a aprovação de empréstimo para pequenas empresas.",
-    "url": "https://www.brasil247.com/brasil/pf-marca-depoimento-de-vorcaro-sobre-caso-master-brb/",
-    "posicao": 2,
-    "batch_date": "2026-09-14"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Semana da Super Quarta: mercado vê 95% de chance de corte da Selic dia 16",
-    "fonte": "Exame",
-    "data": "14 Set",
-    "resumo": "Copom decide a Selic no mesmo dia em que o Federal Reserve decide os juros americanos, e o mercado de opções da B3 já precifica corte quase certo para 13,75% ao ano.",
-    "conteudo": "A semana começou nesta segunda-feira (14/9) com a divulgação do Boletim Focus e olho na 'Super Quarta' de 16 de setembro, quando o Copom decide a Selic — hoje em 14% ao ano — no mesmo dia em que o Federal Reserve americano anuncia sua própria taxa de juros. Segundo o mercado de opções da B3, a probabilidade de um novo corte de 0,25 ponto percentual, levando a Selic a 13,75% ao ano, já passa de 95%. Ainda nesta segunda, o mercado também acompanha dados de vendas no varejo de julho e o índice de confiança empresarial da CNI, ambos com potencial de mexer no câmbio e na bolsa ao longo do dia.\n\nCom o corte da Selic praticamente certo, vale cautela redobrada para quem for contratar empréstimo ou financiamento nos próximos dias: travar uma taxa fixa alta agora, antes da decisão de quarta, pode significar pagar mais caro do que o necessário já a partir de outubro. Por outro lado, a coincidência com a decisão do Fed no mesmo dia tende a aumentar a volatilidade do dólar nessa 'Super Quarta' — um motivo a mais para quem opera com câmbio evitar fechar contrato de importação ou exportação sem proteção até o fim da semana.",
-    "url": "https://exame.com/invest/mercados/focus-dados-da-china-e-novas-pesquisas-eleitorais-o-que-move-os-mercados/",
-    "posicao": 3,
-    "batch_date": "2026-09-14"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Feira do Empreendedor do Sebrae leva rodadas de crédito e negócios a Curitiba",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "14 Set",
-    "resumo": "Evento gratuito reúne cerca de 200 atividades entre palestras e rodadas de negócios e de crédito na ViaSoft Experience, de 16 a 19 de setembro.",
-    "conteudo": "A Feira do Empreendedor do Sebrae/PR acontece de 16 a 19 de setembro, das 14h às 22h, na ViaSoft Experience, no campus da Universidade Positivo, em Curitiba, com entrada gratuita. A programação reúne cerca de 200 atividades, entre palestras, conteúdos práticos, atendimentos individuais e rodadas de negócios e de crédito, além da feirinha 'Compre do Pequeno' para comercialização de produtos de empreendedores locais. Os temas centrais incluem inteligência artificial aplicada a vendas, presença digital, gestão financeira, produtividade e competitividade.\n\nPara o empreendedor mineiro, o modelo do evento — que combina capacitação com acesso direto a rodada de crédito e de negócios num único lugar — é um roteiro que vale replicar mesmo fora do Paraná: procurar o escritório regional do Sebrae-MG para saber a data do próximo evento parecido pode acelerar tanto a captação de crédito quanto o networking com fornecedor, sem custo de inscrição. Rodada de crédito organizada por entidade como o Sebrae costuma aprovar financiamento mais rápido do que a via tradicional de agência bancária.",
-    "url": "https://pr.agenciasebrae.com.br/economia-e-politica/feira-do-empreendedor-sebrae-transforma-curitiba-na-capital-do-empreendedorismo-em-setembro/",
-    "posicao": 4,
-    "batch_date": "2026-09-14"
   }
 ]
