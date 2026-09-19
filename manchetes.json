@@ -1,6 +1,50 @@
 [
   {
     "tag": "Mercado",
+    "titulo": "Ibovespa cai 0,41% e fecha 1ª semana no vermelho em um mês; dólar sobe a R$ 5,14",
+    "fonte": "B3 Borainvestir",
+    "data": "19 Set",
+    "resumo": "Eleições, juros mais altos no Japão e petróleo acima de US$ 100 pressionaram os mercados na sexta-feira, mesmo após o Copom cortar a Selic.",
+    "conteudo": "O Ibovespa fechou a sexta-feira (18/9) em queda de 0,41%, aos 185.229 pontos, acumulando perda de 1,06% na semana — a primeira em vermelho depois de quatro semanas seguidas de alta. O dólar subiu 0,11% no dia e fechou a R$ 5,144, com valorização de 0,37% na semana, mesmo um dia depois de o Copom cortar a Selic pela quinta vez seguida, para 13,75% ao ano. O movimento foi puxado pela decisão do Banco do Japão de elevar juros a 1,25%, maior patamar em 31 anos, somada à cautela do mercado com o cenário eleitoral brasileiro e ao petróleo ainda acima de US$ 100 o barril.\n\nPara quem compra insumos ou equipamentos importados, o dólar mais caro pressiona o custo em reais; já quem exporta ganha margem extra na conversão. A queda da bolsa em si afeta pouco o dia a dia de pequenos negócios, mas o conjunto — juros externos subindo enquanto o Brasil corta a Selic — tende a manter o real mais instável nas próximas semanas, o que pede cuidado redobrado de quem tem contrato ou dívida atrelada ao câmbio.",
+    "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cede-041-e-fecha-semana-em-baixa-depois-de-um-mes-dolar-vai-a-r-514/",
+    "posicao": 1,
+    "batch_date": "2026-09-19"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Pesquisa do Tax Experience mostra que 56,6% das empresas preveem carga tributária maior com a reforma",
+    "fonte": "Jornal Empresas & Negócios",
+    "data": "19 Set",
+    "resumo": "Levantamento apresentado no maior evento tributário do país, que reuniu mais de 700 empresários em São Paulo, aponta indústria e varejo entre os mais pressionados.",
+    "conteudo": "O Tax Experience 2026, realizado em 16 de setembro em São Paulo e considerado o maior evento tributário do Brasil, reuniu mais de 700 líderes empresariais e apresentou pesquisa segundo a qual 56,6% das empresas esperam aumento da carga tributária com a implementação da reforma, contra 43,4% que projetam redução. Por setor, a indústria é a mais pessimista, com 62,7% prevendo alta de imposto, seguida por comércio varejista (56,6%), serviços (55,6%), transporte e logística (54,5%) e comércio atacadista (50%).\n\nO dado reforça que o efeito da reforma tributária não será uniforme: quem está no varejo ou na indústria tem motivo concreto para simular o novo sistema de IBS e CBS na própria operação já agora, em vez de esperar a reforma \"chegar pronta\" em 2027. Rever preço de venda, margem e cadeia de fornecedores com o contador ainda em 2026 evita que o aumento de carga tributária vire surpresa no fluxo de caixa do ano que vem.",
+    "url": "https://jornalempresasenegocios.com.br/outras-colunas/negocios-em-pauta/negocios-em-pauta-19-09-2026/",
+    "posicao": 2,
+    "batch_date": "2026-09-19"
+  },
+  {
+    "tag": "Consumo",
+    "titulo": "Bolsa Família sobe 15% a partir de outubro e deve turbinar varejo do Norte e Nordeste",
+    "fonte": "Agência Brasil",
+    "data": "19 Set",
+    "resumo": "Reajuste eleva o valor médio do benefício de R$ 675 para R$ 777 e já foi validado pelo STF como compatível com as regras eleitorais.",
+    "conteudo": "O governo confirmou reajuste de 15% no Bolsa Família a partir de outubro: o piso do benefício sobe de R$ 600 para R$ 691 por família, e o valor médio pago passa de R$ 675 para R$ 777. A medida deve custar cerca de R$ 5,8 bilhões ainda em 2026 e por volta de R$ 22 bilhões em 2027, e o ministro Gilmar Mendes, do STF, já validou que o reajuste em período eleitoral não fere as regras do calendário eleitoral.\n\nEsse dinheiro extra costuma ir direto para supermercado, gás de cozinha e comércio de bairro — um estímulo real e imediato para pequenos varejistas, sobretudo os que atendem famílias de baixa renda nas regiões Norte e Nordeste, onde o programa tem maior peso na renda local. Donos de mercadinho, farmácia popular e loja de bairro nessas regiões podem usar outubro para reforçar estoque de itens básicos e ajustar promoções, já que o reforço de renda chega de forma recorrente, todo mês, a partir de então.",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-familia-e-reajustado-em-15-medida-vale-partir-de-outubro",
+    "posicao": 3,
+    "batch_date": "2026-09-19"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Caixa lança Pix Parcelado com pagamento em até 12 vezes",
+    "fonte": "Agência GBC",
+    "data": "19 Set",
+    "resumo": "Novidade permite dividir uma transferência ou pagamento feito pelo Pix mediante contratação de crédito, com taxa que varia por cliente.",
+    "conteudo": "A Caixa Econômica Federal passou a oferecer o Pix Parcelado, opção que permite dividir um pagamento ou transferência feito pelo Pix em até 12 parcelas mediante contratação de uma linha de crédito. O recurso vale para clientes pessoa física com limite pré-aprovado pelo banco, e a taxa de juros varia conforme o relacionamento do cliente com a instituição e a análise de risco feita no momento da contratação.\n\nPara quem vende recebendo por Pix, a novidade tende a aumentar o ticket médio, já que o cliente ganha uma forma de parcelar a compra sem usar cartão de crédito — parecido com um crediário, mas processado na hora. Vale entender que o parcelamento é uma linha de crédito do banco do comprador: o lojista continua recebendo o valor integral à vista, sem taxa extra sobre a venda, mas o recurso só funciona se o banco do cliente oferecer essa opção.",
+    "url": "https://agenciagbc.com/2026/09/13/caixa-muda-o-pix-e-libera-nova-opcao-que-permite-parcelar-pagamentos/",
+    "posicao": 4,
+    "batch_date": "2026-09-19"
+  },
+  {
+    "tag": "Mercado",
     "titulo": "Eleições de 2026 esfriam fusões e aquisições, mas turbinam valor dos negócios",
     "fonte": "O Tempo",
     "data": "18 Set",
@@ -130,49 +174,5 @@
     "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/seminario-analisa-empreendedorismo-senior-e-uso-de-ia-nos-pequenos-negocios/",
     "posicao": 4,
     "batch_date": "2026-09-16"
-  },
-  {
-    "tag": "Política",
-    "titulo": "STF decide hoje se abre inquérito contra Moraes, em sessão inédita",
-    "fonte": "Gazeta Brasil",
-    "data": "15 Set",
-    "resumo": "Pela primeira vez, o plenário do STF julga se autoriza investigação contra um ministro da própria Corte, num placar apertado que deve ir até o voto de Cármen Lúcia.",
-    "conteudo": "Nesta terça-feira (15/9), a partir das 10h, o plenário do Supremo Tribunal Federal julga, pela primeira vez na história da Corte, se autoriza a abertura de inquérito contra um de seus próprios ministros — no caso, Alexandre de Moraes. O processo se baseia em relatório de 218 páginas da Polícia Federal sobre a relação de Moraes com Daniel Vorcaro, ex-controlador do Banco Master, liquidado em agosto. Bastidores apontam placar apertado, com o voto de Cármen Lúcia como fiel da balança entre os ministros, enquanto o procurador-geral Paulo Gonet defende a nulidade do inquérito.\n\nPara quem empreende, o episódio importa menos pelo resultado do voto e mais pelo momento: a sessão ocorre na mesma semana da decisão conjunta de Copom e Federal Reserve sobre juros, num quadro eleitoral já mais apertado, e tende a alimentar a volatilidade do dólar e da Bolsa nos próximos dias. Donos de negócio com operação em câmbio, contrato de importação ou exportação, ou captação de crédito em fase final, fazem bem em evitar travar posições ou fechar condições nesta semana antes que o desenrolar do caso e a decisão de juros de quarta-feira (16/9) fiquem mais claros.",
-    "url": "https://gazetabrasil.com.br/brasil/2026/09/15/stf-decide-hoje-investigacao-contra-moraes/",
-    "posicao": 1,
-    "batch_date": "2026-09-15"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "IPCA-15 ameno abre espaço para Selic cair além de 13,75% em 2026",
-    "fonte": "BM&C News",
-    "data": "15 Set",
-    "resumo": "Prévia da inflação de setembro veio mais fraca que o esperado, e parte do mercado já projeta a Selic recuando a 13,25% ainda este ano, véspera da decisão do Copom.",
-    "conteudo": "O IBGE divulgou o IPCA-15 de setembro em 0,35%, resultado mais brando que o esperado e que levou o acumulado em 12 meses para abaixo de 5% pela primeira vez desde maio. Com o dado, o Boletim Focus de 14/9 já reduziu a projeção de inflação para 2026 de 5% para 4,90%, reforçando a leitura de que o Copom, reunido nesta terça e quarta (15 e 16/9), deve cortar a Selic em 0,25 ponto percentual, de 14% para 13,75% ao ano — corte considerado praticamente certo pelo mercado de opções da B3.\n\nMais do que o corte desta semana, o dado abre espaço para uma leitura nova: parte do mercado já projeta a Selic recuando a 13,25% ainda em 2026, caso a inflação siga cedendo. Para quem toma crédito para capital de giro ou financiamento de equipamento, isso é um argumento a favor de evitar travar agora uma taxa fixa muito alta — mas vale lembrar que o cenário pode reverter rápido, já que a escalada do petróleo no Oriente Médio nos últimos dias é um risco concreto para essa trajetória de queda da inflação.",
-    "url": "https://bmcnews.com.br/economia/ipca-15-abre-espaco-para-selic-cair-a-1325-ainda-em-2026/",
-    "posicao": 2,
-    "batch_date": "2026-09-15"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Empresas do Simples Nacional têm até 30/9 para decidir sobre IBS e CBS de 2027",
-    "fonte": "Agência Gov",
-    "data": "15 Set",
-    "resumo": "Janela aberta neste mês permite às empresas do Simples optarem por recolher IBS e CBS pelo regime regular, fora do DAS, com efeito já no 1º semestre de 2027.",
-    "conteudo": "Pela Resolução CGSN nº 186/2026, as empresas optantes pelo Simples Nacional têm até o dia 30 de setembro para decidir se, no primeiro semestre de 2027, vão recolher o IBS e a CBS pelo regime regular, fora da guia única do DAS, ou seguir no formato unificado atual. A escolha, feita diretamente no sistema da Receita Federal, produz efeito de janeiro a junho de 2027 e ainda pode ser cancelada até 30 de novembro deste ano; o prazo é diferente do usado pelo MEI, que continua sendo em janeiro.\n\nNa prática, migrar para o regime regular de IBS/CBS pode compensar para negócios que vendem principalmente para outras empresas, já que o cliente passa a aproveitar o crédito cheio do imposto pago — o que hoje não ocorre dentro do Simples. Quem vende majoritariamente para o consumidor final tende a não ganhar nada com a mudança e pode até sair perdendo em burocracia. Vale reunir o contador ainda esta semana para simular os dois cenários com base no perfil de cliente e na cadeia de fornecimento antes que a janela se feche.",
-    "url": "https://agenciagov.ebc.com.br/noticias/202609/empresas-do-simples-nacional-ja-podem-optar-pelo-recolhimento-de-ibs-e-cbs-fora-do-regime-unificado",
-    "posicao": 3,
-    "batch_date": "2026-09-15"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Chico Rei capta R$ 4,5 milhões em crowdfunding para acelerar sua retailtech",
-    "fonte": "Startupz",
-    "data": "15 Set",
-    "resumo": "Grupo mineiro de moda concluiu sua primeira rodada via crowdfunding para investir na Uma Penca, sua divisão B2B de print on demand com 30 mil lojas cadastradas.",
-    "conteudo": "A Chico Rei, grupo de moda de Juiz de Fora (MG) com mais de 15 anos de operação, concluiu sua primeira rodada de captação, de R$ 4,5 milhões, via crowdfunding na plataforma altxs, da fintech Bloxs. A oferta foi ancorada pela gestora de impacto Grupo Gaia e reuniu 329 investidores; o dinheiro vai para a Uma Penca, braço de print on demand B2B do grupo, que já tem 30 mil lojas cadastradas e passou neste ano por reformulação de checkout, novo fluxo de cadastro e edição em massa de produtos para quem revende em escala.\n\nO caso mostra o crowdfunding de investimento como caminho concreto de capital para negócios já maduros que querem financiar uma frente de tecnologia sem diluir sócio em fundo de venture capital nem recorrer a empréstimo bancário caro. Para donos de negócio com marca ou operação consolidada, vale considerar a mesma lógica: separar uma vertical de tecnologia ou serviço recorrente do negócio principal e abrir para investidores via plataforma de crowdfunding de investimento regulada, hoje uma alternativa cada vez mais usada por PMEs brasileiras para crescer sem depender só de banco.",
-    "url": "https://www.startupz.com.br/artigo/chico-rei-capta-r-4-5-milhoes-via-crowdfunding-e-acelera-a-uma-penca-sua-retailtech-de-print-on-demand",
-    "posicao": 4,
-    "batch_date": "2026-09-15"
   }
 ]
