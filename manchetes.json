@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "Simples Nacional tem até 30/9 para escolher regras de IBS e CBS em 2027",
+    "fonte": "CNN Brasil",
+    "data": "20 Set",
+    "resumo": "Receita Federal lançou simulador e força-tarefa com Sebrae e contadores para ajudar micro e pequenas empresas a decidir, até o fim do mês, como vão recolher os novos tributos em 2027.",
+    "conteudo": "A Receita Federal abriu, em 1º de setembro, o prazo que vai até o dia 30 para que as empresas do Simples Nacional decidam como vão recolher o IBS e a CBS a partir de 2027 — pela guia única do regime ('modelo puro') ou separadamente, pelas regras do regime regular da reforma tributária ('modelo híbrido'). Nesta sexta-feira (18/9), o órgão formalizou uma força-tarefa com o Conselho Federal de Contabilidade, o Sebrae e a Fenacon e lançou um simulador on-line gratuito para comparar o efeito de cada opção no caixa da empresa. Quem pedir para entrar no Simples agora também decide o modelo até a mesma data, podendo desistir da escolha até 30 de novembro.\n\nNa prática, a escolha feita agora só vale para o primeiro semestre de 2027 e pode significar a diferença entre manter uma única guia de impostos ou passar a apurar dois tributos novos por fora, com regras próprias de crédito — o que pode ser vantajoso para quem vende principalmente para outras empresas, mas exige mais controle contábil. Donos de pequenos negócios que ainda não rodaram o simulador da Receita ou não conversaram com o contador sobre o tema têm menos de duas semanas para decidir, já que a opção feita em setembro só pode ser cancelada até o fim de novembro.",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/receita-lanca-simulador-da-reforma-tributaria-para-empresas-do-simples/",
+    "posicao": 1,
+    "batch_date": "2026-09-20"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Datafolha mostra Lula e Flávio Bolsonaro empatados no 2º turno",
+    "fonte": "O Tempo",
+    "data": "20 Set",
+    "resumo": "A 17 dias do primeiro turno, pesquisa aponta Lula com 46% e Flávio Bolsonaro com 44% num eventual segundo turno, dentro da margem de erro.",
+    "conteudo": "Pesquisa Datafolha divulgada em 17/9 mostra Lula com 46% das intenções de voto contra 44% de Flávio Bolsonaro num cenário de segundo turno, diferença dentro da margem de erro de dois pontos — ou seja, um empate técnico. No primeiro turno, Lula aparece com 44,1% e Flávio com 41,7%, também dentro da margem de erro, no que institutos de pesquisa já classificam como o cenário mais apertado da série histórica para um presidente que disputa a reeleição. A votação em si ocorre em 4 de outubro, com eventual segundo turno em 25 de outubro.\n\nEleição apertada tende a deixar o mercado mais nervoso nas próximas semanas: o dólar já subiu 1,29% só na semana passada, e operadores costumam reagir a cada nova pesquisa com mais volatilidade no câmbio e na bolsa. Para quem toca negócio, o recado prático é evitar decisões financeiras que dependam de uma cotação de dólar ou uma taxa de juro estável até outubro — travar preço de insumo importado ou renegociar prazo com fornecedor antes da eleição pode evitar surpresa de caixa caso o resultado fique indefinido até o segundo turno.",
+    "url": "https://www.otempo.com.br/eleicoes/2026/pesquisas/2026/9/17/lula-e-flavio-tem-empate-tecnico-no-segundo-turno-aponta-pesquisa",
+    "posicao": 2,
+    "batch_date": "2026-09-20"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Brasil abre quase 4 milhões de pequenos negócios até agosto, diz Sebrae",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "20 Set",
+    "resumo": "Levantamento do Sebrae mostra alta de 14,3% na abertura de pequenos negócios em 2026 ante 2025, com MEI respondendo por quase 80% dos novos CNPJs.",
+    "conteudo": "Levantamento do Sebrae divulgado em 17/9 mostra que o Brasil abriu 3,93 milhões de pequenos negócios entre janeiro e agosto de 2026, alta de 14,3% sobre o mesmo período de 2025. Microempreendedores individuais respondem por 77,3% desse total — mais de 3 milhões de novos CNPJs —, seguidos por microempresas (18,7%) e empresas de pequeno porte (4%), com o setor de serviços puxando a expansão. A região Sudeste concentra mais da metade das aberturas, mas os maiores crescimentos percentuais aparecem no Norte e no Centro-Oeste, com destaque para o Amapá, que cresceu 34% na comparação com o mesmo período do ano passado.\n\nO ritmo de abertura mostra que, mesmo com juro ainda alto e eleição no radar, formalizar um pequeno negócio segue sendo a porta de entrada mais usada por quem quer empreender no Brasil — em especial via MEI, que exige menos burocracia e custo inicial mais baixo. Para quem já tem negócio aberto, o dado também é um alerta de concorrência: em regiões como Norte e Centro-Oeste, onde a abertura de empresas cresce acima da média nacional, vale reforçar diferenciação e atendimento antes que a disputa por cliente fique mais acirrada.",
+    "url": "https://agenciasebrae.com.br/dados/quase-4-milhoes-de-pequenos-negocios-ja-foram-abertos-em-2026/",
+    "posicao": 3,
+    "batch_date": "2026-09-20"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "A5X capta R$ 360 milhões para criar bolsa rival da B3",
+    "fonte": "Seu Dinheiro",
+    "data": "20 Set",
+    "resumo": "Nova infraestrutura de negociação de derivativos levanta rodada Série D liderada por Morgan Stanley e Goldman Sachs, avaliada em R$ 2,7 bilhões.",
+    "conteudo": "A A5X, startup brasileira que constrói uma nova bolsa e câmara de compensação dedicada a derivativos e futuros, anunciou em 14/9 uma rodada Série D de R$ 360 milhões, avaliando a empresa em R$ 2,7 bilhões. A rodada foi liderada por Morgan Stanley, Goldman Sachs e Kaszek, com participação de acionistas como XP, IMC, Jump Trading, Optiver, XTX Markets e ABN AMRO Clearing, e eleva para mais de R$ 730 milhões o total captado pela empresa em quatro rodadas. A companhia ainda está em fase pré-operacional, com estreia das negociações prevista para o segundo trimestre de 2027.\n\nO caso mostra que grandes gestoras internacionais seguem dispostas a apostar bilhões para quebrar o monopólio da B3 no mercado brasileiro de derivativos — um movimento que, se a A5X entrar em operação como planeja, tende a pressionar custo de negociação e taxas cobradas de corretoras e, no médio prazo, de quem usa contrato futuro para proteger preço de insumo, câmbio ou juro no próprio negócio. Ainda é cedo para efeito prático no dia a dia do pequeno empresário, mas vale acompanhar o tema: mais concorrência entre bolsas tende a baratear o custo de operações de hedge nos próximos anos.",
+    "url": "https://www.seudinheiro.com/2026/empresas/a5x-nova-bolsa-brasileira-de-derivativos-capta-r-360-milhoes-com-gigantes-do-mercado-e-ja-tem-data-para-estrear-as-negociacoes-miql/",
+    "posicao": 4,
+    "batch_date": "2026-09-20"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Ibovespa cai 0,41% e fecha 1ª semana no vermelho em um mês; dólar sobe a R$ 5,14",
     "fonte": "B3 Borainvestir",
@@ -130,49 +174,5 @@
     "url": "https://www.cartacapital.com.br/do-micro-ao-macro/preparacao-black-friday-setembro/",
     "posicao": 4,
     "batch_date": "2026-09-17"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Copom decide hoje 5º corte seguido da Selic, mas sinaliza fim do ciclo",
-    "fonte": "Forbes Brasil",
-    "data": "16 Set",
-    "resumo": "Copom deve cortar a Selic de 14% para 13,75% nesta quarta, no mesmo dia da decisão do Fed, mas analistas já apontam espaço cada vez menor para novos cortes.",
-    "conteudo": "O Copom se reúne nesta terça e quarta (15 e 16/9) e deve anunciar, por volta das 18h30 de hoje, o quinto corte seguido de 0,25 ponto percentual na Selic, levando a taxa básica de 14% para 13,75% ao ano — decisão considerada praticamente certa pelo mercado e que deve sair unânime entre os membros do comitê. A \"Super Quarta\" coincide com o dia em que o Federal Reserve americano também anuncia sua própria taxa de juros, o que tende a aumentar a volatilidade do dólar e da bolsa brasileira ao longo do pregão.\n\nMais relevante que o corte em si é o tom que deve acompanhar o comunicado: casas como o Itaú defendem manter a porta aberta sem sinalizar novos cortes, enquanto a XP ainda projeta a Selic em 13,25% até o fim do ano — sinal de que o ciclo de queda dos juros pode estar perto do fim diante da inflação ainda acima do teto da meta e do risco fiscal. Para quem toma crédito para capital de giro ou financiamento de equipamento, o recado prático é aproveitar o corte de hoje, mas evitar apostar em novas quedas agressivas ao negociar prazo e taxa nos próximos meses.",
-    "url": "https://forbes.com.br/forbes-money/2026/09/copom-selic-superquarta-inflacao-fiscal-petroleo/",
-    "posicao": 1,
-    "batch_date": "2026-09-16"
-  },
-  {
-    "tag": "Combustíveis",
-    "titulo": "Governo amplia subsídio a diesel e gasolina em R$ 7 bi por mês",
-    "fonte": "Agência Brasil",
-    "data": "16 Set",
-    "resumo": "Decreto e medida provisória assinados por Lula reduzem tributos da gasolina e criam subvenção de R$ 1 por litro de diesel, com impacto fiscal de R$ 7 bilhões mensais.",
-    "conteudo": "Em decreto e medida provisória assinados em 9/9, o governo ampliou o pacote de contenção dos preços dos combustíveis: a alíquota de PIS/Cofins sobre a gasolina caiu R$ 0,63 por litro, e uma nova subvenção de R$ 1 por litro de diesel rodoviário passou a valer para produtores e importadores que aderirem ao mecanismo, com revisão do valor a cada 30 dias pelo Ministério da Fazenda. Segundo o Ministério do Planejamento, o custo mensal das novas medidas soma R$ 7 bilhões, elevando para R$ 37,5 bilhões o total gasto ou não arrecadado com contenção de combustíveis desde março.\n\nPara negócios que dependem de frete, logística própria ou frota veicular, a expectativa é de preço mais estável no diesel e na gasolina nas bombas nas próximas semanas — mas vale lembrar que o valor do subsídio pode ser reduzido, suspenso ou prorrogado a cada revisão mensal, o que torna arriscado fechar contrato de frete de longo prazo sem cláusula de reajuste atrelada ao preço dos combustíveis.",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/novas-medidas-para-combustiveis-terao-impacto-de-r-7-bilhoes-por-mes",
-    "posicao": 2,
-    "batch_date": "2026-09-16"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Fim da 'taxa das blusinhas' é sancionado; alíquota geral cai para 30%",
-    "fonte": "CartaCapital",
-    "data": "16 Set",
-    "resumo": "Lula sancionou a isenção do imposto de 20% sobre compras internacionais de até US$ 50 e reduziu de 60% para 30% a alíquota para remessas de até R$ 3 mil.",
-    "conteudo": "O presidente Lula sancionou, em 10/9, o projeto que extingue a chamada 'taxa das blusinhas' — tarifa de importação de 20% cobrada sobre compras internacionais de até US$ 50 feitas pela internet. A nova lei também reduz de 60% para 30% a alíquota do Imposto de Importação para remessas de até R$ 3 mil, zera o imposto federal na faixa isenta e abre exceção para medicamentos sem similar nacional — mas mantém a cobrança do ICMS estadual sobre essas compras.\n\nPara o lojista brasileiro que compete com plataforma de compra internacional como Shein e AliExpress, a mudança reduz parte da vantagem de preço do concorrente estrangeiro na faixa acima de US$ 50, mas não elimina a distorção para quem vende até esse valor, que segue isento de imposto federal. Quem importa insumo ou mercadoria para revenda também sai ganhando com a alíquota menor até R$ 3 mil — vale reavaliar com o despachante aduaneiro se compensa trazer lotes menores agora que o custo tributário da importação caiu.",
-    "url": "https://www.cartacapital.com.br/economia/lula-sanciona-isencao-da-taxa-das-blusinhas-em-compras-de-ate-us-50/",
-    "posicao": 3,
-    "batch_date": "2026-09-16"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Sebrae reúne hoje especialistas para discutir IA e negócio 60+",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "16 Set",
-    "resumo": "Seminário on-line gratuito do Sebrae, das 9h às 11h30 desta quarta, traz dados inéditos do GEM sobre empreendedorismo sênior e o avanço da inteligência artificial nos pequenos negócios.",
-    "conteudo": "O Sebrae promove nesta quarta-feira (16/9), das 9h às 11h30, transmissão on-line gratuita reunindo especialistas da Anegepe (Associação Nacional de Estudos em Empreendedorismo e Gestão de Pequenas Empresas) para apresentar os dados mais recentes da pesquisa Global Entrepreneurship Monitor (GEM) 2025/2026. Pela primeira vez, o levantamento incluiu empreendedores com mais de 65 anos, e o evento traz dois estudos de caso — um de negócio que usa inteligência artificial e outro de empreendedor 60+ — além do lançamento do livro \"Empreendedorismo no Brasil\".\n\nCom a inclusão inédita da faixa 65+ na pesquisa, o dado confirma uma tendência que já aparece no dia a dia de muitos pequenos negócios brasileiros: sócio ou fundador que empreende depois da aposentadoria, muitas vezes reaproveitando rede de contatos e capital acumulado ao longo da carreira. Para quem já toca negócio, vale acompanhar a transmissão gratuita para identificar onde a IA já está sendo aplicada com resultado prático em empresas do mesmo porte, sem precisar contratar consultoria cara para começar.",
-    "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/seminario-analisa-empreendedorismo-senior-e-uso-de-ia-nos-pequenos-negocios/",
-    "posicao": 4,
-    "batch_date": "2026-09-16"
   }
 ]
