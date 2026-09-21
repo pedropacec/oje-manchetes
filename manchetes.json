@@ -1,6 +1,50 @@
 [
   {
     "tag": "Tributário",
+    "titulo": "Petrobras recebe subsídio de R$ 1 por litro e mantém preço do diesel",
+    "fonte": "Agência Brasil",
+    "data": "21 Set",
+    "resumo": "Estatal aderiu a novo programa de subvenção no mesmo dia em que reajustou o preço repassado às distribuidoras, zerando o efeito na bomba.",
+    "conteudo": "A diretoria da Petrobras aprovou, na sexta-feira (18/9), a adesão a um novo programa de subvenção ao diesel criado pela Medida Provisória 1.391/2026, publicada em 11 de setembro. Pelo programa, a estatal passa a receber R$ 1 por litro de diesel A vendido para uso rodoviário, por um prazo inicial de 30 dias, prorrogável por igual período. No mesmo dia, a Petrobras elevou em R$ 1 o preço do diesel repassado às distribuidoras — movimento que, somado ao subsídio, manteve o preço final estável. O benefício se soma a outro já em vigor, de R$ 1,12 por litro, elevando o desconto total recebido pela companhia para R$ 2,12 por litro enquanto os dois programas estiverem ativos; somando diesel, gasolina e GLP, a Petrobras já recebeu R$ 9,9 bilhões em subvenções neste ano.\n\nNa prática, o mecanismo funciona como uma trava de curto prazo no preço dos combustíveis, o que interessa direto a quem depende de frota própria ou terceirizada — do pequeno comércio que recebe mercadoria por caminhão ao prestador de serviço que roda de carro ou moto. Como a subvenção tem prazo certo e depende de prorrogação do governo, donos de negócio com custo logístico relevante fazem bem em não tratar esse alívio como permanente e em manter contrato de frete com cláusula de reajuste por combustível, caso o programa não seja renovado depois de outubro.",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-aprova-adesao-subvencao-ao-oleo-diesel",
+    "posicao": 1,
+    "batch_date": "2026-09-21"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Brasil e EUA marcam reunião em Milwaukee para tentar destravar tarifaço",
+    "fonte": "Diário do Comércio",
+    "data": "21 Set",
+    "resumo": "Ministro Márcio Elias Rosa vai se reunir com o representante comercial dos EUA em 30/9 e 1/10 para tentar ampliar lista de produtos isentos da sobretaxa imposta em julho.",
+    "conteudo": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, confirmou que se reunirá com o representante comercial dos Estados Unidos, Jamieson Greer, em 30 de setembro e 1º de outubro, durante o encontro de ministros de Comércio do G20 em Milwaukee, acompanhado do chanceler Mauro Vieira. O objetivo brasileiro é ampliar a lista de produtos isentos da sobretaxa de até 25% imposta pelos Estados Unidos em julho, que hoje já poupa carne, café, petróleo, terras raras e peças aeronáuticas, mas ainda pesa sobre ferro, aço, calçados, vestuário, açúcar, etanol, fármacos e maquinário agrícola. O próprio ministro reconheceu que as tratativas seguem difíceis e que não existe ainda nenhum esboço de acordo entre os dois governos.\n\nPara quem exporta ou vende insumo para quem exporta nesses setores ainda taxados, o recado é de cautela: a reunião reabre a negociação, mas não garante redução de tarifa a curto prazo, e o histórico recente mostra avanços lentos e pontuais. Vale manter — ou até intensificar — a busca por mercados alternativos e evitar contratos de exportação de longo prazo com margem apertada até que se conheça o resultado do encontro de Milwaukee, no fim do mês.",
+    "url": "https://diariodocomercio.com.br/economia/brasil-eua-tarifas-g20/",
+    "posicao": 2,
+    "batch_date": "2026-09-21"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Semana tem ata do Copom e IPCA-15 com Selic em 13,75% e dólar pressionado",
+    "fonte": "SpaceMoney",
+    "data": "21 Set",
+    "resumo": "Após quinto corte seguido da Selic, mercado acompanha nesta semana a ata do Copom, o Relatório de Inflação e o IPCA-15, com câmbio ainda sensível à eleição.",
+    "conteudo": "Depois de o Copom cortar a Selic para 13,75% ao ano em 16/9 — quinto corte seguido de 0,25 ponto —, a semana de 21 a 25 de setembro concentra três divulgações que devem dar o tom do mercado: a ata da reunião, na terça-feira (22), o Relatório Trimestral de Inflação do Banco Central, na quinta (24), e o IPCA-15 de setembro, na sexta (25). O pano de fundo é de cautela: o Ibovespa encerrou a semana passada aos 185.229 pontos, com queda de 1,06%, a primeira semana no vermelho em um mês, enquanto o dólar subiu 0,37% na semana, a R$ 5,144, pressionado pela alta de juros no Japão e pela proximidade da eleição de outubro.\n\nPara donos de negócio, os três indicadores da semana funcionam como termômetro de para onde vai o custo do crédito e do câmbio nos próximos meses: a ata do Copom costuma sinalizar o ritmo dos próximos cortes de juro, enquanto o IPCA-15 ajuda a antecipar se a inflação segue arrefecendo o suficiente para sustentar essa queda. Quem tem dívida atrelada a CDI ou Selic, ou compra insumo importado, ganha com acompanhar essas três datas para decidir se vale antecipar renegociação de crédito ou travar câmbio antes que a volatilidade eleitoral se intensifique.",
+    "url": "https://www.spacemoney.com.br/economia/macroeconomia/agenda-economica-copom-ipca-15-pmis",
+    "posicao": 3,
+    "batch_date": "2026-09-21"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Prosus, dona do iFood, investe US$ 1,5 milhão em IA para restaurantes",
+    "fonte": "Startups.com.br",
+    "data": "21 Set",
+    "resumo": "Emilia AI usa câmeras de segurança e dados de PDV para gerar agentes de IA de vendas e antifraude, com casos de retorno de até 28 vezes citados pela empresa.",
+    "conteudo": "A Emilia AI, startup brasileira de inteligência artificial para restaurantes, anunciou em 14/9 uma rodada pré-seed de US$ 1,5 milhão, liderada pela Prosus — dona do iFood —, com participação de um grupo de investidores-anjo do setor de tecnologia. A plataforma cruza imagens de câmeras de segurança com dados do sistema de ponto de venda para alimentar dois agentes de IA: o Coach, voltado a vendas e upsell no salão, e o Sentinel, focado em identificar fraude e erro de caixa. Entre os casos citados pela empresa está o grupo Alife Nino, que teria obtido retorno 28 vezes maior que o investimento na ferramenta, e a rede Jin Jin, que usou o sistema para flagrar fraude interna.\n\nO aporte mostra que fundo ligado a gigante de tecnologia como a Prosus está disposto a apostar em IA aplicada a um problema bem concreto do pequeno e médio food service — perda por furto, erro de caixa e venda perdida no balcão —, não só em aplicativo de delivery. Para quem toca restaurante, lanchonete ou bar, o caso é um sinal de que ferramenta de IA que cruza câmera com caixa deve ficar mais acessível e testada em rede menor nos próximos meses, valendo a pena acompanhar cases como esse antes de decidir investir em automação semelhante.",
+    "url": "https://startups.com.br/negocios/rodada-de-investimento/prosus-sobe-aposta-em-ia-nos-restaurantes-e-investe-us-15m-na-emilia-ai/",
+    "posicao": 4,
+    "batch_date": "2026-09-21"
+  },
+  {
+    "tag": "Tributário",
     "titulo": "Simples Nacional tem até 30/9 para escolher regras de IBS e CBS em 2027",
     "fonte": "CNN Brasil",
     "data": "20 Set",
@@ -130,49 +174,5 @@
     "url": "https://startups.com.br/dados-e-agentes/nuvia-levanta-us-18m-para-acelerar-expansao-na-america-latina/",
     "posicao": 4,
     "batch_date": "2026-09-18"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Fed sobe juros pela 1ª vez em 3 anos no mesmo dia em que Copom corta a Selic",
-    "fonte": "Seu Dinheiro",
-    "data": "17 Set",
-    "resumo": "Enquanto o Banco Central cortou a Selic para 13,75% nesta quarta, o Federal Reserve elevou os juros americanos pela primeira vez desde 2023, movimento que tende a pressionar o dólar e encarecer insumo importado.",
-    "conteudo": "Nesta quarta-feira (16/9), o Federal Reserve elevou a taxa básica de juros dos Estados Unidos em 0,25 ponto percentual, para a faixa entre 3,75% e 4% ao ano — a primeira alta americana desde 2023 —, no mesmo dia em que o Copom cortou a Selic de 14% para 13,75% ao ano, o quinto corte seguido no Brasil. O movimento em direções opostas chamou atenção do mercado justamente na semana em que as exportações brasileiras aos Estados Unidos, afetadas pelo tarifaço imposto por Washington, já acumulavam queda de 9,7% entre janeiro e agosto, para US$ 24,1 bilhões.\n\nPara quem toca negócio, o recado prático é de cautela: juros mais altos nos EUA tendem a fortalecer o dólar globalmente, o que encarece insumo importado e dívida atrelada à moeda americana, mesmo com a Selic mais baixa reduzindo o custo do crédito interno. Quem compra matéria-prima ou equipamento no exterior faz bem em travar cotação ou negociar prazo de pagamento agora, antes que o efeito da alta americana chegue à prateleira nas próximas semanas.",
-    "url": "https://www.seudinheiro.com/2026/internacional/fed-eleva-juros-pela-1a-vez-em-3-anos-e-isso-mexe-diretamente-com-seus-investimentos-ccgg/",
-    "posicao": 1,
-    "batch_date": "2026-09-17"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Lula sanciona Redata e isenta impostos para instalação de data centers",
-    "fonte": "Poder360",
-    "data": "17 Set",
-    "resumo": "Novo regime tributário especial suspende Imposto de Importação, IPI e PIS/Cofins para data centers, com renúncia fiscal de R$ 5,2 bilhões neste ano e expectativa de atrair até R$ 1 trilhão em investimentos.",
-    "conteudo": "O presidente Lula sancionou, em 15/9, o projeto de lei complementar que cria o Redata, regime especial de tributação para serviços de data center aprovado pelo Congresso em 3/9. A lei suspende a cobrança de Imposto de Importação, IPI e PIS/Cofins sobre equipamentos usados na instalação e modernização desses centros de dados, com renúncia fiscal estimada pelo governo em R$ 5,2 bilhões neste ano, caindo para cerca de R$ 1 bilhão anual nos dois anos seguintes — e a expectativa oficial é atrair entre R$ 500 bilhões e R$ 1 trilhão em investimentos no setor.\n\nPara o dono de negócio, o Redata interessa em dois planos: diretamente, para quem já opera ou pretende montar infraestrutura de TI, hospedagem ou nuvem no Brasil, que passa a competir em condição tributária mais próxima da de outros países; e indiretamente, para fornecedores de construção civil, energia, refrigeração e serviços especializados que tendem a ganhar demanda com a corrida por data centers nos próximos anos — vale mapear desde já se a cadeia do seu negócio pode se conectar a esses projetos.",
-    "url": "https://www.poder360.com.br/poder-governo/lula-sanciona-politica-para-atrair-data-centers-ao-brasil/",
-    "posicao": 2,
-    "batch_date": "2026-09-17"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Arvo capta R$ 106 milhões na maior Série A da saúde no Brasil",
-    "fonte": "Exame",
-    "data": "17 Set",
-    "resumo": "Healthtech que usa IA para auditar contas entre operadoras de saúde levantou o maior aporte Série A do setor no país, liderado pelos fundos Kaszek e Base10 Partners.",
-    "conteudo": "A healthtech Arvo anunciou nesta quinta-feira (17/9) uma rodada Série A de R$ 106 milhões, liderada pelas gestoras Kaszek e Base10 Partners, com participação da K50 Ventures e da Canary, fundo que já havia liderado o aporte anterior da empresa. É a maior captação Série A do setor de saúde no Brasil e uma das cinco maiores rodadas do país nos últimos três anos. Fundada em 2022 por Fabricio Valadão e Rafael Tinocco, a Arvo usa inteligência artificial para auditar e cruzar contas médicas entre operadoras de saúde e prestadores, hoje a serviço de clientes como Porto Saúde, Saúde Petrobras, Athena e Unimed Nacional, num mercado em que o setor estima haver mais de R$ 40 bilhões em glosas e fraudes por ano.\n\nO caso interessa a quem empreende em dois sentidos: mostra que investidor de peso segue disposto a apostar em tecnologia B2B que ataca um problema de custo concreto — no caso, o rombo bilionário de glosa e fraude na saúde —, e não só em aplicativo voltado ao consumidor final; e serve de lembrete para clínica, laboratório ou operadora de pequeno porte de que ferramenta de auditoria automatizada por IA deve se popularizar rápido no setor, tornando o processo manual de conferência de conta cada vez mais um ponto fraco competitivo.",
-    "url": "https://exame.com/negocios/startup-capta-r-106-milhoes-para-ajudar-operadoras-de-saude-a-nao-serem-passadas-para-tras/",
-    "posicao": 3,
-    "batch_date": "2026-09-17"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Pesquisa mostra que preparação para Black Friday já começa em setembro",
-    "fonte": "CartaCapital",
-    "data": "17 Set",
-    "resumo": "Levantamento sobre jornada de compra do consumidor mostra que Black Friday deve movimentar R$ 14,4 bilhões no e-commerce brasileiro, e pequeno lojista que não começar a se preparar agora corre risco de perder venda.",
-    "conteudo": "Pesquisa sobre a jornada de compra do consumidor brasileiro, divulgada nesta semana, mostra que a Black Friday deve movimentar cerca de R$ 14,4 bilhões no comércio eletrônico do país em 2026 e representa parcela relevante do faturamento anual de 60% dos pequenos e médios lojistas que vendem on-line. O levantamento aponta que o consumidor leva, em média, 35 dias e cerca de 49 buscas até fechar a compra, e mais da metade das conversões registradas em novembro já nasce de pesquisas iniciadas em outubro — o que empurra o início real da temporada para setembro.\n\nPara quem tem loja física ou virtual, a conta é simples: quem só começa a pensar em Black Friday em novembro já perdeu boa parte da disputa pela atenção do cliente. Vale usar as próximas semanas para reaquecer a base de e-mail e WhatsApp, negociar prazo com fornecedor e transportadora — já que atraso na entrega é uma das maiores causas de carrinho abandonado — e revisar as opções de parcelamento e meios de pagamento oferecidos na loja.",
-    "url": "https://www.cartacapital.com.br/do-micro-ao-macro/preparacao-black-friday-setembro/",
-    "posicao": 4,
-    "batch_date": "2026-09-17"
   }
 ]
