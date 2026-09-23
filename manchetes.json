@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Trabalhista",
+    "titulo": "CCJ do Senado aprova fim da escala 6x1; votação em plenário fica para outubro",
+    "fonte": "Senado Notícias",
+    "data": "23 Set",
+    "resumo": "Proposta que troca a escala 6x1 pela 5x2 e reduz a jornada para 40 horas semanais passou na comissão e só deve ir a plenário depois do primeiro turno das eleições.",
+    "conteudo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, em 2 de setembro, por votação simbólica, o parecer favorável do senador Omar Aziz (PSD-AM) à PEC 221/2019, que extingue a escala de trabalho 6x1 e institui a jornada 5x2 — cinco dias trabalhados por dois de descanso remunerado —, além de reduzir a jornada máxima semanal de 44 para 40 horas, de forma escalonada. O texto já havia sido aprovado pela Câmara dos Deputados em dois turnos, por 472 a 22 e depois por 461 a 19 votos. Sem garantia de votos suficientes, a base do governo optou por não levar a proposta ao plenário do Senado antes do primeiro turno da eleição, em 4 de outubro, com líderes governistas prometendo votação até o fim do mês.\n\nPara quem toca negócio com escala de revezamento — comércio, bares, restaurantes, indústria, segurança, saúde —, a mudança pressiona direto a conta de mão de obra: manter a mesma cobertura de horário com menos horas por funcionário tende a exigir contratar mais gente ou reorganizar turnos, o que pode elevar a folha sem aumento proporcional de faturamento. Como a PEC ainda depende de aprovação em dois turnos no plenário do Senado e só deve ser votada depois de 4 de outubro, ainda há tempo para simular o impacto da jornada de 40 horas no orçamento e desenhar um plano de escala alternativo antes que a mudança seja aprovada e comece a valer.",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario",
+    "posicao": 1,
+    "batch_date": "2026-09-23"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Inadimplência de pequenos negócios cai a 25% e crédito aprovado bate recorde",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "23 Set",
+    "resumo": "Pesquisa do Sebrae mostra queda na proporção de pequenos negócios com dívida em atraso e aprovação de crédito no maior nível desde 2022.",
+    "conteudo": "A 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, mostrou que a proporção de pequenos negócios com dívidas em atraso caiu de 28%, no primeiro trimestre de 2026, para 25% em julho — recuo de 3 pontos percentuais. No mesmo levantamento, entre os pequenos negócios que buscaram crédito nos últimos três meses, 46% tiveram o pedido aprovado pelas instituições financeiras, o maior percentual da série histórica iniciada em 2022. Para o presidente do Sebrae, Rodrigo Soares, o movimento acompanha o início da queda da Selic, que reduz o custo do crédito para quem precisa investir em melhoria e produtividade.\n\nMenos inadimplência e mais crédito aprovado é sinal de que bancos e fintechs estão mais dispostos a emprestar para pequeno negócio — uma janela que vale aproveitar para renegociar dívida antiga em condição melhor ou buscar capital de giro com taxa mais competitiva, em vez de recorrer ao cheque especial ou ao rotativo do cartão. Ainda assim, com a Selic em dois dígitos, vale comparar propostas de mais de uma instituição antes de fechar contrato, já que a aprovação mais fácil não significa necessariamente a taxa mais barata do mercado.",
+    "url": "https://agenciasebrae.com.br/economia-e-politica/financas-em-dia-cai-a-inadimplencia-entre-pequenos-negocios/",
+    "posicao": 2,
+    "batch_date": "2026-09-23"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "BC libera Pix Automático em conta-salário e amplia base para cobranças",
+    "fonte": "O Tempo",
+    "data": "23 Set",
+    "resumo": "Banco Central autorizou o uso do Pix Automático em contas-salário, abrindo caminho para cobrar assinaturas e mensalidades de um público hoje mais difícil de alcançar.",
+    "conteudo": "O Banco Central autorizou, em norma divulgada em 18 de setembro, o uso do Pix Automático em contas-salário, tipo de conta que hoje tem uso restrito e não pode ser movimentada livremente pelo titular. Pelas novas regras, o trabalhador que recebe salário nessa modalidade poderá autorizar cobranças recorrentes — como mensalidades, planos e assinaturas — diretamente da conta em que recebe o pagamento, mas a funcionalidade só entra em vigor a partir de 1º de julho de 2027. Três dias depois, em 21 de setembro, o BC publicou diretrizes técnicas adicionais para o Pix, com implementação em fases para adaptação dos bancos.\n\nPara negócios que vivem de cobrança recorrente — de academias e escolas a serviços de assinatura e SaaS —, a mudança amplia no médio prazo o público endereçável: hoje, uma fatia de trabalhadores com conta-salário fica de fora de cobranças automáticas porque a conta não permite esse tipo de movimentação. Como a regra só vale a partir de julho de 2027, ainda não há efeito imediato no caixa, mas empresas que planejam produtos de assinatura já podem considerar esse público na modelagem de crescimento para o ano que vem.",
+    "url": "https://www.otempo.com.br/economia/2026/9/18/banco-central-libera-pix-automatico-em-conta-salario-veja-mudancas",
+    "posicao": 3,
+    "batch_date": "2026-09-23"
+  },
+  {
+    "tag": "Varejo",
+    "titulo": "Dia das Crianças deve injetar R$ 1,48 bi a mais no varejo paulista",
+    "fonte": "FecomercioSP",
+    "data": "23 Set",
+    "resumo": "Levantamento da FecomercioSP aponta alta de 3,3% nas vendas de outubro, puxada por farmácias, perfumarias e brinquedos.",
+    "conteudo": "Levantamento da Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP) projeta faturamento de R$ 46,6 bilhões para os segmentos mais ligados ao Dia das Crianças (12 de outubro) no varejo paulista em outubro, um incremento de R$ 1,48 bilhão, ou 3,3%, sobre o mesmo mês do ano passado. Por segmento, farmácias e perfumarias lideram o crescimento, com alta de 6,7% (R$ 665,5 milhões a mais), seguidas por lojas de brinquedos, com alta de 2,5% (R$ 529,2 milhões a mais), vestuário, tecidos e calçados, com 3% (R$ 224,2 milhões a mais), e eletrodomésticos e eletrônicos, com 0,9% (R$ 61 milhões a mais).\n\nO crescimento moderado, mas positivo, é sinal de que vale montar mix e estoque para a data em vez de tratar outubro como mês fraco de vendas — especialmente em farmácias, perfumarias e brinquedos, que puxam o resultado. Como a data compete direto com Black Friday e Natal pela atenção e pelo caixa do consumidor no fim do ano, lojistas que antecipam a compra de estoque, negociam prazo com fornecedor e programam campanha promocional para o Dia das Crianças tendem a aproveitar melhor essa janela antes que o consumidor concentre gastos nas datas seguintes.",
+    "url": "https://www.fecomercio.com.br/noticia/vendas-do-varejo-paulista-devem-registrar-crescimento-de-r-1-48-bilhao-no-mes-do-dia-das-criancas",
+    "posicao": 4,
+    "batch_date": "2026-09-23"
+  },
+  {
     "tag": "Juros",
     "titulo": "Ata do Copom confirma quinto corte seguido e Selic vai a 13,75%",
     "fonte": "Sou Brasília",
@@ -130,49 +174,5 @@
     "url": "https://www.seudinheiro.com/2026/empresas/a5x-nova-bolsa-brasileira-de-derivativos-capta-r-360-milhoes-com-gigantes-do-mercado-e-ja-tem-data-para-estrear-as-negociacoes-miql/",
     "posicao": 4,
     "batch_date": "2026-09-20"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa cai 0,41% e fecha 1ª semana no vermelho em um mês; dólar sobe a R$ 5,14",
-    "fonte": "B3 Borainvestir",
-    "data": "19 Set",
-    "resumo": "Eleições, juros mais altos no Japão e petróleo acima de US$ 100 pressionaram os mercados na sexta-feira, mesmo após o Copom cortar a Selic.",
-    "conteudo": "O Ibovespa fechou a sexta-feira (18/9) em queda de 0,41%, aos 185.229 pontos, acumulando perda de 1,06% na semana — a primeira em vermelho depois de quatro semanas seguidas de alta. O dólar subiu 0,11% no dia e fechou a R$ 5,144, com valorização de 0,37% na semana, mesmo um dia depois de o Copom cortar a Selic pela quinta vez seguida, para 13,75% ao ano. O movimento foi puxado pela decisão do Banco do Japão de elevar juros a 1,25%, maior patamar em 31 anos, somada à cautela do mercado com o cenário eleitoral brasileiro e ao petróleo ainda acima de US$ 100 o barril.\n\nPara quem compra insumos ou equipamentos importados, o dólar mais caro pressiona o custo em reais; já quem exporta ganha margem extra na conversão. A queda da bolsa em si afeta pouco o dia a dia de pequenos negócios, mas o conjunto — juros externos subindo enquanto o Brasil corta a Selic — tende a manter o real mais instável nas próximas semanas, o que pede cuidado redobrado de quem tem contrato ou dívida atrelada ao câmbio.",
-    "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cede-041-e-fecha-semana-em-baixa-depois-de-um-mes-dolar-vai-a-r-514/",
-    "posicao": 1,
-    "batch_date": "2026-09-19"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Pesquisa do Tax Experience mostra que 56,6% das empresas preveem carga tributária maior com a reforma",
-    "fonte": "Jornal Empresas & Negócios",
-    "data": "19 Set",
-    "resumo": "Levantamento apresentado no maior evento tributário do país, que reuniu mais de 700 empresários em São Paulo, aponta indústria e varejo entre os mais pressionados.",
-    "conteudo": "O Tax Experience 2026, realizado em 16 de setembro em São Paulo e considerado o maior evento tributário do Brasil, reuniu mais de 700 líderes empresariais e apresentou pesquisa segundo a qual 56,6% das empresas esperam aumento da carga tributária com a implementação da reforma, contra 43,4% que projetam redução. Por setor, a indústria é a mais pessimista, com 62,7% prevendo alta de imposto, seguida por comércio varejista (56,6%), serviços (55,6%), transporte e logística (54,5%) e comércio atacadista (50%).\n\nO dado reforça que o efeito da reforma tributária não será uniforme: quem está no varejo ou na indústria tem motivo concreto para simular o novo sistema de IBS e CBS na própria operação já agora, em vez de esperar a reforma \"chegar pronta\" em 2027. Rever preço de venda, margem e cadeia de fornecedores com o contador ainda em 2026 evita que o aumento de carga tributária vire surpresa no fluxo de caixa do ano que vem.",
-    "url": "https://jornalempresasenegocios.com.br/outras-colunas/negocios-em-pauta/negocios-em-pauta-19-09-2026/",
-    "posicao": 2,
-    "batch_date": "2026-09-19"
-  },
-  {
-    "tag": "Consumo",
-    "titulo": "Bolsa Família sobe 15% a partir de outubro e deve turbinar varejo do Norte e Nordeste",
-    "fonte": "Agência Brasil",
-    "data": "19 Set",
-    "resumo": "Reajuste eleva o valor médio do benefício de R$ 675 para R$ 777 e já foi validado pelo STF como compatível com as regras eleitorais.",
-    "conteudo": "O governo confirmou reajuste de 15% no Bolsa Família a partir de outubro: o piso do benefício sobe de R$ 600 para R$ 691 por família, e o valor médio pago passa de R$ 675 para R$ 777. A medida deve custar cerca de R$ 5,8 bilhões ainda em 2026 e por volta de R$ 22 bilhões em 2027, e o ministro Gilmar Mendes, do STF, já validou que o reajuste em período eleitoral não fere as regras do calendário eleitoral.\n\nEsse dinheiro extra costuma ir direto para supermercado, gás de cozinha e comércio de bairro — um estímulo real e imediato para pequenos varejistas, sobretudo os que atendem famílias de baixa renda nas regiões Norte e Nordeste, onde o programa tem maior peso na renda local. Donos de mercadinho, farmácia popular e loja de bairro nessas regiões podem usar outubro para reforçar estoque de itens básicos e ajustar promoções, já que o reforço de renda chega de forma recorrente, todo mês, a partir de então.",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-familia-e-reajustado-em-15-medida-vale-partir-de-outubro",
-    "posicao": 3,
-    "batch_date": "2026-09-19"
-  },
-  {
-    "tag": "Pagamentos",
-    "titulo": "Caixa lança Pix Parcelado com pagamento em até 12 vezes",
-    "fonte": "Agência GBC",
-    "data": "19 Set",
-    "resumo": "Novidade permite dividir uma transferência ou pagamento feito pelo Pix mediante contratação de crédito, com taxa que varia por cliente.",
-    "conteudo": "A Caixa Econômica Federal passou a oferecer o Pix Parcelado, opção que permite dividir um pagamento ou transferência feito pelo Pix em até 12 parcelas mediante contratação de uma linha de crédito. O recurso vale para clientes pessoa física com limite pré-aprovado pelo banco, e a taxa de juros varia conforme o relacionamento do cliente com a instituição e a análise de risco feita no momento da contratação.\n\nPara quem vende recebendo por Pix, a novidade tende a aumentar o ticket médio, já que o cliente ganha uma forma de parcelar a compra sem usar cartão de crédito — parecido com um crediário, mas processado na hora. Vale entender que o parcelamento é uma linha de crédito do banco do comprador: o lojista continua recebendo o valor integral à vista, sem taxa extra sobre a venda, mas o recurso só funciona se o banco do cliente oferecer essa opção.",
-    "url": "https://agenciagbc.com/2026/09/13/caixa-muda-o-pix-e-libera-nova-opcao-que-permite-parcelar-pagamentos/",
-    "posicao": 4,
-    "batch_date": "2026-09-19"
   }
 ]
