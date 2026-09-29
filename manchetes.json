@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "Desenrola MEI: prazo com desconto de até 70% nas dívidas termina amanhã",
+    "fonte": "Contábeis",
+    "data": "29 Set",
+    "resumo": "Programa da PGFN que renegocia dívidas do MEI com a União fecha a adesão nesta quarta-feira, 30/9, com abatimento de até 70% em juros e multas.",
+    "conteudo": "O Desenrola MEI, programa da Procuradoria-Geral da Fazenda Nacional que permite renegociar dívidas do microempreendedor individual inscritas na Dívida Ativa da União, encerra a janela de adesão nesta quarta-feira, 30 de setembro — a inscrição está aberta desde 6 de julho, exclusivamente pelo Portal Regularize. O programa concede desconto de até 70% sobre juros, multas e encargos legais (o valor principal da dívida não é abatido), mediante entrada de 6% do total devido e parcelamento do saldo restante em até 145 meses.\n\nPara quem tem CNPJ de MEI com pendência junto à União, hoje é o último dia útil para reunir os dados no Regularize e simular a negociação antes que o sistema fique sobrecarregado na reta final do prazo. Depois de amanhã, a cobrança volta às regras normais — sem desconto nem parcelamento estendido —, e uma dívida em aberto pode travar linhas de crédito do próprio negócio e gerar restrição no CPF do empreendedor.",
+    "url": "https://www.contabeis.com.br/noticias/78175/desenrola-mei-desconto-de-ate-70-e-parcelamento-da-divida/",
+    "posicao": 1,
+    "batch_date": "2026-09-29"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Dólar sobe a R$ 5,22 e Ibovespa cai pela 4ª sessão na véspera da eleição",
+    "fonte": "CNN Brasil",
+    "data": "29 Set",
+    "resumo": "Bolsa emenda quarta queda seguida e moeda americana sobe quase 1% com pesquisas eleitorais apertadas e tensão entre EUA e Irã elevando o petróleo.",
+    "conteudo": "O Ibovespa fechou o pregão de segunda-feira (28/9) em queda de 0,26%, aos 182.991 pontos — a quarta sessão consecutiva de perdas —, enquanto o dólar subiu 0,83% e encostou em R$ 5,22. O movimento reflete a última semana antes do primeiro turno das eleições: pesquisa BTG/Nexus mostrou o presidente Lula com 42% das intenções de voto contra 37% do senador Flávio Bolsonaro, com o petróleo Brent subindo a US$ 105,28 o barril depois de Donald Trump rejeitar proposta de cessar-fogo do Irã e ameaça de reabertura do Estreito de Ormuz.\n\nCâmbio mais alto encarece insumos e equipamentos importados e pressiona o custo de dívidas atreladas ao dólar — vale travar cotação de compras internacionais programadas para as próximas semanas em vez de esperar a semana da eleição. Já quem exporta ganha margem extra com a moeda americana mais valorizada; nos dois casos, a volatilidade tende a aumentar até a apuração do primeiro turno, então negócios com caixa apertado devem evitar operações de câmbio maiores do que o necessário nesse intervalo.",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-28-setembro-2026/",
+    "posicao": 2,
+    "batch_date": "2026-09-29"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Superávit da balança comercial mira recorde de US$ 90 bi em 2026",
+    "fonte": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",
+    "data": "29 Set",
+    "resumo": "MDIC projeta superávit recorde de US$ 90 bilhões no ano, alta de 32,3%, com pequenas empresas exportadoras batendo recorde histórico.",
+    "conteudo": "A balança comercial fechou a quarta semana de setembro com superávit de US$ 2,399 bilhões, elevando o saldo do mês para US$ 6,452 bilhões (US$ 30,488 bilhões em exportações e US$ 24,036 bilhões em importações), segundo dados do MDIC. No acumulado do ano até a mesma semana, as exportações somam US$ 281,34 bilhões, alta de 11,5% sobre 2025, e o superávit acumulado é de US$ 61,77 bilhões — 36,3% maior —, com o ministério projetando um resultado recorde de US$ 90 bilhões para 2026, avanço de 32,3% ante o ano passado.\n\nO câmbio mais depreciado (dólar perto de R$ 5,22) turbina justamente esse resultado, tornando o produto brasileiro mais competitivo lá fora — e é uma janela para quem ainda vende só no mercado interno: o Brasil fechou 2025 com 11.822 micro e pequenas empresas e MEIs exportando, 390 a mais que no ano anterior, um grupo ainda pequeno perto do total de negócios do país. Para quem já fatura em real e pensa em internacionalizar, o momento cambial favorece começar pela exportação de excedente de produção ou de nicho, mesmo em pequena escala, aproveitando linhas de crédito e programas de apoio à exportação do MDIC e do Sebrae.",
+    "url": "https://agenciagov.ebc.com.br/noticias/202609/mdic-divulga-balanca-comercial-da-4a-semana-de-setembro-de-2026",
+    "posicao": 3,
+    "batch_date": "2026-09-29"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "DOMO.VC cria FIDC de R$ 100 milhões para financiar startups sem diluição",
+    "fonte": "NeoFeed",
+    "data": "29 Set",
+    "resumo": "Gestora de venture capital estreia em crédito estruturado com fundo que pode chegar a R$ 100 milhões para dar capital de giro às startups do portfólio.",
+    "conteudo": "A gestora de venture capital DOMO.VC lançou um Fundo de Investimento em Direitos Creditórios (FIDC) com potencial de atingir R$ 100 milhões em até 15 a 18 meses, destinado a financiar capital de giro das startups do seu portfólio sem diluir a participação dos fundadores. O veículo tem administração da Vórtx e gestão dos recebíveis pela Bertha Capital, com cotas divididas em sênior (60%), mezanino (30%) e subordinada júnior (10%) — a DOMO e as próprias startups originadoras participam da fatia subordinada. A mira inicial são as 104 startups do portfólio da gestora, entre elas Fretadão, MeuTudo, Mission, Willfly e Nuvidio.\n\nO movimento confirma uma tendência que já apareceu nos números de 2025: pela primeira vez, as cinco maiores captações do ecossistema brasileiro de startups vieram de FIDCs, não de rodadas de equity — do total de US$ 4,5 bilhões captados no ano, US$ 2,4 bilhões passaram por esse tipo de fundo. Para fundadores que precisam de caixa para operação mas querem evitar abrir mão de mais equity num momento de juro alto e funding mais escasso, crédito estruturado como o da DOMO.VC virou alternativa real à rodada tradicional — vale perguntar à própria gestora ou fundo investidor se algo parecido está disponível antes de sair atrás de um novo aporte.",
+    "url": "https://neofeed.com.br/startups/domo-vc-entra-no-jogo-do-credito-estruturado-com-fidc-de-r-100-milhoes-para-startups/",
+    "posicao": 4,
+    "batch_date": "2026-09-29"
+  },
+  {
     "tag": "Capital",
     "titulo": "Novo Pronampe eleva teto de crédito para R$ 500 mil e dobra carência",
     "fonte": "Mixvale",
@@ -130,49 +174,5 @@
     "url": "https://startupi.com.br/runflow-capta-r-7-milhoes/",
     "posicao": 4,
     "batch_date": "2026-09-26"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "BC reduz projeção de crescimento do PIB para 1,8% e Selic só cai a 12% em 2027",
-    "fonte": "Diário de Pernambuco",
-    "data": "25 Set",
-    "resumo": "Banco Central piora a projeção de crescimento e confirma que a inflação só volta à meta depois de 2027, mantendo o crédito caro por mais tempo.",
-    "conteudo": "O Banco Central divulgou nesta quinta-feira (24/9) seu Relatório Trimestral de Inflação, reduzindo a projeção de crescimento do PIB em 2026 de 2% para 1,8% e estimando expansão de apenas 1,4% em 2027. A instituição manteve a projeção de inflação em 5,2% para este ano — acima do teto de 4,5% da meta — e apontou probabilidade de cerca de 90% de o índice estourar o limite superior novamente. Pela mediana das projeções de mercado, a Selic, hoje em 13,75% ao ano após o quinto corte seguido do Copom, só deve recuar para 12% ao final de 2027.\n\nPara quem empreende, o recado é que o custo do crédito vai cair mais devagar do que o esperado: linhas de capital de giro e financiamento de investimento devem seguir caras por pelo menos mais um ano. Somado ao corte na previsão de crescimento da economia, o cenário reforça a cautela na hora de tomar dívida para expandir e torna ainda mais relevante buscar linhas subsidiadas, como as do BNDES e do Pronampe, em vez do crédito bancário tradicional.",
-    "url": "https://www.diariodepernambuco.com.br/economia/2026/09/11724785-banco-central-reduz-projecao-de-crescimento-da-economia-para-18.html",
-    "posicao": 1,
-    "batch_date": "2026-09-25"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "BNDES amplia Brasil Soberano e destina R$ 8,8 bi a exportadores atingidos pelo tarifaço",
-    "fonte": "ABC Agora",
-    "data": "25 Set",
-    "resumo": "Programa do BNDES chega a R$ 22,6 bilhões, com taxas a partir de 6,5% ao ano e resposta em até 15 dias para empresas exportadoras.",
-    "conteudo": "O BNDES ampliou para R$ 22,6 bilhões o programa Brasil Soberano, destinando R$ 8,8 bilhões a exportadores e fornecedores atingidos pelo tarifaço de 37,5% imposto pelos Estados Unidos e outros R$ 6,8 bilhões a empresas com negócios em países do Golfo Pérsico, afetados pelo conflito no Oriente Médio. As taxas variam conforme a finalidade — 8,3% ao ano para capital de giro, 8% ao ano para compra de máquinas e equipamentos e 6,5% ao ano para projetos de investimento —, com pedidos feitos direto no BNDES ou por bancos parceiros e resposta em até 15 dias.\n\nÉ uma das poucas linhas de crédito hoje mais baratas que a própria Selic, a 13,75% ao ano, o que faz diferença real para quem exporta ou depende de fornecedores expostos à tarifa americana. Donos de negócio nesse radar — da indústria ao agro — têm motivo para correr atrás da linha antes de recorrer a capital de giro bancário tradicional, bem mais caro no cenário atual.",
-    "url": "https://abcagora.com.br/2026/09/01/bndes-brasil-soberano-credito-22-bi/",
-    "posicao": 2,
-    "batch_date": "2026-09-25"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Confiança dos pequenos negócios fica estável em setembro, mas indústria segue pessimista",
-    "fonte": "O Regional",
-    "data": "25 Set",
-    "resumo": "Sondagem do Sebrae com a FGV mostra índice de 100,4 pontos em setembro, com comércio e serviços otimistas compensando o pessimismo da pequena indústria.",
-    "conteudo": "A Sondagem das Micro e Pequenas Empresas, feita pelo Sebrae em parceria com a FGV, mostrou índice geral de confiança de 100,4 pontos em setembro, recuo de apenas 0,2 ponto ante agosto — número acima de 100 pontos indica otimismo. O resultado esconde diferenças setoriais: o índice de serviços subiu 0,9 ponto, para 101,5 pontos, e o comércio também melhorou, enquanto a pequena indústria segue pessimista com o ritmo da atividade.\n\nA estabilidade geral esconde um alerta setorial: quem vende para o consumidor final segue confiante, mas quem depende de produção industrial sente o peso dos juros altos e da demanda mais fraca. Para o pequeno empresário, é sinal de que 2026 segue sendo ano de crescer com cautela — bom momento para investir em vendas e atendimento, mas com olho apertado nos custos para quem está na cadeia industrial.",
-    "url": "https://oregional.com.br/noticias/indice-de-confianca-dos-pequenos-negocios-fica-neutro-em-setembro",
-    "posicao": 3,
-    "batch_date": "2026-09-25"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Tivit reserva R$ 1 bi para comprar techs latino-americanas e mira consolidação",
-    "fonte": "Forbes Brasil",
-    "data": "25 Set",
-    "resumo": "Empresa de tecnologia, controlada pelo grupo italiano Almaviva, já mapeou 620 alvos e negocia com 75 empresas de R$ 20 mi a R$ 200 mi de faturamento.",
-    "conteudo": "A Tivit, comprada pelo grupo italiano Almaviva, anunciou nesta quinta-feira (24/9) um programa de R$ 1 bilhão para aquisições de empresas de tecnologia na América Latina, priorizando negócios com faturamento anual entre R$ 20 milhões e R$ 200 milhões. A companhia já mapeou 620 empresas, abordou 308, está em conversa com 75 e tem 15 negociações em fase avançada, organizadas em seis frentes: governo, mercado financeiro, transporte, indústria, saúde e utilities. O plano é autofinanciado com caixa próprio, sem aporte do grupo controlador ou dívida, e as primeiras aquisições só devem sair no início de 2027.\n\nÉ um sinal de que o mercado de fusões e aquisições em tecnologia volta a esquentar no Brasil, com compradores estratégicos — e não só fundos de venture capital — de olho em empresas de médio porte. Para fundadores de techs nessa faixa de faturamento, é hora de organizar a casa (governança, contratos, métricas), porque o interesse de compradores como a Tivit pode virar uma rota de saída concreta nos próximos meses.",
-    "url": "https://forbes.com.br/forbes-money/2026/09/tivit-aquisicoes-america-latina-investimento-1-bilhao/",
-    "posicao": 4,
-    "batch_date": "2026-09-25"
   }
 ]
