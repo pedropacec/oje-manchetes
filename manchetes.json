@@ -1,6 +1,50 @@
 [
     {
         "tag": "Política",
+        "titulo": "A 2 dias da eleição, Lula e Flávio Bolsonaro empatam em pesquisa AtlasIntel",
+        "fonte": "Bloomberg Línea",
+        "data": "01 Out",
+        "resumo": "Levantamento AtlasIntel/Bloomberg mostra Lula com 47,7% e Flávio Bolsonaro com 47,4% em simulação de segundo turno, dentro da margem de erro, a dois dias da votação de domingo.",
+        "conteudo": "A dois dias do primeiro turno de domingo (4/10), uma pesquisa AtlasIntel feita a pedido da Bloomberg News mostra Lula com 47,7% das intenções de voto contra 47,4% de Flávio Bolsonaro em um cenário hipotético de segundo turno — diferença de 0,3 ponto percentual, dentro da margem de erro de 1 ponto do levantamento. O resultado confirma o empate técnico que já aparecia em pesquisas de institutos como o Datafolha nas últimas semanas, com o senador reduzindo a vantagem que Lula chegou a ter em dois dígitos no início da campanha.\n\nCom a disputa tão apertada, a chance de a eleição ir para um segundo turno em 25 de outubro é alta, o que estende por mais três semanas o período de indefinição que já vem travando decisões de investimento, câmbio e crédito das empresas. Na prática, quem esperava o resultado de domingo para decidir compra de insumo importado, troca de dívida ou contratação precisa ajustar a expectativa: o cenário só deve ficar mais claro depois de um eventual segundo turno, não logo após a apuração do primeiro.",
+        "url": "https://www.bloomberglinea.com.br/brasil/lula-e-flavio-bolsonaro-mantem-empate-em-pesquisa-atlasintel-as-vesperas-da-eleicao/",
+        "posicao": 1,
+        "batch_date": "2026-10-02"
+    },
+    {
+        "tag": "Tributário",
+        "titulo": "Split payment da reforma tributária começa em 2027, só entre empresas",
+        "fonte": "Diário do Comércio",
+        "data": "02 Out",
+        "resumo": "Decreto que regulamenta a CBS detalha o split payment, mecanismo que recolhe o tributo no momento do pagamento, mas ele vale, de forma facultativa, só para operações entre empresas via Pix ou boleto.",
+        "conteudo": "O Decreto nº 12.955/2026, que regulamenta a CBS e outros pontos da reforma tributária, detalha como vai funcionar o split payment — mecanismo que separa automaticamente o tributo no momento do pagamento, antes de o dinheiro cair na conta de quem vende. A primeira fase, prevista para o segundo semestre de 2027, será facultativa e vale só para operações entre empresas (B2B) pagas por Pix ou boleto; vendas para pessoa física e pagamentos por cartão de crédito, débito ou vale ficam de fora dessa etapa inicial.\n\nPara quem vende para outras empresas, o efeito prático só chega em 2027, mas o recorte já é importante para planejar o fluxo de caixa: a cada pagamento via Pix ou boleto de um cliente empresa, parte do valor vai ser destacada automaticamente para o Fisco antes de entrar na conta, reduzindo o dinheiro disponível no curto prazo. Como a adesão é opcional nessa primeira fase e as vendas ao consumidor final continuam fora da regra, ainda há tempo para combinar com o contador como o sistema de emissão de notas vai se adaptar antes de a opção começar a valer.",
+        "url": "https://diariodocomercio.com.br/legislacao/split-payment-reforma-tributaria/",
+        "posicao": 2,
+        "batch_date": "2026-10-02"
+    },
+    {
+        "tag": "Capital",
+        "titulo": "Sebrae faz Semana Nacional de Crédito com foco em linhas do BNDES",
+        "fonte": "Portal ContNews",
+        "data": "02 Out",
+        "resumo": "De 2 a 6 de outubro, Sebrae promove painel online e gratuito explicando como pequenos negócios acessam crédito do BNDES por operações indiretas.",
+        "conteudo": "O Sebrae realiza de 2 a 6 de outubro a primeira edição do \"Papo de Negócio\" da Semana Nacional de Crédito, evento online e gratuito em que o técnico do BNDES Rafael Dickie explica a ferramenta do banco para pequenos negócios acessarem crédito via operações indiretas, incluindo exigências legais e passo a passo para chegar aos recursos. Uma segunda edição, de 16 a 20 de outubro, vai detalhar o Fundo de Aval às Micro e Pequenas Empresas (Fampe), que garante até 80% do financiamento tomado por micro e pequenas empresas — reduzindo a garantia própria que o empresário precisa oferecer ao banco.\n\nCom o crédito ainda caro e a busca por financiamento batendo recorde entre pequenas empresas, participar dessas sessões gratuitas é uma forma de mapear linhas com taxa mais baixa que a oferecida de cara por bancos e fintechs antes de assinar qualquer contrato. Vale a inscrição também para quem só vai precisar de crédito mais adiante: entender hoje como funciona o aval do Fampe pode poupar meses de negociação de garantia quando a necessidade de caixa aparecer.",
+        "url": "https://www.portalcontnews.com.br/?p=130931",
+        "posicao": 3,
+        "batch_date": "2026-10-02"
+    },
+    {
+        "tag": "Startups",
+        "titulo": "Captação de startups latino-americanas cai para US$ 554 milhões em setembro",
+        "fonte": "Startups.com.br",
+        "data": "30 Set",
+        "resumo": "Volume levantado por startups da América Latina recuou em setembro, puxado por forte queda nas rodadas de dívida, enquanto as rodadas de equity seguraram parte do resultado.",
+        "conteudo": "As startups da América Latina levantaram cerca de US$ 554 milhões em 66 rodadas em setembro, segundo dados da Sling Hub — resultado puxado para baixo principalmente pelo colapso das rodadas de dívida e recebíveis, que caíram de US$ 755 milhões em agosto para apenas US$ 40 milhões em setembro, queda de 95%. As rodadas de equity (venda de participação) se mantiveram relativamente fortes, somando US$ 514 milhões, o segundo melhor mês do ano, com fintechs concentrando US$ 280 milhões do total captado.\n\nPara fundadores brasileiros, o recado é que o dinheiro não secou de forma uniforme: quem depende de dívida ou antecipação de recebíveis (como FIDCs) para financiar capital de giro deve achar o crédito mais escasso e caro nas próximas rodadas, enquanto negócios que vendem participação, principalmente no setor financeiro, ainda encontram investidor disposto a entrar. Quem tem uma rodada de dívida no radar para os próximos meses ganha ao negociar e travar as condições agora, em vez de esperar essa janela encolher ainda mais.",
+        "url": "https://startups.com.br/negocios/startups-latino-americanas-recuam-e-captam-apenas-meio-bilhao-em-setembro",
+        "posicao": 4,
+        "batch_date": "2026-10-02"
+    },
+    {
+        "tag": "Política",
         "titulo": "Brasil e EUA criam grupo de trabalho após avanço nas negociações sobre tarifas",
         "fonte": "JD1 Notícias",
         "data": "01 Out",
@@ -130,49 +174,5 @@
         "url": "https://neofeed.com.br/startups/domo-vc-entra-no-jogo-do-credito-estruturado-com-fidc-de-r-100-milhoes-para-startups/",
         "posicao": 4,
         "batch_date": "2026-09-29"
-    },
-    {
-        "tag": "Capital",
-        "titulo": "Novo Pronampe eleva teto de crédito para R$ 500 mil e dobra carência",
-        "fonte": "Mixvale",
-        "data": "28 Set",
-        "resumo": "Medida provisória que reformula o programa aumenta o limite de crédito por CNPJ e amplia a tolerância a atrasos antes de negar novo financiamento.",
-        "conteudo": "A Medida Provisória 1.355/2026 elevou o teto de crédito do Pronampe de R$ 250 mil para R$ 500 mil por CNPJ, ampliou o prazo de carência — que praticamente dobrou — e passou a tolerar até 90 dias de atraso em obrigações antes de barrar a empresa de contratar um novo empréstimo pelo programa, ante os 14 dias válidos até então. Empresas com o Selo Mulher Emprega Mais, ou que tenham sócia majoritária ou administradora, passam a ter acesso a limite de crédito ainda maior dentro do programa.\n\nComo a mudança veio por MP, já vale na prática, mas ainda depende de votação no Congresso para virar lei definitiva — vale confirmar com o banco, no momento da simulação, se as condições anunciadas já estão valendo na ponta. Para quem foi negado no passado por um atraso pontual ou já bateu no teto antigo de R$ 250 mil, é um bom momento para simular de novo: o Pronampe segue entre as linhas mais baratas do mercado por contar com garantia do Tesouro, o que reduz o risco do banco e, na prática, o juro cobrado do pequeno empresário.",
-        "url": "https://www.mixvale.com.br/2026/09/01/programa-pronampe-amplia-acesso-ao-credito-para-pequenas-empresas-com-novas-regras-de-2026/",
-        "posicao": 1,
-        "batch_date": "2026-09-28"
-    },
-    {
-        "tag": "Tributário",
-        "titulo": "Projeto eleva teto de faturamento do MEI para R$ 110 mil já em 2027",
-        "fonte": "Portal da Câmara dos Deputados",
-        "data": "28 Set",
-        "resumo": "PLP 186/2026, do governo, já passou pelo Senado com valor ainda maior e mira destravar quem hoje fatura perto do limite atual de R$ 81 mil.",
-        "conteudo": "Está em tramitação no Congresso o Projeto de Lei Complementar 186/2026, enviado pelo governo federal, que eleva o teto de faturamento anual do MEI dos atuais R$ 81 mil — congelados desde 2018 — para R$ 110 mil em 2027 e R$ 140 mil a partir de 2028. O Senado já aprovou uma versão ainda mais generosa, com teto de R$ 130 mil, e parlamentares na Câmara defendem chegar a R$ 145 mil; o impacto fiscal estimado da medida é de R$ 1,57 bilhão em 2027, subindo para R$ 3,15 bilhões em 2028.\n\nPara quem hoje opera como MEI perto do limite atual e recusa vendas ou emite nota por fora para não estourar o teto, a mudança — se aprovada a tempo — livra o negócio de migrar para o Simples Nacional, com mais burocracia e imposto maior, só por causa do faturamento. Vale já simular o quanto o negócio poderia crescer com um teto de R$ 110 mil a R$ 140 mil e se planejar, porque a partir de 2027 o MEI também passa a emitir nota fiscal em toda venda, inclusive para pessoa física, dentro das regras da reforma tributária.",
-        "url": "https://www.camara.leg.br/noticias/1286510-projeto-do-governo-aumenta-teto-da-receita-de-mei-para-ate-r-140-mil-em-2028/",
-        "posicao": 2,
-        "batch_date": "2026-09-28"
-    },
-    {
-        "tag": "Política",
-        "titulo": "Sebrae propõe crédito de R$ 1 milhão com teto de spread a candidatos",
-        "fonte": "Brasil 247",
-        "data": "28 Set",
-        "resumo": "Guia de propostas para as eleições de 2026 defende programa nacional de crédito produtivo com spread bancário limitado a 8 pontos percentuais.",
-        "conteudo": "O Sebrae divulgou em setembro um guia de propostas dirigido aos candidatos das eleições de 2026, defendendo a criação de um Programa Nacional de Crédito Produtivo com operações de até R$ 1 milhão, subsídio federal e teto de 8 pontos percentuais para o spread bancário cobrado de micro e pequenas empresas. A entidade também propõe uma linha de até R$ 30 mil para formalizar negócios informais e um fundo de inovação de até R$ 10 bilhões. O diagnóstico: em 2025, o spread médio cobrado de MPEs chegou a 31,59%, muito acima do custo de captação dos bancos.\n\nEnquanto a proposta não sai do papel, o recado prático para quem empreende é comparar fontes de crédito antes de fechar capital de giro: linhas com aval do Pronampe e do FGI, cooperativas de crédito e bancos de fomento estaduais tendem a cobrar spread bem menor que o cheque especial ou o rotativo de cartão de um banco tradicional. Com a disputa eleitoral aquecendo o debate sobre custo do crédito, vale acompanhar se alguma dessas propostas vira compromisso de campanha nos próximos dias.",
-        "url": "https://www.brasil247.com/empreender/sebrae-propoe-teto-para-spread-e-credito-de-ate-r-1-milhao-a-pequenos-negocios/",
-        "posicao": 3,
-        "batch_date": "2026-09-28"
-    },
-    {
-        "tag": "Startups",
-        "titulo": "Fintech Kesh capta R$ 550 milhões para devolver juros como cashback",
-        "fonte": "NeoFeed",
-        "data": "28 Set",
-        "resumo": "Rodada liderada pelo Grupo Leste combina equity e FIDC para acelerar modelo de crédito que devolve 100% dos juros em benefícios digitais.",
-        "conteudo": "A fintech Kesh, em operação desde abril de 2025, captou R$ 550 milhões em uma rodada que combina investimento em equity e financiamento via Fundo de Investimento em Direitos Creditórios (FIDC), liderada pelo Grupo Leste e com participação da rede BR Angels e de sócios da Across Capital. O modelo de negócio devolve 100% dos juros cobrados no crédito em forma de cashback digital, batizado de Kesh Koins, resgatável em uma rede de mais de 150 marcas parceiras em alimentação, transporte, telecomunicações e varejo. Com o aporte, a empresa mira alcançar 1 milhão de usuários ativos nos próximos três anos.\n\nO caso confirma que crédito para trabalhadores de baixa renda, com um modelo de fidelização embutido em vez de só uma taxa mais baixa, segue atraindo capital mesmo com o funding mais seletivo. Para donos de negócio que atuam com folha de pagamento, RH ou benefícios corporativos, é um sinal de que produtos de crédito consignado com devolução de valor ao colaborador podem virar diferencial de retenção de equipe — vale observar se fornecedores desse tipo de benefício chegam ao mercado B2B nos próximos meses.",
-        "url": "https://neofeed.com.br/startups/fintech-kesh-capta-r-550-milhoes-para-escalar-tese-de-cashback-de-juros/",
-        "posicao": 4,
-        "batch_date": "2026-09-28"
     }
 ]
