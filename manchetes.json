@@ -1,5 +1,49 @@
 [
     {
+        "tag": "Mercado",
+        "titulo": "Ibovespa dispara 2,63% e fecha no maior nível desde abril, na véspera da eleição",
+        "fonte": "Suno Notícias",
+        "data": "03 Out",
+        "resumo": "Bolsa ganha quase 5 mil pontos em um pregão só, puxada por Petrobras, Vale e bancos, enquanto o dólar fica estável a um dia da votação de domingo.",
+        "conteudo": "Na sexta-feira (2/10), véspera do primeiro turno das eleições presidenciais de domingo (4/10), o Ibovespa saltou 2,63% e fechou em 192.114,55 pontos — o nível mais alto desde abril, com quase 5 mil pontos de ganho em um único pregão. O movimento foi liderado por Petrobras (PETR4, +2,81%, também impulsionada pelo anúncio de uma nova descoberta de petróleo na Foz do Amazonas), Vale (VALE3, +2,56%) e os grandes bancos — Bradesco (+3,34%), Banco do Brasil (+3,04%) e Itaú (+1,54%). O dólar fechou praticamente estável, com leve queda de 0,13%, a R$ 5,2173, também favorecido por dados mais fracos do mercado de trabalho americano.\n\nPara quem empreende, o sinal é que o investidor, pelo menos por ora, não está precificando um cenário de ruptura para o dia seguinte à eleição — o que tende a manter câmbio e custo de capital mais estáveis nos próximos dias úteis, mesmo com o resultado das urnas em aberto. Ainda assim, quem depende de insumo importado ou tem dívida em dólar não deve se precipitar: a leitura de hoje é só a véspera, e o teste real vem na segunda-feira (5/10), quando o pregão vai digerir o resultado efetivo da votação, inclusive a chance de segundo turno.",
+        "url": "https://www.suno.com.br/noticias/ibovespa-hoje-2-outubro-192-mil-eleicoes-petr4-vale3-mt/",
+        "posicao": 1,
+        "batch_date": "2026-10-03"
+    },
+    {
+        "tag": "Política",
+        "titulo": "Datafolha: última pesquisa antes do 1º turno dá a Lula 45% a 40% de Flávio",
+        "fonte": "Jornal do Brasil (Datafolha)",
+        "data": "03 Out",
+        "resumo": "Pesquisa divulgada um dia antes da votação mostra vantagem mais larga de Lula sobre Flávio Bolsonaro do que a apontada por outros institutos, mantendo a corrida indefinida.",
+        "conteudo": "O Datafolha divulgou nesta quinta-feira (1º/10) sua última pesquisa antes do primeiro turno de domingo (4/10): no cenário de votos válidos, Lula (PT) aparece com 45% e Flávio Bolsonaro (PL) com 40%, dentro da margem de erro de dois pontos percentuais, em levantamento feito entre segunda (28/9) e quinta-feira (1º/10) com 4.006 entrevistados. Em simulação de segundo turno entre os dois, o resultado também aponta vantagem de Lula, 48% a 45% — uma folga maior do que o empate técnico mostrado pela pesquisa AtlasIntel/Bloomberg divulgada dois dias antes.\n\nA divergência entre os institutos é o dado mais relevante para quem precisa decidir algo no fim de semana: ela mostra que ainda não há consenso sobre o tamanho da vantagem de nenhum dos dois lados, o que mantém real a chance de segundo turno em 25 de outubro. Na prática, decisões que dependiam de \"esperar o resultado de domingo\" para destravar — câmbio, importação, renovação de contrato — continuam sem horizonte de desfecho definitivo antes de pelo menos a apuração da noite de domingo, e possivelmente só depois de um eventual segundo turno.",
+        "url": "https://www.jb.com.br/brasil/politica/2026/10/1061086-datafolha-aponta-lula-com-45-dos-votos-validos-e-flavio-bolsonaro-com-40.html",
+        "posicao": 2,
+        "batch_date": "2026-10-03"
+    },
+    {
+        "tag": "Capital",
+        "titulo": "Governo abre nova rodada do Desenrola MEI para dívidas de até R$ 8.105",
+        "fonte": "Agência Gov",
+        "data": "03 Out",
+        "resumo": "Modalidade Pequeno Valor do Desenrola MEI começou a valer nesta semana e fica aberta para negociação até janeiro de 2027, com desconto de até 70% sobre a dívida.",
+        "conteudo": "Desde quarta-feira (1º/10), microempreendedores individuais com dívidas de até R$ 8.105 (cinco salários mínimos) podem aderir ao Desenrola MEI Pequeno Valor, nova modalidade do programa federal que fica aberta para negociação até 29 de janeiro de 2027. A regra pede um pagamento inicial de 5% do valor da dívida, sem desconto; o saldo restante pode ter abatimento de até 50% e ser parcelado em até 55 vezes, com desconto de até 100% sobre juros e multas — limitado a um corte total de 70% sobre o valor da dívida.\n\nComo a dívida média do MEI inadimplente gira em torno de R$ 3.000, o teto de R$ 8.105 cobre a maior parte dos mais de 3 milhões de microempreendedores hoje negativados. Para quem está nessa situação, vale simular a conta antes de aderir: entrar agora, pagando os 5% iniciais, pode custar menos no total do que esperar e seguir acumulando juros e multa — mas o parcelamento em até 55 vezes também cria um compromisso mensal novo que precisa entrar no fluxo de caixa já a partir de outubro.",
+        "url": "https://agenciagov.ebc.com.br/noticias/202609/governo-lanca-desenrola-mei-pequeno-valor-e-amplia-opcoes-para-negociar-dividas",
+        "posicao": 3,
+        "batch_date": "2026-10-03"
+    },
+    {
+        "tag": "Startups",
+        "titulo": "Biglink capta R$ 2,4 milhões para usar IA e guiar decisão de marketing de PMEs",
+        "fonte": "IAS News",
+        "data": "03 Out",
+        "resumo": "Martech paulista recebe aporte pré-seed da gestora Ambiance para expandir plataforma que recomenda, com IA, onde investir a verba de publicidade.",
+        "conteudo": "A Biglink, martech paulista que centraliza dados de marketing, mídia e clientes para recomendar decisões de investimento publicitário com IA, captou R$ 2,4 milhões em rodada pré-seed liderada pela gestora Ambiance Private Equity. A empresa afirma já ter analisado mais de R$ 4 bilhões em investimento de mídia de mais de 400 clientes e ter multiplicado a receita por cerca de sete vezes no último ano; o aporte será direcionado a tecnologia (54%), marketing e vendas (30%), e o restante a despesas administrativas.\n\nO caso ilustra um recado maior para quem toca um negócio pequeno ou médio: ferramentas de IA que antes só bancos de dados caros de agência grande ofereciam para decidir onde gastar verba de anúncio estão virando produto acessível, vendido por assinatura. Antes de aprovar o próximo orçamento de marketing no escuro — baseado em achismo ou em relatório manual da agência —, vale avaliar se uma ferramenta assim se paga só com o desperdício de mídia que ajuda a evitar.",
+        "url": "https://ias.news/biglink-capta-24-milhoes-pre-seed-ambiance/",
+        "posicao": 4,
+        "batch_date": "2026-10-03"
+    },
+    {
         "tag": "Política",
         "titulo": "A 2 dias da eleição, Lula e Flávio Bolsonaro empatam em pesquisa AtlasIntel",
         "fonte": "Bloomberg Línea",
@@ -126,53 +170,9 @@
         "fonte": "Startups.com.br",
         "data": "17 Set",
         "resumo": "Rodada liderada por Domo Invest e Headline Brasil, em parceria com a XP Asset, mira triplicar a receita mensal da startup de missões remuneradas.",
-        "conteudo": "A Mission Brasil, plataforma de serviços sob demanda e missões remuneradas fundada em 2016, captou R$ 6,8 milhões em rodada liderada pelos fundos Domo Invest e Headline Brasil — este último em parceria com a XP Asset. Com o aporte, a empresa chega a R$ 10,5 milhões captados no total e projeta sair de 440 mil para 2 milhões de usuários em um ano, além de triplicar a receita mensal e chegar a um faturamento anualizado de R$ 18 milhões; a startup já executou projetos para GPA, Ambev, JBS, Unilever e Porto Seguro, em um mercado que estima em R$ 57 bilhões.\n\nPara donos de pequenos e médios negócios que hoje recorrem a freelancers ou agências para tarefas pontuais — pesquisa de mercado, merchandising, degustação, reposição de loja —, o crescimento desse tipo de plataforma amplia as opções de mão de obra sob demanda sem abrir vaga CLT. Antes de fechar um freela por indicação ou agência tradicional, vale comparar custo, prazo de execução e cobertura geográfica oferecidos por plataformas como essa, especialmente para operações que picos sazonais de demanda.",
+        "conteudo": "A Mission Brasil, plataforma de serviços sob demanda e missões remuneradas fundada em 2016, captou R$ 6,8 milhões em rodada liderada pelos fundos Domo Invest e Headline Brasil — este último em parceria com a XP Asset. Com o aporte, a empresa chega a R$ 10,5 milhões captados no total e projeta sair de 440 mil para 2 milhões de usuários em um ano, além de triplicar a receita mensal e chegar a um faturamento anualizado de R$ 18 milhões; a startup já executou projetos para GPA, Ambev, JBS, Unilever e Porto Seguro, em um mercado que estima em R$ 57 bilhões.\n\nPara donos de pequenos e médios negócios que hoje recorrem a freelancers ou agências para tarefas pontuais — pesquisa de mercado, merchandising, degustação, reposição de loja —, o crescimento desse tipo de plataforma amplia as opções de mão de obra sob demanda sem abrir vaga CLT. Antes de fechar um freela por indicação ou agência tradicional, vale comparar custo, prazo de execução e cobertura geográfica oferecidos por plataformas como essa, especialmente para operações com picos sazonais de demanda.",
         "url": "https://startups.com.br/negocios/venture-capital/mission-brasil-capta-r-68-milhoes-para-crescer-no-b2b/",
         "posicao": 4,
         "batch_date": "2026-09-30"
-    },
-    {
-        "tag": "Tributário",
-        "titulo": "Desenrola MEI: prazo com desconto de até 70% nas dívidas termina amanhã",
-        "fonte": "Contábeis",
-        "data": "29 Set",
-        "resumo": "Programa da PGFN que renegocia dívidas do MEI com a União fecha a adesão nesta quarta-feira, 30/9, com abatimento de até 70% em juros e multas.",
-        "conteudo": "O Desenrola MEI, programa da Procuradoria-Geral da Fazenda Nacional que permite renegociar dívidas do microempreendedor individual inscritas na Dívida Ativa da União, encerra a janela de adesão nesta quarta-feira, 30 de setembro — a inscrição está aberta desde 6 de julho, exclusivamente pelo Portal Regularize. O programa concede desconto de até 70% sobre juros, multas e encargos legais (o valor principal da dívida não é abatido), mediante entrada de 6% do total devido e parcelamento do saldo restante em até 145 meses.\n\nPara quem tem CNPJ de MEI com pendência junto à União, hoje é o último dia útil para reunir os dados no Regularize e simular a negociação antes que o sistema fique sobrecarregado na reta final do prazo. Depois de amanhã, a cobrança volta às regras normais — sem desconto nem parcelamento estendido —, e uma dívida em aberto pode travar linhas de crédito do próprio negócio e gerar restrição no CPF do empreendedor.",
-        "url": "https://www.contabeis.com.br/noticias/78175/desenrola-mei-desconto-de-ate-70-e-parcelamento-da-divida/",
-        "posicao": 1,
-        "batch_date": "2026-09-29"
-    },
-    {
-        "tag": "Mercado",
-        "titulo": "Dólar sobe a R$ 5,22 e Ibovespa cai pela 4ª sessão na véspera da eleição",
-        "fonte": "CNN Brasil",
-        "data": "29 Set",
-        "resumo": "Bolsa emenda quarta queda seguida e moeda americana sobe quase 1% com pesquisas eleitorais apertadas e tensão entre EUA e Irã elevando o petróleo.",
-        "conteudo": "O Ibovespa fechou o pregão de segunda-feira (28/9) em queda de 0,26%, aos 182.991 pontos — a quarta sessão consecutiva de perdas —, enquanto o dólar subiu 0,83% e encostou em R$ 5,22. O movimento reflete a última semana antes do primeiro turno das eleições: pesquisa BTG/Nexus mostrou o presidente Lula com 42% das intenções de voto contra 37% do senador Flávio Bolsonaro, com o petróleo Brent subindo a US$ 105,28 o barril depois de Donald Trump rejeitar proposta de cessar-fogo do Irã e ameaça de reabertura do Estreito de Ormuz.\n\nCâmbio mais alto encarece insumos e equipamentos importados e pressiona o custo de dívidas atreladas ao dólar — vale travar cotação de compras internacionais programadas para as próximas semanas em vez de esperar a semana da eleição. Já quem exporta ganha margem extra com a moeda americana mais valorizada; nos dois casos, a volatilidade tende a aumentar até a apuração do primeiro turno, então negócios com caixa apertado devem evitar operações de câmbio maiores do que o necessário nesse intervalo.",
-        "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-28-setembro-2026/",
-        "posicao": 2,
-        "batch_date": "2026-09-29"
-    },
-    {
-        "tag": "Capital",
-        "titulo": "Superávit da balança comercial mira recorde de US$ 90 bi em 2026",
-        "fonte": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",
-        "data": "29 Set",
-        "resumo": "MDIC projeta superávit recorde de US$ 90 bilhões no ano, alta de 32,3%, com pequenas empresas exportadoras batendo recorde histórico.",
-        "conteudo": "A balança comercial fechou a quarta semana de setembro com superávit de US$ 2,399 bilhões, elevando o saldo do mês para US$ 6,452 bilhões (US$ 30,488 bilhões em exportações e US$ 24,036 bilhões em importações), segundo dados do MDIC. No acumulado do ano até a mesma semana, as exportações somam US$ 281,34 bilhões, alta de 11,5% sobre 2025, e o superávit acumulado é de US$ 61,77 bilhões — 36,3% maior —, com o ministério projetando um resultado recorde de US$ 90 bilhões para 2026, avanço de 32,3% ante o ano passado.\n\nO câmbio mais depreciado (dólar perto de R$ 5,22) turbina justamente esse resultado, tornando o produto brasileiro mais competitivo lá fora — e é uma janela para quem ainda vende só no mercado interno: o Brasil fechou 2025 com 11.822 micro e pequenas empresas e MEIs exportando, 390 a mais que no ano anterior, um grupo ainda pequeno perto do total de negócios do país. Para quem já fatura em real e pensa em internacionalizar, o momento cambial favorece começar pela exportação de excedente de produção ou de nicho, mesmo em pequena escala, aproveitando linhas de crédito e programas de apoio à exportação do MDIC e do Sebrae.",
-        "url": "https://agenciagov.ebc.com.br/noticias/202609/mdic-divulga-balanca-comercial-da-4a-semana-de-setembro-de-2026",
-        "posicao": 3,
-        "batch_date": "2026-09-29"
-    },
-    {
-        "tag": "Startups",
-        "titulo": "DOMO.VC cria FIDC de R$ 100 milhões para financiar startups sem diluição",
-        "fonte": "NeoFeed",
-        "data": "29 Set",
-        "resumo": "Gestora de venture capital estreia em crédito estruturado com fundo que pode chegar a R$ 100 milhões para dar capital de giro às startups do portfólio.",
-        "conteudo": "A gestora de venture capital DOMO.VC lançou um Fundo de Investimento em Direitos Creditórios (FIDC) com potencial de atingir R$ 100 milhões em até 15 a 18 meses, destinado a financiar capital de giro das startups do seu portfólio sem diluir a participação dos fundadores. O veículo tem administração da Vórtx e gestão dos recebíveis pela Bertha Capital, com cotas divididas em sênior (60%), mezanino (30%) e subordinada júnior (10%) — a DOMO e as próprias startups originadoras participam da fatia subordinada. A mira inicial são as 104 startups do portfólio da gestora, entre elas Fretadão, MeuTudo, Mission, Willfly e Nuvidio.\n\nO movimento confirma uma tendência que já apareceu nos números de 2025: pela primeira vez, as cinco maiores captações do ecossistema brasileiro de startups vieram de FIDCs, não de rodadas de equity — do total de US$ 4,5 bilhões captados no ano, US$ 2,4 bilhões passaram por esse tipo de fundo. Para fundadores que precisam de caixa para operação mas querem evitar abrir mão de mais equity num momento de juro alto e funding mais escasso, crédito estruturado como o da DOMO.VC virou alternativa real à rodada tradicional — vale perguntar à própria gestora ou fundo investidor se algo parecido está disponível antes de sair atrás de um novo aporte.",
-        "url": "https://neofeed.com.br/startups/domo-vc-entra-no-jogo-do-credito-estruturado-com-fidc-de-r-100-milhoes-para-startups/",
-        "posicao": 4,
-        "batch_date": "2026-09-29"
     }
 ]
