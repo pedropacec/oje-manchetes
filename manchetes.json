@@ -1,6 +1,50 @@
 [
     {
         "tag": "Política",
+        "titulo": "Eleição vai a 2º turno: Flávio Bolsonaro tem 47% dos votos, Lula 45%",
+        "fonte": "Band",
+        "data": "05 Out",
+        "resumo": "Com nenhum candidato passando de 50% dos votos válidos, Flávio Bolsonaro e Lula disputam a Presidência em 25 de outubro.",
+        "conteudo": "O primeiro turno das eleições presidenciais, realizado neste domingo (4), terminou sem um vencedor definido: segundo a apuração do TSE, o senador Flávio Bolsonaro (PL) obteve 47% dos votos válidos contra 45% do presidente Luiz Inácio Lula da Silva (PT), uma diferença de cerca de 2,4 milhões de votos. Como nenhum dos dois passou da marca de 50%, a disputa pela Presidência segue para o segundo turno, marcado para o dia 25 de outubro.\n\nPara quem comanda um negócio, os próximos vinte dias tendem a ser de instabilidade: decisões de investimento, contratação e precificação que dependem do cenário fiscal e tributário do próximo governo ficam mais difíceis de planejar enquanto o resultado não sai. Vale evitar compromissos financeiros longos indexados a expectativas políticas até a definição de 25 de outubro, e acompanhar de perto o câmbio e os juros futuros, que já vêm reagindo forte à disputa.",
+        "url": "https://bloomberglinea.com.br/brasil/lula-e-flavio-bolsonaro-vao-disputar-o-segundo-turno-da-eleicao-presidencial",
+        "posicao": 1,
+        "batch_date": "2026-10-05"
+    },
+    {
+        "tag": "Mercado",
+        "titulo": "Ibovespa em dólar sobe 11% após avanço de Flávio Bolsonaro no 1º turno",
+        "fonte": "Money Times",
+        "data": "05 Out",
+        "resumo": "Fundo que replica a bolsa brasileira nos EUA avançou quase 12% nesta segunda, com apostas em ajuste fiscal mais rígido no próximo governo.",
+        "conteudo": "A confirmação do segundo turno entre Flávio Bolsonaro e Lula fez a bolsa brasileira negociada em dólar — medida pelo ETF iShares MSCI Brazil (EWZ), em Nova York — saltar quase 12% nesta segunda-feira (5), para US$ 42,73. No mercado local, o dólar operou perto de R$ 5,22 e os juros futuros recuaram, com investidores apostando que o resultado eleitoral aumenta as chances de um ajuste fiscal mais rígido no próximo governo, o que já levou o mercado a reduzir sua projeção para a Selic no fim de 2026, hoje em torno de 13,5%, segundo o Boletim Focus.\n\nEssa euforia do mercado financeiro não é garantia de juro mais baixo amanhã: ela reflete uma aposta que só se confirma depois do segundo turno, em 25 de outubro. Para o dono de pequeno negócio que depende de crédito, o sinal prático é monitorar a curva de juros antes de fechar empréstimos longos ou renegociar dívidas — se a aposta do mercado se confirmar, as condições de crédito podem melhorar nos próximos meses, mas até lá a volatilidade deve continuar.",
+        "url": "https://www.moneytimes.com.br/avanco-do-bolsonarismo-nas-eleicoes-mexe-com-mercados-hoje-ibovespa-em-dolar-dispara-11-nesta-segunda-feira-5-rens/",
+        "posicao": 2,
+        "batch_date": "2026-10-05"
+    },
+    {
+        "tag": "Capital",
+        "titulo": "No Dia da Micro e Pequena Empresa, Pronampe já libera até R$ 500 mil",
+        "fonte": "Agência Sebrae",
+        "data": "05 Out",
+        "resumo": "Data que celebra os pequenos negócios chega com crédito ampliado e campanha para estimular o consumidor a comprar de empresas locais.",
+        "conteudo": "Nesta segunda-feira (5), o Brasil celebra o Dia Nacional da Micro e Pequena Empresa, data instituída pela Lei 9.841, de 5 de outubro de 1999. O Sebrae aproveita a data para reforçar o movimento \"Compre do Pequeno\", criado em 2015: segundo a entidade, 41% dos consumidores já conhecem a campanha e um em cada três diz ter comprado de um pequeno negócio por causa dela — relevante porque as micro e pequenas empresas respondem por cerca de 30% do PIB brasileiro. A data também chega com um crédito mais robusto: desde a Medida Provisória 1.355/2026, do Novo Desenrola Brasil, o Pronampe passou a liberar até R$ 500 mil por empresa, ante R$ 250 mil antes, com prazo de pagamento de até 96 meses.\n\nNa prática, dois caminhos se abrem para quem toca um pequeno negócio agora: usar a onda da data para reforçar a presença local — do físico às redes — e revisar se vale a pena recorrer ao Pronampe ampliado, já que o limite de crédito elegível subiu de 30% para 50% do faturamento anual (60% em empresas lideradas por mulheres) e a carência dobrou de 12 para 24 meses. Para muita empresa que vinha evitando empréstimo pelo prazo curto ou pelo teto baixo, as novas condições merecem uma simulação com o banco antes do fim do ano.",
+        "url": "https://agenciasebrae.com.br/cultura-empreendedora/compre-do-pequeno-reforca-poder-das-escolhas-do-consumidor-para-transformar-comunidades/",
+        "posicao": 3,
+        "batch_date": "2026-10-05"
+    },
+    {
+        "tag": "Tributário",
+        "titulo": "Nova declaração digital da reforma tributária, a DeRE, começa a valer",
+        "fonte": "IOB",
+        "data": "01 Out",
+        "resumo": "Obrigação acessória atinge por ora setores com regimes específicos, mas é um teste da infraestrutura que vai cobrar IBS e CBS de todo mundo.",
+        "conteudo": "Desde 1º de outubro, empresas de setores com regras tributárias específicas — como serviços financeiros, planos de saúde e apostas — começaram a enviar a DeRE, a nova Declaração de Informações Econômico-Fiscais criada pela reforma tributária. Pelo Ato Conjunto RFB/CGIBS nº 4/2026, a obrigação chega em etapas: os chamados \"Eventos de Tabela do Contribuinte\" já valem agora, os Eventos Periódicos Mensais entram em vigor em 15 de novembro (trazendo dados referentes a outubro) e os demais eventos passam a ser exigidos a partir de janeiro de 2027.\n\nMesmo fora desses setores específicos, a DeRE é um aviso para qualquer empresário: o Fisco está testando, na prática, a infraestrutura digital que vai sustentar a cobrança plena do IBS e da CBS a partir de 2027. Quem usa sistema de gestão fiscal ou contrata contabilidade terceirizada ganha ao checar agora se o fornecedor já está atualizado para os novos leiautes — esperar o início da cobrança efetiva para resolver isso pode custar tempo e multa quando o prazo for curto.",
+        "url": "https://noticias.iob.com.br/conheca-a-dere-nova-obrigacao-acessoria-da-reforma-tributaria/",
+        "posicao": 4,
+        "batch_date": "2026-10-05"
+    },
+    {
+        "tag": "Política",
         "titulo": "Comércio pode abrir no domingo de eleição, mas precisa liberar voto do funcionário",
         "fonte": "O Hoje",
         "data": "04 Out",
@@ -130,49 +174,5 @@
         "url": "https://startups.com.br/negocios/startups-latino-americanas-recuam-e-captam-apenas-meio-bilhao-em-setembro",
         "posicao": 4,
         "batch_date": "2026-10-02"
-    },
-    {
-        "tag": "Política",
-        "titulo": "Brasil e EUA criam grupo de trabalho após avanço nas negociações sobre tarifas",
-        "fonte": "JD1 Notícias",
-        "data": "01 Out",
-        "resumo": "Após reunião em Milwaukee, ministro fala em \"ponto de convergência\" e os dois países decidem formar um grupo específico para discutir o tarifaço.",
-        "conteudo": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, se reuniu nesta quarta-feira (30/9), em Milwaukee, com o chanceler Mauro Vieira e o representante comercial dos Estados Unidos, Jamieson Greer, à margem do encontro de ministros do G20. Segundo o governo brasileiro, o encontro chegou a um \"ponto de convergência\" e os dois países decidiram criar um grupo de trabalho específico para discutir as tarifas aplicadas pelos EUA a produtos brasileiros e outros temas da relação comercial; o próximo passo é os EUA enviarem um documento definindo o escopo dessas conversas. A tarifa adicional de até 37,5% sobre itens como aço, calçados, têxteis, suco de laranja e máquinas agrícolas segue em vigor.\n\nNão há corte de tarifa anunciado nem prazo para um acordo, mas é o primeiro mecanismo formal de negociação desde que o tarifaço entrou em vigor em julho. Para quem exporta para os EUA, o sinal é de que vale acompanhar de perto o escopo que sair de Washington e manter contato com a entidade do setor, mas ainda não é hora de descontar a tarifa no preço do produto nem de parar de buscar mercados alternativos — a negociação tende a se estender por vários meses antes de qualquer mudança prática na tarifa cobrada na fronteira.",
-        "url": "https://www.jd1noticias.com/internacional/2026/10/01/brasil-e-eua-chegam-a-ponto-de-convergencia-nas-negociacoes-sobre-tarifas.html",
-        "posicao": 1,
-        "batch_date": "2026-10-01"
-    },
-    {
-        "tag": "Tributário",
-        "titulo": "Reforma tributária: NF-e de serviços e importação passam a exigir IBS e CBS",
-        "fonte": "Guia Tributário",
-        "data": "01 Out",
-        "resumo": "A partir de hoje, NFS-e, NFCom e a declaração de importação de remessas entram na fase de preenchimento obrigatório dos campos do novo IBS e da CBS.",
-        "conteudo": "A partir de 1º de outubro de 2026, entram na fase de obrigatoriedade do cronograma da reforma tributária a NFS-e (nota fiscal de serviços sujeitos ao ISS), a NFCom (modelo 62, usada por empresas de telecomunicações) e a DIR (declaração de importação de remessas) — esses documentos passam a precisar trazer os campos destacados de IBS e CBS, ainda sem cobrança efetiva dos novos tributos neste ano; a cobrança real só começa em 2027. Empresas optantes pelo Simples Nacional continuam fora dessa obrigação até 1º de janeiro de 2027.\n\nNa prática, mesmo quem está no Simples e só vai se adaptar daqui a um ano já sente o efeito agora: fornecedores, transportadoras e prestadores de serviço do regime normal que atendem pequenos negócios já são obrigados a destacar os novos tributos em suas notas, o que pode mudar o leiaute do documento recebido no dia a dia. Vale o alerta para quem emite ou recebe NFS-e e NFCom: checar com o contador se o sistema de emissão já está atualizado evita recusa de nota fiscal ou atraso no fechamento do mês.",
-        "url": "https://guiatributario.net/2026/08/03/nfs-e-destaque-da-cbs-e-ibs-e-adiado-para-01-10-2026/",
-        "posicao": 2,
-        "batch_date": "2026-10-01"
-    },
-    {
-        "tag": "Mercado",
-        "titulo": "A 3 dias da eleição, mercado trava decisões e bolsa opera em compasso de espera",
-        "fonte": "InfoMoney",
-        "data": "01 Out",
-        "resumo": "Com Lula e Flávio Bolsonaro tecnicamente empatados a poucos dias do primeiro turno, analistas dizem que o resultado das urnas ainda não está totalmente precificado.",
-        "conteudo": "A poucos dias do primeiro turno de domingo (4/10), gestores ouvidos pelo mercado financeiro avaliam que o cenário eleitoral ainda não está totalmente refletido nos preços das ações nem no câmbio — a leitura é de que o grosso do movimento deve ficar para o quarto trimestre, conforme o resultado da disputa entre Lula e Flávio Bolsonaro, hoje tecnicamente empatados nas pesquisas, ganhar contornos mais claros. Anos eleitorais no Brasil historicamente trazem mais oscilação para o Ibovespa, com saída de capital estrangeiro até que o cenário político se defina.\n\nPara quem toca um negócio, o recado prático se repete em relação a pleitos anteriores: decisão grande de investimento, compra de equipamento importado ou troca de dívida cara por uma mais barata tende a ficar mais clara só depois da apuração do primeiro turno, quando o mercado passa a precificar o cenário real. Até lá, manter uma reserva de caixa e evitar travar câmbio ou crédito por prazos muito longos reduz a exposição a uma eventual mudança de humor do mercado na reta final da campanha.",
-        "url": "https://www.infomoney.com.br/mercados/mercado-ja-coloca-as-eleicoes-de-2026-no-preco-ou-ainda-e-cedo/",
-        "posicao": 3,
-        "batch_date": "2026-10-01"
-    },
-    {
-        "tag": "Capital",
-        "titulo": "Busca de pequenas empresas por crédito sobe 10,5% em 12 meses e lidera demanda",
-        "fonte": "Serasa Experian",
-        "data": "21 Set",
-        "resumo": "Indicador da Serasa Experian mostra alta de 10,4% na busca por crédito das empresas em 12 meses até julho, com micro e pequenas empresas na ponta mais forte do crescimento.",
-        "conteudo": "A busca das empresas brasileiras por crédito cresceu 10,4% no acumulado de 12 meses até julho de 2026, segundo o Indicador Serasa Experian de Demanda das Empresas por Crédito, divulgado em 21 de setembro. As micro e pequenas empresas puxaram o resultado, com alta de 10,5% na procura por financiamento, à frente das grandes empresas (8,5%) e das médias (7,3%); por setor, Serviços (+16,0%) e Agropecuária (+14,6%) lideraram o avanço, e Mato Grosso do Sul (+27,8%) foi o estado com maior crescimento na procura por crédito.\n\nO dado mostra que o pequeno empresário segue recorrendo a crédito mesmo com o juro ainda alto, normalmente para cobrir capital de giro ou renovar dívida mais cara. Antes de fechar a primeira proposta de banco ou fintech, vale pesquisar linhas com taxa menor — como Pronampe ou crédito com aval do Sebrae — e simular o impacto da parcela no fluxo de caixa dos próximos meses, já que a inadimplência das micro e pequenas empresas também subiu no mesmo período, e um financiamento mal dimensionado pode apertar ainda mais o caixa do negócio.",
-        "url": "https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/busca-das-empresas-por-credito-cresceu-10-por-cento-no-acumulado-de-12-meses-ate-julho-aponta-serasa-experian/",
-        "posicao": 4,
-        "batch_date": "2026-10-01"
     }
 ]
