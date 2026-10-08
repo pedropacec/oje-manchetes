@@ -1,6 +1,50 @@
 [
     {
         "tag": "Mercado",
+        "titulo": "Ibovespa recua e dólar volta a R$ 5,01 com juros longos em alta nos EUA",
+        "fonte": "Money Times",
+        "data": "07 Out",
+        "resumo": "Bolsa cede 0,74% e dólar volta a passar de R$ 5 na quarta-feira, pressionado pela escalada dos juros de longo prazo no mercado americano.",
+        "conteudo": "O Ibovespa fechou a quarta-feira (7/10) com queda de 0,74%, aos 204.302,33 pontos, enquanto o dólar comercial subiu 0,72%, para R$ 5,0112 — voltando a superar a marca de R$ 5 um dia depois de ter fechado abaixo dela, a R$ 4,9756, pela primeira vez desde maio. O movimento acompanhou a alta dos rendimentos dos títulos do Tesouro americano (Treasuries) de médio e longo prazo, que reduz o apetite global por ativos de mercados emergentes como o Brasil, somando-se à realização de lucros em bancos e na mineradora Vale após o rali da véspera.\n\nA oscilação em menos de 48 horas mostra como a janela de dólar mais barato vista no início da semana é frágil e depende tanto da leitura do mercado sobre a eleição de 25 de outubro quanto do que acontece fora do Brasil. Para quem importa insumo ou tem dívida em moeda estrangeira, o sinal é claro: travar proteção de câmbio (hedge) na baixa é mais seguro do que esperar o dólar cair mais, porque o mesmo fator externo que o empurrou para baixo nesta semana pode revertê-lo com a mesma rapidez.",
+        "url": "https://moneytimes.com.br/ibovespa-7-10-26-apsa",
+        "posicao": 1,
+        "batch_date": "2026-10-08"
+    },
+    {
+        "tag": "Startups",
+        "titulo": "Sebrae credencia 200 startups para o MIT-ANPEI Brazil Summit, em SP",
+        "fonte": "Startupi",
+        "data": "08 Out",
+        "resumo": "Hotel Unique recebe hoje cerca de 800 participantes na 22ª Conferência ANPEI, com 200 startups selecionadas pelo Sebrae para se conectar a grandes empresas.",
+        "conteudo": "Nesta quinta-feira (8/10), o Hotel Unique, em São Paulo, recebe a 22ª Conferência ANPEI de Inovação, dentro do MIT-ANPEI Brazil Summit 2026, com cerca de 800 participantes em três palcos de conteúdo dedicados a negócios e inovação aberta. Para esta edição, o Sebrae credenciou 200 startups escolhidas por critérios como maturidade comercial, modelo de negócio majoritariamente B2B e estágio mínimo de tração — ou seja, empresas que já têm cliente pagante e receita, não apenas um projeto em fase de ideia.\n\nO recado para quem empreende é direto: a grande corporação está comprando solução de startup que já provou que funciona, não ideia em estágio de validação. Se o seu negócio já tem produto rodando e primeiros clientes, vale priorizar esse tipo de canal institucional (Sebrae, associações setoriais, eventos como este) para chegar a comprador corporativo, em vez de depender só de prospecção direta — é exatamente o filtro que a curadoria do evento aplicou.",
+        "url": "https://startupi.com.br/sebrae-seleciona-startups-mit-anpei-brazil-summit-2026/",
+        "posicao": 2,
+        "batch_date": "2026-10-08"
+    },
+    {
+        "tag": "Varejo",
+        "titulo": "CNC projeta R$ 9,27 bi em vendas no Dia das Crianças, alta de só 1,8%",
+        "fonte": "BP Money",
+        "data": "06 Out",
+        "resumo": "Levantamento da CNC mostra a data aquecendo o varejo, mas com crescimento fraco por causa dos juros altos e do endividamento das famílias.",
+        "conteudo": "A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) projeta que o varejo brasileiro deve faturar R$ 9,27 bilhões com o Dia das Crianças em 2026, alta de 1,8% sobre o ano passado, segundo levantamento divulgado nesta terça-feira (6/10). Brinquedos e artigos de uso pessoal e doméstico devem liderar as vendas, com R$ 3,62 bilhões (39% do total), seguidos por vestuário e acessórios, com R$ 1,35 bilhão.\n\nUma alta de 1,8% é quase estabilidade na prática, e a própria CNC credita o resultado fraco aos juros altos e ao endividamento das famílias, que continuam represando o consumo. Para o pequeno varejista a data ainda compensa — ajuda a girar estoque parado, atrair cliente novo e reforçar caixa antes do fim do ano —, mas a compra de mercadoria extra e a escala de equipe temporária devem ser dimensionadas de forma conservadora, sem repetir o volume de anos de crescimento mais forte.",
+        "url": "https://bpmoney.com.br/mercado/dia-das-criancas-deve-movimentar-r-927-bi-no-varejo-em-2026/",
+        "posicao": 3,
+        "batch_date": "2026-10-08"
+    },
+    {
+        "tag": "Capital",
+        "titulo": "Governo lança Desenrola Brasil 3.0 e compra dívida vencida com desconto de 90%",
+        "fonte": "Diário do Grande ABC",
+        "data": "30 Set",
+        "resumo": "Medida provisória autoriza a União a comprar carteiras de dívida de pessoas físicas com desconto mínimo de 90%, mas o texto ainda precisa passar pelo Congresso.",
+        "conteudo": "A Medida Provisória 1.393/2026, publicada em 25 de setembro, criou o Desenrola Brasil 3.0 e autorizou a União a comprar, de bancos e demais credores, carteiras de dívidas inadimplidas de pessoas físicas com desconto mínimo de 90% sobre o valor original, para depois renegociar diretamente com o devedor. A MP já está em vigor, mas precisa ser aprovada pelo Congresso Nacional até 23 de novembro para não perder a validade.\n\nO efeito para quem vende a prazo é indireto, mas real: bancos e financeiras devem usar o programa para limpar balanço, o que tende a liberar crédito novo no sistema, embora o desconto de 90% também mostre o quanto esse tipo de dívida já estava provisionado como perda. Na prática, o fôlego extra no bolso do consumidor só deve aparecer daqui a alguns meses, quando parte dele recupera limite de cartão e crédito — vale acompanhar a votação no Congresso antes de já contar com esse movimento no caixa do negócio.",
+        "url": "https://www.dgabc.com.br/Noticia/4349548/desenrola-brasil-3-0-veja-quem-pode-participar-e-como-funciona",
+        "posicao": 4,
+        "batch_date": "2026-10-08"
+    },
+    {
+        "tag": "Mercado",
         "titulo": "Dólar cai à mínima em 5 meses e Ibovespa consolida recorde pós-eleição",
         "fonte": "Forbes Brasil",
         "data": "06 Out",
@@ -130,49 +174,5 @@
         "url": "https://noticias.iob.com.br/conheca-a-dere-nova-obrigacao-acessoria-da-reforma-tributaria/",
         "posicao": 4,
         "batch_date": "2026-10-05"
-    },
-    {
-        "tag": "Política",
-        "titulo": "Comércio pode abrir no domingo de eleição, mas precisa liberar voto do funcionário",
-        "fonte": "O Hoje",
-        "data": "04 Out",
-        "resumo": "A Lei 10.607/2002 não lista o dia de votação entre os feriados nacionais, então lojas e shoppings podem funcionar hoje desde que organizem a escala para os empregados votarem.",
-        "conteudo": "Diferente de um feriado nacional, o domingo de eleição não está na lista da Lei Federal nº 10.607/2002, o que permite ao comércio de rua e de shopping abrir normalmente neste 4 de outubro — contanto que o estabelecimento tenha adesão à convenção coletiva de trabalho que autoriza funcionamento dominical. Em Brasília, o Sindivarejista orienta que, nos shoppings, a equipe escalada para o período da manhã vote entre 8h e 12h antes de assumir o turno, enquanto nas lojas de rua com dois turnos quem trabalha de manhã vota à tarde e vice-versa.\n\nPara quem decidiu abrir as portas hoje, o risco prático não é a lei eleitoral, e sim o trabalhista: não organizar a liberação dos funcionários para votar pode gerar reclamação na Justiça do Trabalho, mesmo com a loja formalmente autorizada a funcionar. Antes do meio-dia, vale confirmar com cada empregado o horário em que ele vai à urna e ajustar a escala agora — adiar essa conversa para o fim da tarde deixa menos margem para reorganizar o time sem prejudicar o atendimento.",
-        "url": "https://ohoje.com/2026/09/29/entenda-como-funcionara-o-comercio-no-domingo-de-eleicao-em-brasilia/",
-        "posicao": 1,
-        "batch_date": "2026-10-04"
-    },
-    {
-        "tag": "Pagamentos",
-        "titulo": "Pix por aproximação deixa de ter teto de R$ 500 por transação",
-        "fonte": "NSC Total",
-        "data": "01 Out",
-        "resumo": "Regra do Banco Central que valia desde junho entrou em vigor nesta semana e deixa o limite de compras sem contato na mão do próprio cliente, configurado no aplicativo do banco.",
-        "conteudo": "A Instrução Normativa BCB nº 746/2026, publicada em 17 de junho, começou a valer em 1º de outubro e extinguiu o teto padrão de R$ 500 por transação que travava o Pix por aproximação — a modalidade de pagamento por celular sem digitar senha nem ler QR Code. Bancos, bancos múltiplos e fintechs de pagamento tiveram até essa data para adaptar seus sistemas; agora, o valor de cada compra por aproximação passa a integrar o limite geral de Pix que o próprio correntista configura no aplicativo, junto com transferências por chave e QR Code.\n\nPara o comércio, a mudança destrava vendas de ticket mais alto sem precisar pedir ao cliente que troque para QR Code ou cartão no meio do caixa — útil em loja, restaurante ou prestação de serviço com ida a domicílio. Mas vale o alerta ao cliente: quem eleva muito o limite geral de Pix no aplicativo também amplia o estrago em caso de celular roubado ou clonado, então orientar o consumidor a manter um limite diário razoável protege tanto ele quanto a reputação do negócio que aceitou o pagamento.",
-        "url": "https://www.nsctotal.com.br/economia/pix-por-aproximacao-fim-limite-bc",
-        "posicao": 2,
-        "batch_date": "2026-10-04"
-    },
-    {
-        "tag": "Tributário",
-        "titulo": "Prazo para empresa do Simples escolher regra do IBS/CBS de 2027 terminou dia 30",
-        "fonte": "Coad",
-        "data": "30 Set",
-        "resumo": "Quem não se manifestou entre 1º e 30 de setembro ficou automaticamente no modelo padrão de recolhimento dos novos tributos no primeiro semestre de 2027, mas ainda dá para mudar de ideia.",
-        "conteudo": "Entre 1º e 30 de setembro, microempresas e empresas de pequeno porte do Simples Nacional puderam escolher como vão recolher o IBS e a CBS a partir de 2027: no modelo \"puro\", os dois tributos continuam dentro da guia única do Simples, sem mudança de rotina; no modelo \"híbrido\", a empresa sai da guia única para recolher IBS e CBS pelo regime regular, abrindo mão da simplicidade em troca de poder aproveitar créditos tributários nas compras. Quem não escolheu nada ficou automaticamente no modelo puro, válido para o primeiro semestre de 2027 — uma nova janela de opção abre em março, com efeito a partir de julho daquele ano.\n\nA escolha pesa mais para quem vende para outras empresas do regime regular: o modelo híbrido pode baixar o preço final para esse cliente, que passa a abater o IBS/CBS pago na compra, mas exige controle fiscal mais apurado dentro do pequeno negócio. Como o prazo para desistir da opção de setembro só se encerra em 30 de novembro, vale usar as próximas semanas para o contador simular os dois cenários com o faturamento real da empresa antes de travar a decisão para o primeiro semestre de 2027.",
-        "url": "https://www.coad.com.br/home/noticias-detalhe/139629/novo-prazo-para-adesao-ao-simples-nacional-termina-em-30-de-setembro",
-        "posicao": 3,
-        "batch_date": "2026-10-04"
-    },
-    {
-        "tag": "Capital",
-        "titulo": "Fintech de pagamento internacional capta US$ 110 milhões apostando no Brasil",
-        "fonte": "CryptoBriefing",
-        "data": "30 Set",
-        "resumo": "Jeeves, que atende empresas no pagamento a fornecedores no exterior, levanta rodada liderada pela gestora de criptoativos CoinFund para lançar carteira própria em stablecoin.",
-        "conteudo": "A Jeeves, fintech de Miami focada em cartão corporativo e pagamento internacional para empresas, anunciou em 30 de setembro uma rodada de US$ 110 milhões liderada pela gestora de criptoativos CoinFund, com participação de Coinbase Ventures, AllianceBernstein e Andreessen Horowitz. A empresa afirma que hoje entre 50% e 60% dos pagamentos internacionais que processa já são liquidados em stablecoin — criptomoeda com valor atrelado ao dólar, principalmente o USDC — e vai usar o aporte para lançar carteira própria nesse formato e adicionar agentes de inteligência artificial à plataforma, citando Brasil, México e Colômbia entre os mercados prioritários por causa da burocracia cambial nesses países.\n\nPara quem importa insumo ou paga fornecedor fora do Brasil, o caso mostra uma alternativa ao caminho tradicional do câmbio bancário — TED internacional, IOF e spread da instituição financeira — ganhando investimento pesado e mirando justamente o mercado brasileiro. Antes de adotar qualquer plataforma de pagamento em stablecoin, porém, vale checar com o contador o tratamento tributário dessas operações no Brasil, já que a regulação para empresa pagando fornecedor em criptoativo ainda é mais incerta do que a do câmbio tradicional.",
-        "url": "https://cryptobriefing.com/jeeves-raises-110m-a16z-coinbase-crypto/",
-        "posicao": 4,
-        "batch_date": "2026-10-04"
     }
 ]
