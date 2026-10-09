@@ -1,5 +1,49 @@
 [
     {
+        "tag": "Juros",
+        "titulo": "IPCA de setembro sai hoje; bancos veem alta de até 0,79% pela luz",
+        "fonte": "Investidor10",
+        "data": "09 Out",
+        "resumo": "O IBGE divulga nesta sexta-feira o IPCA de setembro, com mercado prevendo forte alta de preços por causa da conta de luz.",
+        "conteudo": "O IBGE divulga nesta sexta-feira (9/10) o IPCA de setembro de 2026, e Itaú e Bradesco projetam alta entre 0,75% e 0,79% no mês. O principal motor esperado é o fim do bônus extraordinário de Itaipu na conta de luz, que já havia impulsionado a prévia da inflação (IPCA-15) a 0,70% em setembro, maior resultado desde abril e acima do esperado pelo mercado. Se as projeções se confirmarem, a inflação acumulada em 12 meses deve subir dos 4,22% registrados em agosto para a faixa de 4,4% a 4,5%, bem acima do centro da meta de 3%.\n\nPara o pequeno e médio empresário, o impacto chega por dois caminhos: o custo direto de energia elétrica, que pesa mais sobre comércio, indústria e serviços que dependem de maquinário ou refrigeração, e o custo do crédito, já que inflação persistentemente alta reduz o espaço do Banco Central para cortar a Selic nas próximas reuniões. Vale repassar o reajuste de energia ao preço final com cautela, revisando a planilha de custos antes de fechar contratos longos indexados à inflação.",
+        "url": "https://investidor10.com.br/noticias/ipca-de-setembro-e-ata-do-fed-agitam-a-semana-pos-eleicao-veja-a-agenda-completa-123008/",
+        "posicao": 1,
+        "batch_date": "2026-10-09"
+    },
+    {
+        "tag": "Emprego",
+        "titulo": "Desemprego cai a 5,3% no trimestre até agosto, menor desde 2012",
+        "fonte": "Diário do Grande ABC",
+        "data": "29 Set",
+        "resumo": "IBGE mostra taxa de desocupação de 5,3% entre junho e agosto, a menor para o período desde 2012, com população ocupada em recorde.",
+        "conteudo": "O IBGE informou, em 29 de setembro, que a taxa de desocupação no trimestre encerrado em agosto de 2026 ficou em 5,3%, a menor para esse período desde 2012. O indicador recuou 0,3 ponto percentual tanto em relação ao trimestre imediatamente anterior quanto ao mesmo período de 2025, e a população ocupada chegou a 103,5 milhões de pessoas, o maior número já registrado pela Pesquisa Nacional por Amostra de Domicílios Contínua.\n\nUm mercado de trabalho mais apertado é boa notícia para quem já está empregado, mas complica quem contrata: com menos gente disponível, fica mais difícil encontrar mão de obra qualificada e mais caro reter equipe, justamente na reta final do ano, quando varejo e serviços reforçam o quadro para a Black Friday e o Natal. Vale antecipar a contratação temporária e revisar a política salarial agora, em vez de competir por candidatos faltando poucas semanas para o pico de vendas.",
+        "url": "https://www.dgabc.com.br/Noticia/4349737/taxa-de-desemprego-no-brasil-e-a-menor-para-trimestre-ate-agosto-desde-2012-mostra-ibge",
+        "posicao": 2,
+        "batch_date": "2026-10-09"
+    },
+    {
+        "tag": "Indústria",
+        "titulo": "Confiança da indústria sobe em agosto, mas pequena empresa ainda trava",
+        "fonte": "Agência CNI",
+        "data": "13 Ago",
+        "resumo": "ICEI da CNI sobe 1,9 ponto em agosto, mas segue no campo pessimista pelo 20º mês seguido, com as pequenas indústrias piores que as médias e grandes.",
+        "conteudo": "O Índice de Confiança do Empresário Industrial (ICEI), divulgado pela CNI em 13 de agosto, subiu 1,9 ponto em agosto de 2026, de 44,4 para 46,3 pontos, encerrando dois meses de queda. Mesmo com a melhora, o indicador segue abaixo da linha dos 50 pontos — que separa otimismo de pessimismo — pelo 20º mês consecutivo, e levantamentos regionais da própria CNI mostram que, por porte de empresa, as pequenas indústrias seguem com confiança pior que a das médias e grandes, abaixo dessa linha há pelo menos três meses.\n\nQuando a pequena indústria está mais pessimista que a grande, o motivo costuma ser o mesmo há meses no Brasil: capital de giro mais caro e menor previsibilidade de encomenda, já que o pequeno negócio tem menos colchão financeiro para atravessar um trimestre fraco. Antes de represar investimento por acreditar que o cenário não vai melhorar, vale olhar o componente de expectativas do próprio índice, que subiu mais que o de condições atuais — sinal de que o empresário médio já vê alívio no horizonte, mesmo sem sentir no caixa agora.",
+        "url": "https://noticias.portaldaindustria.com.br/noticias/economia/icei-sobe-19-ponto-em-agosto-mas-industria-completa-20-meses-de-pessimismo-informa-cni/",
+        "posicao": 3,
+        "batch_date": "2026-10-09"
+    },
+    {
+        "tag": "Startups",
+        "titulo": "Startups brasileiras captam US$ 377 mi em agosto, salto de 364% no mês",
+        "fonte": "Bloomberg Línea",
+        "data": "29 Ago",
+        "resumo": "Levantamento semanal mostra o Brasil respondendo por 60% do capital investido em startups na América Latina em agosto, puxado por fintechs.",
+        "conteudo": "Segundo levantamento semanal da Bloomberg Línea, as startups brasileiras captaram US$ 377 milhões em agosto de 2026, somando rodadas de equity, dívida e FIDCs — um salto de 364% em relação a julho e 60% de tudo que a América Latina movimentou no mês (US$ 627 milhões, em 40 rodadas). As fintechs concentraram a maior parte do capital, com 83% do total regional, e startups de inteligência artificial somaram US$ 165 milhões. Entre os aportes do mês, a fintech Bull levantou R$ 20 milhões em uma rodada seed liderada pelos fundos Maya Capital e Caravela Capital, com a Canary, que já tinha liderado o pré-seed da empresa, também participando.\n\nO salto mensal é real, mas não apaga o quadro do ano: no primeiro semestre de 2026, as fintechs brasileiras levantaram só 25% do total captado em todo o 2025, o que mostra um investidor mais seletivo, não mais generoso. Para quem busca captar agora, o recado é usar o apetite por fintech e IA como gancho de conversa, mas chegar à mesa com tração e modelo de receita comprovados — o investidor segue de pé no freio, só que mais disposto a apertar o acelerador quando o case já mostrou que funciona.",
+        "url": "https://www.bloomberglinea.com.br/startups/rodadas-da-semana-startups-brasileiras-captaram-us-377-milhoes-em-agosto/",
+        "posicao": 4,
+        "batch_date": "2026-10-09"
+    },
+    {
         "tag": "Mercado",
         "titulo": "Ibovespa recua e dólar volta a R$ 5,01 com juros longos em alta nos EUA",
         "fonte": "Money Times",
@@ -130,49 +174,5 @@
         "url": "https://centraldovarejo.com.br/black-friday-exige-preparacao-antecipada-de-precos-estoque-e-operacao/",
         "posicao": 4,
         "batch_date": "2026-10-06"
-    },
-    {
-        "tag": "Política",
-        "titulo": "Eleição vai a 2º turno: Flávio Bolsonaro tem 47% dos votos, Lula 45%",
-        "fonte": "Band",
-        "data": "05 Out",
-        "resumo": "Com nenhum candidato passando de 50% dos votos válidos, Flávio Bolsonaro e Lula disputam a Presidência em 25 de outubro.",
-        "conteudo": "O primeiro turno das eleições presidenciais, realizado neste domingo (4), terminou sem um vencedor definido: segundo a apuração do TSE, o senador Flávio Bolsonaro (PL) obteve 47% dos votos válidos contra 45% do presidente Luiz Inácio Lula da Silva (PT), uma diferença de cerca de 2,4 milhões de votos. Como nenhum dos dois passou da marca de 50%, a disputa pela Presidência segue para o segundo turno, marcado para o dia 25 de outubro.\n\nPara quem comanda um negócio, os próximos vinte dias tendem a ser de instabilidade: decisões de investimento, contratação e precificação que dependem do cenário fiscal e tributário do próximo governo ficam mais difíceis de planejar enquanto o resultado não sai. Vale evitar compromissos financeiros longos indexados a expectativas políticas até a definição de 25 de outubro, e acompanhar de perto o câmbio e os juros futuros, que já vêm reagindo forte à disputa.",
-        "url": "https://bloomberglinea.com.br/brasil/lula-e-flavio-bolsonaro-vao-disputar-o-segundo-turno-da-eleicao-presidencial",
-        "posicao": 1,
-        "batch_date": "2026-10-05"
-    },
-    {
-        "tag": "Mercado",
-        "titulo": "Ibovespa em dólar sobe 11% após avanço de Flávio Bolsonaro no 1º turno",
-        "fonte": "Money Times",
-        "data": "05 Out",
-        "resumo": "Fundo que replica a bolsa brasileira nos EUA avançou quase 12% nesta segunda, com apostas em ajuste fiscal mais rígido no próximo governo.",
-        "conteudo": "A confirmação do segundo turno entre Flávio Bolsonaro e Lula fez a bolsa brasileira negociada em dólar — medida pelo ETF iShares MSCI Brazil (EWZ), em Nova York — saltar quase 12% nesta segunda-feira (5), para US$ 42,73. No mercado local, o dólar operou perto de R$ 5,22 e os juros futuros recuaram, com investidores apostando que o resultado eleitoral aumenta as chances de um ajuste fiscal mais rígido no próximo governo, o que já levou o mercado a reduzir sua projeção para a Selic no fim de 2026, hoje em torno de 13,5%, segundo o Boletim Focus.\n\nEssa euforia do mercado financeiro não é garantia de juro mais baixo amanhã: ela reflete uma aposta que só se confirma depois do segundo turno, em 25 de outubro. Para o dono de pequeno negócio que depende de crédito, o sinal prático é monitorar a curva de juros antes de fechar empréstimos longos ou renegociar dívidas — se a aposta do mercado se confirmar, as condições de crédito podem melhorar nos próximos meses, mas até lá a volatilidade deve continuar.",
-        "url": "https://www.moneytimes.com.br/avanco-do-bolsonarismo-nas-eleicoes-mexe-com-mercados-hoje-ibovespa-em-dolar-dispara-11-nesta-segunda-feira-5-rens/",
-        "posicao": 2,
-        "batch_date": "2026-10-05"
-    },
-    {
-        "tag": "Capital",
-        "titulo": "No Dia da Micro e Pequena Empresa, Pronampe já libera até R$ 500 mil",
-        "fonte": "Agência Sebrae",
-        "data": "05 Out",
-        "resumo": "Data que celebra os pequenos negócios chega com crédito ampliado e campanha para estimular o consumidor a comprar de empresas locais.",
-        "conteudo": "Nesta segunda-feira (5), o Brasil celebra o Dia Nacional da Micro e Pequena Empresa, data instituída pela Lei 9.841, de 5 de outubro de 1999. O Sebrae aproveita a data para reforçar o movimento \"Compre do Pequeno\", criado em 2015: segundo a entidade, 41% dos consumidores já conhecem a campanha e um em cada três diz ter comprado de um pequeno negócio por causa dela — relevante porque as micro e pequenas empresas respondem por cerca de 30% do PIB brasileiro. A data também chega com um crédito mais robusto: desde a Medida Provisória 1.355/2026, do Novo Desenrola Brasil, o Pronampe passou a liberar até R$ 500 mil por empresa, ante R$ 250 mil antes, com prazo de pagamento de até 96 meses.\n\nNa prática, dois caminhos se abrem para quem toca um pequeno negócio agora: usar a onda da data para reforçar a presença local — do físico às redes — e revisar se vale a pena recorrer ao Pronampe ampliado, já que o limite de crédito elegível subiu de 30% para 50% do faturamento anual (60% em empresas lideradas por mulheres) e a carência dobrou de 12 para 24 meses. Para muita empresa que vinha evitando empréstimo pelo prazo curto ou pelo teto baixo, as novas condições merecem uma simulação com o banco antes do fim do ano.",
-        "url": "https://agenciasebrae.com.br/cultura-empreendedora/compre-do-pequeno-reforca-poder-das-escolhas-do-consumidor-para-transformar-comunidades/",
-        "posicao": 3,
-        "batch_date": "2026-10-05"
-    },
-    {
-        "tag": "Tributário",
-        "titulo": "Nova declaração digital da reforma tributária, a DeRE, começa a valer",
-        "fonte": "IOB",
-        "data": "01 Out",
-        "resumo": "Obrigação acessória atinge por ora setores com regimes específicos, mas é um teste da infraestrutura que vai cobrar IBS e CBS de todo mundo.",
-        "conteudo": "Desde 1º de outubro, empresas de setores com regras tributárias específicas — como serviços financeiros, planos de saúde e apostas — começaram a enviar a DeRE, a nova Declaração de Informações Econômico-Fiscais criada pela reforma tributária. Pelo Ato Conjunto RFB/CGIBS nº 4/2026, a obrigação chega em etapas: os chamados \"Eventos de Tabela do Contribuinte\" já valem agora, os Eventos Periódicos Mensais entram em vigor em 15 de novembro (trazendo dados referentes a outubro) e os demais eventos passam a ser exigidos a partir de janeiro de 2027.\n\nMesmo fora desses setores específicos, a DeRE é um aviso para qualquer empresário: o Fisco está testando, na prática, a infraestrutura digital que vai sustentar a cobrança plena do IBS e da CBS a partir de 2027. Quem usa sistema de gestão fiscal ou contrata contabilidade terceirizada ganha ao checar agora se o fornecedor já está atualizado para os novos leiautes — esperar o início da cobrança efetiva para resolver isso pode custar tempo e multa quando o prazo for curto.",
-        "url": "https://noticias.iob.com.br/conheca-a-dere-nova-obrigacao-acessoria-da-reforma-tributaria/",
-        "posicao": 4,
-        "batch_date": "2026-10-05"
     }
 ]
