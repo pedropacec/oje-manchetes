@@ -1,5 +1,49 @@
 [
     {
+        "tag": "Mercado",
+        "titulo": "Ibovespa bate recorde e dólar cai a R$ 4,98 com eleição no radar",
+        "fonte": "CNN Brasil",
+        "data": "09 Out",
+        "resumo": "Bolsa fecha na maior pontuação da história e dólar cai para menos de R$ 5 na sexta-feira, com o mercado precificando um 2º turno mais favorável ao ajuste fiscal.",
+        "conteudo": "O Ibovespa fechou a sexta-feira (9/10) em alta de 1,38%, aos 209.066,90 pontos, novo recorde histórico de fechamento, depois de tocar 209.713,45 pontos na máxima do dia. O dólar comercial recuou 0,78%, para R$ 4,9851, voltando a ficar abaixo dos R$ 5 pelo segundo pregão da semana. Na comparação semanal, a bolsa acumulou alta de cerca de 11% e a moeda americana caiu perto de 4,4%, movimento que o mercado atribui às pesquisas eleitorais que colocam Flávio Bolsonaro na frente de Lula para o 2º turno de 25 de outubro, lido pelos investidores como sinal de agenda fiscal mais ortodoxa.\n\nPara quem compra insumo importado ou tem parte da dívida em moeda estrangeira, a janela de dólar mais barato é uma oportunidade concreta de travar proteção cambial (hedge) ou negociar um lote maior de importação agora. Mas vale lembrar que o mesmo fator que empurrou a cotação para baixo em duas semanas — a expectativa eleitoral — pode reverter com a mesma velocidade até o resultado de 25 de outubro, inclusive em caso de surpresa nas urnas.",
+        "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-9-outubro-2026/",
+        "posicao": 1,
+        "batch_date": "2026-10-10"
+    },
+    {
+        "tag": "Juros",
+        "titulo": "IPCA de setembro surpreende com alta de 0,82%, puxado pela luz",
+        "fonte": "InfoMoney",
+        "data": "09 Out",
+        "resumo": "IBGE confirma que a inflação de setembro veio mais alta que o esperado pelo mercado, pressionada pelo fim do desconto na conta de luz.",
+        "conteudo": "O IBGE confirmou nesta sexta-feira (9/10) que o IPCA de setembro de 2026 fechou em alta de 0,82%, bem acima da mediana de 0,73% apontada em pesquisa de mercado e revertendo a deflação de 0,32% registrada em agosto. O índice acumula 4,58% em 12 meses e 3,95% no ano, puxado principalmente pelo fim do desconto de Itaipu na conta de luz, que fez o item energia elétrica subir 7,98% no mês; Habitação (2,31%), Transportes (0,89%) e Alimentação e bebidas (0,83%) também pressionaram o resultado.\n\nUma inflação de energia nesse patamar encarece diretamente comércio, indústria e serviços que dependem de refrigeração, maquinário ou operação em horário estendido, e reduz ainda mais o espaço do Banco Central para cortar a Selic nas próximas reuniões do Copom. Antes de repassar o reajuste integral ao preço final, vale revisar contratos de longo prazo indexados à inflação e negociar com antecedência as tarifas com o fornecedor de energia, já que o próximo choque de custo pode vir do crédito, não da conta de luz.",
+        "url": "https://www.infomoney.com.br/economia/ipca-inflacao-setembro-2026-dados-ibge/",
+        "posicao": 2,
+        "batch_date": "2026-10-10"
+    },
+    {
+        "tag": "Tributário",
+        "titulo": "Receita testa Split Payment a partir de 15/10; cobrança só em 2027",
+        "fonte": "Contábeis",
+        "data": "09 Out",
+        "resumo": "Receita Federal começa a testar, em ambiente simulado, a plataforma que vai recolher tributos automaticamente a cada pagamento recebido pela empresa.",
+        "conteudo": "A Receita Federal confirmou que a fase de testes da Plataforma Pública do Split Payment, mecanismo da reforma tributária que vai separar e recolher o IBS e a CBS no momento do pagamento, começa em 15 de outubro. Segundo o escopo divulgado em 9 de outubro, os testes conectam os prestadores de serviço de pagamento (PSPs) à plataforma por meio de boleto, Pix (dinâmico, automático e estático), TED e TEF — cartões e criptomoedas ficam fora dessa primeira etapa —, em ambiente simulado, sem valer para transações reais nem gerar cobrança a empresas ou consumidores. A cobrança efetiva do mecanismo só começa em 2027, de forma facultativa e restrita a operações entre empresas (B2B).\n\nPara o pequeno e médio negócio, nada muda no caixa agora: a fase de outubro é só um teste técnico entre bancos, fintechs e o governo. Mas é o momento certo para o empresário entender com o contador como o split payment vai funcionar quando entrar em vigor — o tributo passa a ser retido automaticamente a cada venda recebida por Pix ou boleto, o que exige repensar fluxo de caixa e capital de giro antes que a obrigatoriedade chegue.",
+        "url": "https://www.contabeis.com.br/noticias/79769/split-payment-testes-comecam-em-15-de-outubro/",
+        "posicao": 3,
+        "batch_date": "2026-10-10"
+    },
+    {
+        "tag": "Capital",
+        "titulo": "Pequenos negócios abrem 452,6 mil CNPJs em setembro, alta de 5,5%",
+        "fonte": "Fenacon",
+        "data": "08 Out",
+        "resumo": "Levantamento do Sebrae com a Receita Federal mostra o maior volume de pequenos negócios abertos em um mês de setembro na série recente.",
+        "conteudo": "Levantamento do Sebrae com base em dados da Receita Federal, divulgado em 8 de outubro, mostra que o Brasil registrou a abertura de 452,6 mil pequenos negócios em setembro de 2026, alta de 5,5% em relação a setembro de 2025 (428,9 mil). MEI, microempresas e empresas de pequeno porte responderam por 96,5% de todos os CNPJs criados no mês, e o acumulado de janeiro a setembro chegou a 4.391.539 pequenos negócios — 77% MEI, 19% ME e 4% EPP. São Paulo (29,7%), Minas Gerais (10,2%) e Rio de Janeiro (8,2%) lideram o ranking por estado.\n\nO crescimento de 14% nas aberturas de MEI e de 11,5% nas de micro e pequenas empresas no acumulado do ano, mesmo com juros ainda altos, mostra que a decisão de empreender continua forte — e isso também significa mais concorrência direta na praça. Quem já está no mercado ganha com um ecossistema maior de fornecedores e parceiros em potencial, mas precisa reforçar o que diferencia seu negócio antes que o CNPJ novo do concorrente vire cliente do seu cliente.",
+        "url": "https://fenacon.org.br/?p=55486",
+        "posicao": 4,
+        "batch_date": "2026-10-10"
+    },
+    {
         "tag": "Juros",
         "titulo": "IPCA de setembro sai hoje; bancos veem alta de até 0,79% pela luz",
         "fonte": "Investidor10",
@@ -130,49 +174,5 @@
         "url": "https://www.jornaldocomercio.com/economia/2026/09/1264883-balanca-comercial-tem-superavit-firme-de-uss-2399-bilhoes-na-4-semana-de-setembro.html",
         "posicao": 4,
         "batch_date": "2026-10-07"
-    },
-    {
-        "tag": "Política",
-        "titulo": "Com 2º turno definido, Lula e Flávio divergem sobre tributos e gasto público",
-        "fonte": "Bloomberg Línea",
-        "data": "05 Out",
-        "resumo": "Planos de governo mostram caminhos opostos para tributos e gasto público às vésperas do segundo turno, em 25 de outubro.",
-        "conteudo": "Com o resultado do primeiro turno definido no domingo (4/10) e a disputa marcada para 25 de outubro, os planos de governo de Lula (PT) e Flávio Bolsonaro (PL) revelam rotas opostas para tributos e gasto público. Flávio propõe reduzir a carga tributária sobre folha de pagamento e consumo, cortar o IOF de volta ao nível de 2022, corrigir a tabela do Imposto de Renda e elevar a faixa de isenção para até cinco salários mínimos, além de rever o arcabouço fiscal com volta a um modelo mais próximo do antigo teto de gastos. Lula, por sua vez, defende manter o arcabouço fiscal e aumentar a progressividade tributária, cobrando mais de quem ganha mais para isentar quem ganha menos, preservando o ritmo de implementação da reforma tributária já aprovada.\n\nPara o empresário, a diferença não é só discurso de campanha: um corte de IOF e de tributo sobre folha pesa direto no custo de crédito e de contratação, enquanto a manutenção do arcabouço fiscal sinaliza menos sobressalto nas contas públicas, mas também menos margem para desoneração. Como o resultado só sai em 25 de outubro, o mais seguro é evitar apostar o planejamento de 2027 em um único cenário tributário e acompanhar de perto as propostas que cada campanha deve detalhar nas próximas semanas.",
-        "url": "https://www.bloomberglinea.com.br/brasil/eleicoes-no-brasil-em-2026-o-que-lula-e-flavio-bolsonaro-propoem-nas-areas-de-economia-seguranca-e-energia/",
-        "posicao": 1,
-        "batch_date": "2026-10-06"
-    },
-    {
-        "tag": "Juros",
-        "titulo": "Boletim Focus: inflação de 2026 passa do teto da meta pela 4ª semana seguida",
-        "fonte": "Exame",
-        "data": "05 Out",
-        "resumo": "Mercado eleva a estimativa de IPCA para 2026 a 5,01%, rompendo o teto da meta, e mantém a Selic projetada em 13,5%.",
-        "conteudo": "O Boletim Focus desta segunda-feira (5/10), pesquisa semanal do Banco Central com mais de 100 instituições financeiras, elevou a projeção de inflação para 2026 a 5,01% — quarta alta seguida e primeira vez que a estimativa fica acima do teto de 4,5% da meta oficial. Na mesma pesquisa, o mercado reduziu de novo a previsão de crescimento do PIB, para 1,85%, e manteve a Selic projetada em 13,5% ao ano no fim do período, com o câmbio estimado em torno de R$ 5,20.\n\nCom a inflação oficialmente fora da meta, fica mais difícil para o Banco Central iniciar um ciclo de corte de juros tão cedo quanto o mercado chegou a apostar há poucos meses — o que significa crédito para capital de giro e expansão seguindo caro por mais tempo. Vale reforçar o reajuste de preços com base em custo real, revisar contratos indexados à inflação e não condicionar o planejamento financeiro a uma queda rápida da Selic que, pelos números de hoje, não está no radar imediato.",
-        "url": "https://exame.com/brasil/boletim-focus-mercado-eleva-projecao-de-inflacao-e-reduz-do-pib-e-selic-em-2026/",
-        "posicao": 2,
-        "batch_date": "2026-10-06"
-    },
-    {
-        "tag": "Mercado",
-        "titulo": "PMI industrial cai a 44,8 em setembro, pior ritmo de queda desde 2020",
-        "fonte": "Jornal do Comércio (S&P Global)",
-        "data": "01 Out",
-        "resumo": "Índice que mede a atividade industrial encolhe pelo quinto mês seguido, no recuo mais rápido desde o início da pandemia.",
-        "conteudo": "O PMI industrial do Brasil, calculado pela S&P Global e divulgado em 1º de outubro, caiu de 46,3 pontos em agosto para 44,8 em setembro — quinto mês consecutivo de queda e o ritmo de recuo mais rápido desde o início de 2020. Como a marca de 50 pontos separa expansão de contração, o indicador reforça que a produção industrial brasileira está encolhendo, com produção, novos pedidos e emprego no setor também em trajetória de baixa, segundo o levantamento.\n\nPara quem vende insumo, serviço ou equipamento para fábricas, o dado é um alerta de demanda mais fraca pela frente: pedidos e reposição de estoque na cadeia industrial tendem a desacelerar antes de qualquer sinal de recuperação. Negócios muito dependentes de clientes industriais ganham ao diversificar a carteira para outros setores agora e a renegociar prazo de pagamento com esses clientes, em vez de esperar a próxima leitura do índice para agir.",
-        "url": "https://www.jornaldocomercio.com/economia/2026/10/1265333-pmi-industrial-do-brasil-cai-a-448-pontos-em-setembro.html",
-        "posicao": 3,
-        "batch_date": "2026-10-06"
-    },
-    {
-        "tag": "Varejo",
-        "titulo": "Buscas por Black Friday já começam em outubro; pequeno varejo tem de se planejar",
-        "fonte": "Central do Varejo",
-        "data": "06 Out",
-        "resumo": "Mais da metade das buscas que geram venda em novembro já começa em outubro, antecipando a corrida por preço e estoque da Black Friday.",
-        "conteudo": "Levantamentos do setor de varejo mostram que cerca de 55% das conversões de vendas online registradas em novembro nascem de buscas que o consumidor já começa a fazer em outubro, antecipando a pesquisa de preço antes da Black Friday. A expectativa é que o evento movimente R$ 14,4 bilhões no e-commerce brasileiro em 2026, com os maiores gargalos operacionais concentrados na falta de sincronia de estoque entre canais, na demora para emitir nota fiscal e etiqueta, e em falhas de expedição quando a demanda dispara.\n\nPara o pequeno varejista, a lição prática é não deixar a organização para novembro: vale separar agora os produtos que vão sustentar a campanha dos que têm papel só complementar, conferir se o estoque está sincronizado entre loja física, marketplace e site próprio, e testar a capacidade de emissão de nota e despacho antes do pico de pedidos — quem só reage em novembro já perde boa parte das buscas de preço que começam neste mês.",
-        "url": "https://centraldovarejo.com.br/black-friday-exige-preparacao-antecipada-de-precos-estoque-e-operacao/",
-        "posicao": 4,
-        "batch_date": "2026-10-06"
     }
 ]
