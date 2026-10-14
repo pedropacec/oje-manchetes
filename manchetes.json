@@ -1,6 +1,50 @@
 [
     {
         "tag": "Política",
+        "titulo": "Senado vota hoje 1º turno da PEC que acaba com a escala 6x1",
+        "fonte": "CNN Brasil",
+        "data": "14 Out",
+        "resumo": "Com o PL de Flávio Bolsonaro declarando apoio após pressão da campanha de Lula, o Senado encerra hoje as sessões de debate e deve votar em primeiro turno a proposta que troca a 6x1 por jornada de 40 horas.",
+        "conteudo": "Nesta quarta-feira (14/10), o Senado conclui as cinco sessões de discussão da PEC 221/2019 e deve votar o texto em primeiro turno ainda hoje. A proposta, relatada por Omar Aziz, substitui a escala 6x1 por uma rotina de cinco dias de trabalho e dois de descanso, sem redução de salário, cortando o teto semanal de 44 para 40 horas. O presidente do Senado, Davi Alcolumbre, confirmou ter reunido assinaturas suficientes para um calendário especial que pode quebrar o interstício regimental entre os dois turnos — o que abriria caminho para concluir a votação final ainda em outubro, antes do 2º turno das eleições. Para ser aprovada, a PEC precisa de 49 dos 81 votos; o PL, de Flávio Bolsonaro, passou a apoiar o fim da escala nos últimos dias, depois de meses de resistência, sob pressão da campanha de Lula.\n\nPara comércio, bar, restaurante, saúde, segurança e qualquer negócio que opera em turnos revezados, a votação de hoje é o sinal mais concreto até agora de que a mudança vai acontecer — e rápido, se o calendário especial for confirmado, sem o colchão de tempo que normalmente separa os dois turnos. Vale usar os próximos dias para simular o custo de redistribuir escalas e comparar hora extra com contratação adicional, em vez de esperar a promulgação da emenda para só então reagir à nova jornada.",
+        "url": "https://www.cnnbrasil.com.br/politica/6x1-senado-conclui-hoje-sessoes-de-debate-e-deve-votar-pec-em-1o-turno/",
+        "posicao": 1,
+        "batch_date": "2026-10-14"
+    },
+    {
+        "tag": "Mercado",
+        "titulo": "Ibovespa cai 1% e dólar volta a passar de R$5 após recordes da semana",
+        "fonte": "Exame",
+        "data": "13 Out",
+        "resumo": "Realização de lucros interrompe a sequência de recordes do Ibovespa na terça, e o humor cauteloso segue nesta quarta pelas bolsas da Ásia, com inflação da China e CPI dos EUA no radar.",
+        "conteudo": "Na terça-feira (13/10), primeiro pregão após o feriado de Nossa Senhora Aparecida, o Ibovespa fechou em queda de 1,04%, a 206.887 pontos, interrompendo a sequência de recordes que levou o índice a 209.066,90 pontos na sexta-feira (9/10) — alta semanal de quase 11%. O dólar comercial subiu 0,74%, para R$5,023, voltando a ficar acima dos R$5 pela primeira vez desde a véspera do feriado, em meio à realização de lucros e à repercussão de novas pesquisas eleitorais para o 2º turno de 25/10. Nesta quarta (14/10), o humor segue cauteloso: as bolsas da Ásia-Pacífico fecharam majoritariamente em baixa, com investidores de olho nos dados de inflação e comércio exterior da China e na divulgação do índice de preços ao consumidor (CPI) dos Estados Unidos.\n\nQuem via nas duas semanas de recorde a janela ideal para resgatar aplicação ou travar proteção cambial (hedge) viu o cenário virar de uma sessão para outra — prova de que o rali eleitoral pode reverter com a mesma velocidade com que subiu. Para negócios que dependem de insumo importado ou têm parte da dívida em dólar, a volta da moeda para cima de R$5 é motivo para comprar em lotes menores e mais frequentes, em vez de apostar que o patamar mais barato do início do mês volte antes do resultado da eleição.",
+        "url": "https://exame.com/invest/mercados/ibovespa-fecha-em-baixa-de-1-e-dolar-ultrapassa-r-5-eleicao-fez-preco/",
+        "posicao": 2,
+        "batch_date": "2026-10-14"
+    },
+    {
+        "tag": "Startups",
+        "titulo": "PassHub capta R$7,5 milhões para unir agências de viagem a fornecedores",
+        "fonte": "Startups",
+        "data": "13 Out",
+        "resumo": "Plataforma B2B nascida dentro da Passabot fecha pré-seed liderado por fundo de venture capital americano após nove meses de operação, já com mais de 2 mil agências cadastradas.",
+        "conteudo": "A PassHub, plataforma que conecta agências de viagem a consolidadoras e fornecedores para buscar, comparar tarifas e emitir bilhetes, captou R$7,5 milhões em rodada pré-seed liderada pela Parceiro Ventures, gestora de venture capital americana focada em startups B2B. É a segunda captação da empresa em 2026, depois de um aporte inicial de R$1,2 milhão no começo do ano, e vem após nove meses de operação comercial em que a plataforma já passou de 2 mil agências cadastradas e R$30 milhões em volume transacionado. A PassHub nasceu como vertical B2B da Passabot, startup que opera um agente de viagens com inteligência artificial dentro do WhatsApp.\n\nPara o dono de agência de viagem pequena ou média, o aporte sinaliza que ferramentas de comparação e emissão como essa devem ganhar mais fornecedores e recursos nos próximos meses — vale testar a plataforma antes da alta temporada de viagens de fim de ano, quando a diferença de tarifa entre consolidadoras pesa mais no resultado final. O caso também ilustra um caminho comum entre startups B2B brasileiras: nascer como vertical dentro de um produto maior voltado ao consumidor final antes de levantar capital próprio, o que reduz o risco percebido pelo investidor na primeira rodada.",
+        "url": "https://startups.com.br/negocios/passabot-cria-vertical-b2c-e-capta-r-75m-para-atender-a-agencias-de-viagem/",
+        "posicao": 3,
+        "batch_date": "2026-10-14"
+    },
+    {
+        "tag": "Comércio",
+        "titulo": "Balança comercial tem 2º melhor setembro da história, com superávit de US$7,74 bi",
+        "fonte": "Mercado&Consumo",
+        "data": "06 Out",
+        "resumo": "Exportações puxadas por petróleo, minério e farelo de soja elevam o saldo comercial de setembro a mais do dobro do mesmo mês de 2025, mas o MDIC já reduziu a projeção para o ano.",
+        "conteudo": "A balança comercial brasileira fechou setembro de 2026 com superávit de US$7,74 bilhões, segundo dados da Secex/MDIC divulgados em 6 de outubro — o segundo melhor resultado para o mês na série histórica, atrás apenas de 2023, e mais que o dobro do saldo de setembro de 2025 (US$3,14 bilhões). As exportações somaram US$34,42 bilhões, alta de 12,9% no ano, puxadas pela indústria extrativa (+39,8%, com o petróleo bruto subindo 77,3% nas vendas); as importações caíram 2,4%, para US$26,68 bilhões. No acumulado do ano, o saldo chega a US$62,4 bilhões. Mesmo com o resultado forte, o MDIC revisou para baixo a projeção de superávit em 2026, de US$90 bilhões para US$84,4 bilhões, citando a queda nas estimativas de preço do petróleo.\n\nPara quem exporta, o salto nas vendas de petróleo e minério mostra que o preço das commodities ainda sustenta boa parte do resultado do comércio exterior brasileiro — um sinal de atenção, já que a mesma queda de preço que levou o MDIC a cortar a projeção anual pode pressionar margem em 2027. Já a queda nas importações é uma abertura para quem compra insumo ou equipamento importado negociar: com menos concorrência por dólar do lado comprador, o custo de internalizar mercadoria tende a ficar mais previsível nos próximos meses.",
+        "url": "https://mercadoeconsumo.com.br/07/10/2026/economia/balanca-comercial-tem-superavit-de-us-774-bilhoes-em-setembro/",
+        "posicao": 4,
+        "batch_date": "2026-10-14"
+    },
+    {
+        "tag": "Política",
         "titulo": "Alcolumbre não define data para votar fim da escala 6x1 no Senado",
         "fonte": "SBT News",
         "data": "13 Out",
@@ -130,49 +174,5 @@
         "url": "https://forbes.com.br/forbes-money/2026/08/ex-cto-nubank-decade-rodada-seed-85-milhoes/",
         "posicao": 4,
         "batch_date": "2026-10-11"
-    },
-    {
-        "tag": "Mercado",
-        "titulo": "Ibovespa bate recorde e dólar cai a R$ 4,98 com eleição no radar",
-        "fonte": "CNN Brasil",
-        "data": "09 Out",
-        "resumo": "Bolsa fecha na maior pontuação da história e dólar cai para menos de R$ 5 na sexta-feira, com o mercado precificando um 2º turno mais favorável ao ajuste fiscal.",
-        "conteudo": "O Ibovespa fechou a sexta-feira (9/10) em alta de 1,38%, aos 209.066,90 pontos, novo recorde histórico de fechamento, depois de tocar 209.713,45 pontos na máxima do dia. O dólar comercial recuou 0,78%, para R$ 4,9851, voltando a ficar abaixo dos R$ 5 pelo segundo pregão da semana. Na comparação semanal, a bolsa acumulou alta de cerca de 11% e a moeda americana caiu perto de 4,4%, movimento que o mercado atribui às pesquisas eleitorais que colocam Flávio Bolsonaro na frente de Lula para o 2º turno de 25 de outubro, lido pelos investidores como sinal de agenda fiscal mais ortodoxa.\n\nPara quem compra insumo importado ou tem parte da dívida em moeda estrangeira, a janela de dólar mais barato é uma oportunidade concreta de travar proteção cambial (hedge) ou negociar um lote maior de importação agora. Mas vale lembrar que o mesmo fator que empurrou a cotação para baixo em duas semanas — a expectativa eleitoral — pode reverter com a mesma velocidade até o resultado de 25 de outubro, inclusive em caso de surpresa nas urnas.",
-        "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-9-outubro-2026/",
-        "posicao": 1,
-        "batch_date": "2026-10-10"
-    },
-    {
-        "tag": "Juros",
-        "titulo": "IPCA de setembro surpreende com alta de 0,82%, puxado pela luz",
-        "fonte": "InfoMoney",
-        "data": "09 Out",
-        "resumo": "IBGE confirma que a inflação de setembro veio mais alta que o esperado pelo mercado, pressionada pelo fim do desconto na conta de luz.",
-        "conteudo": "O IBGE confirmou nesta sexta-feira (9/10) que o IPCA de setembro de 2026 fechou em alta de 0,82%, bem acima da mediana de 0,73% apontada em pesquisa de mercado e revertendo a deflação de 0,32% registrada em agosto. O índice acumula 4,58% em 12 meses e 3,95% no ano, puxado principalmente pelo fim do desconto de Itaipu na conta de luz, que fez o item energia elétrica subir 7,98% no mês; Habitação (2,31%), Transportes (0,89%) e Alimentação e bebidas (0,83%) também pressionaram o resultado.\n\nUma inflação de energia nesse patamar encarece diretamente comércio, indústria e serviços que dependem de refrigeração, maquinário ou operação em horário estendido, e reduz ainda mais o espaço do Banco Central para cortar a Selic nas próximas reuniões do Copom. Antes de repassar o reajuste integral ao preço final, vale revisar contratos de longo prazo indexados à inflação e negociar com antecedência as tarifas com o fornecedor de energia, já que o próximo choque de custo pode vir do crédito, não da conta de luz.",
-        "url": "https://www.infomoney.com.br/economia/ipca-inflacao-setembro-2026-dados-ibge/",
-        "posicao": 2,
-        "batch_date": "2026-10-10"
-    },
-    {
-        "tag": "Tributário",
-        "titulo": "Receita testa Split Payment a partir de 15/10; cobrança só em 2027",
-        "fonte": "Contábeis",
-        "data": "09 Out",
-        "resumo": "Receita Federal começa a testar, em ambiente simulado, a plataforma que vai recolher tributos automaticamente a cada pagamento recebido pela empresa.",
-        "conteudo": "A Receita Federal confirmou que a fase de testes da Plataforma Pública do Split Payment, mecanismo da reforma tributária que vai separar e recolher o IBS e a CBS no momento do pagamento, começa em 15 de outubro. Segundo o escopo divulgado em 9 de outubro, os testes conectam os prestadores de serviço de pagamento (PSPs) à plataforma por meio de boleto, Pix (dinâmico, automático e estático), TED e TEF — cartões e criptomoedas ficam fora dessa primeira etapa —, em ambiente simulado, sem valer para transações reais nem gerar cobrança a empresas ou consumidores. A cobrança efetiva do mecanismo só começa em 2027, de forma facultativa e restrita a operações entre empresas (B2B).\n\nPara o pequeno e médio negócio, nada muda no caixa agora: a fase de outubro é só um teste técnico entre bancos, fintechs e o governo. Mas é o momento certo para o empresário entender com o contador como o split payment vai funcionar quando entrar em vigor — o tributo passa a ser retido automaticamente a cada venda recebida por Pix ou boleto, o que exige repensar fluxo de caixa e capital de giro antes que a obrigatoriedade chegue.",
-        "url": "https://www.contabeis.com.br/noticias/79769/split-payment-testes-comecam-em-15-de-outubro/",
-        "posicao": 3,
-        "batch_date": "2026-10-10"
-    },
-    {
-        "tag": "Capital",
-        "titulo": "Pequenos negócios abrem 452,6 mil CNPJs em setembro, alta de 5,5%",
-        "fonte": "Fenacon",
-        "data": "08 Out",
-        "resumo": "Levantamento do Sebrae com a Receita Federal mostra o maior volume de pequenos negócios abertos em um mês de setembro na série recente.",
-        "conteudo": "Levantamento do Sebrae com base em dados da Receita Federal, divulgado em 8 de outubro, mostra que o Brasil registrou a abertura de 452,6 mil pequenos negócios em setembro de 2026, alta de 5,5% em relação a setembro de 2025 (428,9 mil). MEI, microempresas e empresas de pequeno porte responderam por 96,5% de todos os CNPJs criados no mês, e o acumulado de janeiro a setembro chegou a 4.391.539 pequenos negócios — 77% MEI, 19% ME e 4% EPP. São Paulo (29,7%), Minas Gerais (10,2%) e Rio de Janeiro (8,2%) lideram o ranking por estado.\n\nO crescimento de 14% nas aberturas de MEI e de 11,5% nas de micro e pequenas empresas no acumulado do ano, mesmo com juros ainda altos, mostra que a decisão de empreender continua forte — e isso também significa mais concorrência direta na praça. Quem já está no mercado ganha com um ecossistema maior de fornecedores e parceiros em potencial, mas precisa reforçar o que diferencia seu negócio antes que o CNPJ novo do concorrente vire cliente do seu cliente.",
-        "url": "https://fenacon.org.br/?p=55486",
-        "posicao": 4,
-        "batch_date": "2026-10-10"
     }
 ]
