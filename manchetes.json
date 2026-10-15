@@ -1,5 +1,49 @@
 [
     {
+        "tag": "Trabalhista",
+        "titulo": "Senado aprova fim da escala 6x1 em dois turnos, por 75 votos a 1",
+        "fonte": "Exame",
+        "data": "14 Out",
+        "resumo": "Em sessão histórica na noite de terça, o Senado aprovou de uma vez os dois turnos da PEC que extingue a escala 6x1 e reduz a jornada máxima para 40 horas semanais.",
+        "conteudo": "Na noite de terça-feira (14/10), o Plenário do Senado aprovou a PEC 221/2019 em primeiro e em segundo turno na mesma sessão, por 75 votos a 1 — único voto contrário do senador Hamilton Mourão (Republicanos-RS) —, com 78 dos 81 senadores presentes. O texto extingue a escala de trabalho 6x1 e garante ao menos duas folgas semanais, regra que passa a valer 60 dias após a promulgação. A jornada máxima constitucional também cai de 44 para 40 horas, em duas etapas: redução para 42 horas em até dois meses após a promulgação e, depois, para 40 horas em até 12 meses. A votação teve apoio simultâneo da base do governo Lula e da bancada do PL, incluindo o senador Flávio Bolsonaro, candidato no 2º turno presidencial.\n\nPara qualquer negócio que organiza equipes em escala — comércio, bares, restaurantes, clínicas, segurança, indústria —, a contagem regressiva já começou: a partir da promulgação, o prazo corre para redesenhar grades de horário, calcular o custo de contratações extras e negociar acordos coletivos antes de a regra entrar em vigor. Entidades como a Fiesp já alertam para aumento do custo da mão de obra e risco de informalidade, o que reforça a recomendação de simular agora os cenários de escala e folha de pagamento, em vez de esperar a promulgação para agir sob pressão de prazo.",
+        "url": "https://exame.com/brasil/veja-como-votou-cada-senador-sobre-a-pec-do-fim-da-escala-6x1/",
+        "posicao": 1,
+        "batch_date": "2026-10-15"
+    },
+    {
+        "tag": "Tributário",
+        "titulo": "Prazo para optar pelo Simples Nacional em 2027 termina hoje",
+        "fonte": "Poder360",
+        "data": "15 Out",
+        "resumo": "Resolução do Comitê Gestor do Simples Nacional prorrogou o prazo de adesão para hoje, e quem perder a data só poderá tentar entrar no regime de novo em 2028.",
+        "conteudo": "Nesta quinta-feira (15/10) encerra-se o prazo para micro e pequenas empresas pedirem a opção pelo Simples Nacional válida a partir de 1º de janeiro de 2027. O prazo, que originalmente terminava em 30 de setembro, foi prorrogado para hoje pela Resolução CGSN nº 194, publicada em 28 de setembro. O pedido deve ser feito pelo Portal do Simples Nacional; quem já é optante não precisa repetir o procedimento. Empresas com pendências que impeçam o enquadramento têm até 30 de outubro para regularizar a situação e tentar reverter um eventual indeferimento.\n\nQuem está decidindo migrar de regime tributário ou formalizar um negócio não pode deixar para depois do expediente de hoje: perder o prazo significa ficar fora do Simples até 2028, pagando impostos pelo regime normal, mais caro e burocrático para quem fatura pouco. Vale conferir agora mesmo, no Portal do Simples Nacional, se o CNPJ está com a opção confirmada ou pendente, e resolver qualquer dívida ou inconsistência — mesmo que o indeferimento só seja notificado depois, a regularização até 30/10 ainda garante a entrada no regime simplificado em 2027.",
+        "url": "https://www.poder360.com.br/poder-economia/governo-amplia-prazo-de-adesao-ao-simples-nacional-2027/",
+        "posicao": 2,
+        "batch_date": "2026-10-15"
+    },
+    {
+        "tag": "Mercado",
+        "titulo": "Ibovespa cai 0,18% e dólar sobe a R$5,03 com inflação dos EUA no radar",
+        "fonte": "InfoMoney",
+        "data": "14 Out",
+        "resumo": "Dado de inflação ao consumidor nos Estados Unidos pesou sobre as bolsas globais e tirou o fôlego do Ibovespa, que fechou em queda após os recordes da semana passada.",
+        "conteudo": "Na quarta-feira (14/10), o Ibovespa fechou em queda de 0,18%, aos 206.506 pontos, depois de o índice de preços ao consumidor dos Estados Unidos vir acima do esperado em setembro, pressionando as bolsas de Nova York e, por contágio, o mercado brasileiro. O dólar comercial subiu 0,17% e fechou a R$5,0283, emendando a segunda alta seguida após os recordes da semana passada, quando o Ibovespa chegou a tocar 209 mil pontos. O volume financeiro negociado na sessão ficou entre R$28 bilhões e R$31 bilhões, conforme diferentes fontes de mercado.\n\nA sessão mostra que o rali eleitoral do Ibovespa não blinda o mercado brasileiro de notícias externas: um único dado de inflação nos EUA foi suficiente para reverter o humor do dia. Para quem importa insumos, paga dívida em dólar ou está fechando contrato com preço atrelado ao câmbio, o sinal é travar cotações em lotes menores e com mais frequência — e não contar com o dólar voltando ao patamar mais baixo do início do mês antes do 2º turno de 25/10.",
+        "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-14102026/",
+        "posicao": 3,
+        "batch_date": "2026-10-15"
+    },
+    {
+        "tag": "Capital",
+        "titulo": "Imersa capta R$250 mil com aporte-ponte de anjo que investiu na Tractian",
+        "fonte": "Startups",
+        "data": "14 Out",
+        "resumo": "Startup paulista de copiloto de vendas B2B fecha a primeira rodada com estrutura de aporte adicional condicionada a metas de performance combinadas com o investidor.",
+        "conteudo": "A Imersa, startup que desenvolve um copiloto de inteligência artificial para times de vendas B2B, captou R$250 mil em sua primeira rodada, com valuation pré-money de cerca de R$4 milhões. Todo o aporte veio do investidor-anjo Flávio Szenkier, que também é sócio em startups como a Tractian. O acordo prevê um aporte adicional de R$100 mil condicionado ao cumprimento de indicadores de desempenho combinados com o investidor, e a empresa agora busca captar ao menos mais R$500 mil, com negociações em andamento junto a outros anjos e fundos, com meta de fechar a rodada até o fim do ano.\n\nO desenho da rodada da Imersa é um modelo cada vez mais comum entre fundadores em estágio inicial no Brasil: em vez de negociar um cheque único com valuation fixo, a empresa garante capital imediato e deixa uma fatia do aporte amarrada a metas verificáveis, o que reduz a diluição se as metas forem batidas. Para quem está estruturando a primeira rodada do próprio negócio, vale negociar esse tipo de gatilho de performance com o investidor-anjo — ele protege o fundador de uma diluição maior logo na largada e dá ao investidor um motivo concreto para seguir apostando no negócio.",
+        "url": "https://startups.com.br/negocios/rodada-de-investimento/imersa-capta-r-250-mil-e-busca-mais-r-500-mil-para-copiloto-de-vendas/",
+        "posicao": 4,
+        "batch_date": "2026-10-15"
+    },
+    {
         "tag": "Política",
         "titulo": "Senado vota hoje 1º turno da PEC que acaba com a escala 6x1",
         "fonte": "CNN Brasil",
@@ -130,49 +174,5 @@
         "url": "https://startups.com.br/negocios/rodada-de-investimento/biolinker-capta-r-84m-para-sintetizar-dna-e-treinar-ia-na-amazonia/",
         "posicao": 4,
         "batch_date": "2026-10-12"
-    },
-    {
-        "tag": "Política",
-        "titulo": "Hoje tem 1º debate do 2º turno; Datafolha dá Flávio 49% x Lula 45%",
-        "fonte": "Metrópoles",
-        "data": "11 Out",
-        "resumo": "Record transmite hoje o primeiro confronto direto entre Lula e Flávio Bolsonaro, com o 2º turno de 25 de outubro ainda em empate técnico nas pesquisas.",
-        "conteudo": "Nesta noite de domingo (11/10), a Record exibe o primeiro debate frente a frente do 2º turno entre o presidente Lula (PT) e o senador Flávio Bolsonaro (PL), a três semanas da votação final, marcada para 25 de outubro. A Band remarcou seu debate para 18 de outubro, e a Globo prepara o encontro de encerramento para 23 de outubro. O pano de fundo é a pesquisa Datafolha divulgada em 8 de outubro, feita entre 6 e 7/10 com 2.520 eleitores: Flávio aparece com 49% e Lula com 45% dos votos totais, ou 52% a 48% só entre os votos válidos, diferença dentro da margem de erro de 2 pontos percentuais; a rejeição é de 46% a Lula e 43% a Flávio.\n\nPara quem empreende, o debate de hoje interessa menos pelo discurso de palanque e mais pelo que o mercado vai ler nele sobre política fiscal e tributária depois de 25 de outubro — o mesmo fator que já moveu Ibovespa e dólar nas duas últimas semanas. Antes de tomar decisão de caixa, crédito ou investimento com base nesta pesquisa ou no debate, vale lembrar que o cenário está dentro da margem de erro e pode virar entre agora e a votação; o momento pede acompanhar o noticiário, não antecipar apostas.",
-        "url": "https://www.metropoles.com/brasil/globo-band-record-debates-flavio",
-        "posicao": 1,
-        "batch_date": "2026-10-11"
-    },
-    {
-        "tag": "Indústria",
-        "titulo": "Produção industrial recua 0,6% em agosto e interrompe alta de julho",
-        "fonte": "Tribuna do Paraná",
-        "data": "02 Out",
-        "resumo": "IBGE mostra indústria perdendo ritmo em agosto, bem abaixo do que o mercado esperava, com juros altos e investimento represado entre as causas.",
-        "conteudo": "O IBGE informou, em 2 de outubro, que a produção industrial brasileira recuou 0,6% em agosto frente a julho, interrompendo a alta de 0,1% do mês anterior e vindo bem abaixo da previsão de mercado, que esperava avanço de 0,1%. As quatro grandes categorias econômicas e 16 dos 25 ramos pesquisados tiveram queda no mês, com destaque negativo para produtos do fumo (-23,4%) e farmoquímicos (-5,5%); frente a agosto de 2025, o recuo foi de 1,2%. No acumulado do ano a indústria ainda cresce 0,8%, e em 12 meses, 0,6%, mas dez dos 15 locais pesquisados pelo IBGE caíram no mês, com Pará (-7,3%), Amazonas (-5,7%) e Rio Grande do Sul (-4,5%) na liderança negativa.\n\nO próprio IBGE atribui a perda de ritmo aos juros ainda elevados e ao adiamento de investimentos pelas empresas — justamente o ambiente que mais afeta fornecedores de pequeno e médio porte que dependem de encomenda da indústria. Antes de represar estoque ou produção por conta do número negativo, vale diversificar a carteira de clientes entre diferentes setores industriais, já que a queda não foi uniforme: alimentos, por exemplo, ainda cresceu 1,0% no mês, mostrando que a demanda segue firme em segmentos ligados ao consumo básico.",
-        "url": "https://www.tribunapr.com.br/noticias/economia/producao-industrial-cai-06-em-agosto-e-cresce-apenas-08-no-ano/",
-        "posicao": 2,
-        "batch_date": "2026-10-11"
-    },
-    {
-        "tag": "Varejo",
-        "titulo": "Véspera do Dia das Crianças: CNDL projeta R$ 18,1 bi e Pix como favorito",
-        "fonte": "Jornal Opção",
-        "data": "07 Out",
-        "resumo": "Pesquisa da CNDL e do SPC Brasil mostra 74% dos consumidores das capitais pretendendo comprar presentes para o feriado de amanhã, com o Pix na frente.",
-        "conteudo": "Pesquisa da CNDL e do SPC Brasil com o instituto Offerwise, feita entre 31 de agosto e 8 de setembro nas 27 capitais, projeta que o Dia das Crianças de 2026 — feriado de Nossa Senhora Aparecida, nesta segunda-feira (12/10) — deve movimentar R$ 18,11 bilhões no comércio, R$ 1,4 bilhão a mais que em 2025. Segundo o levantamento, 74% dos consumidores das capitais pretendem comprar presentes, com gasto médio de R$ 308 e 2,3 itens por pessoa, e o Pix aparece como a forma de pagamento à vista preferida.\n\nHoje, domingo, é o último dia cheio de compras antes do feriado de amanhã, e a pesquisa reforça que o consumidor brasileiro deixa a decisão para a última hora: vale garantir estoque dos itens mais buscados, QR Code do Pix visível no caixa e, se possível, horário estendido já nesta tarde. Como o gasto médio de R$ 308 se concentra em poucos itens por cliente, o pequeno varejista ganha mais oferecendo sugestão de presente certeira e embalagem rápida do que tentando competir em desconto com a grande rede.",
-        "url": "https://www.jornalopcao.com.br/ultimas-noticias/dia-das-criancas-deve-movimentar-r-181-bilhoes-no-varejo-consumidor-pretende-gastar-r-308-em-presentes-876641/",
-        "posicao": 3,
-        "batch_date": "2026-10-11"
-    },
-    {
-        "tag": "Startups",
-        "titulo": "Fintech Decade capta US$ 85 mi na maior rodada seed da América Latina",
-        "fonte": "Forbes",
-        "data": "04 Ago",
-        "resumo": "Startup de gestão de patrimônio fundada por ex-CTO do Nubank anuncia captação seed que a empresa diz ser a maior já registrada na região.",
-        "conteudo": "A fintech de gestão de patrimônio Decade anunciou, em 4 de agosto, uma rodada seed de US$ 85 milhões (cerca de R$ 440 milhões) — segundo a empresa, a maior captação em estágio seed já registrada na América Latina, superando os US$ 40 milhões levantados pela PAX. A rodada reúne os fundos Benchmark, Greenoaks, Diffusion, Atlantico e Norte Ventures e foi liderada por Vitor Olivier, que passou 12 anos como CTO do Nubank, ao lado de Felipe Meneses, fundador da Hyperplane, startup comprada pelo próprio Nubank em 2024. A Decade combina inteligência artificial com consultores humanos, usando Open Finance para reunir as contas do cliente, e cobra assinatura mensal de R$ 200.\n\nO tamanho do cheque mostra o que o investidor de ponta está disposto a pagar por fundador com histórico comprovado e produto já rodando, não apenas uma boa ideia de pitch — a Decade só anunciou a rodada ao sair do modo discreto, com a operação e o dinheiro já em caixa há meses. Para quem busca captar, o recado é o mesmo de outras rodadas recentes no Brasil: tração, equipe com histórico relevante e diferencial claro pesam mais do que o tamanho do mercado endereçável na hora de atrair o investidor certo.",
-        "url": "https://forbes.com.br/forbes-money/2026/08/ex-cto-nubank-decade-rodada-seed-85-milhoes/",
-        "posicao": 4,
-        "batch_date": "2026-10-11"
     }
 ]
