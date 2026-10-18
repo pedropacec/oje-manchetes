@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Política",
+    "titulo": "Lula e Flávio divergem sobre ajuste fiscal no debate de hoje no Band",
+    "fonte": "Agência Brasil",
+    "data": "16 Out",
+    "resumo": "Lula defende manter o arcabouço fiscal e ampliar investimento público; Flávio propõe nova regra ligada à dívida e corte de impostos.",
+    "conteudo": "Reportagem da Agência Brasil mostra que Lula e Flávio Bolsonaro chegam ao primeiro debate do segundo turno, hoje (18/10) no Band, com planos opostos para a economia, a nove dias da votação final em 25/10. Os dois reconhecem que a dívida pública — em 82,9% do PIB em agosto, o maior nível desde a pandemia — precisa ser contida, mas discordam do caminho: Lula defende manter o arcabouço fiscal vigente e ampliar investimento público e programas sociais, enquanto Flávio propõe uma nova regra fiscal atrelada à trajetória da dívida, redução da máquina pública e corte de impostos e encargos.\n\nPara quem toca um negócio, o que importa não é o discurso de palanque, e sim como o mercado vai reagir a partir de segunda-feira: um plano fiscal visto como mais consistente tende a aliviar a pressão sobre juros futuros e câmbio, enquanto sinais de gasto maior sem compensação jogam contra o real. Até a apuração de 25/10, vale evitar travar contratos, importação ou crédito em condições que dependam de estabilidade cambial — a reação da bolsa e do dólar nos próximos pregões vai dar uma leitura mais confiável do rumo da economia do que qualquer proposta de campanha.",
+    "url": "https://www.tribunadosertao.com.br/geral/2026/10/16/998588-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado",
+    "posicao": 1,
+    "batch_date": "2026-10-18"
+  },
+  {
+    "tag": "Câmbio",
+    "titulo": "Dólar fecha semana em alta de 1,77%, mas recua a R$5,07 na sexta",
+    "fonte": "BPMoney",
+    "data": "16 Out",
+    "resumo": "Moeda interrompeu três altas seguidas na sexta, mas o acumulado semanal mostra que a cautela eleitoral ainda pesa sobre o câmbio.",
+    "conteudo": "O dólar fechou a sexta-feira (16/10) em queda de 0,26%, a R$5,07, interrompendo três pregões consecutivos de alta — mas, na semana, a moeda ainda acumulou ganho de 1,77%, segundo o BPMoney. O movimento reflete o empate técnico entre Lula e Flávio Bolsonaro a poucos dias do segundo turno: cada nova pesquisa eleitoral tem provocado oscilações na cotação, com analistas apontando que o real deve continuar sensível aos levantamentos até 25/10.\n\nNa prática, quem depende de importação, viagem internacional ou insumo cotado em dólar está operando numa faixa de preço que pode mudar de uma semana para outra só por causa de pesquisa eleitoral. Para negócios que fecham compra no exterior ou têm contrato em moeda estrangeira, vale travar parte da cotação (hedge) em lotes menores e com mais frequência, em vez de esperar o resultado da eleição — a tendência histórica em reta final de disputa apertada é de mais volatilidade, não menos.",
+    "url": "https://bpmoney.com.br/mercado/cambio/dolar-cai-507-interrompe-tres-altas-cautela-eleitoral/",
+    "posicao": 2,
+    "batch_date": "2026-10-18"
+  },
+  {
+    "tag": "Economia",
+    "titulo": "FMI reduz projeção de crescimento do PIB do Brasil para 2,2%",
+    "fonte": "Mercado&Consumo",
+    "data": "13 Out",
+    "resumo": "Fundo revisou a estimativa de 2,4% para 2,2% neste ano, e Fazenda e Banco Central também baixaram suas projeções em semanas recentes.",
+    "conteudo": "O Fundo Monetário Internacional revisou para baixo, na terça-feira (13/10), a projeção de crescimento da economia brasileira em 2026, de 2,4% (estimativa de julho) para 2,2%; para 2027, a previsão caiu de 2,2% para 1,9%. A revisão acompanha ajustes semelhantes feitos nas últimas semanas: o Ministério da Fazenda reduziu sua estimativa de 2,3% para 2,0% no Boletim Macrofiscal de setembro, e o Banco Central cortou a projeção de crescimento de 2% para 1,8%, mantendo a inflação esperada para o fim do ano em 5,2%, acima da meta oficial.\n\nQuando FMI, Fazenda e Banco Central reduzem a projeção de crescimento praticamente ao mesmo tempo, é sinal de que consumo e crédito devem desacelerar um pouco mais do que o esperado até o fim do ano. Para quem está planejando expansão, contratação ou reforço de estoque para o próximo ano, vale revisar a meta de vendas com uma margem de segurança maior, em vez de projetar a mesma demanda observada no primeiro semestre de 2026.",
+    "url": "https://mercadoeconsumo.com.br/13/10/2026/economia/fmi-preve-crescimento-de-22-do-pib-do-brasil-em-2026/",
+    "posicao": 3,
+    "batch_date": "2026-10-18"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Loopia capta R$6,5 milhões e abre sedes em SC e SP",
+    "fonte": "Inforchannel",
+    "data": "16 Out",
+    "resumo": "Startup catarinense de chat-commerce com IA expande a operação após rodada seed liderada pela Parceiro Ventures.",
+    "conteudo": "A Loopia, startup de Brusque (SC) que desenvolve agentes de inteligência artificial para atendimento e vendas via WhatsApp e marketplaces, inaugurou nesta semana novas sedes em Santa Catarina e em São Paulo, segundo o Inforchannel (16/10). O movimento vem depois da rodada seed de R$6,5 milhões liderada pela Parceiro Ventures, fechada em junho, e marca o início de uma fase de expansão da equipe e de aproximação com clientes no maior mercado consumidor do país.\n\nO caso ilustra um caminho comum entre pequenos e médios negócios que vendem por WhatsApp: automatizar o atendimento com inteligência artificial antes de contratar mais gente, e só abrir escritório fora da base original quando caixa e carteira de clientes já justificam o custo. Para quem recebe pedido por WhatsApp hoje, vale avaliar se um agente automatizado consegue tirar dúvida simples e fechar venda fora do horário comercial, liberando a equipe para os casos mais complexos.",
+    "url": "https://inforchannel.com.br/2026/10/16/loopia-amplia-operacao-e-inaugura-sedes-em-santa-catarina-e-sao-paulo/",
+    "posicao": 4,
+    "batch_date": "2026-10-18"
+  },
+  {
     "tag": "Tributário",
     "titulo": "Receita abre transação com desconto de até 70% em dívidas; prazo até 30/10",
     "fonte": "Apet",
@@ -130,49 +174,5 @@
     "url": "https://startups.com.br/negocios/rodada-de-investimento/imersa-capta-r-250-mil-e-busca-mais-r-500-mil-para-copiloto-de-vendas/",
     "posicao": 4,
     "batch_date": "2026-10-15"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Senado vota hoje 1º turno da PEC que acaba com a escala 6x1",
-    "fonte": "CNN Brasil",
-    "data": "14 Out",
-    "resumo": "Com o PL de Flávio Bolsonaro declarando apoio após pressão da campanha de Lula, o Senado encerra hoje as sessões de debate e deve votar em primeiro turno a proposta que troca a 6x1 por jornada de 40 horas.",
-    "conteudo": "Nesta quarta-feira (14/10), o Senado conclui as cinco sessões de discussão da PEC 221/2019 e deve votar o texto em primeiro turno ainda hoje. A proposta, relatada por Omar Aziz, substitui a escala 6x1 por uma rotina de cinco dias de trabalho e dois de descanso, sem redução de salário, cortando o teto semanal de 44 para 40 horas. O presidente do Senado, Davi Alcolumbre, confirmou ter reunido assinaturas suficientes para um calendário especial que pode quebrar o interstício regimental entre os dois turnos — o que abriria caminho para concluir a votação final ainda em outubro, antes do 2º turno das eleições. Para ser aprovada, a PEC precisa de 49 dos 81 votos; o PL, de Flávio Bolsonaro, passou a apoiar o fim da escala nos últimos dias, depois de meses de resistência, sob pressão da campanha de Lula.\n\nPara comércio, bar, restaurante, saúde, segurança e qualquer negócio que opera em turnos revezados, a votação de hoje é o sinal mais concreto até agora de que a mudança vai acontecer — e rápido, se o calendário especial for confirmado, sem o colchão de tempo que normalmente separa os dois turnos. Vale usar os próximos dias para simular o custo de redistribuir escalas e comparar hora extra com contratação adicional, em vez de esperar a promulgação da emenda para só então reagir à nova jornada.",
-    "url": "https://www.cnnbrasil.com.br/politica/6x1-senado-conclui-hoje-sessoes-de-debate-e-deve-votar-pec-em-1o-turno/",
-    "posicao": 1,
-    "batch_date": "2026-10-14"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa cai 1% e dólar volta a passar de R$5 após recordes da semana",
-    "fonte": "Exame",
-    "data": "13 Out",
-    "resumo": "Realização de lucros interrompe a sequência de recordes do Ibovespa na terça, e o humor cauteloso segue nesta quarta pelas bolsas da Ásia, com inflação da China e CPI dos EUA no radar.",
-    "conteudo": "Na terça-feira (13/10), primeiro pregão após o feriado de Nossa Senhora Aparecida, o Ibovespa fechou em queda de 1,04%, a 206.887 pontos, interrompendo a sequência de recordes que levou o índice a 209.066,90 pontos na sexta-feira (9/10) — alta semanal de quase 11%. O dólar comercial subiu 0,74%, para R$5,023, voltando a ficar acima dos R$5 pela primeira vez desde a véspera do feriado, em meio à realização de lucros e à repercussão de novas pesquisas eleitorais para o 2º turno de 25/10. Nesta quarta (14/10), o humor segue cauteloso: as bolsas da Ásia-Pacífico fecharam majoritariamente em baixa, com investidores de olho nos dados de inflação e comércio exterior da China e na divulgação do índice de preços ao consumidor (CPI) dos Estados Unidos.\n\nQuem via nas duas semanas de recorde a janela ideal para resgatar aplicação ou travar proteção cambial (hedge) viu o cenário virar de uma sessão para outra — prova de que o rali eleitoral pode reverter com a mesma velocidade com que subiu. Para negócios que dependem de insumo importado ou têm parte da dívida em dólar, a volta da moeda para cima de R$5 é motivo para comprar em lotes menores e mais frequentes, em vez de apostar que o patamar mais barato do início do mês volte antes do resultado da eleição.",
-    "url": "https://exame.com/invest/mercados/ibovespa-fecha-em-baixa-de-1-e-dolar-ultrapassa-r-5-eleicao-fez-preco/",
-    "posicao": 2,
-    "batch_date": "2026-10-14"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "PassHub capta R$7,5 milhões para unir agências de viagem a fornecedores",
-    "fonte": "Startups",
-    "data": "13 Out",
-    "resumo": "Plataforma B2B nascida dentro da Passabot fecha pré-seed liderado por fundo de venture capital americano após nove meses de operação, já com mais de 2 mil agências cadastradas.",
-    "conteudo": "A PassHub, plataforma que conecta agências de viagem a consolidadoras e fornecedores para buscar, comparar tarifas e emitir bilhetes, captou R$7,5 milhões em rodada pré-seed liderada pela Parceiro Ventures, gestora de venture capital americana focada em startups B2B. É a segunda captação da empresa em 2026, depois de um aporte inicial de R$1,2 milhão no começo do ano, e vem após nove meses de operação comercial em que a plataforma já passou de 2 mil agências cadastradas e R$30 milhões em volume transacionado. A PassHub nasceu como vertical B2B da Passabot, startup que opera um agente de viagens com inteligência artificial dentro do WhatsApp.\n\nPara o dono de agência de viagem pequena ou média, o aporte sinaliza que ferramentas de comparação e emissão como essa devem ganhar mais fornecedores e recursos nos próximos meses — vale testar a plataforma antes da alta temporada de viagens de fim de ano, quando a diferença de tarifa entre consolidadoras pesa mais no resultado final. O caso também ilustra um caminho comum entre startups B2B brasileiras: nascer como vertical dentro de um produto maior voltado ao consumidor final antes de levantar capital próprio, o que reduz o risco percebido pelo investidor na primeira rodada.",
-    "url": "https://startups.com.br/negocios/passabot-cria-vertical-b2c-e-capta-r-75m-para-atender-a-agencias-de-viagem/",
-    "posicao": 3,
-    "batch_date": "2026-10-14"
-  },
-  {
-    "tag": "Comércio",
-    "titulo": "Balança comercial tem 2º melhor setembro da história, com superávit de US$7,74 bi",
-    "fonte": "Mercado&Consumo",
-    "data": "06 Out",
-    "resumo": "Exportações puxadas por petróleo, minério e farelo de soja elevam o saldo comercial de setembro a mais do dobro do mesmo mês de 2025, mas o MDIC já reduziu a projeção para o ano.",
-    "conteudo": "A balança comercial brasileira fechou setembro de 2026 com superávit de US$7,74 bilhões, segundo dados da Secex/MDIC divulgados em 6 de outubro — o segundo melhor resultado para o mês na série histórica, atrás apenas de 2023, e mais que o dobro do saldo de setembro de 2025 (US$3,14 bilhões). As exportações somaram US$34,42 bilhões, alta de 12,9% no ano, puxadas pela indústria extrativa (+39,8%, com o petróleo bruto subindo 77,3% nas vendas); as importações caíram 2,4%, para US$26,68 bilhões. No acumulado do ano, o saldo chega a US$62,4 bilhões. Mesmo com o resultado forte, o MDIC revisou para baixo a projeção de superávit em 2026, de US$90 bilhões para US$84,4 bilhões, citando a queda nas estimativas de preço do petróleo.\n\nPara quem exporta, o salto nas vendas de petróleo e minério mostra que o preço das commodities ainda sustenta boa parte do resultado do comércio exterior brasileiro — um sinal de atenção, já que a mesma queda de preço que levou o MDIC a cortar a projeção anual pode pressionar margem em 2027. Já a queda nas importações é uma abertura para quem compra insumo ou equipamento importado negociar: com menos concorrência por dólar do lado comprador, o custo de internalizar mercadoria tende a ficar mais previsível nos próximos meses.",
-    "url": "https://mercadoeconsumo.com.br/07/10/2026/economia/balanca-comercial-tem-superavit-de-us-774-bilhoes-em-setembro/",
-    "posicao": 4,
-    "batch_date": "2026-10-14"
   }
 ]
