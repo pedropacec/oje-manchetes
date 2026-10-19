@@ -1,6 +1,50 @@
 [
   {
     "tag": "Política",
+    "titulo": "Debate Lula x Flávio na Band termina sem vencedor claro, a 6 dias da eleição",
+    "fonte": "BBC News Brasil",
+    "data": "19 Out",
+    "resumo": "Primeiro debate do 2º turno na Band passou sem favorito evidente, e o mercado volta a tratar a disputa como indefinida a seis dias da votação.",
+    "conteudo": "O primeiro debate do segundo turno entre Lula e o senador Flávio Bolsonaro, promovido pela Band na noite de domingo (18/10), terminou sem um vencedor evidente, segundo análise da BBC News Brasil publicada nesta segunda (19/10): colunistas de diferentes veículos divergiram sobre quem se saiu melhor, com diferença mínima de notas entre os dois. O confronto, que tratou de segurança pública, economia, saúde e política trabalhista, superou a audiência do Fantástico, da Globo, no mesmo horário, segundo dados prévios do Ibope. A seis dias da votação de 25/10, pesquisas eleitorais continuam mostrando empate técnico entre os candidatos.\n\nSem um resultado capaz de inclinar claramente o mercado para um lado, dólar e juros futuros devem continuar reagindo mais às novas pesquisas eleitorais da semana do que ao conteúdo do debate em si. Para quem toca um negócio, a recomendação prática não muda: evitar travar contratos de importação, crédito ou preços atrelados ao câmbio por prazos longos antes da apuração de 25/10, já que qualquer sinalização de vitória de um lado ou outro nos próximos dias ainda pode mexer com a cotação do dólar e o custo do crédito.",
+    "url": "https://www.opovo.com.br/agencia/bbc/2026/10/19/debate-da-band-quem-ganhou-e-quem-perdeu-no-primeiro-embate-entre-lula-e-flavio-bolsonaro.html",
+    "posicao": 1,
+    "batch_date": "2026-10-19"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Agenda de hoje tem IGP-10, Focus e 3 pesquisas eleitorais novas",
+    "fonte": "InfoMoney",
+    "data": "19 Out",
+    "resumo": "Inflação, Boletim Focus, balança comercial e pesquisas da reta final eleitoral movimentam o pregão desta segunda, a seis dias do 2º turno.",
+    "conteudo": "A segunda-feira (19/10) chegou com agenda cheia para quem acompanha o mercado: a FGV divulga às 8h o IGP-10 de outubro, com projeção de alta de 1,44% no mês; o Banco Central publica às 8h25 o Relatório Focus semanal, com as novas expectativas do mercado para juros, inflação e câmbio; e a Secex traz às 15h os números da balança comercial. No campo político, os institutos AtlasIntel, Nexus e PoderData divulgam ainda hoje novas pesquisas sobre o segundo turno, marcado para 25/10, segundo a InfoMoney.\n\nPara quem decide preço, compra de insumos ou renovação de crédito nesta semana, o pacote de hoje importa mais do que parece: um IGP-10 acima do esperado tende a pressionar contratos reajustados por esse índice, como aluguel comercial, enquanto o Focus pode indicar se o mercado já embute algum corte de juros no horizonte. Com três pesquisas eleitorais saindo no mesmo dia, também é razoável esperar outra rodada de volatilidade no dólar à tarde — o que reforça a cautela para quem pensa em travar condições de câmbio ou crédito nesta semana.",
+    "url": "https://www.infomoney.com.br/mercados/igp-10-focus-pesquisas-eleitorais-agenda-19102026/",
+    "posicao": 2,
+    "batch_date": "2026-10-19"
+  },
+  {
+    "tag": "Indústria",
+    "titulo": "Confiança da indústria sobe em outubro, mas segue pessimista há 22 meses",
+    "fonte": "Monitor Mercantil (CNI)",
+    "data": "14 Out",
+    "resumo": "Índice da CNI melhorou com expectativas mais otimistas, mas a avaliação das condições atuais caiu ao menor nível desde julho de 2020.",
+    "conteudo": "O Índice de Confiança do Empresário Industrial (Icei), divulgado pela CNI em 14/10 com base em pesquisa feita entre 1º e 7 de outubro com 1.103 empresas, subiu 1,3 ponto em outubro, para 46,2 pontos — ainda abaixo da linha de 50 pontos que separa confiança de pessimismo, marca que o setor não atinge há 22 meses consecutivos. A alta veio do Índice de Expectativas, que avançou 2,1 pontos, para 49,3, enquanto o Índice de Condições Atuais caiu 0,2 ponto, para 40 pontos, o pior nível desde julho de 2020. Para a CNI, o resultado reflete demanda mais fraca, custos em alta e incerteza externa.\n\nQuando a avaliação do presente piora mesmo com uma expectativa um pouco melhor para os próximos seis meses, o recado para fornecedores da indústria é não antecipar uma retomada de pedidos no curto prazo: vale manter estoque e capacidade operacional ajustados à demanda atual, e só rever esse planejamento se o índice de expectativas continuar subindo nos próximos meses. Pequenos negócios que vendem para fábricas — de insumos a serviços terceirizados — também devem negociar prazos de pagamento com mais cautela enquanto o índice de condições atuais não sair do patamar mais baixo desde a pandemia.",
+    "url": "https://monitormercantil.com.br/cni-confianca-da-industria-sobe-em-outubro-mas-setor-segue-pessimista/",
+    "posicao": 3,
+    "batch_date": "2026-10-19"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Asaas capta R$300 milhões para antecipar recebíveis de pequenos negócios",
+    "fonte": "Finsiders Brasil",
+    "data": "05 Out",
+    "resumo": "Fintech de gestão financeira lançou o terceiro FIDC da casa, com nota AAA, para financiar a antecipação de recebíveis de cartão dos clientes.",
+    "conteudo": "A fintech Asaas, que oferece conta digital e cobrança para pequenos e médios negócios, levantou R$300 milhões em seu terceiro Fundo de Investimento em Direitos Creditórios (FIDC), segundo o Finsiders Brasil (05/10): R$280 milhões em cotas sêniores, vendidas a investidores e com nota AAA da S&P Global Ratings, e R$20 milhões em cotas subordinadas mantidas pela própria empresa. O dinheiro financia a antecipação de recebíveis de cartão de crédito dos clientes da plataforma, administrada pela gestora Kanastra; somente em 2026, a Asaas já antecipou R$1,4 bilhão a clientes, e o total histórico da operação chega a R$3,9 bilhões.\n\nPara o pequeno empreendedor que vende parcelado no cartão e sente o caixa apertado entre a venda e o recebimento, rodadas como essa significam mais oferta de crédito de antecipação fora dos bancos tradicionais — mas o custo ainda varia bastante de fintech para fintech. Antes de antecipar recebíveis como rotina, vale comparar a taxa cobrada pela plataforma de cobrança que você já usa com a taxa do banco e com uma simples linha de capital de giro, porque a conveniência de antecipar na mesma tela em que a venda é processada tem preço, e nem sempre é o mais baixo do mercado.",
+    "url": "https://finsidersbrasil.com.br/?p=374774",
+    "posicao": 4,
+    "batch_date": "2026-10-19"
+  },
+  {
+    "tag": "Política",
     "titulo": "Lula e Flávio divergem sobre ajuste fiscal no debate de hoje no Band",
     "fonte": "Agência Brasil",
     "data": "16 Out",
@@ -130,49 +174,5 @@
     "url": "https://www.dealflowbrasil.com.br/noticia/matria-atrai-astella-com-copiloto-dos-hospitais",
     "posicao": 4,
     "batch_date": "2026-10-16"
-  },
-  {
-    "tag": "Trabalhista",
-    "titulo": "Senado aprova fim da escala 6x1 em dois turnos, por 75 votos a 1",
-    "fonte": "Exame",
-    "data": "14 Out",
-    "resumo": "Em sessão histórica na noite de terça, o Senado aprovou de uma vez os dois turnos da PEC que extingue a escala 6x1 e reduz a jornada máxima para 40 horas semanais.",
-    "conteudo": "Na noite de terça-feira (14/10), o Plenário do Senado aprovou a PEC 221/2019 em primeiro e em segundo turno na mesma sessão, por 75 votos a 1 — único voto contrário do senador Hamilton Mourão (Republicanos-RS) —, com 78 dos 81 senadores presentes. O texto extingue a escala de trabalho 6x1 e garante ao menos duas folgas semanais, regra que passa a valer 60 dias após a promulgação. A jornada máxima constitucional também cai de 44 para 40 horas, em duas etapas: redução para 42 horas em até dois meses após a promulgação e, depois, para 40 horas em até 12 meses. A votação teve apoio simultâneo da base do governo Lula e da bancada do PL, incluindo o senador Flávio Bolsonaro, candidato no 2º turno presidencial.\n\nPara qualquer negócio que organiza equipes em escala — comércio, bares, restaurantes, clínicas, segurança, indústria —, a contagem regressiva já começou: a partir da promulgação, o prazo corre para redesenhar grades de horário, calcular o custo de contratações extras e negociar acordos coletivos antes de a regra entrar em vigor. Entidades como a Fiesp já alertam para aumento do custo da mão de obra e risco de informalidade, o que reforça a recomendação de simular agora os cenários de escala e folha de pagamento, em vez de esperar a promulgação para agir sob pressão de prazo.",
-    "url": "https://exame.com/brasil/veja-como-votou-cada-senador-sobre-a-pec-do-fim-da-escala-6x1/",
-    "posicao": 1,
-    "batch_date": "2026-10-15"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Prazo para optar pelo Simples Nacional em 2027 termina hoje",
-    "fonte": "Poder360",
-    "data": "15 Out",
-    "resumo": "Resolução do Comitê Gestor do Simples Nacional prorrogou o prazo de adesão para hoje, e quem perder a data só poderá tentar entrar no regime de novo em 2028.",
-    "conteudo": "Nesta quinta-feira (15/10) encerra-se o prazo para micro e pequenas empresas pedirem a opção pelo Simples Nacional válida a partir de 1º de janeiro de 2027. O prazo, que originalmente terminava em 30 de setembro, foi prorrogado para hoje pela Resolução CGSN nº 194, publicada em 28 de setembro. O pedido deve ser feito pelo Portal do Simples Nacional; quem já é optante não precisa repetir o procedimento. Empresas com pendências que impeçam o enquadramento têm até 30 de outubro para regularizar a situação e tentar reverter um eventual indeferimento.\n\nQuem está decidindo migrar de regime tributário ou formalizar um negócio não pode deixar para depois do expediente de hoje: perder o prazo significa ficar fora do Simples até 2028, pagando impostos pelo regime normal, mais caro e burocrático para quem fatura pouco. Vale conferir agora mesmo, no Portal do Simples Nacional, se o CNPJ está com a opção confirmada ou pendente, e resolver qualquer dívida ou inconsistência — mesmo que o indeferimento só seja notificado depois, a regularização até 30/10 ainda garante a entrada no regime simplificado em 2027.",
-    "url": "https://www.poder360.com.br/poder-economia/governo-amplia-prazo-de-adesao-ao-simples-nacional-2027/",
-    "posicao": 2,
-    "batch_date": "2026-10-15"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa cai 0,18% e dólar sobe a R$5,03 com inflação dos EUA no radar",
-    "fonte": "InfoMoney",
-    "data": "14 Out",
-    "resumo": "Dado de inflação ao consumidor nos Estados Unidos pesou sobre as bolsas globais e tirou o fôlego do Ibovespa, que fechou em queda após os recordes da semana passada.",
-    "conteudo": "Na quarta-feira (14/10), o Ibovespa fechou em queda de 0,18%, aos 206.506 pontos, depois de o índice de preços ao consumidor dos Estados Unidos vir acima do esperado em setembro, pressionando as bolsas de Nova York e, por contágio, o mercado brasileiro. O dólar comercial subiu 0,17% e fechou a R$5,0283, emendando a segunda alta seguida após os recordes da semana passada, quando o Ibovespa chegou a tocar 209 mil pontos. O volume financeiro negociado na sessão ficou entre R$28 bilhões e R$31 bilhões, conforme diferentes fontes de mercado.\n\nA sessão mostra que o rali eleitoral do Ibovespa não blinda o mercado brasileiro de notícias externas: um único dado de inflação nos EUA foi suficiente para reverter o humor do dia. Para quem importa insumos, paga dívida em dólar ou está fechando contrato com preço atrelado ao câmbio, o sinal é travar cotações em lotes menores e com mais frequência — e não contar com o dólar voltando ao patamar mais baixo do início do mês antes do 2º turno de 25/10.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-14102026/",
-    "posicao": 3,
-    "batch_date": "2026-10-15"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Imersa capta R$250 mil com aporte-ponte de anjo que investiu na Tractian",
-    "fonte": "Startups",
-    "data": "14 Out",
-    "resumo": "Startup paulista de copiloto de vendas B2B fecha a primeira rodada com estrutura de aporte adicional condicionada a metas de performance combinadas com o investidor.",
-    "conteudo": "A Imersa, startup que desenvolve um copiloto de inteligência artificial para times de vendas B2B, captou R$250 mil em sua primeira rodada, com valuation pré-money de cerca de R$4 milhões. Todo o aporte veio do investidor-anjo Flávio Szenkier, que também é sócio em startups como a Tractian. O acordo prevê um aporte adicional de R$100 mil condicionado ao cumprimento de indicadores de desempenho combinados com o investidor, e a empresa agora busca captar ao menos mais R$500 mil, com negociações em andamento junto a outros anjos e fundos, com meta de fechar a rodada até o fim do ano.\n\nO desenho da rodada da Imersa é um modelo cada vez mais comum entre fundadores em estágio inicial no Brasil: em vez de negociar um cheque único com valuation fixo, a empresa garante capital imediato e deixa uma fatia do aporte amarrada a metas verificáveis, o que reduz a diluição se as metas forem batidas. Para quem está estruturando a primeira rodada do próprio negócio, vale negociar esse tipo de gatilho de performance com o investidor-anjo — ele protege o fundador de uma diluição maior logo na largada e dá ao investidor um motivo concreto para seguir apostando no negócio.",
-    "url": "https://startups.com.br/negocios/rodada-de-investimento/imersa-capta-r-250-mil-e-busca-mais-r-500-mil-para-copiloto-de-vendas/",
-    "posicao": 4,
-    "batch_date": "2026-10-15"
   }
 ]
