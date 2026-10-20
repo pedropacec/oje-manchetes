@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Focus trava Selic em 13,25% e dólar cai a R$5,04 com eleição no radar",
+    "fonte": "InfoMoney",
+    "data": "19 Out",
+    "resumo": "Boletim Focus manteve a Selic projetada e cortou o dólar, enquanto Ibovespa e real reagiram à disputa apertada do 2º turno.",
+    "conteudo": "O Boletim Focus divulgado pelo Banco Central nesta segunda-feira (19/10) manteve a projeção da Selic para o fim de 2026 em 13,25% ao ano e do IPCA em 5,22%, ainda acima do teto da meta de inflação, mas reduziu a estimativa do dólar ao fim do ano de R$5,15 para R$5,13 e cortou a previsão de crescimento do PIB de 1,85% para 1,83%. No mercado à vista, o dólar fechou a mesma segunda em queda de cerca de 0,5%, a R$5,04, enquanto o Ibovespa recuou 0,17%, aos 205.079 pontos, pressionado pela Petrobras e por uma nova pesquisa BTG Pactual/Nexus que mostrou Lula e Flávio Bolsonaro em empate técnico no segundo turno de 25/10.\n\nCom a Selic ainda projetada acima de 13% até o fim do ano e a inflação resistente, o custo do crédito para capital de giro ou expansão deve continuar alto pelo menos até a próxima decisão do Copom, em novembro — e qualquer sinal mais forte de vitória de um lado ou outro na eleição ainda pode mexer bastante com o dólar e os juros futuros nos próximos dias. Para quem compra insumo importado ou negocia prazo de pagamento em dólar, vale manter a cautela e evitar travar condições de câmbio ou crédito por prazos longos antes da apuração de 25/10.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+    "posicao": 1,
+    "batch_date": "2026-10-20"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Fazenda atrasa alíquotas do Imposto Seletivo e arrisca R$42 bi em 2027",
+    "fonte": "Congresso em Foco",
+    "data": "13 Out",
+    "resumo": "Proposta com as alíquotas do novo tributo só deve ir ao Congresso depois do 2º turno, o que ameaça a cobrança já em janeiro de 2027.",
+    "conteudo": "O Ministério da Fazenda decidiu enviar ao Congresso Nacional, somente depois do segundo turno das eleições de 25/10, a proposta que vai fixar as alíquotas do Imposto Seletivo (IS) para 2027, segundo reportagem do Congresso em Foco de 13/10. O IS, criado pela reforma tributária para incidir sobre produtos como bebidas alcoólicas, refrigerantes e veículos poluentes, já tem previsão de entrar em vigor em 1º de janeiro de 2027, mas a Fazenda ainda não definiu os percentuais — e o atraso no envio ao Legislativo pode comprometer cerca de R$42 bilhões da arrecadação estimada para o próximo ano, já que o Congresso só teria o fim do ano para analisar e aprovar o texto.\n\nPara negócios que fabricam, distribuem ou vendem produtos que vão entrar na lista do Imposto Seletivo — de bebidas a veículos —, o planejamento de preços para 2027 fica em compasso de espera: sem saber a alíquota final, é difícil calcular margem e repasse ao consumidor com segurança. A recomendação prática é montar o orçamento do próximo ano com uma faixa de cenários tributários, em vez de um número fixo, e acompanhar de perto a tramitação no Congresso logo após a eleição, quando a proposta deve finalmente ser enviada.",
+    "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+    "posicao": 2,
+    "batch_date": "2026-10-20"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Faltam 10 dias para empresas de cripto pedirem autorização ao BC",
+    "fonte": "Cointelegraph Brasil",
+    "data": "18 Out",
+    "resumo": "Prestadoras de serviços de ativos virtuais que já operavam no Brasil têm até 30/10 para protocolar o pedido de autorização no Banco Central.",
+    "conteudo": "Pela Resolução BCB 520, em vigor desde fevereiro, as empresas que já prestavam serviços de intermediação ou custódia de criptoativos no Brasil antes da norma têm até 30 de outubro de 2026 — pouco mais de dez dias a partir de hoje — para protocolar no Banco Central o pedido de autorização para funcionar como Prestadora de Serviços de Ativos Virtuais (PSAV), segundo reportagem da Cointelegraph Brasil. Quem não pedir autorização dentro do prazo precisa encerrar as atividades em até 30 dias após o fim do período de transição, e bancos e instituições de pagamento deixam de poder operar com prestadoras sem pedido em andamento; até meados de setembro, o Banco Central havia recebido só cinco pedidos, e a corretora Digitra já anunciou o fechamento do varejo de criptomoedas por não pedir a licença.\n\nPara quem usa ou pensa em usar exchanges, carteiras ou plataformas de custódia de criptoativos no negócio — seja para receber pagamento, seja para guardar parte do caixa —, o prazo é um alerta prático: vale checar se o fornecedor já protocolou o pedido de autorização no Banco Central, porque prestadoras sem isso podem perder o acesso a bancos e meios de pagamento tradicionais já nas próximas semanas. Negociar com uma empresa que ainda não regularizou a situação é assumir o risco de ficar sem acesso ao serviço no meio de uma operação.",
+    "url": "https://cointelegraph.com.br/news/brazilian-crypto-companies-have-less-than-100-days",
+    "posicao": 3,
+    "batch_date": "2026-10-20"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Abertura de pequenos negócios cresce 14,3% e passa de 3,9 milhões",
+    "fonte": "Agência Sebrae",
+    "data": "17 Set",
+    "resumo": "Entre janeiro e agosto, o Brasil abriu quase 3,93 milhões de pequenos negócios, com o MEI respondendo por mais de 77% do total.",
+    "conteudo": "O Brasil registrou 3.932.262 novos pequenos negócios entre janeiro e agosto de 2026 — alta de 14,3% em relação ao mesmo período de 2025 —, segundo levantamento da Agência Sebrae. O microempreendedor individual (MEI) respondeu por 77,3% dessas aberturas, com microempresas e empresas de pequeno porte dividindo o restante. O Sudeste concentrou 50,9% do total, com São Paulo isoladamente respondendo por 29,5% das novas empresas (1.161.196), seguido por Minas Gerais e Rio de Janeiro; o Amapá teve o maior crescimento proporcional do país, de 34% sobre o mesmo período do ano anterior.\n\nUm ritmo de abertura 14% maior que no ano passado significa mais concorrente novo em praticamente qualquer nicho, mas também um mercado maior de fornecedores, contadores e plataformas de gestão disputando esse público — quem já vende para pequenos negócios pode usar esse crescimento para calibrar a meta comercial de 2027. Para quem está formalizando um negócio agora, vale lembrar que essa enxurrada de MEIs também aumenta a pressão para que o próximo governo revise o teto de faturamento da categoria, parado em R$81 mil ao ano desde 2018 — um tema para acompanhar de perto depois da eleição.",
+    "url": "https://agenciasebrae.com.br/?p=42920",
+    "posicao": 4,
+    "batch_date": "2026-10-20"
+  },
+  {
     "tag": "Política",
     "titulo": "Debate Lula x Flávio na Band termina sem vencedor claro, a 6 dias da eleição",
     "fonte": "BBC News Brasil",
@@ -130,49 +174,5 @@
     "url": "https://www.dgabc.com.br/Noticia/4316844/feira-do-empreendedor-2026-abre-inscricoes-e-estandes-em-sao-paulo",
     "posicao": 4,
     "batch_date": "2026-10-17"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Governo lança perdão de R$12,6 bi em dívidas de MEI e cria Pix MEI",
-    "fonte": "CNN Brasil",
-    "data": "13 Out",
-    "resumo": "Pacote Prospera MEI inclui repasse de até R$5 mil sem necessidade de devolução para microempreendedores individuais.",
-    "conteudo": "O governo federal anunciou na terça-feira (13/10) o pacote Prospera MEI, com cinco medidas voltadas aos mais de 17 milhões de microempreendedores individuais do país. A principal delas é um projeto de lei complementar que perdoa cerca de R$12,6 bilhões em dívidas de 3,6 milhões de MEIs com a União. O pacote também cria o Pix MEI, repasse de até R$5 mil que não precisa ser devolvido se usado conforme as regras do programa, além de um novo Desenrola para renegociar dívidas bancárias e de uma ampliação do teto de faturamento da categoria.\n\nNa prática, quem toca um MEI com pendências na Receita Federal pode regularizar o CNPJ sem arrastar multas acumuladas, e o aporte do Pix MEI funciona como capital de giro gratuito num momento de juros ainda altos. Como o perdão de dívidas depende de aprovação do Congresso e parte das medidas só entra em vigor a partir de 2027, o empreendedor individual não deve contar com o dinheiro no caixa agora — mas já vale atualizar a situação fiscal do MEI para não perder o benefício quando ele for regulamentado.",
-    "url": "https://www.cnnbrasil.com.br/politica/governo-propoe-perdoar-r-12-bi-de-dividas-e-lanca-desenrola-para-meis/",
-    "posicao": 1,
-    "batch_date": "2026-10-16"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa cai 1,05% e dólar fecha a R$5,09, maior valor desde 2/10",
-    "fonte": "InfoMoney",
-    "data": "15 Out",
-    "resumo": "Pesquisa eleitoral mais apertada e aprovação do fim da escala 6x1 pressionaram os ativos brasileiros na quinta-feira.",
-    "conteudo": "O Ibovespa recuou 1,05% nesta quinta-feira (15/10), fechando aos 204.324 pontos e acumulando queda de 2,27% na semana. O dólar subiu 1,15% no mesmo pregão e encerrou a R$5,087, o maior valor de fechamento desde 2 de outubro. O movimento refletiu a repercussão da pesquisa Quaest, que mostrou empate técnico entre os candidatos ao segundo turno, somada à aprovação do fim da escala 6x1 pelo Senado e à divulgação de dados de inflação ao produtor nos Estados Unidos.\n\nPara quem compra insumos importados ou tem parte da dívida atrelada ao dólar, cada centavo de alta na moeda já pesa no custo final — vale travar cotação com antecedência em contratos de importação fechados nesta janela de volatilidade. Donos de negócio que dependem de crédito também devem acompanhar o humor do mercado nos próximos dias: picos de instabilidade cambial tendem a encarecer linhas de capital de giro antes mesmo de qualquer sinalização do Banco Central sobre a Selic.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-pesquisas-eleitorais-eua-fim-da-6x1-em-foco-o-que-faz-indice-ter-nova-queda-nesta-5a/",
-    "posicao": 2,
-    "batch_date": "2026-10-16"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Pesquisa Quaest mostra empate técnico e eleva busca por hedge cambial",
-    "fonte": "Bloomberg Línea",
-    "data": "15 Out",
-    "resumo": "Margem entre Flávio Bolsonaro e Lula encolheu para 2 pontos, levando investidores a buscar proteção contra o dólar antes do 2º turno.",
-    "conteudo": "Pesquisa Quaest divulgada nesta semana mostrou Flávio Bolsonaro com 46% das intenções de voto no segundo turno contra 44% de Lula, dentro da margem de erro de dois pontos. A vantagem do candidato, que era de cerca de seis pontos na semana anterior em outro levantamento, encolheu para dois pontos, levando investidores a aumentar a procura por proteção contra alta do dólar e queda da bolsa — os chamados risk reversals de um mês para o dólar superaram 6%, maior nível desde 2020.\n\nO segundo turno das eleições está marcado para 25 de outubro, e o mercado já sinaliza que vai precificar decisões concretas do próximo governo — como a escolha do ministro da Fazenda e o desenho do orçamento de 2027 — mais do que o resultado das urnas em si. Para quem toma crédito ou negocia contratos em moeda estrangeira, o recado é direto: a volatilidade cambial deve continuar pelo menos até o fim do mês, então vale evitar travar compromissos longos em dólar sem alguma proteção.",
-    "url": "https://www.bloomberglinea.com.br/mercados/demanda-por-hedge-para-dolar-e-bolsa-cresce-antes-do-segundo-turno-das-eleicoes/",
-    "posicao": 3,
-    "batch_date": "2026-10-16"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Healthtech mineira Matria capta US$6,5 milhões com a Astella",
-    "fonte": "Dealflow Brasil",
-    "data": "15 Out",
-    "resumo": "Rodada seed vai financiar agentes de IA para gestão hospitalar e acelerar a expansão da startup mineira.",
-    "conteudo": "A Matria, healthtech de Minas Gerais que desenvolve agentes de inteligência artificial para gestão hospitalar e integração de sistemas de dados, levantou cerca de US$6,5 milhões em rodada seed anunciada nesta quinta-feira (15/10). A rodada foi liderada pela gestora Astella e contou com a participação da Endeavor Scale Up Ventures, da Floating Point, da FluentVC e de investidores-anjo do setor de saúde, entre eles o cirurgião Paulo Chapchap.\n\nO caso mostra que healthtechs fora do eixo Rio-São Paulo continuam atraindo capital de fundos relevantes quando resolvem um problema caro para o cliente — no caso, a gestão de dados e processos dentro de hospitais. Para empreendedores mineiros em estágio seed, a lição prática é buscar apoio de aceleradoras com histórico no setor, como fez a Matria com a Endeavor, antes de ir ao mercado de capital de risco: isso reduz o tempo de captação e dá mais credibilidade ao pitch diante de investidores.",
-    "url": "https://www.dealflowbrasil.com.br/noticia/matria-atrai-astella-com-copiloto-dos-hospitais",
-    "posicao": 4,
-    "batch_date": "2026-10-16"
   }
 ]
