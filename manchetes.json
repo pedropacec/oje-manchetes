@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "Opção pelo Simples Híbrido do IBS/CBS fecha em 30/10, já soma 917 mil pedidos",
+    "fonte": "Reforma Tributária",
+    "data": "16 Out",
+    "resumo": "Receita Federal já recebeu 917,3 mil pedidos de empresas do Simples que querem recolher IBS e CBS fora do DAS, e o prazo para entrar nessa opção termina em 30 de outubro.",
+    "conteudo": "Até a última sexta-feira (16/10), a Receita Federal havia recebido 917,3 mil solicitações do chamado Simples Híbrido — opção facultativa que mantém a empresa no Simples Nacional para os demais tributos, mas faz com que ela recolha o IBS e a CBS separadamente, pelo regime regular, fora do DAS. O total equivale a 13,1% das empresas enquadradas no Simples e vem subindo rápido: eram 817,4 mil pedidos em 30/9 e 891,3 mil em 15/10. O prazo para aderir, válido para vigorar no primeiro semestre de 2027, termina em 30 de outubro de 2026 — mesma data-limite para quem teve o ingresso no Simples negado regularizar a pendência; depois de escolhido, o regime só pode ser cancelado, de forma irretratável, entre 3/11 e 20/12/2026.\n\nA decisão pesa principalmente para quem vende para outras empresas, já que o regime regular permite gerar créditos de IBS e CBS para o cliente, algo que o Simples tradicional não oferece — mas o ganho comercial vem com mais burocracia contábil e risco de erro no cálculo. Para o pequeno empresário que ainda não decidiu, vale pedir ao contador uma simulação até o fim desta semana: faltam menos de dez dias para a janela se encerrar, e depois disso a próxima chance de rever a escolha só chega em dezembro.",
+    "url": "https://www.reformatributaria.com/iva/solicitacoes-pelo-simples-hibrido-vao-a-917-mil-131-do-mercado/",
+    "posicao": 1,
+    "batch_date": "2026-10-21"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Projeto que eleva teto do MEI para R$140 mil e perdoa dívidas vai à sanção",
+    "fonte": "Congresso em Foco",
+    "data": "15 Out",
+    "resumo": "Câmara e Senado aprovaram em sequência o novo enquadramento do MEI, com limite de faturamento maior, direito a dois funcionários e remissão de débitos federais.",
+    "conteudo": "A Câmara aprovou o PLP 186/2026 em 14/10, por 461 votos a 4, e o Senado concluiu a votação no dia seguinte, 15/10, por 78 a 0 — o texto agora segue para sanção presidencial. Pelo projeto, o teto de faturamento anual do MEI, hoje em R$81 mil, sobe para R$110 mil em 2027 e R$140 mil em 2028; o microempreendedor também passa a poder contratar até dois empregados, desde que recebam exclusivamente um salário mínimo ou o piso da categoria. Outro ponto é o perdão de débitos federais vencidos até 13/10/2026: a remissão vale desde que o MEI mantenha em dia as contribuições dos seis meses seguintes à entrada em vigor da lei, prevista para 1º de janeiro de 2027 — quem atrasar perde o benefício e volta a dever.\n\nPara quem já é MEI ou pensa em abrir um, o projeto muda o planejamento dos próximos dois anos: dá mais fôlego para crescer sem precisar migrar para microempresa antes da hora e abre a possibilidade de contratar ajuda sem sair do regime simplificado. Quem tem dívida federal atrasada também ganha uma segunda chance — mas só vale correr para regularizar o CNPJ e organizar o fluxo de caixa agora, porque o prazo de seis meses para manter o perdão começa a contar da sanção, não da escolha do empreendedor.",
+    "url": "https://www.congressoemfoco.com.br/noticia/123307/senado-aprova-aumento-do-teto-do-mei-para-r-140-mil-a-partir-de-2028",
+    "posicao": 2,
+    "batch_date": "2026-10-21"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Quaest mostra Flávio à frente de Lula e câmbio trava à espera do 2º turno",
+    "fonte": "Money Times",
+    "data": "14 Out",
+    "resumo": "Primeira Quaest do segundo turno, divulgada em 14/10, dá 46% a Flávio Bolsonaro contra 44% de Lula, avanço sobre a rodada anterior, enquanto dólar e bolsa ainda oscilam pouco de olho na votação de 25/10.",
+    "conteudo": "A pesquisa Quaest/Globo divulgada em 14/10 mostrou Flávio Bolsonaro com 46% das intenções de voto no segundo turno contra 44% de Lula — distância maior que a rodada de 3/10, quando o senador tinha 44% e o presidente, 42%. Em votos válidos, a vantagem aparece como 51% a 49%. Dias depois, com as pesquisas ainda apontando disputa apertada e o debate da Band já realizado em 18/10, o dólar fechou a segunda-feira (19/10) em queda de 0,50%, a R$5,0476, puxado também por um dólar mais fraco no exterior — ou seja, o mercado por ora reage pouco a cada nova rodada eleitoral, mas segue de olho na definição de 25/10.\n\nPara quem toma decisão de preço, crédito ou câmbio no negócio, o cenário pede cautela até a apuração: a disputa ainda pode virar, o debate da Globo em 23/10 e as próximas rodadas de Quaest e Datafolha devem mexer com a volatilidade nos próximos dias. Evitar travar condições de financiamento ou contrato de importação por prazo longo antes do resultado de 25/10 continua sendo a recomendação mais segura.",
+    "url": "https://www.moneytimes.com.br/pesquisa-quaest-14-de-outubro-gaep/",
+    "posicao": 3,
+    "batch_date": "2026-10-21"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Pix por aproximação perde limite fixo de R$500 e muda recebimento na maquininha",
+    "fonte": "Tecnoblog",
+    "data": "1 Out",
+    "resumo": "Desde 1º de outubro, o teto único de R$500 por transação no Pix por aproximação acabou, e cada banco passa a definir o limite de cada cliente.",
+    "conteudo": "A Instrução Normativa BCB nº 746/2026, que altera a norma anterior sobre limites do Pix, retirou o teto fixo de R$500 por transação no Pix por aproximação a partir de 1º de outubro de 2026. Na prática, o valor máximo de cada pagamento por aproximação passa a seguir a configuração que cada instituição financeira define para o cliente, e não mais um número único para todo o sistema; a mudança também vale para pagamentos por QR Code e para operações iniciadas via Open Finance pela jornada sem redirecionamento. O limite noturno para transferências a pessoas físicas, de R$1.000 entre 20h e 6h, continua valendo e não foi alterado pela norma.\n\nPara negócios que recebem por aproximação — de totens e maquininhas a QR Code no balcão —, o fim do teto único significa que o cliente pode concluir compras de ticket mais alto sem precisar trocar para o cartão físico ou senha no meio da venda, o que tende a reduzir desistência de compra por trava de limite. Vale checar com o banco ou a operadora da maquininha se o limite configurado para a conta do negócio já foi atualizado, porque a regra deixou de ser automática e passou a depender da configuração de cada instituição.",
+    "url": "https://tecnoblog.net/noticias/pix-por-aproximacao-nao-tera-mais-limite-de-r-500-por-transacao/",
+    "posicao": 4,
+    "batch_date": "2026-10-21"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Focus trava Selic em 13,25% e dólar cai a R$5,04 com eleição no radar",
     "fonte": "InfoMoney",
@@ -130,49 +174,5 @@
     "url": "https://inforchannel.com.br/2026/10/16/loopia-amplia-operacao-e-inaugura-sedes-em-santa-catarina-e-sao-paulo/",
     "posicao": 4,
     "batch_date": "2026-10-18"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Receita abre transação com desconto de até 70% em dívidas; prazo até 30/10",
-    "fonte": "Apet",
-    "data": "17 Out",
-    "resumo": "Dois editais da Receita Federal permitem renegociar débitos tributários com desconto e parcelamento, mas a adesão fecha no fim do mês.",
-    "conteudo": "A Receita Federal mantém abertos até 30 de outubro os editais de transação tributária nº 9 e nº 10 de 2026, que permitem a pessoas físicas e jurídicas renegociar débitos em contencioso administrativo com descontos de até 65% do valor total — ou até 70% em casos de pessoa física, microempresa, empresa de pequeno porte ou entidade beneficente. O edital nº 9 cobre débitos de até R$50 milhões, enquanto o nº 10 é voltado a dívidas de pequeno valor, até 60 salários mínimos por processo, incluindo MEI, empresário individual, microempresas e empresas de pequeno porte. Em ambos os casos, a adesão só é confirmada com o pagamento da primeira parcela até o último dia útil do mês em que o pedido for feito.\n\nPara quem toca um pequeno negócio e acumulou dívidas discutidas administrativamente com o Fisco, a conta é simples: esperar mais um ciclo de cobrança costuma sair mais caro do que negociar agora, já que o desconto some assim que o prazo se encerra. Como a adesão exige o pagamento da primeira parcela dentro do próprio mês, quem quiser aproveitar as condições precisa reunir caixa e decidir ainda nesta semana — deixar para a última hora pode significar perder a janela por um detalhe operacional, como atraso na análise do processo pelo contador.",
-    "url": "https://apet.org.br/?p=141336",
-    "posicao": 1,
-    "batch_date": "2026-10-17"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa sobe na sexta, mas juros futuros avançam com eleição apertada",
-    "fonte": "Tribuna do Sertão",
-    "data": "16 Out",
-    "resumo": "Bolsa fechou a semana em alta puxada pela Petrobras, enquanto o mercado de juros já precifica um 2º turno mais disputado.",
-    "conteudo": "O Ibovespa fechou a sessão de sexta-feira (16/10) em alta de 0,54%, aos 205.430 pontos, mas ainda acumulou perda de cerca de 1,7% na semana. O movimento do pregão foi puxado pela Petrobras, enquanto bancos e Vale pesaram no sentido contrário. Na ponta dos juros, os contratos futuros fecharam em alta, reagindo à pesquisa CNT/MDA divulgada no mesmo dia, que mostrou o segundo turno ainda mais apertado entre Lula e Flávio Bolsonaro.\n\nO recado para quem empreende é que o custo do dinheiro — tanto em crédito bancário quanto em qualquer operação atrelada a juros futuros — tende a ficar mais caro enquanto durar essa indefinição eleitoral, que só se resolve em 25 de outubro. Negócios que dependem de capital de giro ou de financiamento para expandir no fim do ano podem considerar antecipar contratações de crédito já negociadas, em vez de esperar a eleição passar, já que o prêmio de risco cobrado pelos bancos tende a ser revisado só depois do resultado.",
-    "url": "https://www.tribunadosertao.com.br/geral/2026/10/16/999117-ibovespa-registra-alta-nesta-sexta-feira-mas-acumula-queda-semanal",
-    "posicao": 2,
-    "batch_date": "2026-10-17"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Pesquisa CNT/MDA mostra 2º turno ainda mais apertado: 50,5% a 49,5%",
-    "fonte": "Gazeta do Povo",
-    "data": "16 Out",
-    "resumo": "A margem entre Flávio Bolsonaro e Lula encolheu para menos de 1 ponto percentual a nove dias da votação.",
-    "conteudo": "A pesquisa CNT/MDA divulgada na sexta-feira (16/10) mostrou Flávio Bolsonaro com 50,5% dos votos válidos no segundo turno contra 49,5% de Lula, diferença de 0,9 ponto percentual, dentro da margem de erro de 2,2 pontos. O instituto ouviu eleitores entre os dias 13 e 15 de outubro. Na comparação com a rodada anterior do mesmo instituto, no fim de setembro, a distância entre os dois candidatos encolheu de forma consistente, deixando a disputa tecnicamente empatada a nove dias da votação, marcada para 25 de outubro.\n\nCom o resultado tecnicamente indefinido faltando pouco mais de uma semana, decisões de negócio que dependem de um cenário político mais claro — como fechar um contrato de longo prazo, importar insumos ou tomar crédito atrelado ao câmbio — continuam sujeitas a reviravoltas de última hora. Donos de negócio que já vinham adiando grandes compromissos financeiros por causa da eleição devem manter essa cautela pelo menos até a apuração do dia 25, evitando travar condições que dependam de estabilidade cambial ou de juros antes desse marco.",
-    "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/cnt-mda-presidente-outubro-2026-segundo-turno/",
-    "posicao": 3,
-    "batch_date": "2026-10-17"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Feira do Empreendedor do Sebrae-SP abre segunda com 900 expositores",
-    "fonte": "Diário do Grande ABC",
-    "data": "17 Out",
-    "resumo": "Evento gratuito na São Paulo Expo reúne consultorias, crédito e rodadas de negócios para pequenos empreendedores de todo o país.",
-    "conteudo": "A Feira do Empreendedor 2026, promovida pelo Sebrae-SP, abre as portas na segunda-feira (19/10) e segue até quinta (22/10) na São Paulo Expo, com entrada gratuita e expectativa de reunir mais de 100 mil visitantes e cerca de 900 expositores. A programação inclui palestras, capacitações, consultorias individuais, rodadas de negócios e demonstrações de soluções tecnológicas voltadas a quem já tem empresa aberta ou quer formalizar um negócio, sob o tema \"É mais negócio\".\n\nPara um pequeno empreendedor de Belo Horizonte ou de qualquer outra cidade, a viagem a São Paulo pode compensar menos pelas palestras e mais pelo acesso direto a bancos, fintechs e instituições de crédito que normalmente demoram para atender quem está começando — numa feira desse porte, dá para negociar linha de financiamento, tirar dúvida sobre crédito e sair com contatos que levariam meses para conseguir sozinho. Mesmo quem não puder viajar vale acompanhar os anúncios feitos durante o evento, já que novas linhas de crédito e parcerias costumam ser lançadas justamente nesses dias.",
-    "url": "https://www.dgabc.com.br/Noticia/4316844/feira-do-empreendedor-2026-abre-inscricoes-e-estandes-em-sao-paulo",
-    "posicao": 4,
-    "batch_date": "2026-10-17"
   }
 ]
