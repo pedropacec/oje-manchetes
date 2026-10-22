@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Ibovespa cai 0,86% e dólar sobe a R$5,03 com Quaest e balanço fraco da WEG",
+    "fonte": "CNN Brasil",
+    "data": "21 Out",
+    "resumo": "Bolsa perdeu quase 1.800 pontos nesta quarta e o dólar subiu, após nova pesquisa Quaest mostrar disputa apertada no 2º turno e a WEG decepcionar com o balanço trimestral.",
+    "conteudo": "O Ibovespa fechou a quarta-feira (21/10) em queda de 0,86%, aos 206.495,23 pontos — recuo de cerca de 1.800 pontos depois de ter superado os 209 mil pontos durante o pregão. O dólar subiu 0,17% e terminou a R$5,027, interrompendo uma sequência de três quedas seguidas. Entre os fatores citados pelo mercado estão a nova pesquisa Quaest, que mostrou Flávio Bolsonaro e Lula ainda em empate técnico no segundo turno de 25/10, e o balanço trimestral da WEG, cuja ação caiu 6,99%; Hapvida recuou 7,54%, enquanto a Totvs liderou as altas, com avanço de 2,47%.\n\nPara quem decide preço, compra de insumo importado ou renovação de crédito nesta semana, o movimento mostra que o mercado continua reagindo com força tanto a pesquisa eleitoral quanto a resultado de empresa — o tombo da WEG, fornecedora de motores e equipamentos para a indústria, é um sinal a observar para quem vende para o setor industrial. Até a apuração de 25/10, a recomendação prática é não travar contrato de câmbio ou crédito por prazo longo com base no humor de um único pregão.",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-21-outubro-2026/",
+    "posicao": 1,
+    "batch_date": "2026-10-22"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Quaest: vantagem de Flávio sobre Lula cai para 1 ponto a 4 dias da eleição",
+    "fonte": "CNN Brasil",
+    "data": "21 Out",
+    "resumo": "Nova pesquisa Quaest, divulgada nesta quarta, mostra Flávio Bolsonaro com 45% e Lula com 44% no 2º turno — margem de erro de 2 pontos mantém a disputa tecnicamente empatada.",
+    "conteudo": "A pesquisa Quaest/Genial divulgada na quarta-feira (21/10) mostrou Flávio Bolsonaro com 45% das intenções de voto no segundo turno contra 44% de Lula — distância menor que a rodada anterior, de 14/10, quando o senador tinha 46% e o presidente, 44%. Com margem de erro de 2 pontos percentuais, o cenário segue de empate técnico; brancos, nulos e indecisos somam 11%. O instituto ouviu 2.154 eleitores entre 17 e 20 de outubro, a poucos dias da votação de 25/10 e do último debate entre os candidatos, marcado para a noite de sexta-feira (23/10) na Globo.\n\nCom a disputa ainda dentro da margem de erro a menos de uma semana da votação, o cenário mais seguro para quem toma decisão de negócio continua sendo o de incerteza: o resultado de domingo pode pender para qualquer lado, e dólar e juros futuros devem seguir reagindo a cada nova pesquisa e ao debate de sexta. Até a apuração, vale manter a cautela já recomendada nas últimas semanas — evitar travar câmbio, crédito ou contrato de importação em condições de prazo longo.",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-45-no-2o-turno-lula-44/",
+    "posicao": 2,
+    "batch_date": "2026-10-22"
+  },
+  {
+    "tag": "Exportação",
+    "titulo": "Balança comercial tem superávit de US$2,66 bi na 3ª semana de outubro",
+    "fonte": "Diário de Pernambuco",
+    "data": "19 Out",
+    "resumo": "Dados da Secex/MDIC mostram superávit semanal de US$2,661 bilhões, com exportações 33,5% maiores que no mesmo período de 2025.",
+    "conteudo": "A balança comercial brasileira registrou superávit de US$2,661 bilhões na terceira semana de outubro, segundo dados da Secex/MDIC divulgados na segunda-feira (19/10): exportações de US$8,232 bilhões contra importações de US$5,572 bilhões. No acumulado do mês, o saldo soma US$5,959 bilhões, com as vendas externas 33,5% maiores que no mesmo período de 2025. No ano, o superávit chega a US$68,355 bilhões, alta de 36,8% sobre 2025.\n\nUm ritmo de exportação crescendo um terço acima do ano passado é bom sinal para quem vende para fora, mas também mantém pressão de oferta de dólares no mercado doméstico — fator que ajuda a explicar por que a moeda tem oscilado mais em função de pesquisa eleitoral do que de fundamento econômico nas últimas semanas. Para negócios que dependem de insumo importado, o cenário de balança forte tende a favorecer um dólar mais comportado no curto prazo, mas a palavra final ainda está com a eleição de 25/10.",
+    "url": "https://www.diariodepernambuco.com.br/economia/2026/10/11727033-balanca-comercial-registra-superavit-de-uss-2661-bilhoes-na-3-semana-de-outubro.html",
+    "posicao": 3,
+    "batch_date": "2026-10-22"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Healthtech Alice capta US$40 milhões do braço de investimento do Banco Mundial",
+    "fonte": "Startups.com.br",
+    "data": "20 Out",
+    "resumo": "Rodada Série D liderada pelo IFC reforça aposta da healthtech em inteligência artificial para reduzir custo e tempo de atendimento em saúde.",
+    "conteudo": "A healthtech brasileira Alice, que opera um plano de saúde com forte uso de inteligência artificial, captou US$40 milhões em rodada Série D liderada pelo IFC, braço de investimentos do Banco Mundial, segundo o Startups.com.br (20/10). A rodada também contou com DEG (Alemanha), FinnFund (Finlândia) e os fundos Kaszek, ThornTree Capital e Canary, que já eram investidores da empresa. A Alice afirma ter crescido de 6 mil para mais de 100 mil beneficiários desde 2021, com receita recorrente acima de R$1,2 bilhão.\n\nO caso reforça uma tendência que já aparece em outras healthtechs e fintechs brasileiras: usar IA para cortar custo operacional e ganhar escala sem aumentar a equipe na mesma proporção, argumento que tem atraído capital de fundos ligados a organismos multilaterais, não só venture capital tradicional. Para pequenos negócios que lidam com plano de saúde corporativo ou buscam parceiro de tecnologia na área, vale acompanhar se essa aposta em IA se traduz em preço mais competitivo nos próximos contratos.",
+    "url": "https://startups.com.br/negocios/rodada-de-investimento/alice-capta-us-40m-para-ser-healthtech-ai-first/",
+    "posicao": 4,
+    "batch_date": "2026-10-22"
+  },
+  {
     "tag": "Tributário",
     "titulo": "Opção pelo Simples Híbrido do IBS/CBS fecha em 30/10, já soma 917 mil pedidos",
     "fonte": "Reforma Tributária",
@@ -119,60 +163,5 @@
     "url": "https://monitormercantil.com.br/cni-confianca-da-industria-sobe-em-outubro-mas-setor-segue-pessimista/",
     "posicao": 3,
     "batch_date": "2026-10-19"
-  },
-  {
-    "tag": "Pagamentos",
-    "titulo": "Asaas capta R$300 milhões para antecipar recebíveis de pequenos negócios",
-    "fonte": "Finsiders Brasil",
-    "data": "05 Out",
-    "resumo": "Fintech de gestão financeira lançou o terceiro FIDC da casa, com nota AAA, para financiar a antecipação de recebíveis de cartão dos clientes.",
-    "conteudo": "A fintech Asaas, que oferece conta digital e cobrança para pequenos e médios negócios, levantou R$300 milhões em seu terceiro Fundo de Investimento em Direitos Creditórios (FIDC), segundo o Finsiders Brasil (05/10): R$280 milhões em cotas sêniores, vendidas a investidores e com nota AAA da S&P Global Ratings, e R$20 milhões em cotas subordinadas mantidas pela própria empresa. O dinheiro financia a antecipação de recebíveis de cartão de crédito dos clientes da plataforma, administrada pela gestora Kanastra; somente em 2026, a Asaas já antecipou R$1,4 bilhão a clientes, e o total histórico da operação chega a R$3,9 bilhões.\n\nPara o pequeno empreendedor que vende parcelado no cartão e sente o caixa apertado entre a venda e o recebimento, rodadas como essa significam mais oferta de crédito de antecipação fora dos bancos tradicionais — mas o custo ainda varia bastante de fintech para fintech. Antes de antecipar recebíveis como rotina, vale comparar a taxa cobrada pela plataforma de cobrança que você já usa com a taxa do banco e com uma simples linha de capital de giro, porque a conveniência de antecipar na mesma tela em que a venda é processada tem preço, e nem sempre é o mais baixo do mercado.",
-    "url": "https://finsidersbrasil.com.br/?p=374774",
-    "posicao": 4,
-    "batch_date": "2026-10-19"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Lula e Flávio divergem sobre ajuste fiscal no debate de hoje no Band",
-    "fonte": "Agência Brasil",
-    "data": "16 Out",
-    "resumo": "Lula defende manter o arcabouço fiscal e ampliar investimento público; Flávio propõe nova regra ligada à dívida e corte de impostos.",
-    "conteudo": "Reportagem da Agência Brasil mostra que Lula e Flávio Bolsonaro chegam ao primeiro debate do segundo turno, hoje (18/10) no Band, com planos opostos para a economia, a nove dias da votação final em 25/10. Os dois reconhecem que a dívida pública — em 82,9% do PIB em agosto, o maior nível desde a pandemia — precisa ser contida, mas discordam do caminho: Lula defende manter o arcabouço fiscal vigente e ampliar investimento público e programas sociais, enquanto Flávio propõe uma nova regra fiscal atrelada à trajetória da dívida, redução da máquina pública e corte de impostos e encargos.\n\nPara quem toca um negócio, o que importa não é o discurso de palanque, e sim como o mercado vai reagir a partir de segunda-feira: um plano fiscal visto como mais consistente tende a aliviar a pressão sobre juros futuros e câmbio, enquanto sinais de gasto maior sem compensação jogam contra o real. Até a apuração de 25/10, vale evitar travar contratos, importação ou crédito em condições que dependam de estabilidade cambial — a reação da bolsa e do dólar nos próximos pregões vai dar uma leitura mais confiável do rumo da economia do que qualquer proposta de campanha.",
-    "url": "https://www.tribunadosertao.com.br/geral/2026/10/16/998588-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado",
-    "posicao": 1,
-    "batch_date": "2026-10-18"
-  },
-  {
-    "tag": "Câmbio",
-    "titulo": "Dólar fecha semana em alta de 1,77%, mas recua a R$5,07 na sexta",
-    "fonte": "BPMoney",
-    "data": "16 Out",
-    "resumo": "Moeda interrompeu três altas seguidas na sexta, mas o acumulado semanal mostra que a cautela eleitoral ainda pesa sobre o câmbio.",
-    "conteudo": "O dólar fechou a sexta-feira (16/10) em queda de 0,26%, a R$5,07, interrompendo três pregões consecutivos de alta — mas, na semana, a moeda ainda acumulou ganho de 1,77%, segundo o BPMoney. O movimento reflete o empate técnico entre Lula e Flávio Bolsonaro a poucos dias do segundo turno: cada nova pesquisa eleitoral tem provocado oscilações na cotação, com analistas apontando que o real deve continuar sensível aos levantamentos até 25/10.\n\nNa prática, quem depende de importação, viagem internacional ou insumo cotado em dólar está operando numa faixa de preço que pode mudar de uma semana para outra só por causa de pesquisa eleitoral. Para negócios que fecham compra no exterior ou têm contrato em moeda estrangeira, vale travar parte da cotação (hedge) em lotes menores e com mais frequência, em vez de esperar o resultado da eleição — a tendência histórica em reta final de disputa apertada é de mais volatilidade, não menos.",
-    "url": "https://bpmoney.com.br/mercado/cambio/dolar-cai-507-interrompe-tres-altas-cautela-eleitoral/",
-    "posicao": 2,
-    "batch_date": "2026-10-18"
-  },
-  {
-    "tag": "Economia",
-    "titulo": "FMI reduz projeção de crescimento do PIB do Brasil para 2,2%",
-    "fonte": "Mercado&Consumo",
-    "data": "13 Out",
-    "resumo": "Fundo revisou a estimativa de 2,4% para 2,2% neste ano, e Fazenda e Banco Central também baixaram suas projeções em semanas recentes.",
-    "conteudo": "O Fundo Monetário Internacional revisou para baixo, na terça-feira (13/10), a projeção de crescimento da economia brasileira em 2026, de 2,4% (estimativa de julho) para 2,2%; para 2027, a previsão caiu de 2,2% para 1,9%. A revisão acompanha ajustes semelhantes feitos nas últimas semanas: o Ministério da Fazenda reduziu sua estimativa de 2,3% para 2,0% no Boletim Macrofiscal de setembro, e o Banco Central cortou a projeção de crescimento de 2% para 1,8%, mantendo a inflação esperada para o fim do ano em 5,2%, acima da meta oficial.\n\nQuando FMI, Fazenda e Banco Central reduzem a projeção de crescimento praticamente ao mesmo tempo, é sinal de que consumo e crédito devem desacelerar um pouco mais do que o esperado até o fim do ano. Para quem está planejando expansão, contratação ou reforço de estoque para o próximo ano, vale revisar a meta de vendas com uma margem de segurança maior, em vez de projetar a mesma demanda observada no primeiro semestre de 2026.",
-    "url": "https://mercadoeconsumo.com.br/13/10/2026/economia/fmi-preve-crescimento-de-22-do-pib-do-brasil-em-2026/",
-    "posicao": 3,
-    "batch_date": "2026-10-18"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Loopia capta R$6,5 milhões e abre sedes em SC e SP",
-    "fonte": "Inforchannel",
-    "data": "16 Out",
-    "resumo": "Startup catarinense de chat-commerce com IA expande a operação após rodada seed liderada pela Parceiro Ventures.",
-    "conteudo": "A Loopia, startup de Brusque (SC) que desenvolve agentes de inteligência artificial para atendimento e vendas via WhatsApp e marketplaces, inaugurou nesta semana novas sedes em Santa Catarina e em São Paulo, segundo o Inforchannel (16/10). O movimento vem depois da rodada seed de R$6,5 milhões liderada pela Parceiro Ventures, fechada em junho, e marca o início de uma fase de expansão da equipe e de aproximação com clientes no maior mercado consumidor do país.\n\nO caso ilustra um caminho comum entre pequenos e médios negócios que vendem por WhatsApp: automatizar o atendimento com inteligência artificial antes de contratar mais gente, e só abrir escritório fora da base original quando caixa e carteira de clientes já justificam o custo. Para quem recebe pedido por WhatsApp hoje, vale avaliar se um agente automatizado consegue tirar dúvida simples e fechar venda fora do horário comercial, liberando a equipe para os casos mais complexos.",
-    "url": "https://inforchannel.com.br/2026/10/16/loopia-amplia-operacao-e-inaugura-sedes-em-santa-catarina-e-sao-paulo/",
-    "posicao": 4,
-    "batch_date": "2026-10-18"
   }
 ]
