@@ -1,6 +1,50 @@
 [
   {
     "tag": "Política",
+    "titulo": "Lula é reeleito presidente com cerca de 51,8% dos votos no 2º turno",
+    "fonte": "InfoMoney",
+    "data": "25 Out",
+    "resumo": "TSE confirmou a vitória de Lula sobre o senador Flávio Bolsonaro ainda na noite de domingo, após apuração completa das urnas.",
+    "conteudo": "O TSE confirmou na noite deste domingo (25/10) a reeleição de Lula para a Presidência, após vencer o segundo turno contra o senador Flávio Bolsonaro (PL). Com a totalização das seções eleitorais concluída, Lula somou cerca de 51,8% dos votos válidos contra 48,2% de Flávio — uma margem mais estreita do que a indicada pelas últimas pesquisas de boca de urna, em uma eleição marcada por empate técnico nas semanas finais e por uma prorrogação de duas horas da votação determinada pelo STF em todo o país.\n\nPara quem toca um negócio, o fim da incerteza eleitoral não encerra a cautela: o mercado já vinha precificando um cenário apertado, e é a confirmação do resultado — não mais a expectativa dele — que vai pautar nas próximas semanas o anúncio da equipe econômica e o tom da política fiscal, dois pontos que influenciam diretamente o custo do crédito e o câmbio usado para importar insumos.",
+    "url": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
+    "posicao": 1,
+    "batch_date": "2026-10-26"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Dólar futuro dispara a R$5,52 e Ibovespa corre risco de circuit breaker",
+    "fonte": "InfoMoney",
+    "data": "26 Out",
+    "resumo": "Analistas ouvidos pela Reuters preveem abertura de forte queda para ativos brasileiros nesta segunda, após a reeleição de Lula.",
+    "conteudo": "Horas depois de o TSE confirmar a reeleição de Lula, o dólar futuro negociado em Chicago chegou a subir cerca de 10%, para perto de R$5,52, partindo do fechamento de R$4,9791 na sexta-feira (23/10). O ETF que replica o Ibovespa negociado nos EUA caiu até 19% no mercado após o horário normal, e a versão listada em Tóquio recuou entre 11% e 13% — movimento que levou analistas ouvidos pela Reuters a apontar risco real de acionamento do circuit breaker da B3, mecanismo que suspende o pregão por 30 minutos sempre que o Ibovespa cai mais de 10% em relação ao fechamento anterior, de 205.082,56 pontos.\n\nPara quem empreende, a lição prática é não reagir ao primeiro movimento do pregão: contratos futuros tendem a exagerar na abertura e costumam recuar ao longo do dia conforme o mercado recalibra as apostas. Quem depende de dólar para importar insumos ou pagar compromissos em moeda estrangeira tem a ganhar ao deixar a poeira da abertura baixar antes de fechar qualquer operação de câmbio.",
+    "url": "https://www.infomoney.com.br/mercados/como-os-mercados-vao-abrir-nesta-segunda-apos-a-reeleicao-de-lula/",
+    "posicao": 2,
+    "batch_date": "2026-10-26"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Mercado reduz para apenas 1 o número de cortes esperados da Selic",
+    "fonte": "Money Times (Reuters)",
+    "data": "26 Out",
+    "resumo": "Operadores passaram a precificar só um corte da Selic até o fim do ano, abandonando a aposta anterior de dois cortes.",
+    "conteudo": "Na esteira da reação do mercado à reeleição de Lula, operadores de juros futuros passaram a precificar apenas um corte da Selic até o fim do ano, abandonando a aposta anterior de dois cortes, segundo fontes ouvidas pela Reuters. Os contratos de DI de prazos mais longos devem abrir em forte alta nesta segunda-feira, refletindo o temor de que a continuidade do governo não traga sinalização suficiente para estabilizar o crescimento da dívida pública — o principal receio citado pelos agentes financeiros consultados pela reportagem.\n\nNa prática, isso empurra para mais adiante a expectativa de juros mais baixos e mantém o custo do crédito elevado por mais tempo, em especial para quem usa linhas pós-fixadas como o Pronampe, corrigidas pela Selic. Setores mais dependentes de financiamento e com maior endividamento — varejo e construção civil, segundo analistas citados na reportagem — tendem a sentir primeiro o efeito de um cenário de juros longos mais altos.",
+    "url": "https://www.moneytimes.com.br/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-fets/",
+    "posicao": 3,
+    "batch_date": "2026-10-26"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Destaque de IBS e CBS nas notas de serviço já é obrigatório desde outubro",
+    "fonte": "Receita Federal",
+    "data": "26 Out",
+    "resumo": "Cronograma da reforma tributária passou a exigir, desde 1º de outubro, que a maioria das notas de serviço mostre separadamente o novo IBS e a CBS.",
+    "conteudo": "Desde 1º de outubro, a maior parte das notas fiscais de serviço (NFS-e) sujeitas ao ISS passou a ser obrigada a destacar separadamente os valores do novo IBS e da CBS, conforme o cronograma fixado pelo Ato Conjunto RFB/CGIBS nº 4/2026, publicado em 30 de julho pela Receita Federal e pelo Comitê Gestor do IBS. A mesma exigência já valia para notas de produtos (NF-e e NFC-e) desde 3 de agosto. O destaque ainda não gera cobrança adicional em 2026 — tem caráter apenas informativo —, mas o descumprimento já pode render penalidade para empresas do lucro real e do lucro presumido.\n\nQuem é optante do Simples Nacional tem um prazo maior: a obrigação de destacar IBS e CBS nas próprias notas só passa a valer a partir de 1º de janeiro de 2027. Mesmo assim, vale ajustar agora o sistema de emissão de notas e o cadastro de serviços, porque fornecedores e clientes do regime normal já exigem esse destaque nos documentos que recebem, e deixar o ajuste para a virada do ano aumenta o risco de erro fiscal.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria-do-consumo",
+    "posicao": 4,
+    "batch_date": "2026-10-26"
+  },
+  {
+    "tag": "Política",
     "titulo": "Brasil decide hoje entre Lula e Flávio Bolsonaro no 2º turno da eleição",
     "fonte": "GC Mais",
     "data": "25 Out",
@@ -130,49 +174,5 @@
     "url": "https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/busca-das-empresas-por-credito-cresceu-10-por-cento-no-acumulado-de-12-meses-ate-julho-aponta-serasa-experian/",
     "posicao": 4,
     "batch_date": "2026-10-23"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa cai 0,86% e dólar sobe a R$5,03 com Quaest e balanço fraco da WEG",
-    "fonte": "CNN Brasil",
-    "data": "21 Out",
-    "resumo": "Bolsa perdeu quase 1.800 pontos nesta quarta e o dólar subiu, após nova pesquisa Quaest mostrar disputa apertada no 2º turno e a WEG decepcionar com o balanço trimestral.",
-    "conteudo": "O Ibovespa fechou a quarta-feira (21/10) em queda de 0,86%, aos 206.495,23 pontos — recuo de cerca de 1.800 pontos depois de ter superado os 209 mil pontos durante o pregão. O dólar subiu 0,17% e terminou a R$5,027, interrompendo uma sequência de três quedas seguidas. Entre os fatores citados pelo mercado estão a nova pesquisa Quaest, que mostrou Flávio Bolsonaro e Lula ainda em empate técnico no segundo turno de 25/10, e o balanço trimestral da WEG, cuja ação caiu 6,99%; Hapvida recuou 7,54%, enquanto a Totvs liderou as altas, com avanço de 2,47%.\n\nPara quem decide preço, compra de insumo importado ou renovação de crédito nesta semana, o movimento mostra que o mercado continua reagindo com força tanto a pesquisa eleitoral quanto a resultado de empresa — o tombo da WEG, fornecedora de motores e equipamentos para a indústria, é um sinal a observar para quem vende para o setor industrial. Até a apuração de 25/10, a recomendação prática é não travar contrato de câmbio ou crédito por prazo longo com base no humor de um único pregão.",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-21-outubro-2026/",
-    "posicao": 1,
-    "batch_date": "2026-10-22"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Quaest: vantagem de Flávio sobre Lula cai para 1 ponto a 4 dias da eleição",
-    "fonte": "CNN Brasil",
-    "data": "21 Out",
-    "resumo": "Nova pesquisa Quaest, divulgada nesta quarta, mostra Flávio Bolsonaro com 45% e Lula com 44% no 2º turno — margem de erro de 2 pontos mantém a disputa tecnicamente empatada.",
-    "conteudo": "A pesquisa Quaest/Genial divulgada na quarta-feira (21/10) mostrou Flávio Bolsonaro com 45% das intenções de voto no segundo turno contra 44% de Lula — distância menor que a rodada anterior, de 14/10, quando o senador tinha 46% e o presidente, 44%. Com margem de erro de 2 pontos percentuais, o cenário segue de empate técnico; brancos, nulos e indecisos somam 11%. O instituto ouviu 2.154 eleitores entre 17 e 20 de outubro, a poucos dias da votação de 25/10 e do último debate entre os candidatos, marcado para a noite de sexta-feira (23/10) na Globo.\n\nCom a disputa ainda dentro da margem de erro a menos de uma semana da votação, o cenário mais seguro para quem toma decisão de negócio continua sendo o de incerteza: o resultado de domingo pode pender para qualquer lado, e dólar e juros futuros devem seguir reagindo a cada nova pesquisa e ao debate de sexta. Até a apuração, vale manter a cautela já recomendada nas últimas semanas — evitar travar câmbio, crédito ou contrato de importação em condições de prazo longo.",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-45-no-2o-turno-lula-44/",
-    "posicao": 2,
-    "batch_date": "2026-10-22"
-  },
-  {
-    "tag": "Exportação",
-    "titulo": "Balança comercial tem superávit de US$2,66 bi na 3ª semana de outubro",
-    "fonte": "Diário de Pernambuco",
-    "data": "19 Out",
-    "resumo": "Dados da Secex/MDIC mostram superávit semanal de US$2,661 bilhões, com exportações 33,5% maiores que no mesmo período de 2025.",
-    "conteudo": "A balança comercial brasileira registrou superávit de US$2,661 bilhões na terceira semana de outubro, segundo dados da Secex/MDIC divulgados na segunda-feira (19/10): exportações de US$8,232 bilhões contra importações de US$5,572 bilhões. No acumulado do mês, o saldo soma US$5,959 bilhões, com as vendas externas 33,5% maiores que no mesmo período de 2025. No ano, o superávit chega a US$68,355 bilhões, alta de 36,8% sobre 2025.\n\nUm ritmo de exportação crescendo um terço acima do ano passado é bom sinal para quem vende para fora, mas também mantém pressão de oferta de dólares no mercado doméstico — fator que ajuda a explicar por que a moeda tem oscilado mais em função de pesquisa eleitoral do que de fundamento econômico nas últimas semanas. Para negócios que dependem de insumo importado, o cenário de balança forte tende a favorecer um dólar mais comportado no curto prazo, mas a palavra final ainda está com a eleição de 25/10.",
-    "url": "https://www.diariodepernambuco.com.br/economia/2026/10/11727033-balanca-comercial-registra-superavit-de-uss-2661-bilhoes-na-3-semana-de-outubro.html",
-    "posicao": 3,
-    "batch_date": "2026-10-22"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Healthtech Alice capta US$40 milhões do braço de investimento do Banco Mundial",
-    "fonte": "Startups.com.br",
-    "data": "20 Out",
-    "resumo": "Rodada Série D liderada pelo IFC reforça aposta da healthtech em inteligência artificial para reduzir custo e tempo de atendimento em saúde.",
-    "conteudo": "A healthtech brasileira Alice, que opera um plano de saúde com forte uso de inteligência artificial, captou US$40 milhões em rodada Série D liderada pelo IFC, braço de investimentos do Banco Mundial, segundo o Startups.com.br (20/10). A rodada também contou com DEG (Alemanha), FinnFund (Finlândia) e os fundos Kaszek, ThornTree Capital e Canary, que já eram investidores da empresa. A Alice afirma ter crescido de 6 mil para mais de 100 mil beneficiários desde 2021, com receita recorrente acima de R$1,2 bilhão.\n\nO caso reforça uma tendência que já aparece em outras healthtechs e fintechs brasileiras: usar IA para cortar custo operacional e ganhar escala sem aumentar a equipe na mesma proporção, argumento que tem atraído capital de fundos ligados a organismos multilaterais, não só venture capital tradicional. Para pequenos negócios que lidam com plano de saúde corporativo ou buscam parceiro de tecnologia na área, vale acompanhar se essa aposta em IA se traduz em preço mais competitivo nos próximos contratos.",
-    "url": "https://startups.com.br/negocios/rodada-de-investimento/alice-capta-us-40m-para-ser-healthtech-ai-first/",
-    "posicao": 4,
-    "batch_date": "2026-10-22"
   }
 ]
