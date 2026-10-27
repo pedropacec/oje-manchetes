@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Ibovespa despenca 13,88% e aciona circuit breaker após reeleição de Lula",
+    "fonte": "Investing.com Brasil",
+    "data": "27 Out",
+    "resumo": "Primeiro pregão após a confirmação da reeleição teve a maior queda da Bolsa desde 2020 e acionou o circuit breaker da B3.",
+    "conteudo": "Nesta segunda-feira (26/10), primeiro pregão após o TSE confirmar a reeleição de Lula, o Ibovespa afundou 13,88%, fechando em 176.608,23 pontos, e acionou o circuit breaker da B3 minutos após a abertura — mecanismo que suspende as negociações por 30 minutos quando o índice recua mais de 10% em relação ao fechamento anterior. O dólar comercial subiu 8,21% no mesmo pregão, encerrando a R$5,403, refletindo o temor do mercado com o rumo da política fiscal no novo mandato.\n\nNesta terça-feira (27/10), o pregão abre em busca de alívio depois do tombo histórico, com investidores de olho em sinais sobre a composição da equipe econômica e uma eventual revisão do arcabouço fiscal. Para quem toca um negócio, a lição é não travar câmbio ou crédito de prazo longo em cima do susto de segunda: esses sinais do governo nos próximos dias tendem a pesar mais no preço final do que o movimento do primeiro pregão.",
+    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibov-derrete-14-com-lula-reeleito-e-temor-de-risco-fiscal-2103345",
+    "posicao": 1,
+    "batch_date": "2026-10-27"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Sem transição, Lula reúne equipe econômica para conter susto do mercado",
+    "fonte": "Poder360",
+    "data": "27 Out",
+    "resumo": "Presidente se encontrou com os ministros Durigan e Moretti no Alvorada após o tombo da Bolsa; comando da Fazenda no 4º mandato ainda é incerto.",
+    "conteudo": "Horas depois de a Bolsa registrar sua maior queda desde 2020 em reação à reeleição, Lula reuniu no Palácio da Alvorada, nesta segunda-feira (26/10), o ministro da Fazenda, Dario Durigan, e o do Planejamento, Bruno Moretti, para discutir a resposta do governo à turbulência nos mercados. Como a lei que cria equipe de transição não vale para reeleição, Lula segue com o ministério atual até a posse do quarto mandato, em 5 de janeiro de 2027, podendo ajustar nomes até lá — o governador reeleito do Piauí, Rafael Fonteles, e o vice-presidente Geraldo Alckmin aparecem cotados para o comando da Fazenda.\n\nPara quem empreende, o que pesa não é o nome que vai assumir a Fazenda, e sim o sinal que o governo der sobre o arcabouço fiscal nas próximas semanas: é esse sinal, mais do que o resultado da eleição em si, que deve definir se o custo do crédito e o câmbio se estabilizam ou continuam oscilando até a virada do ano.",
+    "url": "https://www.poder360.com.br/poder-governo/lula-reune-durigan-e-moretti-depois-de-turbulencia-nos-mercados/",
+    "posicao": 2,
+    "batch_date": "2026-10-27"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Congresso prorroga por 60 dias MP que reforça garantia de crédito a PMEs",
+    "fonte": "Carmelitas Contabilidade",
+    "data": "27 Out",
+    "resumo": "Medida renovada em 8/10 mantém R$3,5 bi em fundos garantidores ligados ao Pronampe, mas não libera recursos novos para as empresas.",
+    "conteudo": "O Congresso prorrogou por 60 dias, em 8 de outubro, a vigência da Medida Provisória nº 1.385/2026, que havia aberto crédito extraordinário de R$3,5 bilhões para fundos garantidores de operações de crédito a micro e pequenas empresas — dos quais R$2,75 bilhões estão ligados diretamente ao reforço de garantias dentro do Pronampe. A prorrogação não representa dinheiro novo: apenas mantém em vigor o valor já autorizado por MP publicada em agosto de 2026.\n\nNa prática, o fundo garantidor que respalda o Pronampe continua musculoso, o que facilita a aprovação de crédito para quem tem CNPJ recente ou pouco histórico bancário — mas não aumenta o limite disponível por empresa. Vale conferir com o banco se ainda há espaço na cota antes de contar com o programa para fechar o caixa do fim do ano.",
+    "url": "https://carmelitas.com.br/2026/10/08/pronampe-mp-1385-credito-pequenas-empresas/",
+    "posicao": 3,
+    "batch_date": "2026-10-27"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Itaú compra 100% da NeoSpace e eleva aposta em IA a R$2,9 bilhões",
+    "fonte": "NeoFeed",
+    "data": "27 Out",
+    "resumo": "Banco adquiriu a totalidade da startup de inteligência artificial fundada por ex-sócios da Zup, encerrando a participação dos demais sócios.",
+    "conteudo": "O Itaú Unibanco anunciou, nesta segunda-feira (26/10), a compra da totalidade das ações da NeoSpace, startup brasileira de inteligência artificial, por R$2,925 bilhões. O banco já era acionista da empresa desde janeiro de 2025, quando comprou 15% da startup; a operação agora elimina os demais sócios da NeoSpace, fundada por ex-executivos da Zup — companhia de tecnologia que o próprio Itaú já havia adquirido em 2020.\n\nPara o ecossistema de startups brasileiro, o negócio mostra que vender para um banco ou corporação grande continua sendo uma rota de saída mais concreta do que buscar novo aporte de venture capital, sobretudo em IA aplicada a um problema específico de um setor. É um caminho que donos de startups B2B de nicho podem mirar como alternativa a rodadas cada vez mais seletivas.",
+    "url": "https://neofeed.com.br/negocios/itau-compra-neospace-por-r-29-bilhoes-e-avanca-na-inteligencia-artificial/",
+    "posicao": 4,
+    "batch_date": "2026-10-27"
+  },
+  {
     "tag": "Política",
     "titulo": "Lula é reeleito presidente com cerca de 51,8% dos votos no 2º turno",
     "fonte": "InfoMoney",
@@ -130,49 +174,5 @@
     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei",
     "posicao": 4,
     "batch_date": "2026-10-24"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Lula e Flávio Bolsonaro se enfrentam hoje no último debate antes do 2º turno",
-    "fonte": "O Tempo",
-    "data": "23 Out",
-    "resumo": "Os dois candidatos ao Planalto se encontram hoje às 21h20 na Globo, no último confronto direto antes da votação de domingo (25/10).",
-    "conteudo": "Lula (PT) e o senador Flávio Bolsonaro (PL) fazem nesta sexta-feira (23/10), às 21h20, logo após o Jornal Nacional, o último debate do segundo turno, nos Estúdios Globo, no Rio de Janeiro, com mediação do jornalista César Tralli e transmissão simultânea pela TV Globo, pela GloboNews e pelo g1. O encontro terá checagem de falas em tempo real, organizada por entidades como a Fenaj, e antecede por dois dias a votação de domingo (25/10), que define o presidente para o mandato iniciado em 2027.\n\nPara quem toma decisão de negócio, o debate de hoje é o último grande evento capaz de mover o humor do mercado antes da apuração: dólar, juros futuros e bolsa tendem a reagir já na segunda-feira ao desempenho dos dois candidatos. A recomendação prática continua sendo evitar travar câmbio, crédito ou contrato de importação por prazo longo até o resultado de domingo sair definido.",
-    "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/21/lula-e-flavio-bolsonaro-confirmam-debate-na-globo-nesta-sexta-23-10-veja-horario-e-regras",
-    "posicao": 1,
-    "batch_date": "2026-10-23"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa cai 1,15% e dólar sobe a R$5,04 na véspera do debate e do 2º turno",
-    "fonte": "Diário do Sudoeste",
-    "data": "22 Out",
-    "resumo": "Bolsa teve o pior pregão da semana e dólar avançou, nesta véspera do debate final e da reta decisiva do 2º turno.",
-    "conteudo": "O Ibovespa fechou a quinta-feira (22/10) em queda de 1,15%, aos 204.120,12 pontos, no pior desempenho da semana, enquanto o dólar subiu 0,22% e terminou cotado a R$5,038. O movimento foi puxado por aversão a risco no exterior somada à cautela com a reta final do 2º turno, véspera do último debate na Globo e a três dias da votação de domingo (25/10). Analistas citados pela imprensa apontaram ainda preocupação com a falta de um plano de ajuste fiscal detalhado por parte dos dois candidatos.\n\nCom bolsa e câmbio reagindo pregão a pregão às notícias eleitorais, negócios que dependem de insumo importado ou de renovação de linha de crédito nesta semana enfrentam um cenário de volatilidade concentrada: o próximo pregão, logo após o debate de hoje, deve ser o mais sensível até a apuração de domingo. Vale manter a cautela já recomendada nas semanas anteriores e evitar decisões de câmbio ou crédito de prazo longo até o resultado sair.",
-    "url": "https://diariodosudoeste.com.br/ibovespa-cai-115-e-dolar-sobe-a-r-503-antes-do-2o-turno/",
-    "posicao": 2,
-    "batch_date": "2026-10-23"
-  },
-  {
-    "tag": "Congresso",
-    "titulo": "PL elege 121 deputados e forma a maior bancada da Câmara desde 1988",
-    "fonte": "Congresso em Foco",
-    "data": "05 Out",
-    "resumo": "Partido garante a maior bancada da Câmara em quase 40 anos, o que deve dar mais força ao Congresso para negociar com o próximo presidente.",
-    "conteudo": "O PL elegeu 121 deputados federais nas eleições de 4 de outubro, a maior bancada da Câmara desde a Constituição de 1988 e um avanço de 22 cadeiras sobre 2022, segundo apuração do TSE. O resultado consolida o partido como a maior força da Casa a partir de 2027, à frente do PT, que foi de 69 para 70 cadeiras, enquanto o chamado centrão — PSD, União Brasil, Republicanos e PP — soma 171 vagas. Levantamento à parte mostra empresários como a ocupação mais comum entre os eleitos fora da política, com 61 parlamentares.\n\nUm Congresso mais à direita e mais concentrado em um só partido tende a ter mais força para negociar com o Planalto, qualquer que seja o vencedor de domingo — o que pode tanto acelerar quanto travar pautas como reforma tributária, ajuste fiscal e revisão de benefícios. Para quem planeja investimento ou expansão em 2027, a composição já eleita da Câmara é um dado mais estável do que a disputa presidencial, e vale acompanhá-la para entender que tipo de agenda econômica tem mais chance de avançar no primeiro ano do novo mandato.",
-    "url": "https://www.congressoemfoco.com.br/noticia/122897/pl-elege-121-deputados-e-faz-a-maior-bancada-eleita-em-40-anos",
-    "posicao": 3,
-    "batch_date": "2026-10-23"
-  },
-  {
-    "tag": "Crédito",
-    "titulo": "Busca de empresas por crédito sobe 10,4% em 12 meses, puxada pelas PMEs",
-    "fonte": "Serasa Experian",
-    "data": "21 Set",
-    "resumo": "Indicador da Serasa Experian mostra demanda por crédito acelerando, com micro e pequenas empresas na liderança do crescimento.",
-    "conteudo": "A busca das empresas brasileiras por crédito cresceu 10,4% no acumulado de 12 meses até julho, segundo o Indicador de Demanda das Empresas por Crédito da Serasa Experian, divulgado em 21/9. A maior alta foi entre as micro e pequenas empresas (MPEs), de 10,5%, contra 7,3% nas médias e 8,5% nas grandes. Por setor, Serviços (16%) e Agropecuária (14,6%) tiveram os maiores avanços, com Mato Grosso do Sul, Roraima e Paraíba liderando entre os estados; o ritmo acelerou frente aos 9,2% registrados até junho.\n\nO dado confirma uma tendência que já vem de meses: pequenos negócios estão recorrendo mais a crédito para sustentar capital de giro, mesmo com juros ainda em nível elevado após os cortes da Selic ao longo do ano. Para quem dirige um pequeno negócio, o sinal é duplo — há mais oferta e disputa por esse cliente entre bancos e fintechs, mas também mais concorrência pelo crédito mais barato; vale comparar taxas entre instituições antes de renovar ou tomar uma nova linha.",
-    "url": "https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/busca-das-empresas-por-credito-cresceu-10-por-cento-no-acumulado-de-12-meses-ate-julho-aponta-serasa-experian/",
-    "posicao": 4,
-    "batch_date": "2026-10-23"
   }
 ]
