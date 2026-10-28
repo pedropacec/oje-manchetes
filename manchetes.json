@@ -1,6 +1,50 @@
 [
   {
     "tag": "Mercado",
+    "titulo": "Fed decide juros dos EUA hoje após 2º dia de ajuste na Bolsa brasileira",
+    "fonte": "InfoMoney",
+    "data": "28 Out",
+    "resumo": "Comitê do Federal Reserve anuncia hoje sua decisão sobre os juros americanos, em dia que o mercado brasileiro ainda digere o susto da reeleição de Lula.",
+    "conteudo": "Nesta quarta-feira (28/10), o Federal Reserve (Fed) encerra reunião de dois dias e divulga à tarde sua decisão sobre os juros dos Estados Unidos, com o mercado majoritariamente apostando em manutenção da taxa atual. O anúncio chega depois de o Ibovespa fechar a terça-feira (27/10) em queda de 0,51%, a 175.710,05 pontos, e o dólar recuar 1,07%, a R$5,349 — segundo dia de ajuste depois do tombo histórico de 13,88% registrado na véspera, reação ao primeiro pregão após a confirmação da reeleição de Lula.\n\nPara quem empreende, a decisão do Fed pesa menos no curto prazo do que os sinais que o próprio governo brasileiro der sobre a política fiscal nas próximas semanas: juros americanos estáveis tendem a aliviar a pressão sobre o real, mas não bastam para zerar o prêmio de risco que o mercado local já embutiu no câmbio e no crédito desde segunda-feira. Vale manter a cautela em operações de câmbio e crédito de prazo mais longo até que o quadro doméstico se estabilize de fato.",
+    "url": "https://www.infomoney.com.br/mercados/fed-petrobras-microsoft-alphabet-santander-agenda-28102026/",
+    "posicao": 1,
+    "batch_date": "2026-10-28"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Copom decide Selic em 4/11 dividido entre cortar e pausar o ciclo",
+    "fonte": "Meelion",
+    "data": "28 Out",
+    "resumo": "Mercado está rachado entre um corte de 0,25 ponto, a 13,50%, e a manutenção da Selic em 13,75% na reunião da semana que vem.",
+    "conteudo": "O Copom se reúne nos dias 3 e 4 de novembro, com decisão prevista para a noite da próxima quarta-feira, e o mercado chega dividido: parte dos analistas espera mais um corte de 0,25 ponto percentual, levando a Selic de 13,75% para 13,50% ao ano, enquanto outra parte aposta em uma pausa que mantenha a taxa no nível atual, definido no corte unânime de 16 de setembro — o quinto consecutivo do ciclo de flexibilização. A turbulência cambial e na bolsa que se seguiu à reeleição de Lula, na última segunda-feira, reforçou o argumento de quem defende a pausa.\n\nQuem usa linha de crédito pós-fixada, como o Pronampe, corrigida pela própria Selic, sente na prática a diferença entre os dois cenários: 0,25 ponto parece pouco, mas se soma a um custo de capital que já está em dois dígitos há meses. Antes de renovar ou contratar capital de giro, vale esperar o comunicado do Copom na próxima quarta-feira — ele deve indicar não só o nível da taxa, mas o tom que o Banco Central vai adotar daqui para frente.",
+    "url": "https://www.meelion.com/blog/mercado-financeiro/copom-novembro-2026-selic-vai-a-1350-ou-para-em-1375/",
+    "posicao": 2,
+    "batch_date": "2026-10-28"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Fase de testes do split payment da reforma tributária começa com Pix e boleto",
+    "fonte": "Comsefaz",
+    "data": "15 Out",
+    "resumo": "Integração técnica do mecanismo que vai recolher o novo IBS e a CBS no momento do pagamento arrancou em 15/10, cobrindo só Pix e boleto por enquanto.",
+    "conteudo": "A fase de testes do split payment, mecanismo que vai recolher automaticamente o novo IBS e a CBS no momento do pagamento, começou em 15 de outubro, segundo o Comsefaz (Comitê Nacional dos Secretários de Fazenda), com integração técnica entre a Receita Federal, o Comitê Gestor do IBS (CGIBS) e os prestadores de serviços de pagamento. O regulamento, baseado na Resolução CGIBS nº 6/2026 e no Decreto nº 12.955/2026, prevê que essa primeira fase cubra apenas pagamentos via Pix e boleto — cartões de crédito e débito entram em uma etapa posterior, ainda sem data definida.\n\nPara o empresário, o recado é que a etapa atual é só um teste tecnológico, sem cobrança nem obrigação nova em 2026, mas a oferta ao mercado deve começar de forma gradual e facultativa em 2027, primeiro em operações entre empresas (B2B). Vale aproveitar esse intervalo para revisar contratos com adquirentes e bancos e organizar a trilha de auditoria das liquidações, porque, quando o split payment estiver em operação plena, o valor do imposto deixa de passar pelo caixa da empresa — ele chega líquido, já separado na fonte.",
+    "url": "https://comsefaz.org.br/novo/?p=16521",
+    "posicao": 3,
+    "batch_date": "2026-10-28"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Receita paga lote extra de restituição do IR de R$531,6 milhões em 30/10",
+    "fonte": "Gazeta do Povo",
+    "data": "23 Out",
+    "resumo": "Lote residual do Imposto de Renda 2026 libera consulta para 184,4 mil contribuintes que caíram na malha ou regularizaram pendência.",
+    "conteudo": "A Receita Federal abriu, na sexta-feira (23/10), a consulta ao lote residual de restituição do Imposto de Renda 2026, com pagamento marcado para 30 de outubro. São 184.442 restituições, somando R$531,6 milhões, dos quais R$293,4 milhões vão para contribuintes com prioridade legal (idosos, pessoas com deficiência ou doença grave, entre outros). O lote contempla quem entregou a declaração fora do prazo ou regularizou pendências que vinham travando o pagamento.\n\nPara o empreendedor individual que também declara Imposto de Renda como pessoa física, vale checar a situação no site ou no aplicativo Meu Imposto de Renda antes do fim do mês: regularizar uma pendência agora pode significar entrar neste lote extra, em vez de esperar o calendário regular de 2027. É também um bom momento para confirmar se a conta bancária informada na declaração está correta — a restituição só cai em conta de titularidade do próprio contribuinte, e erro de dados atrasa o recebimento.",
+    "url": "https://www.gazetadopovo.com.br/economia/restituicao-ir-2026-como-consultar-lote-extra/",
+    "posicao": 4,
+    "batch_date": "2026-10-28"
+  },
+  {
+    "tag": "Mercado",
     "titulo": "Ibovespa despenca 13,88% e aciona circuit breaker após reeleição de Lula",
     "fonte": "Investing.com Brasil",
     "data": "27 Out",
@@ -130,49 +174,5 @@
     "url": "https://agenciasebrae.com.br/dados/pequenos-negocios-lideram-a-abertura-de-empresas-no-brasil-com-4526-mil-novos-cnpjs/",
     "posicao": 4,
     "batch_date": "2026-10-25"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa sobe e dólar cai a R$4,99 na véspera do 2º turno",
-    "fonte": "InfoMoney",
-    "data": "23 Out",
-    "resumo": "Último pregão antes da votação de domingo teve bolsa em alta e dólar no menor nível em semanas.",
-    "conteudo": "O Ibovespa fechou a sessão de sexta-feira (23/10), a última antes do 2º turno de domingo (25/10), em alta de 0,47%, aos 205.082,56 pontos. O dólar recuou cerca de 1% no mesmo pregão e chegou a R$4,9882, voltando a ficar abaixo da marca de R$5 depois de semanas de maior tensão cambial. O movimento ocorreu mesmo com a pesquisa Datafolha divulgada no mesmo dia mostrando Lula e Flávio Bolsonaro tecnicamente empatados, com 50% dos votos válidos cada — sinal de que parte do mercado mantém aposta na vitória do senador do PL.\n\nPara quem empreende, a mensagem prática é dupla: o mercado já embute nos preços um cenário de transição favorável aos negócios, mas a votação de domingo pode confirmar ou desmontar essa aposta já na segunda-feira. Quem depende de câmbio para importar insumos ou precisa renovar linha de crédito faz bem em evitar travar posições de longo prazo antes da abertura do primeiro pregão pós-eleição, quando a reação real ao resultado deve aparecer com mais clareza.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/",
-    "posicao": 1,
-    "batch_date": "2026-10-24"
-  },
-  {
-    "tag": "Crédito",
-    "titulo": "Inadimplência das empresas bate recorde e chega a 9,3 milhões de CNPJs",
-    "fonte": "Serasa Experian",
-    "data": "21 Out",
-    "resumo": "Indicador da Serasa mostra alta anual de 14,3% nos negativados, com micro e pequenas empresas concentrando a maior parte dos casos.",
-    "conteudo": "O Indicador de Inadimplência das Empresas da Serasa Experian, com dados de agosto e divulgado nesta semana, mostrou 9,3 milhões de CNPJs negativados no país — novo recorde da série, com alta de 14,3% em relação a agosto de 2025. As dívidas em aberto somam R$244,4 bilhões distribuídos em 68,2 milhões de contratos, e micro e pequenas empresas respondem por 8,8 milhões dos negativados, a grande maioria do total. Serviços (56%) e comércio (32%) concentram os setores mais afetados.\n\nA economista-chefe da Serasa, Camila Abdelmalack, destacou que o ritmo de alta vem desacelerando — de 28,7% para 14,3% em 12 meses —, mas ainda em dois dígitos, sinal de que os cortes de juros feitos até aqui ainda não destravaram o caixa das empresas. Antes de conceder prazo a um novo fornecedor ou fechar venda a crédito, vale checar a situação do CNPJ do outro lado nos birôs de crédito, e negociar dívidas em aberto agora, já que estar entre os inadimplentes pode travar linha de capital de giro justamente na reta final do ano.",
-    "url": "https://www.jornaldocomercio.com/economia/2026/10/1267683-numero-de-empresas-inadimplentes-atinge-recorde-de-93-milhoes-diz-serasa-experian.html",
-    "posicao": 2,
-    "batch_date": "2026-10-24"
-  },
-  {
-    "tag": "Varejo",
-    "titulo": "Black Friday 2026 deve faturar R$13,3 bi no e-commerce, alta de 20,7%",
-    "fonte": "Confi/Neotrust",
-    "data": "21 Out",
-    "resumo": "Levantamento com a E-Commerce Brasil projeta crescimento de dois dígitos para a data, mas com ticket médio menor.",
-    "conteudo": "Um levantamento da Confi/Neotrust em parceria com a E-Commerce Brasil, divulgado nesta semana, projeta faturamento de R$13,3 bilhões no e-commerce brasileiro durante os quatro dias da Black Friday de 2026 (26 a 29 de novembro), alta de 20,7% sobre os R$11,03 bilhões do mesmo período em 2025. A estimativa é de 69,4 milhões de produtos vendidos, 15,4% mais que no ano passado, com eletroeletrônicos na liderança (R$2,12 bilhões, +44,5%), seguidos por moda (R$1,38 bilhão) e beleza e perfumaria (R$910 milhões). O ticket médio, porém, deve cair de R$309,70 para R$268,20.\n\nPara o pequeno e médio varejista, o recado é claro: mais gente deve comprar, mas gastando menos por pedido, o que exige repensar a margem por item e a logística de um volume maior de entregas em menos dias. Quem vende online tem agora pouco mais de um mês para negociar estoque com fornecedores, testar capacidade de frete e ajustar preço pensando em vender mais unidades com ticket menor, em vez de repetir a estratégia de anos em que o tíquete médio era mais alto.",
-    "url": "https://gironews.com/negocios/black-friday-2026-deve-movimentar-r-133-bilhoes-no-e-commerce-nacional/",
-    "posicao": 3,
-    "batch_date": "2026-10-24"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Sancionada lei que perdoa dívidas de MEI e eleva teto a R$140 mil",
-    "fonte": "Agência Brasil",
-    "data": "21 Out",
-    "resumo": "Projeto já aprovado no Congresso foi sancionado por Lula, confirmando perdão de débitos e novo limite de faturamento do MEI.",
-    "conteudo": "Depois de aprovado por unanimidade no Congresso, o Prospera MEI foi sancionado pelo presidente Lula na quarta-feira (21/10), transformando em lei o perdão de débitos tributários federais de microempreendedores individuais com dívida registrada até 13/10/2026 — medida que deve alcançar mais de 3,6 milhões de MEIs e perdoar mais de R$18,7 bilhões em dívidas, sem necessidade de pedido à Receita ou à PGFN. A mesma lei confirma a elevação do teto anual de faturamento do MEI, parado desde 2018 em R$81 mil, para R$110 mil em 2027 e R$140 mil em 2028, e autoriza a contratação de até dois funcionários em vez de um.\n\nCom a sanção, o que era só uma expectativa de quem acompanhava a tramitação no Congresso virou regra certa: quem hoje opera como MEI perto do limite atual já pode planejar o crescimento do negócio sem migrar de regime antes da hora, e quem tem dívida tributária parada sabe agora que o perdão vale a partir de 1º de janeiro de 2027. Vale simular com antecedência se o salto de faturamento muda também o enquadramento de ISS ou previdenciário do negócio, para não ser pego de surpresa quando o novo teto entrar em vigor.",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei",
-    "posicao": 4,
-    "batch_date": "2026-10-24"
   }
 ]
