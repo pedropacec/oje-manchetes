@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "Prazo para optar pelo regime regular de IBS e CBS termina nesta sexta",
+    "fonte": "Receita Federal",
+    "data": "29 Out",
+    "resumo": "Empresas já no Simples Nacional que querem migrar para o regime regular do novo imposto sobre consumo em 2027 têm até esta sexta-feira (30/10) para decidir.",
+    "conteudo": "A Resolução CGSN nº 194/2026, publicada em 28 de setembro, prorrogou para esta sexta-feira (30/10) o prazo em que empresas já optantes pelo Simples Nacional podem escolher o regime regular de apuração do IBS e da CBS para o primeiro semestre de 2027 — antes, a data-limite era 30 de setembro. A opção vale só para o período de janeiro a junho do ano que vem e, depois de feita, só pode ser cancelada entre 3 de novembro e 20 de dezembro deste ano; passado esse intervalo, a escolha é irretratável. A mesma resolução também prorrogou o prazo de pedido de ingresso no Simples para 2027, mas esse prazo — 15 de outubro — já passou.\n\nNa prática, migrar para o regime regular do IBS/CBS dá à empresa o direito de gerar e aproveitar créditos tributários do novo imposto sobre consumo, algo que o Simples tradicional não permite — vantagem real para quem vende majoritariamente para outras empresas, já que o cliente PJ também passa a poder abater o imposto pago. Em troca, a empresa perde a apuração simplificada do IBS e da CBS dentro da guia única do Simples, com mais burocracia de escrituração só para esses dois tributos. Quem fatura sobretudo para o consumidor final tende a continuar melhor no Simples padrão; quem depende de clientes empresariais deve fazer essa conta antes de sexta-feira, porque depois de 30/10 só dá para reverter a decisão na janela de novembro e dezembro.",
+    "url": "https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=c739e03c-8482-473f-8e82-f38ec3b13637",
+    "posicao": 1,
+    "batch_date": "2026-10-29"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Ibovespa cai pelo 3º pregão seguido e já perde 16,6% na semana",
+    "fonte": "InfoMoney",
+    "data": "29 Out",
+    "resumo": "Bolsa fechou quarta-feira em 171 mil pontos e dólar a R$5,34, mas o estrago da semana pós-eleição ainda não foi recuperado.",
+    "conteudo": "O Ibovespa encerrou a quarta-feira (28/10) em queda de 2,68%, a 171.006,10 pontos, a terceira baixa seguida, enquanto o dólar comercial recuou 0,19% no dia, a R$5,34. Ainda assim, na semana o índice acumula perda de 16,6% e o dólar sobe 6,95%, reflexo direto do tombo de 13,88% da bolsa e da alta de mais de 8% da moeda americana registrados na segunda-feira, primeiro pregão após a confirmação da reeleição de Lula. O volume negociado no pregão de quarta ficou em R$59,8 bilhões, com as ações de bancos entre as maiores quedas após o balanço do Santander.\n\nPara quem empreende, o sinal mais importante não é o número do dia, mas a persistência da turbulência: três pregões seguidos de queda mostram que o mercado ainda não encontrou um piso para o risco fiscal e político do novo mandato. Insumos importados, contratos em dólar e linhas de crédito atreladas a CDI ou câmbio ficam mais caros enquanto essa incerteza não se dissipar — vale evitar fechar compromissos longos em moeda estrangeira ou refinanciamentos relevantes nesta janela e acompanhar de perto o noticiário fiscal do governo nas próximas semanas.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/",
+    "posicao": 2,
+    "batch_date": "2026-10-29"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Governo avalia cobrar IOF sobre LCI, LCA e outros papéis isentos de IR",
+    "fonte": "Poder360",
+    "data": "29 Out",
+    "resumo": "Equipe econômica estuda tributar por decreto títulos hoje isentos, sem alíquota definida nem data para anúncio oficial.",
+    "conteudo": "A equipe econômica do governo Lula avalia cobrar Imposto sobre Operações Financeiras (IOF) sobre LCI, LCA, CRI, CRA e debêntures incentivadas, títulos que hoje têm alíquota zero de IOF após 30 dias de aplicação, segundo apuração divulgada nesta quarta-feira (28/10). A isenção de Imposto de Renda sobre esses papéis custa cerca de R$33 bilhões por ano aos cofres públicos, mas não há ainda alíquota definida nem data para um anúncio oficial — como o IOF tem caráter regulatório, o governo pode alterá-lo por decreto, sem passar pelo Congresso e sem respeitar o prazo de anterioridade que vale para outros tributos. Em 2025, uma tentativa parecida de tributar esses papéis, pela MP 1.303, foi derrubada pelo Congresso.\n\nPara o empresário que usa LCI, LCA ou debêntures incentivadas como reserva de caixa ou capital de giro de curto prazo, o risco é perder de uma hora para outra parte do ganho líquido que hoje atrai justamente por ser isento — e, por vir de decreto, a mudança pode valer rápido, sem o tempo de adaptação que uma lei daria. Vale não concentrar toda a reserva de emergência da empresa nesses papéis enquanto o estudo não é descartado ou confirmado, e diversificar entre produtos isentos e tributados para não depender de uma única regra que pode mudar por decreto presidencial.",
+    "url": "https://www.poder360.com.br/poder-economia/governo-avalia-cobrar-iof-sobre-lci-lca-e-outros-titulos/",
+    "posicao": 3,
+    "batch_date": "2026-10-29"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "CNI corta projeção do PIB 2026 para 1,6% e culpa juro alto",
+    "fonte": "Agência Brasil",
+    "data": "29 Out",
+    "resumo": "Entidade reduziu estimativa de crescimento de 2% para 1,6%, com a indústria de transformação entrando em retração.",
+    "conteudo": "A Confederação Nacional da Indústria (CNI) reduziu, no Informe Conjuntural do terceiro trimestre divulgado em 28 de outubro, sua projeção de crescimento do PIB brasileiro em 2026 de 2% para 1,6%, com a indústria de transformação passando de uma alta estimada de 0,6% para uma retração de 0,7%. A entidade aponta juros altos, crédito mais caro, retração no consumo das famílias e concorrência de produtos importados como os principais fatores da desaceleração, mas também elevou a estimativa para a agropecuária, de 1,8% para 2,5%, puxada pela safra de milho. A CNI projeta ainda dois cortes de 0,25 ponto na Selic até o fim do ano, para 13,25%, e inflação em 5,15% pelo IPCA.\n\nPara quem empreende fora do agronegócio, a leitura prática é que o crédito caro vai continuar pesando no custo de expansão por mais tempo do que o esperado há poucos meses — mesmo com cortes graduais da Selic, o alívio no capital de giro e no financiamento de investimento deve ser lento. Setores ligados ao consumo interno, como comércio e serviços, sentem isso primeiro; vale rever metas de crescimento para 2026 com uma premissa de juro ainda restritivo e represar investimentos que dependam fortemente de crédito bancário até que o ciclo de corte da Selic avance de fato.",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cni-reduz-previsao-de-crescimento-do-pib-para-16-em-2026",
+    "posicao": 4,
+    "batch_date": "2026-10-29"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Fed decide juros dos EUA hoje após 2º dia de ajuste na Bolsa brasileira",
     "fonte": "InfoMoney",
@@ -130,49 +174,5 @@
     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria-do-consumo",
     "posicao": 4,
     "batch_date": "2026-10-26"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Brasil decide hoje entre Lula e Flávio Bolsonaro no 2º turno da eleição",
-    "fonte": "GC Mais",
-    "data": "25 Out",
-    "resumo": "Urnas abertas neste domingo definem o próximo presidente, com apuração prevista a partir das 17h.",
-    "conteudo": "Os brasileiros vão às urnas neste domingo (25/10) para escolher entre o presidente Luiz Inácio Lula da Silva e o senador Flávio Bolsonaro (PL) no 2º turno das eleições presidenciais. No primeiro turno, em 4 de outubro, Flávio terminou na frente com 47,03% dos votos válidos contra 45,16% de Lula, e as pesquisas da última semana (Veritá, Quaest, AtlasIntel) mostraram a disputa dentro da margem de erro. A apuração dos boletins de urna deve começar a partir das 17h no horário de Brasília, com resultado podendo se definir ainda hoje à noite.\n\nPara quem toca um negócio, a eleição mais apertada em décadas significa que a reação real do mercado só vai aparecer no pregão de segunda-feira, não antes. Decisões que dependem de câmbio, crédito ou grandes compras de insumos ganham com um dia de cautela: esperar a poeira baixar depois do resultado custa pouco e evita travar posição logo antes de uma virada de preço que pode ocorrer em qualquer direção.",
-    "url": "https://gcmais.com.br/noticias/2026/10/25/eleicoes-2026-ao-vivo-acompanhe-o-2-turno-entre-lula-e-flavio-bolsonaro",
-    "posicao": 1,
-    "batch_date": "2026-10-25"
-  },
-  {
-    "tag": "Inflação",
-    "titulo": "IPCA-15 desacelera a 0,32% em outubro, mas 12 meses furam o teto da meta",
-    "fonte": "InfoMoney",
-    "data": "23 Out",
-    "resumo": "Prévia da inflação de outubro veio abaixo do esperado, mas o acumulado em 12 meses já passou de 4,5%.",
-    "conteudo": "O IPCA-15, prévia oficial da inflação, subiu 0,32% em outubro, divulgou o IBGE na sexta-feira (23/10) — bem abaixo dos 0,70% de setembro e também abaixo da mediana de mercado, que apostava entre 0,43% e 0,45%. Alimentação e Bebidas puxou a alta do mês, com 0,88% e 0,19 ponto percentual de impacto, enquanto Habitação recuou 0,10% com a queda da energia elétrica. No acumulado de 12 meses, porém, o índice chegou a 4,62%, ultrapassando o teto de 4,5% da meta oficial de inflação.\n\nA leitura prática para quem empreende é dividida: a desaceleração mensal é boa notícia para quem repassa custos ao consumidor, mas o estouro do teto da meta em 12 meses tira pressão do Banco Central para acelerar o corte da Selic na reunião do Copom de 3 e 4 de novembro. Vale continuar planejando capital de giro com juros ainda em dois dígitos por mais tempo do que o otimismo recente sugeria, e ficar atento ao item alimentos na composição de custo de insumos e cardápio.",
-    "url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-outubro-2026/",
-    "posicao": 2,
-    "batch_date": "2026-10-25"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Tractian capta US$130 milhões e vira o 2º unicórnio de IA do Brasil",
-    "fonte": "Bloomberg Línea",
-    "data": "22 Out",
-    "resumo": "Startup mineira de IA para manutenção industrial é avaliada em US$1,4 bilhão em rodada liderada por fundo americano.",
-    "conteudo": "A Tractian, startup brasileira de inteligência artificial para manutenção preditiva de máquinas industriais, anunciou na quinta-feira (22/10) a captação de US$130 milhões em rodada liderada pela Sapphire Ventures, com a M&G Catalyst como colíder. O aporte avalia a empresa em US$1,4 bilhão, tornando-a o segundo unicórnio de IA da região, atrás apenas da legaltech Enter. Segundo a empresa, o dinheiro vai financiar o desenvolvimento de modelos próprios de IA e a expansão da tecnologia nos próximos anos.\n\nPara quem comanda uma indústria ou um negócio B2B, o caso mostra onde o capital estrangeiro está disposto a pagar mais caro mesmo com juros brasileiros ainda altos: soluções de IA que resolvem um problema concreto de chão de fábrica, como parada de máquina e manutenção, em vez de apostas genéricas em tecnologia. Vale olhar para esse tipo de ferramenta — hoje mais acessível via SaaS do que há poucos anos — como forma de cortar custo operacional e não só como história para investidor.",
-    "url": "https://www.bloomberglinea.com.br/startups/tractian-capta-us-130-milhoes-e-se-torna-o-mais-novo-unicornio-de-ia-brasileiro/",
-    "posicao": 3,
-    "batch_date": "2026-10-25"
-  },
-  {
-    "tag": "Empreendedorismo",
-    "titulo": "Pequenos negócios abrem 452,6 mil CNPJs em setembro e somam 4,39 milhões no ano",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "07 Out",
-    "resumo": "Levantamento do Sebrae mostra MEIs, microempresas e pequenas empresas respondendo por 96,5% dos novos registros do mês.",
-    "conteudo": "Levantamento do Sebrae com base em dados da Receita Federal, divulgado em 7 de outubro, mostra que pequenos negócios (MEI, microempresas e empresas de pequeno porte) abriram 452,6 mil novos CNPJs em setembro, alta de 5,5% sobre igual mês de 2025, e concentraram 96,5% de todos os registros do período. De janeiro a setembro, o total chegou a 4.391.539 novos pequenos negócios — 77% MEI, 19% microempresas e 4% empresas de pequeno porte —, com abertura de MEI crescendo 14% no ano e de ME/EPP, 11,5%. Serviços liderou com 288.076 novos CNPJs (64%), seguido por comércio, com 93.508 (21%).\n\nO dado reforça que abrir empresa no Brasil segue barato e rápido, mesmo com Selic ainda em dois dígitos — o que é bom para quem quer empreender, mas também significa concorrência cada vez mais apertada, sobretudo em serviços e comércio, onde a maioria dos novos CNPJs se concentra. Quem já está no mercado faz bem em tratar esse crescimento como alerta para reforçar diferenciação e nicho, e não só como estatística distante: o concorrente novo pode estar abrindo CNPJ na rua ao lado agora.",
-    "url": "https://agenciasebrae.com.br/dados/pequenos-negocios-lideram-a-abertura-de-empresas-no-brasil-com-4526-mil-novos-cnpjs/",
-    "posicao": 4,
-    "batch_date": "2026-10-25"
   }
 ]
