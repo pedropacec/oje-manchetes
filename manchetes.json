@@ -1,6 +1,50 @@
 [
   {
     "tag": "Mercado",
+    "titulo": "Bolsa tem pior semana desde 2020 e small caps despencam 32,79%",
+    "fonte": "InfoMoney",
+    "data": "31 Out",
+    "resumo": "Ibovespa caiu pelo 5º pregão seguido após a reeleição de Lula, e o índice de empresas menores teve a maior queda semanal da história.",
+    "conteudo": "O Ibovespa encerrou a sessão de sexta-feira (30/10) em 167.921 pontos, quinta queda consecutiva desde a confirmação da reeleição de Lula em 25/10, acumulando perda semanal de 18,12% — a pior desde março de 2020. O dólar fechou em alta a R$5,44, com valorização semanal de mais de 9%, enquanto o índice de small caps (SMLL), que reúne ações de empresas de menor porte na bolsa, afundou 32,79% na semana, a maior queda de toda a sua série histórica, superando até a crise de 2008.\n\nPara quem empreende, o tombo das small caps é o sinal mais direto de que o capital está fugindo primeiro das empresas menores, justamente as que mais dependem de crédito bancário e de capital de giro para operar. Combinado ao dólar mais caro, que já pressiona quem importa insumos ou paga contratos em moeda estrangeira, o momento pede cautela: evitar travar compromissos longos em dólar ou buscar refinanciamento relevante até o mercado dar algum sinal de estabilização.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/",
+    "posicao": 1,
+    "batch_date": "2026-10-31"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Novo Congresso mais à direita deve travar agenda fiscal de Lula em 2027",
+    "fonte": "Paraíba Business",
+    "data": "31 Out",
+    "resumo": "PL elegeu a maior bancada da Câmara desde 1988, e analistas dizem que isso eleva o custo político de qualquer novo imposto ou aumento de gasto.",
+    "conteudo": "O Congresso eleito em outubro de 2026 terá o PL como maior bancada da Câmara desde a Constituição de 1988, com 121 deputados, além de 28 dos 81 senadores, segundo apuração dos resultados eleitorais. O centrão perdeu espaço relativo, e analistas ouvidos por veículos econômicos avaliam que esse Legislativo mais conservador vai cobrar o Executivo com mais força a partir de 2027, dificultando qualquer tentativa do governo Lula, reeleito em 25/10, de ampliar gastos ou criar novos tributos sem contrapartida fiscal.\n\nEsse equilíbrio de forças funciona como um freio adicional ao risco fiscal que já pressiona o dólar e a bolsa nesta semana: um Congresso resistente a aumento de imposto reduz a chance de medidas que elevem a carga tributária de forma abrupta, mas também pode travar qualquer pacote de ajuste fiscal que dependa de aprovação no Legislativo. Para quem empreende, vale acompanhar de perto a relação entre Planalto e o novo Congresso a partir de fevereiro — é dessa negociação, mais do que de anúncios isolados do governo, que deve sair o desenho real da política fiscal e tributária dos próximos quatro anos.",
+    "url": "https://paraibabusiness.com.br/congresso-eleito-em-2026-encolhe-o-centrao-e-muda-o-jogo-da-governabilidade/",
+    "posicao": 2,
+    "batch_date": "2026-10-31"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "TCU fixa alíquota de referência da CBS em 11,3% para 2027",
+    "fonte": "Mercado&Consumo",
+    "data": "31 Out",
+    "resumo": "Cálculo aprovado pelo tribunal vai ao Senado, que tem até 15 de dezembro para confirmar o percentual que vale como base do novo tributo.",
+    "conteudo": "O Tribunal de Contas da União aprovou, em 28/10, o cálculo da alíquota de referência da CBS em 11,3468%, arredondada para 11,3% a partir de 2027, com um redutor de 4,42% nas compras públicas. O processo (TC 006.529/2026-7) agora segue para o Senado, que tem até 15 de dezembro para fixar o percentual oficial por resolução; se não votar a tempo, passa a valer automaticamente o número calculado pelo TCU.\n\nEssa alíquota de referência é a base de cálculo do regime geral da reforma tributária, que substitui o PIS/Cofins a partir de 2027. Mesmo empresas do Simples Nacional, que não recolhem CBS diretamente, sentem o efeito indireto: fornecedores e clientes do regime regular passam a ter crédito tributário que o pequeno negócio do Simples não gera, o que pode pesar na negociação de preços com quem está do outro lado da cadeia. Vale simular com o contador, ainda este ano, o efeito da nova alíquota nos contratos que vencem ou são renovados em 2027.",
+    "url": "https://mercadoeconsumo.com.br/28/10/2026/economia/tcu-informa-aliquota-da-cbs-em-113-para-2027-e-redutor-de-442-nas-compras-publicas/",
+    "posicao": 3,
+    "batch_date": "2026-10-31"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Itaú passa a prever Selic parada em novembro após turbulência eleitoral",
+    "fonte": "Gazeta Mercantil",
+    "data": "31 Out",
+    "resumo": "Banco abandonou a aposta em corte de 0,25 ponto na Selic depois da forte alta do dólar e dos juros futuros na semana da reeleição.",
+    "conteudo": "Com os juros futuros em alta em toda a curva de DI durante a semana de 27 a 30 de outubro, o Itaú revisou sua projeção e agora espera que o Copom mantenha a Selic em 13,75% ao ano na reunião de 3 e 4 de novembro, abandonando a expectativa anterior de um corte de 0,25 ponto percentual. A revisão acompanha a disparada do dólar a R$5,44 e a piora da percepção de risco fiscal depois da reeleição de Lula, confirmada em 25/10.\n\nSelic parada por mais tempo significa financiamento e capital de giro mais caros do que o esperado até pouco tempo atrás. Quem contava com o corte de novembro para renegociar dívidas ou tomar crédito mais barato precisa recalcular o custo financeiro do planejamento de caixa de fim de ano, incluindo estoque e capital de giro para a Black Friday, sem contar com esse alívio no curto prazo.",
+    "url": "https://gazetamercantil.com/dolar-alta-semanal-ibovespa-queda-eleicoes-2026",
+    "posicao": 4,
+    "batch_date": "2026-10-31"
+  },
+  {
+    "tag": "Mercado",
     "titulo": "Ibovespa cai pelo 4º pregão seguido, dólar fecha a R$5,38",
     "fonte": "InfoMoney",
     "data": "30 Out",
@@ -130,49 +174,5 @@
     "url": "https://www.gazetadopovo.com.br/economia/restituicao-ir-2026-como-consultar-lote-extra/",
     "posicao": 4,
     "batch_date": "2026-10-28"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa despenca 13,88% e aciona circuit breaker após reeleição de Lula",
-    "fonte": "Investing.com Brasil",
-    "data": "27 Out",
-    "resumo": "Primeiro pregão após a confirmação da reeleição teve a maior queda da Bolsa desde 2020 e acionou o circuit breaker da B3.",
-    "conteudo": "Nesta segunda-feira (26/10), primeiro pregão após o TSE confirmar a reeleição de Lula, o Ibovespa afundou 13,88%, fechando em 176.608,23 pontos, e acionou o circuit breaker da B3 minutos após a abertura — mecanismo que suspende as negociações por 30 minutos quando o índice recua mais de 10% em relação ao fechamento anterior. O dólar comercial subiu 8,21% no mesmo pregão, encerrando a R$5,403, refletindo o temor do mercado com o rumo da política fiscal no novo mandato.\n\nNesta terça-feira (27/10), o pregão abre em busca de alívio depois do tombo histórico, com investidores de olho em sinais sobre a composição da equipe econômica e uma eventual revisão do arcabouço fiscal. Para quem toca um negócio, a lição é não travar câmbio ou crédito de prazo longo em cima do susto de segunda: esses sinais do governo nos próximos dias tendem a pesar mais no preço final do que o movimento do primeiro pregão.",
-    "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibov-derrete-14-com-lula-reeleito-e-temor-de-risco-fiscal-2103345",
-    "posicao": 1,
-    "batch_date": "2026-10-27"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Sem transição, Lula reúne equipe econômica para conter susto do mercado",
-    "fonte": "Poder360",
-    "data": "27 Out",
-    "resumo": "Presidente se encontrou com os ministros Durigan e Moretti no Alvorada após o tombo da Bolsa; comando da Fazenda no 4º mandato ainda é incerto.",
-    "conteudo": "Horas depois de a Bolsa registrar sua maior queda desde 2020 em reação à reeleição, Lula reuniu no Palácio da Alvorada, nesta segunda-feira (26/10), o ministro da Fazenda, Dario Durigan, e o do Planejamento, Bruno Moretti, para discutir a resposta do governo à turbulência nos mercados. Como a lei que cria equipe de transição não vale para reeleição, Lula segue com o ministério atual até a posse do quarto mandato, em 5 de janeiro de 2027, podendo ajustar nomes até lá — o governador reeleito do Piauí, Rafael Fonteles, e o vice-presidente Geraldo Alckmin aparecem cotados para o comando da Fazenda.\n\nPara quem empreende, o que pesa não é o nome que vai assumir a Fazenda, e sim o sinal que o governo der sobre o arcabouço fiscal nas próximas semanas: é esse sinal, mais do que o resultado da eleição em si, que deve definir se o custo do crédito e o câmbio se estabilizam ou continuam oscilando até a virada do ano.",
-    "url": "https://www.poder360.com.br/poder-governo/lula-reune-durigan-e-moretti-depois-de-turbulencia-nos-mercados/",
-    "posicao": 2,
-    "batch_date": "2026-10-27"
-  },
-  {
-    "tag": "Crédito",
-    "titulo": "Congresso prorroga por 60 dias MP que reforça garantia de crédito a PMEs",
-    "fonte": "Carmelitas Contabilidade",
-    "data": "27 Out",
-    "resumo": "Medida renovada em 8/10 mantém R$3,5 bi em fundos garantidores ligados ao Pronampe, mas não libera recursos novos para as empresas.",
-    "conteudo": "O Congresso prorrogou por 60 dias, em 8 de outubro, a vigência da Medida Provisória nº 1.385/2026, que havia aberto crédito extraordinário de R$3,5 bilhões para fundos garantidores de operações de crédito a micro e pequenas empresas — dos quais R$2,75 bilhões estão ligados diretamente ao reforço de garantias dentro do Pronampe. A prorrogação não representa dinheiro novo: apenas mantém em vigor o valor já autorizado por MP publicada em agosto de 2026.\n\nNa prática, o fundo garantidor que respalda o Pronampe continua musculoso, o que facilita a aprovação de crédito para quem tem CNPJ recente ou pouco histórico bancário — mas não aumenta o limite disponível por empresa. Vale conferir com o banco se ainda há espaço na cota antes de contar com o programa para fechar o caixa do fim do ano.",
-    "url": "https://carmelitas.com.br/2026/10/08/pronampe-mp-1385-credito-pequenas-empresas/",
-    "posicao": 3,
-    "batch_date": "2026-10-27"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Itaú compra 100% da NeoSpace e eleva aposta em IA a R$2,9 bilhões",
-    "fonte": "NeoFeed",
-    "data": "27 Out",
-    "resumo": "Banco adquiriu a totalidade da startup de inteligência artificial fundada por ex-sócios da Zup, encerrando a participação dos demais sócios.",
-    "conteudo": "O Itaú Unibanco anunciou, nesta segunda-feira (26/10), a compra da totalidade das ações da NeoSpace, startup brasileira de inteligência artificial, por R$2,925 bilhões. O banco já era acionista da empresa desde janeiro de 2025, quando comprou 15% da startup; a operação agora elimina os demais sócios da NeoSpace, fundada por ex-executivos da Zup — companhia de tecnologia que o próprio Itaú já havia adquirido em 2020.\n\nPara o ecossistema de startups brasileiro, o negócio mostra que vender para um banco ou corporação grande continua sendo uma rota de saída mais concreta do que buscar novo aporte de venture capital, sobretudo em IA aplicada a um problema específico de um setor. É um caminho que donos de startups B2B de nicho podem mirar como alternativa a rodadas cada vez mais seletivas.",
-    "url": "https://neofeed.com.br/negocios/itau-compra-neospace-por-r-29-bilhoes-e-avanca-na-inteligencia-artificial/",
-    "posicao": 4,
-    "batch_date": "2026-10-27"
   }
 ]
