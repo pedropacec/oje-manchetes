@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Trabalhista",
+    "titulo": "Senado aprova fim da escala 6x1; jornada cai para 40 horas",
+    "fonte": "Folha Vitória",
+    "data": "02 Nov",
+    "resumo": "PEC aprovada em dois turnos por 75 votos a 1 garante dois dias de descanso semanal e segue para promulgação.",
+    "conteudo": "O Senado aprovou, em dois turnos na noite de 14 de outubro, a Proposta de Emenda à Constituição que extingue a escala 6x1 nas empresas brasileiras. O placar foi de 75 votos a favor e apenas 1 contrário em cada turno. O texto, que já havia passado pela Câmara em maio, reduz a jornada semanal máxima de 44 para 40 horas e garante dois dias de descanso consecutivos por semana, sem redução de salário. A proposta segue agora para promulgação, mas o Congresso ainda discute se haverá um período de transição para as empresas se adaptarem ou se a mudança valerá de forma imediata.\n\nPara quem emprega em escala — comércio, serviços, indústria com turnos — a conta muda: encaixar a mesma operação em menos horas por funcionário tende a exigir mais contratações, revisão de turnos ou investimento em produtividade, especialmente em segmentos que hoje dependem da 6x1 como varejo, segurança e limpeza. Vale começar a simular o impacto na folha e no dimensionamento de equipe agora, sem esperar a promulgação, já que o placar está definido e dificilmente será revertido.",
+    "url": "https://www.folhavitoria.com.br/politica/senado-aprova-o-fim-da-escala-6x1/",
+    "posicao": 1,
+    "batch_date": "2026-11-02"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Balança comercial soma US$68,3 bi no ano, alta de 36,8%",
+    "fonte": "Jornal do Comércio",
+    "data": "02 Nov",
+    "resumo": "Saldo de US$1,69 bi na última semana de outubro mantém projeção do MDIC de US$84,4 bi em superávit para 2026.",
+    "conteudo": "A balança comercial brasileira registrou superávit de US$1,69 bilhão na quarta semana de outubro, com exportações de US$8,5 bilhões e importações de US$6,8 bilhões no período, segundo dados da Secex/MDIC. No acumulado do ano até a terceira semana de outubro, o saldo positivo somava US$68,355 bilhões, alta de 36,8% sobre o mesmo intervalo de 2025. O MDIC mantém a projeção de superávit de US$84,4 bilhões para todo o 2026, crescimento de 24% em relação ao ano passado — revisão para baixo frente à estimativa anterior, de US$90 bilhões.\n\nUm superávit comercial robusto ajuda a sustentar o real mesmo em meio à turbulência cambial do pós-eleição, o que é boa notícia para quem importa insumos, equipamentos ou matéria-prima: a entrada de dólares do agro e das commodities segue dando algum colchão ao câmbio. Ainda assim, a revisão para baixo da projeção anual é um alerta de que esse fôlego pode perder força nos últimos meses do ano — vale travar preços de importação em contratos futuros enquanto o cenário ainda está relativamente favorável.",
+    "url": "https://www.jornaldocomercio.com/economia/2026/10/1268280-balanca-comercial-tem-superavit-de-uss-1690-bilhao-na-quarta-semana-de-outubro.html",
+    "posicao": 2,
+    "batch_date": "2026-11-02"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Startups brasileiras captam US$3,25 bi em 2026, mas rodadas caem à metade",
+    "fonte": "Startup Ecosystem Brasil",
+    "data": "02 Nov",
+    "resumo": "Volume captado de janeiro a setembro supera o mesmo período de 2024, mas o número de empresas que conseguiram um investidor despencou.",
+    "conteudo": "Startups brasileiras captaram US$3,25 bilhões entre janeiro e setembro de 2026, volume levemente superior aos US$3,09 bilhões do mesmo período de 2024, segundo levantamento do Startup Ecosystem Brasil. Mas o número de empresas que conseguiram fechar uma rodada com um investidor caiu praticamente à metade no período. Parte do volume captado vem de dívida estruturada, não de equity: no segundo trimestre, a fintech CloudWalk levantou US$1,07 bilhão via FIDC, a maior captação desse tipo já registrada no país.\n\nO recado para quem busca investimento é direto: o dinheiro que entra no ecossistema está mais concentrado em poucas operações grandes, muitas delas de crédito e não de equity, o que torna o caminho até o primeiro investidor mais estreito justamente no estágio em que já era mais difícil — seed e Series A. Fundadores em captação inicial devem considerar alternativas como linhas de crédito para startups, aportes de family offices ou faturamento recorrente como ponte até o cenário de equity melhorar.",
+    "url": "https://startupecosystem.substack.com/p/as-startups-brasileiras-captaram",
+    "posicao": 3,
+    "batch_date": "2026-11-02"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Abertura de pequenos negócios cresce 14% e chega a 3,6 milhões",
+    "fonte": "Agência Sebrae",
+    "data": "02 Nov",
+    "resumo": "Levantamento do Sebrae com dados da Receita Federal mostra MEI, microempresas e pequenas empresas somando 3,4 milhões das novas aberturas entre janeiro e julho.",
+    "conteudo": "O Brasil abriu 3,6 milhões de novos negócios entre janeiro e julho de 2026, alta de quase 14% sobre o mesmo período de 2025, segundo levantamento do Sebrae com dados da Receita Federal divulgado pela Agência Sebrae. Desse total, 3,4 milhões — ou 96,7% — são MEIs, microempresas ou empresas de pequeno porte, reforçando que o pequeno negócio segue como a porta de entrada mais usada para a formalização no país.\n\nO crescimento na abertura de empresas é um termômetro de confiança, mas também sinaliza mais concorrência em setores de baixa barreira de entrada, como serviços e comércio, que concentram a maior parte dos novos CNPJs. Quem já está no mercado precisa diferenciar a oferta e cuidar da carteira de clientes, enquanto quem está pensando em abrir um negócio agora entra em um momento de juros altos e crédito caro — vale pesquisar linhas com garantia do Fampe ou do Sebrae antes de usar capital próprio ou cartão de crédito como capital de giro.",
+    "url": "https://fenacon.org.br/noticias/abertura-de-pequenos-negocios-cresce-quase-14-em-2026/",
+    "posicao": 4,
+    "batch_date": "2026-11-02"
+  },
+  {
     "tag": "Juros",
     "titulo": "Mercado eleva aposta em pausa da Selic às vésperas do Copom de 4/11",
     "fonte": "BPMoney",
@@ -130,49 +174,5 @@
     "url": "https://agendadopoder.com.br/lula-prepara-pec-para-reforcar-meta-fiscal-e-reduzir-credito-subsidiado-no-novo-mandato/",
     "posicao": 4,
     "batch_date": "2026-10-30"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Prazo para optar pelo regime regular de IBS e CBS termina nesta sexta",
-    "fonte": "Receita Federal",
-    "data": "29 Out",
-    "resumo": "Empresas já no Simples Nacional que querem migrar para o regime regular do novo imposto sobre consumo em 2027 têm até esta sexta-feira (30/10) para decidir.",
-    "conteudo": "A Resolução CGSN nº 194/2026, publicada em 28 de setembro, prorrogou para esta sexta-feira (30/10) o prazo em que empresas já optantes pelo Simples Nacional podem escolher o regime regular de apuração do IBS e da CBS para o primeiro semestre de 2027 — antes, a data-limite era 30 de setembro. A opção vale só para o período de janeiro a junho do ano que vem e, depois de feita, só pode ser cancelada entre 3 de novembro e 20 de dezembro deste ano; passado esse intervalo, a escolha é irretratável. A mesma resolução também prorrogou o prazo de pedido de ingresso no Simples para 2027, mas esse prazo — 15 de outubro — já passou.\n\nNa prática, migrar para o regime regular do IBS/CBS dá à empresa o direito de gerar e aproveitar créditos tributários do novo imposto sobre consumo, algo que o Simples tradicional não permite — vantagem real para quem vende majoritariamente para outras empresas, já que o cliente PJ também passa a poder abater o imposto pago. Em troca, a empresa perde a apuração simplificada do IBS e da CBS dentro da guia única do Simples, com mais burocracia de escrituração só para esses dois tributos. Quem fatura sobretudo para o consumidor final tende a continuar melhor no Simples padrão; quem depende de clientes empresariais deve fazer essa conta antes de sexta-feira, porque depois de 30/10 só dá para reverter a decisão na janela de novembro e dezembro.",
-    "url": "https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=c739e03c-8482-473f-8e82-f38ec3b13637",
-    "posicao": 1,
-    "batch_date": "2026-10-29"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa cai pelo 3º pregão seguido e já perde 16,6% na semana",
-    "fonte": "InfoMoney",
-    "data": "29 Out",
-    "resumo": "Bolsa fechou quarta-feira em 171 mil pontos e dólar a R$5,34, mas o estrago da semana pós-eleição ainda não foi recuperado.",
-    "conteudo": "O Ibovespa encerrou a quarta-feira (28/10) em queda de 2,68%, a 171.006,10 pontos, a terceira baixa seguida, enquanto o dólar comercial recuou 0,19% no dia, a R$5,34. Ainda assim, na semana o índice acumula perda de 16,6% e o dólar sobe 6,95%, reflexo direto do tombo de 13,88% da bolsa e da alta de mais de 8% da moeda americana registrados na segunda-feira, primeiro pregão após a confirmação da reeleição de Lula. O volume negociado no pregão de quarta ficou em R$59,8 bilhões, com as ações de bancos entre as maiores quedas após o balanço do Santander.\n\nPara quem empreende, o sinal mais importante não é o número do dia, mas a persistência da turbulência: três pregões seguidos de queda mostram que o mercado ainda não encontrou um piso para o risco fiscal e político do novo mandato. Insumos importados, contratos em dólar e linhas de crédito atreladas a CDI ou câmbio ficam mais caros enquanto essa incerteza não se dissipar — vale evitar fechar compromissos longos em moeda estrangeira ou refinanciamentos relevantes nesta janela e acompanhar de perto o noticiário fiscal do governo nas próximas semanas.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/",
-    "posicao": 2,
-    "batch_date": "2026-10-29"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Governo avalia cobrar IOF sobre LCI, LCA e outros papéis isentos de IR",
-    "fonte": "Poder360",
-    "data": "29 Out",
-    "resumo": "Equipe econômica estuda tributar por decreto títulos hoje isentos, sem alíquota definida nem data para anúncio oficial.",
-    "conteudo": "A equipe econômica do governo Lula avalia cobrar Imposto sobre Operações Financeiras (IOF) sobre LCI, LCA, CRI, CRA e debêntures incentivadas, títulos que hoje têm alíquota zero de IOF após 30 dias de aplicação, segundo apuração divulgada nesta quarta-feira (28/10). A isenção de Imposto de Renda sobre esses papéis custa cerca de R$33 bilhões por ano aos cofres públicos, mas não há ainda alíquota definida nem data para um anúncio oficial — como o IOF tem caráter regulatório, o governo pode alterá-lo por decreto, sem passar pelo Congresso e sem respeitar o prazo de anterioridade que vale para outros tributos. Em 2025, uma tentativa parecida de tributar esses papéis, pela MP 1.303, foi derrubada pelo Congresso.\n\nPara o empresário que usa LCI, LCA ou debêntures incentivadas como reserva de caixa ou capital de giro de curto prazo, o risco é perder de uma hora para outra parte do ganho líquido que hoje atrai justamente por ser isento — e, por vir de decreto, a mudança pode valer rápido, sem o tempo de adaptação que uma lei daria. Vale não concentrar toda a reserva de emergência da empresa nesses papéis enquanto o estudo não é descartado ou confirmado, e diversificar entre produtos isentos e tributados para não depender de uma única regra que pode mudar por decreto presidencial.",
-    "url": "https://www.poder360.com.br/poder-economia/governo-avalia-cobrar-iof-sobre-lci-lca-e-outros-titulos/",
-    "posicao": 3,
-    "batch_date": "2026-10-29"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "CNI corta projeção do PIB 2026 para 1,6% e culpa juro alto",
-    "fonte": "Agência Brasil",
-    "data": "29 Out",
-    "resumo": "Entidade reduziu estimativa de crescimento de 2% para 1,6%, com a indústria de transformação entrando em retração.",
-    "conteudo": "A Confederação Nacional da Indústria (CNI) reduziu, no Informe Conjuntural do terceiro trimestre divulgado em 28 de outubro, sua projeção de crescimento do PIB brasileiro em 2026 de 2% para 1,6%, com a indústria de transformação passando de uma alta estimada de 0,6% para uma retração de 0,7%. A entidade aponta juros altos, crédito mais caro, retração no consumo das famílias e concorrência de produtos importados como os principais fatores da desaceleração, mas também elevou a estimativa para a agropecuária, de 1,8% para 2,5%, puxada pela safra de milho. A CNI projeta ainda dois cortes de 0,25 ponto na Selic até o fim do ano, para 13,25%, e inflação em 5,15% pelo IPCA.\n\nPara quem empreende fora do agronegócio, a leitura prática é que o crédito caro vai continuar pesando no custo de expansão por mais tempo do que o esperado há poucos meses — mesmo com cortes graduais da Selic, o alívio no capital de giro e no financiamento de investimento deve ser lento. Setores ligados ao consumo interno, como comércio e serviços, sentem isso primeiro; vale rever metas de crescimento para 2026 com uma premissa de juro ainda restritivo e represar investimentos que dependam fortemente de crédito bancário até que o ciclo de corte da Selic avance de fato.",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cni-reduz-previsao-de-crescimento-do-pib-para-16-em-2026",
-    "posicao": 4,
-    "batch_date": "2026-10-29"
   }
 ]
