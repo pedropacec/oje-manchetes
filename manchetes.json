@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Bolsa cai pelo 6º pregão e dólar vai a R$5,49 na véspera do Copom",
+    "fonte": "SBT News",
+    "data": "04 Nov",
+    "resumo": "Mercado fecha a pior sequência desde a eleição com juros e câmbio sob pressão, horas antes da decisão do Banco Central sobre a Selic.",
+    "conteudo": "O Ibovespa encerrou a sessão de terça-feira (3/11) em queda de 1,42%, a 165.528,92 pontos, a sexta queda consecutiva desde a confirmação da reeleição de Lula. O dólar fechou em alta de 0,79%, a R$5,487, o maior valor desde 30 de dezembro de 2025, depois de chegar a R$5,515 durante o pregão. O movimento reflete a cautela do mercado diante da indefinição sobre a equipe econômica do novo governo e da expectativa pela decisão do Copom, que o Banco Central anuncia nesta quarta-feira (4/11) à noite: a maioria das casas e das opções negociadas na B3 aposta na manutenção da Selic em 13,75% ao ano, mas uma minoria relevante ainda vê espaço para um corte de 0,25 ponto.\n\nPara quem empreende, esses dois dias resumem o dilema do momento: dólar mais caro pressiona quem compra insumos ou paga contratos em moeda estrangeira, enquanto a possibilidade real de a Selic ficar parada por mais tempo encarece ainda mais o crédito e o financiamento de capital de giro. Vale evitar travar hoje compromissos longos em dólar e acompanhar o comunicado do Copom à noite antes de fechar qualquer renegociação de dívida ou nova linha de crédito nesta semana.",
+    "url": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-cai-pela-6-vez-seguida-e-dolar-bate-recorde-no-ano",
+    "posicao": 1,
+    "batch_date": "2026-11-04"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "NFS-e Nacional já é obrigatória para empresas do Simples Nacional",
+    "fonte": "Receita Federal",
+    "data": "04 Nov",
+    "resumo": "Desde 1º de novembro, microempresas e pequenas empresas devem emitir nota fiscal de serviço pelo padrão nacional da Receita Federal.",
+    "conteudo": "A Resolução CGSN nº 191/2026 tornou obrigatória, a partir de 1º de novembro de 2026, a emissão da Nota Fiscal de Serviço eletrônica (NFS-e) no padrão nacional por microempresas (ME) e empresas de pequeno porte (EPP) optantes do Simples Nacional. A norma revogou um prazo anterior, que previa início em setembro, e determina que a nota passe a ser emitida pelo Emissor Nacional da Receita Federal, seja pelo portal web, seja por integração via API com o sistema de gestão da empresa. Entre novembro e dezembro, a emissão segue as regras atuais do Simples; as mudanças ligadas à CBS e ao IBS só entram em vigor a partir de janeiro de 2027.\n\nNa prática, quem presta serviço e ainda emite nota pelo sistema do próprio município corre o risco de ficar em desacordo com a nova regra nacional, o que pode gerar inconsistência fiscal bem no período de maior movimento do ano, com Black Friday e vendas de fim de ano. O caminho mais seguro é confirmar com o contador ou com o fornecedor do sistema de emissão se a integração com o Emissor Nacional já está ativa, em vez de descobrir isso em dezembro, sob pressão.",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026",
+    "posicao": 2,
+    "batch_date": "2026-11-04"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Inadimplência de pequenos negócios cai e crédito aprovado sobe",
+    "fonte": "Agência Sebrae",
+    "data": "04 Nov",
+    "resumo": "13ª edição do Pulso dos Pequenos Negócios, do Sebrae, mostra queda na dívida em atraso e aprovação de financiamento no maior nível desde 2022.",
+    "conteudo": "A 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, mostra que a parcela de pequenos negócios com dívidas ou empréstimos em atraso caiu de 28% no primeiro trimestre para 25% em julho, uma queda de três pontos percentuais. No mesmo levantamento, a aprovação de crédito bancário para pequenos negócios atingiu o maior nível desde 2022. O presidente do Sebrae, Rodrigo Soares, atribui parte da melhora à queda da taxa de juros ao longo do ano e ao programa Desenrola, que já soma cerca de R$31 bilhões em operações contratadas por pequenos negócios.\n\nA melhora é real, mas vem de uma base ruim: um em cada quatro pequenos negócios ainda está com conta em atraso, e o alívio no crédito pode perder força se o Copom decidir manter os juros parados por mais tempo, como o mercado já precifica para a decisão desta noite. Para quem está pensando em tomar crédito para repor estoque ou fechar o ano, o momento é mais favorável do que há alguns meses, mas vale negociar agora, antes de dezembro, quando a demanda por capital de giro de fim de ano tende a encarecer as linhas disponíveis.",
+    "url": "https://agenciasebrae.com.br/dados/inadimplencia-de-pequenos-negocios-cai-e-aprovacao-de-credito-atinge-maior-nivel-desde-2022/",
+    "posicao": 3,
+    "batch_date": "2026-11-04"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Empresa de brasileira vale US$40 bi após captar US$1 bi nos EUA",
+    "fonte": "Bloomberg Línea",
+    "data": "04 Nov",
+    "resumo": "Kalshi, mercado de previsões fundado pela brasileira Luana Lopes Lara, dobra de valor em seis meses e mostra até onde pode ir uma ideia tocada fora do Brasil.",
+    "conteudo": "A Kalshi, bolsa de mercados de previsão sediada nos Estados Unidos e cofundada pela brasileira Luana Lopes Lara, captou US$1 bilhão em rodada Série G anunciada em 29 de outubro, elevando seu valor de mercado para US$40 bilhões — quase o dobro da avaliação de maio, quando a empresa já havia levantado outro US$1 bilhão em rodada Série F. A companhia afirma que seus mercados fora do universo esportivo já geram receita anualizada acima de US$1 bilhão, com mais de 30 milhões de contas criadas e volume negociado superior a US$1 trilhão no ano.\n\nO caso é americano, mas a repercussão no Brasil é imediata: mostra que fundadores brasileiros estão à frente de alguns dos negócios mais valiosos do mundo em tecnologia, mesmo fora do país, num momento em que o capital de risco por aqui segue escasso e seletivo. Para quem empreende em tecnologia e pensa em crescer além da fronteira brasileira, o caminho da Kalshi — validar o modelo nos EUA antes de buscar escala global — é um lembrete de que mercado de origem e mercado de capital não precisam ser o mesmo.",
+    "url": "https://www.bloomberglinea.com.br/startups/rodadas-da-semana-kalshi-capta-us-1-bilhao-e-chega-a-us-40-bi-de-valuation/",
+    "posicao": 4,
+    "batch_date": "2026-11-04"
+  },
+  {
     "tag": "Capital",
     "titulo": "Inadimplência das empresas bate recorde: 9,3 milhões de CNPJs negativados",
     "fonte": "Serasa Experian",
@@ -130,49 +174,5 @@
     "url": "https://www.bloomberglinea.com.br/2026/10/26/itau-compra-startup-de-ia-neospace-por-r-29-bilhoes-e-reforca-transformacao-digital/",
     "posicao": 4,
     "batch_date": "2026-11-01"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Bolsa tem pior semana desde 2020 e small caps despencam 32,79%",
-    "fonte": "InfoMoney",
-    "data": "31 Out",
-    "resumo": "Ibovespa caiu pelo 5º pregão seguido após a reeleição de Lula, e o índice de empresas menores teve a maior queda semanal da história.",
-    "conteudo": "O Ibovespa encerrou a sessão de sexta-feira (30/10) em 167.921 pontos, quinta queda consecutiva desde a confirmação da reeleição de Lula em 25/10, acumulando perda semanal de 18,12% — a pior desde março de 2020. O dólar fechou em alta a R$5,44, com valorização semanal de mais de 9%, enquanto o índice de small caps (SMLL), que reúne ações de empresas de menor porte na bolsa, afundou 32,79% na semana, a maior queda de toda a sua série histórica, superando até a crise de 2008.\n\nPara quem empreende, o tombo das small caps é o sinal mais direto de que o capital está fugindo primeiro das empresas menores, justamente as que mais dependem de crédito bancário e de capital de giro para operar. Combinado ao dólar mais caro, que já pressiona quem importa insumos ou paga contratos em moeda estrangeira, o momento pede cautela: evitar travar compromissos longos em dólar ou buscar refinanciamento relevante até o mercado dar algum sinal de estabilização.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/",
-    "posicao": 1,
-    "batch_date": "2026-10-31"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Novo Congresso mais à direita deve travar agenda fiscal de Lula em 2027",
-    "fonte": "Paraíba Business",
-    "data": "31 Out",
-    "resumo": "PL elegeu a maior bancada da Câmara desde 1988, e analistas dizem que isso eleva o custo político de qualquer novo imposto ou aumento de gasto.",
-    "conteudo": "O Congresso eleito em outubro de 2026 terá o PL como maior bancada da Câmara desde a Constituição de 1988, com 121 deputados, além de 28 dos 81 senadores, segundo apuração dos resultados eleitorais. O centrão perdeu espaço relativo, e analistas ouvidos por veículos econômicos avaliam que esse Legislativo mais conservador vai cobrar o Executivo com mais força a partir de 2027, dificultando qualquer tentativa do governo Lula, reeleito em 25/10, de ampliar gastos ou criar novos tributos sem contrapartida fiscal.\n\nEsse equilíbrio de forças funciona como um freio adicional ao risco fiscal que já pressiona o dólar e a bolsa nesta semana: um Congresso resistente a aumento de imposto reduz a chance de medidas que elevem a carga tributária de forma abrupta, mas também pode travar qualquer pacote de ajuste fiscal que dependa de aprovação no Legislativo. Para quem empreende, vale acompanhar de perto a relação entre Planalto e o novo Congresso a partir de fevereiro — é dessa negociação, mais do que de anúncios isolados do governo, que deve sair o desenho real da política fiscal e tributária dos próximos quatro anos.",
-    "url": "https://paraibabusiness.com.br/congresso-eleito-em-2026-encolhe-o-centrao-e-muda-o-jogo-da-governabilidade/",
-    "posicao": 2,
-    "batch_date": "2026-10-31"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "TCU fixa alíquota de referência da CBS em 11,3% para 2027",
-    "fonte": "Mercado&Consumo",
-    "data": "31 Out",
-    "resumo": "Cálculo aprovado pelo tribunal vai ao Senado, que tem até 15 de dezembro para confirmar o percentual que vale como base do novo tributo.",
-    "conteudo": "O Tribunal de Contas da União aprovou, em 28/10, o cálculo da alíquota de referência da CBS em 11,3468%, arredondada para 11,3% a partir de 2027, com um redutor de 4,42% nas compras públicas. O processo (TC 006.529/2026-7) agora segue para o Senado, que tem até 15 de dezembro para fixar o percentual oficial por resolução; se não votar a tempo, passa a valer automaticamente o número calculado pelo TCU.\n\nEssa alíquota de referência é a base de cálculo do regime geral da reforma tributária, que substitui o PIS/Cofins a partir de 2027. Mesmo empresas do Simples Nacional, que não recolhem CBS diretamente, sentem o efeito indireto: fornecedores e clientes do regime regular passam a ter crédito tributário que o pequeno negócio do Simples não gera, o que pode pesar na negociação de preços com quem está do outro lado da cadeia. Vale simular com o contador, ainda este ano, o efeito da nova alíquota nos contratos que vencem ou são renovados em 2027.",
-    "url": "https://mercadoeconsumo.com.br/28/10/2026/economia/tcu-informa-aliquota-da-cbs-em-113-para-2027-e-redutor-de-442-nas-compras-publicas/",
-    "posicao": 3,
-    "batch_date": "2026-10-31"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Itaú passa a prever Selic parada em novembro após turbulência eleitoral",
-    "fonte": "Gazeta Mercantil",
-    "data": "31 Out",
-    "resumo": "Banco abandonou a aposta em corte de 0,25 ponto na Selic depois da forte alta do dólar e dos juros futuros na semana da reeleição.",
-    "conteudo": "Com os juros futuros em alta em toda a curva de DI durante a semana de 27 a 30 de outubro, o Itaú revisou sua projeção e agora espera que o Copom mantenha a Selic em 13,75% ao ano na reunião de 3 e 4 de novembro, abandonando a expectativa anterior de um corte de 0,25 ponto percentual. A revisão acompanha a disparada do dólar a R$5,44 e a piora da percepção de risco fiscal depois da reeleição de Lula, confirmada em 25/10.\n\nSelic parada por mais tempo significa financiamento e capital de giro mais caros do que o esperado até pouco tempo atrás. Quem contava com o corte de novembro para renegociar dívidas ou tomar crédito mais barato precisa recalcular o custo financeiro do planejamento de caixa de fim de ano, incluindo estoque e capital de giro para a Black Friday, sem contar com esse alívio no curto prazo.",
-    "url": "https://gazetamercantil.com/dolar-alta-semanal-ibovespa-queda-eleicoes-2026",
-    "posicao": 4,
-    "batch_date": "2026-10-31"
   }
 ]
