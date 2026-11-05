@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Juros",
+    "titulo": "Copom quebra sequência de cortes e mantém Selic em 13,75% ao ano",
+    "fonte": "Suno Notícias",
+    "data": "05 Nov",
+    "resumo": "Decisão unânime surpreende o mercado, que apostava em novo corte, e mantém o crédito caro por mais tempo.",
+    "conteudo": "O Comitê de Política Monetária do Banco Central manteve a taxa Selic em 13,75% ao ano na noite de quarta-feira (4/11), em decisão unânime que interrompeu a sequência de cinco cortes consecutivos de 0,25 ponto percentual em curso desde o primeiro semestre de 2026. A decisão pegou parte do mercado de surpresa, já que a maioria das casas e das opções negociadas na B3 apostava em um sexto corte seguido. O comunicado do BC citou o aumento das expectativas de inflação e a pressão do câmbio como motivos para a pausa; a ata da reunião sai em 10/11, e o Copom volta a se reunir em dezembro.\n\nPara quem empreende, a notícia é direta: o crédito para capital de giro, antecipação de recebíveis e financiamento de estoque — justamente na reta final para a Black Friday — continua caro, sem o alívio que boa parte do mercado já precificava para novembro. Vale repensar o timing de qualquer renegociação de dívida ou nova linha de crédito: esperar a ata de 10/11 pode trazer pistas mais claras sobre se a pausa é pontual ou o início de um novo ciclo de juros estáveis em patamar elevado.",
+    "url": "https://www.suno.com.br/noticias/copom-mantem-selic-1375-novembro-2026-go/",
+    "posicao": 1,
+    "batch_date": "2026-11-05"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Prazo para Lula sancionar ou vetar aumento do teto do MEI termina nesta sexta",
+    "fonte": "Mixvale",
+    "data": "05 Nov",
+    "resumo": "PLP 186/2026 eleva limite de faturamento do MEI de R$81 mil para R$110 mil, mas o texto ainda não foi sancionado.",
+    "conteudo": "O prazo constitucional para o presidente Lula sancionar ou vetar o PLP 186/2026 — que eleva o teto de faturamento do MEI de R$81 mil para R$110 mil a partir de 2027 e para R$140 mil em 2028, além de prever perdão de parte das dívidas do programa — termina nesta sexta-feira (6/11). O projeto, aprovado pelo Senado em outubro e enviado à sanção, seguia sem decisão até 1º de novembro, segundo levantamentos recentes, o que mantém o limite atual de R$81 mil valendo por enquanto para quem abre ou mantém um MEI.\n\nIsso importa para qualquer microempreendedor perto do teto atual: se sancionado sem vetos, o novo limite libera espaço para faturar mais sem migrar para o Simples Nacional — com toda a burocracia e carga tributária que isso implica. Enquanto a decisão não sai, vale manter o planejamento com base na regra de R$81 mil e ficar de olho no Diário Oficial da União a partir de sexta-feira, para não ser pego de surpresa por uma mudança de regra no meio do mês.",
+    "url": "https://www.mixvale.com.br/2026/11/01/teto-do-mei-continua-em-r-81-mil-em-2026-apesar-de-projeto/",
+    "posicao": 2,
+    "batch_date": "2026-11-05"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "TCU fixa alíquota de referência da CBS em 11,3% para 2027",
+    "fonte": "Folha de Pernambuco",
+    "data": "05 Nov",
+    "resumo": "Tribunal de Contas aprova cálculo que serve de base para o novo imposto sobre consumo; Senado decide o valor final até dezembro.",
+    "conteudo": "O Plenário do Tribunal de Contas da União aprovou, em 28/10, o cálculo da alíquota de referência da CBS (Contribuição sobre Bens e Serviços) em 11,3% para 2027, ano em que o novo tributo passa a substituir PIS e Cofins. O número inclui um redutor de 44,2% para determinadas compras da administração pública e serve de parâmetro: cabe ao Senado Federal, até 15/12, fixar por lei a alíquota que efetivamente vai valer, que pode ficar abaixo ou acima do valor calculado pelo TCU.\n\nPara quem precifica produtos e serviços, essa referência de 11,3% já dá uma base concreta para simular o impacto da reforma tributária no custo final ao consumidor a partir de 2027, mesmo antes da decisão definitiva do Senado. Vale rodar esse cálculo agora com o contador, porque 2026 é só o período de teste do novo sistema, e qualquer ajuste de margem feito às pressas em dezembro custa mais caro do que um planejamento antecipado.",
+    "url": "https://www.folhape.com.br/economia/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113/521104/",
+    "posicao": 3,
+    "batch_date": "2026-11-05"
+  },
+  {
+    "tag": "Consumo",
+    "titulo": "Inadimplência bate novo recorde: 84,2 milhões de brasileiros negativados",
+    "fonte": "Mercado&Consumo",
+    "data": "05 Nov",
+    "resumo": "Serasa mostra alta mensal de dívidas em atraso a poucas semanas da Black Friday, com reflexo direto no poder de compra.",
+    "conteudo": "O Mapa da Inadimplência da Serasa, divulgado na segunda-feira (2/11), mostrou que 84,2 milhões de brasileiros estavam com dívidas em atraso em setembro, o maior número da série histórica e cerca de 300 mil pessoas a mais do que em agosto (83,9 milhões). O total das dívidas somou R$597,4 bilhões, alta de 0,90% em relação ao mês anterior, com dívida média de R$7.093,83 por inadimplente.\n\nPara o varejo e o comércio de serviços, o dado é um alerta direto para a Black Friday: parte relevante do público-alvo das promoções está endividada e tende a comprar menos ou priorizar parcelamentos mais longos. Vale ajustar a estratégia de vendas de fim de ano com condições de pagamento flexíveis e foco em recuperar clientes negativados, em vez de apostar só em descontos agressivos para atrair gente nova.",
+    "url": "https://mercadoeconsumo.com.br/02/11/2026/economia/inadimplencia-atinge-recorde-de-842-milhoes-de-brasileiros/",
+    "posicao": 4,
+    "batch_date": "2026-11-05"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Bolsa cai pelo 6º pregão e dólar vai a R$5,49 na véspera do Copom",
     "fonte": "SBT News",
@@ -130,49 +174,5 @@
     "url": "https://fenacon.org.br/noticias/abertura-de-pequenos-negocios-cresce-quase-14-em-2026/",
     "posicao": 4,
     "batch_date": "2026-11-02"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Mercado eleva aposta em pausa da Selic às vésperas do Copom de 4/11",
-    "fonte": "BPMoney",
-    "data": "01 Nov",
-    "resumo": "Opções negociadas na B3 davam mais de 70% de chance de corte dias atrás; agora 63,1% apostam que o Copom vai manter a Selic em 13,75%.",
-    "conteudo": "Depois da forte alta do dólar na semana da reeleição de Lula, confirmada em 25 de outubro, o mercado mudou radicalmente a aposta para a reunião do Copom de 3 e 4 de novembro. Segundo dados das opções de Copom negociadas na B3, a chance de o Banco Central manter a Selic em 13,75% ao ano saltou para 63,1%, contra 28% de probabilidade de um corte de 0,25 ponto percentual, que levaria a taxa a 13,50%. Dias antes, a maioria das apostas apontava justamente o caminho contrário, com mais de 70% das opções sinalizando novo corte.\n\nPara quem empreende, a mudança de cenário importa mais do que o número final: ela mostra que o Banco Central está sob pressão para não ceder à turbulência cambial e fiscal recente, o que torna o crédito caro uma realidade por mais tempo do que se esperava até a semana passada. Vale rever agora, antes do anúncio de quarta-feira à noite, qualquer financiamento, troca de dívida ou linha de capital de giro que dependia de um corte iminente de juros.",
-    "url": "https://bpmoney.com.br/politica/banco-central/selic-copom-63-chance-pausa-juros-137/",
-    "posicao": 1,
-    "batch_date": "2026-11-01"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Sicoob e Sebrae abrem R$5 bi em crédito a partir de 2,09% ao mês",
-    "fonte": "LetsMoney",
-    "data": "01 Nov",
-    "resumo": "Linha do Movimento de Apoio ao Empresário aceita contratação até 14 de novembro, com garantia do Fampe para quem tem dificuldade de oferecer colateral.",
-    "conteudo": "O Sicoob, em parceria com o Sebrae, abriu uma nova edição do Movimento de Apoio ao Empresário com R$5 bilhões disponíveis para micro e pequenas empresas, com contratação possível até 14 de novembro de 2026. As taxas partem de 2,09% ao mês, com prazo de pagamento de até 60 meses, sujeitas à análise de crédito, e as operações podem contar com a garantia complementar do Fundo de Aval às Micro e Pequenas Empresas (Fampe). O lançamento acontece poucos dias depois de o Sebrae divulgar que 21% das micro e pequenas empresas brasileiras estão com dívidas ou empréstimos em atraso, segundo a pesquisa Pulso dos Pequenos Negócios de 2026.\n\nPara o pequeno empresário, a janela chega na hora certa: faltam poucas semanas para o pagamento do 13º salário dos funcionários e para a reposição de estoque antes da Black Friday e do Natal, dois compromissos que pesam no caixa de fim de ano. Vale simular a linha com o gerente da cooperativa e comparar o custo efetivo total com outras opções de capital de giro antes de fechar negócio, já que a taxa anunciada é apenas o piso e depende do perfil de crédito de cada empresa.",
-    "url": "https://www.letsmoney.com.br/credito/sicoob-5-bilhoes-movimento-apoio-empresario/",
-    "posicao": 2,
-    "batch_date": "2026-11-01"
-  },
-  {
-    "tag": "Varejo",
-    "titulo": "Black Friday 2026 deve faturar R$13,3 bi no e-commerce, alta de 20,7%",
-    "fonte": "Meio & Mensagem",
-    "data": "01 Nov",
-    "resumo": "Projeção da Confi/Neotrust para os dias 26 a 29 de novembro aponta aumento de 15,4% no volume de produtos vendidos em relação ao ano passado.",
-    "conteudo": "Uma projeção da Confi/Neotrust, em parceria com a E-Commerce Brasil, estima faturamento de R$13,3 bilhões no comércio eletrônico brasileiro durante o período da Black Friday de 2026, de 26 a 29 de novembro, um avanço de 20,7% sobre os R$11,03 bilhões do mesmo período do ano passado. A expectativa é de 69,4 milhões de produtos vendidos, 15,4% mais que em 2025, com eletrodomésticos na liderança: R$2,12 bilhões em vendas, alta de 44,5%. O levantamento também mostra que o faturamento do e-commerce no acumulado de janeiro a setembro de 2026 já cresceu 16,9%, para R$322,6 bilhões.\n\nA combinação de mais pedidos com ticket médio menor é o recado principal para quem vende online ou tem loja física com canal digital: a demanda deve crescer mais em volume do que em valor por compra, o que exige atenção redobrada à logística, ao estoque e ao atendimento para não perder vendas por ruptura ou atraso na entrega. Especialistas do setor recomendam iniciar o planejamento operacional da Black Friday com pelo menos 60 dias de antecedência — ou seja, a partir de agora, para quem ainda não começou.",
-    "url": "https://www.meioemensagem.com.br/marketing/black-friday-deve-movimentar-r-133-bi-no-e-commerce",
-    "posicao": 3,
-    "batch_date": "2026-11-01"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Itaú compra startup brasileira de IA NeoSpace por R$2,9 bilhões",
-    "fonte": "Bloomberg Línea",
-    "data": "01 Nov",
-    "resumo": "Banco já tinha 15% da empresa desde 2025 e agora assume 100% do negócio para reforçar o assistente de inteligência artificial ia:i.",
-    "conteudo": "O Itaú Unibanco fechou, em 26 de outubro de 2026, a compra de 100% da NeoSpace, startup brasileira de inteligência artificial fundada em 2023, por R$2,925 bilhões. Parte do valor é paga no fechamento do negócio e o restante em parcelas ao longo de cinco anos, sujeito a condições, e a operação ainda depende da aprovação do Cade e do Banco Central. O banco já era acionista da empresa desde janeiro de 2025, quando investiu US$15 milhões por uma participação de 15%, e o CEO Bruno Pierobon deve permanecer no comando da equipe.\n\nA aquisição confirma um movimento que vem se acelerando no mercado brasileiro: grandes empresas comprando startups de IA em vez de apenas contratar suas tecnologias, o que estreita a janela para quem quer vender tecnologia proprietária como diferencial competitivo e amplia a disputa por talento técnico especializado. Para pequenos negócios que usam IA como parte da operação, vale observar esse tipo de consolidação — fornecedores menores podem ser absorvidos ou mudar de prioridade do dia para a noite, o que reforça a importância de não depender de uma única ferramenta ou parceiro de tecnologia.",
-    "url": "https://www.bloomberglinea.com.br/2026/10/26/itau-compra-startup-de-ia-neospace-por-r-29-bilhoes-e-reforca-transformacao-digital/",
-    "posicao": 4,
-    "batch_date": "2026-11-01"
   }
 ]
