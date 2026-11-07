@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Capital",
+    "titulo": "Sicoob e Sebrae liberam R$5 bi em crédito a pequenos negócios até 14/11",
+    "fonte": "Sicoob",
+    "data": "07 Nov",
+    "resumo": "Linha com taxas a partir de 2,09% ao mês e aval do Fampe fecha as contratações na próxima sexta-feira.",
+    "conteudo": "O Sicoob, em parceria com o Sebrae, reservou R$5 bilhões para financiar micro e pequenas empresas em linha de crédito com taxas a partir de 2,09% ao mês e prazo de pagamento de até 60 meses, sujeitas à análise de crédito de cada cooperativa. As operações podem contar com a garantia complementar do Fundo de Aval às Micro e Pequenas Empresas (Fampe), administrado pelo Sebrae, o que reduz a exigência de garantias próprias do tomador. As contratações seguem abertas até 14 de novembro.\n\nPara quem precisa repor estoque ou reforçar o caixa antes da Black Friday e do fim de ano, a linha chega num momento em que o crédito bancário tradicional continua caro, com a Selic parada em 13,75% ao ano. Vale simular o financiamento com a cooperativa Sicoob da região ainda esta semana — tanto pela janela curta de contratação quanto porque taxa e aprovação dependem da análise individual do negócio, que pode levar alguns dias.",
+    "url": "https://www.sicoob.com.br/web/sicoobcentralsp/noticias/-/asset_publisher/xAioIawpOI5S/content/id/327969410",
+    "posicao": 1,
+    "batch_date": "2026-11-07"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Ibovespa encerra 1ª semana positiva em três; dólar fecha a R$5,51",
+    "fonte": "InfoMoney",
+    "data": "07 Nov",
+    "resumo": "Bolsa subiu 1,39% na sexta-feira e rompeu sequência de perdas após o Copom manter os juros parados.",
+    "conteudo": "O Ibovespa fechou a sexta-feira (6/11) em alta de 1,39%, a 168.498,45 pontos, encerrando a semana com ganho acumulado de 0,34% — a primeira semana positiva depois de três consecutivas no negativo. O dólar, por outro lado, subiu 0,36% no dia, a R$5,508, numa combinação que mostra o mercado ainda calibrando o impacto da decisão do Copom de manter a Selic em 13,75% ao ano e encerrar o ciclo de cortes de juros.\n\nA combinação de bolsa em recuperação com dólar mais caro é um sinal misto para quem empreende: o clima de menos pânico ajuda a confiança do consumidor e do investidor, mas o câmbio pressionado continua encarecendo insumos e equipamentos importados bem na reta final das compras de Black Friday e Natal. Vale acompanhar os próximos pregões antes de fechar qualquer compra grande cotada em dólar, já que a estabilização ainda é recente e pode não durar.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/",
+    "posicao": 2,
+    "batch_date": "2026-11-07"
+  },
+  {
+    "tag": "Emprego",
+    "titulo": "Desemprego cai a 5,2% no 3º trimestre, menor nível da história",
+    "fonte": "Diário do Nordeste",
+    "data": "07 Nov",
+    "resumo": "IBGE registra 103,6 milhões de ocupados, mas mercado de trabalho mais apertado encarece a contratação.",
+    "conteudo": "A taxa de desemprego no Brasil caiu para 5,2% no trimestre de julho a setembro de 2026, o menor percentual para o período desde o início da série histórica da PNAD Contínua, em 2012, segundo dados divulgados pelo IBGE em 30 de outubro. A população ocupada chegou a 103,6 milhões de pessoas, também o maior número já registrado pela pesquisa.\n\nPara quem contrata, o dado tem um lado bom e um ruim: há mais gente trabalhando e consumindo, mas a oferta de mão de obra qualificada fica mais disputada, o que tende a pressionar salários e dificultar a reposição de vagas em aberto. Vale revisar agora a política de retenção de equipe — treinamento, plano de carreira, benefícios — em vez de descobrir no meio da alta demanda de fim de ano que o concorrente está oferecendo salário maior para o mesmo funcionário.",
+    "url": "https://diariodonordeste.verdesmares.com.br/negocios/taxa-de-desemprego-no-brasil-cai-e-chega-a-52-no-3-trimestre-de-2026-1.3802435",
+    "posicao": 3,
+    "batch_date": "2026-11-07"
+  },
+  {
+    "tag": "Política",
+    "titulo": "Eduardo Braga é confirmado relator do Orçamento de 2027 no Senado",
+    "fonte": "Gazeta do Povo",
+    "data": "07 Nov",
+    "resumo": "Definição do relator-geral da LOA marca a largada da briga por prioridades e emendas no Orçamento do próximo ano.",
+    "conteudo": "Líderes partidários e o presidente do Senado, Davi Alcolumbre, confirmaram nesta semana o senador Eduardo Braga (MDB-AM) como relator-geral do projeto de lei orçamentária de 2027, enviado pelo governo ao Congresso em 31 de agosto com previsão de salário mínimo de R$1.741, inflação de 3,6% e crescimento do PIB de 2,46%. O texto agora segue para a Comissão Mista de Orçamento antes de ir a votação em plenário, processo que historicamente se arrasta até o fim do ano.\n\nO calendário importa para quem depende de programas, créditos ou contratos ligados ao Orçamento federal — linhas do BNDES, parcerias com o Sebrae, obras e compras públicas: se a LOA não for votada e sancionada antes de 2027, o governo passa a executar despesas de forma provisória, o que historicamente atrasa repasses e empenhos no início do ano. Vale já conversar com o contador ou o setor público que atende seu negócio sobre eventuais efeitos desse atraso no planejamento do primeiro trimestre.",
+    "url": "https://www.gazetadopovo.com.br/economia/senador-eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027/",
+    "posicao": 4,
+    "batch_date": "2026-11-07"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Dólar sobe a R$ 5,49 e Ibovespa cai com tombo global de ações de tecnologia",
     "fonte": "Itabira Online",
@@ -130,49 +174,5 @@
     "url": "https://www.bloomberglinea.com.br/startups/rodadas-da-semana-kalshi-capta-us-1-bilhao-e-chega-a-us-40-bi-de-valuation/",
     "posicao": 4,
     "batch_date": "2026-11-04"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Inadimplência das empresas bate recorde: 9,3 milhões de CNPJs negativados",
-    "fonte": "Serasa Experian",
-    "data": "03 Nov",
-    "resumo": "Dívidas em atraso somam R$244,4 bilhões em agosto, com alta de 14,3% em um ano e micro e pequenos negócios concentrando a maior parte dos casos.",
-    "conteudo": "A Serasa Experian registrou em agosto um novo recorde da série histórica: 9,3 milhões de empresas brasileiras com o CNPJ negativado, com dívidas em atraso somando R$244,4 bilhões, alta de 14,3% em relação a agosto de 2025. Micro e pequenos negócios respondem por 8,8 milhões desses casos, a grande maioria do total, com dívida média de R$26.355,13 por empresa. Serviços concentram 56% das empresas inadimplentes, seguidos pelo comércio, com 32%.\n\nO dado confirma que crédito caro e inadimplência alta caminham juntos neste momento: quem já está no vermelho tende a ficar mais tempo lá, e quem está em dia sente a concorrência de empresas endividadas tentando sobreviver com descontos agressivos. Para o dono de pequeno negócio, o alerta prático é monitorar o próprio CNPJ, renegociar qualquer dívida antes que vire cobrança judicial e evitar recorrer a cartão ou cheque especial empresarial como capital de giro — são as linhas mais caras do mercado justamente no pior momento para pagar caro por dinheiro.",
-    "url": "https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/novo-recorde-inadimplencia-das-empresas-chegou-a-93-milhoes-em-agosto-revela-serasa-experian/",
-    "posicao": 1,
-    "batch_date": "2026-11-03"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Fim da 'taxa das blusinhas' faz compras internacionais saltarem 82%",
-    "fonte": "Mercado&Consumo",
-    "data": "03 Nov",
-    "resumo": "Sem o imposto federal sobre compras de até US$50, o volume de encomendas do exterior disparou e pressiona o varejo e a indústria nacional.",
-    "conteudo": "Desde que o governo zerou, em maio, o imposto federal sobre compras internacionais de até US$50 — a chamada 'taxa das blusinhas' —, o volume de encomendas vindas do exterior não parou de crescer. Segundo dados da Receita Federal citados pela entidade do setor têxtil, o número de pacotes saltou de 15,2 milhões para 26,5 milhões em agosto, alta de 74% sobre o mesmo mês de 2025; em setembro, as compras de até US$50 avançaram 82% na mesma comparação. O ICMS estadual continua incidindo sobre essas compras, mas o imposto federal que antes encarecia o produto importado deixou de existir.\n\nPara pequenos varejistas e indústrias que competem com e-commerce internacional — roupas, acessórios, eletrônicos de baixo valor —, a conta ficou mais difícil: o concorrente de fora ficou mais barato enquanto o custo de produzir ou importar formalmente no Brasil não mudou. Vale reavaliar margem, mix de produtos e diferenciais que o importado não oferece, como entrega rápida, atendimento e garantia, para não depender só de preço nessa disputa.",
-    "url": "https://mercadoeconsumo.com.br/16/10/2026/noticias/compras-internacionais-abaixo-de-us-50-sobem-82-apos-fim-da-taxa-das-blusinhas/",
-    "posicao": 2,
-    "batch_date": "2026-11-03"
-  },
-  {
-    "tag": "Fiscal",
-    "titulo": "Arrecadação federal bate recorde em setembro e soma R$239,4 bilhões",
-    "fonte": "Diário do Comércio",
-    "data": "03 Nov",
-    "resumo": "Receita cresce 5,62% em termos reais no ano e dá mais fôlego fiscal ao governo, mas parte do resultado vem de receitas extraordinárias.",
-    "conteudo": "A arrecadação federal somou R$239,4 bilhões em setembro, alta real de 5,62% frente ao mesmo mês de 2025 e o melhor resultado para o mês desde o início da série histórica da Receita Federal, em 1995. No acumulado de janeiro a setembro, o total chegou a R$2,351 trilhões, avanço real de 6,97%. A Receita atribui o desempenho principalmente ao aumento das contribuições previdenciárias, do PIS/Cofins e do Imposto de Renda sobre rendimentos, além da alta das exportações de petróleo. Descontados fatores extraordinários, o crescimento das receitas administradas cai para 3,69%.\n\nUma arrecadação recorde dá ao governo mais fôlego fiscal neste momento de transição política e enfraquece, por ora, o argumento de que seria preciso criar novos tributos para fechar as contas — boa notícia para quem já lida com a reforma tributária em andamento. Por outro lado, parte desse resultado vem de receitas que não se repetem todo mês, então o alerta para quem planeja o próprio fluxo de caixa é não tratar um recorde pontual do governo como sinal de que a carga tributária vai ficar mais leve.",
-    "url": "https://diariodocomercio.com.br/economia/arrecadacao-federal-cresce-em-setembro/",
-    "posicao": 3,
-    "batch_date": "2026-11-03"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Tractian capta US$130 milhões e vira a startup de IA mais valiosa da América Latina",
-    "fonte": "Bloomberg Línea",
-    "data": "03 Nov",
-    "resumo": "Rodada Série D liderada pela Sapphire Ventures avalia a startup brasileira de manutenção industrial em US$1,4 bilhão.",
-    "conteudo": "A Tractian, startup brasileira de manutenção preditiva com inteligência artificial para máquinas industriais, captou US$130 milhões em rodada Série D liderada pela Sapphire Ventures, com a M&G Catalyst na co-liderança e participação de fundos como General Catalyst, Bosch Ventures e Monashees. A rodada avaliou a empresa em US$1,4 bilhão, tornando-a a startup de inteligência artificial mais valiosa da América Latina, acima dos US$1,2 bilhão da também brasileira Enter. A receita anualizada da Tractian passou de US$40 milhões em 2024 para mais de US$100 milhões em setembro deste ano.\n\nO caso mostra que investidores internacionais continuam dispostos a apostar pesado em tecnologia brasileira aplicada a um problema concreto da indústria — evitar parada de máquina —, e não só em fintechs. Para quem empreende em setores tradicionais, é um sinal de que soluções de IA voltadas a operações do dia a dia, como manutenção, logística e controle de estoque, têm espaço real para crescer e atrair capital, mesmo em um ano difícil para captação no Brasil.",
-    "url": "https://www.bloomberglinea.com.br/startups/tractian-capta-us-130-milhoes-e-se-torna-o-mais-novo-unicornio-de-ia-brasileiro/",
-    "posicao": 4,
-    "batch_date": "2026-11-03"
   }
 ]
