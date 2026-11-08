@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Focus pós-eleição eleva projeções de juros, dólar e inflação para 2026",
+    "fonte": "Movimento Econômico",
+    "data": "08 Nov",
+    "resumo": "Primeiro Boletim Focus divulgado após a reeleição de Lula piora as três variáveis que mais pesam no custo de vida e no crédito das empresas.",
+    "conteudo": "No Boletim Focus de 3 de novembro, o primeiro divulgado pelo Banco Central após a confirmação da reeleição de Lula, os economistas consultados pioraram as três principais apostas para 2026: a projeção de inflação subiu para 5,22% — acima do teto de 4,5% da meta —, a expectativa para a Selic no fim do ano passou de 13,25% para 13,50%, e a previsão do dólar foi revisada de R$5,05 para R$5,34.\n\nPara quem compra insumos, peças ou equipamentos cotados em dólar, a revisão para cima do câmbio é um motivo concreto para travar preço em contrato futuro em vez de esperar o fim do ano. E para quem está com crédito no radar — capital de giro, financiamento de estoque para a Black Friday —, a mudança na expectativa da Selic reforça que o alívio nos juros deve demorar mais do que o mercado apostava até outubro: vale rever agora o orçamento de 2027 que tenha sido montado com base em projeções mais otimistas do início do ano.",
+    "url": "https://movimentoeconomico.com.br/economia/2026/11/03/primeiro-focus-pos-eleicao-eleva-projecoes-de-inflacao-selic-e-dolar-para-2026/",
+    "posicao": 1,
+    "batch_date": "2026-11-08"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "MP fixa alíquotas do Imposto Seletivo que valem a partir de fevereiro de 2027",
+    "fonte": "Mercado&Consumo",
+    "data": "08 Nov",
+    "resumo": "Governo publica a MP 1.399/2026 com as taxas do novo \"imposto do pecado\" sobre bebidas, cigarros, veículos e mineração; emendas podem ser apresentadas até 10/11.",
+    "conteudo": "O governo publicou em 4 de novembro, em edição extra do Diário Oficial, a MP 1.399/2026, que fixa as alíquotas do Imposto Seletivo (IS) para 2027 em regime de implementação gradual: 2,6% para refrigerantes, 4,2% para cervejas, até 24% para bebidas alcoólicas e 66,7% para cigarros, entre outras taxas por produto. A extração mineral fica com alíquota zerada até 31 de dezembro de 2027, e os veículos seguem a tabela do IPI Verde já em vigor. A cobrança efetiva do imposto só começa em 2 de fevereiro de 2027; até lá, a MP vale por 60 dias, prorrogáveis por mais 60, e deputados e senadores podem apresentar emendas ao texto até 10 de novembro.\n\nQuem vende bebidas, cigarros, veículos ou atua em mineração precisa rever preço e margem agora, já que a janela para tentar mudar o texto no Congresso se encerra em poucos dias. Para os demais setores, o episódio serve de termômetro: a reforma tributária continua avançando em capítulos específicos, com prazos curtos e concretos, e vale manter o contador de olho nesse calendário mesmo quando o seu negócio não está na lista de produtos afetados por enquanto.",
+    "url": "https://mercadoeconsumo.com.br/05/11/2026/industria/governo-define-aliquotas-do-imposto-do-pecado-para-2027-veja-produtos-afetados/",
+    "posicao": 2,
+    "batch_date": "2026-11-08"
+  },
+  {
+    "tag": "Consumo",
+    "titulo": "Varejo deve recuar 2,5% em novembro mesmo com a Black Friday, projeta IEMI",
+    "fonte": "BNews São Paulo",
+    "data": "08 Nov",
+    "resumo": "Levantamento do instituto de inteligência de mercado prevê R$296,8 bi em vendas no mês, puxado para baixo pelo comércio físico, mesmo com o e-commerce crescendo na data promocional.",
+    "conteudo": "A IEMI (Inteligência de Mercado) projeta faturamento de R$296,8 bilhões para o varejo brasileiro em novembro de 2026 — englobando supermercados, vestuário, calçados, móveis e eletrodomésticos —, uma queda de 2,5% em relação ao mesmo mês de 2025. O número contrasta com as projeções específicas para o e-commerce na Black Friday, que apontam crescimento de dois dígitos nos quatro dias de venda (27 a 30/11), já divulgadas em levantamentos anteriores. Para o ano inteiro, a IEMI estima faturamento total do varejo em R$3,43 trilhões, alta de apenas 0,9% sobre 2025.\n\nO contraste mostra que a Black Friday pode brilhar no site e no aplicativo sem segurar o resultado da loja física no mês como um todo — reflexo direto do crédito caro e da inadimplência recorde, que seguem travando o consumo fora da data promocional. Para quem vende no balcão, a leitura prática é concentrar o esforço de divulgação e de margem na própria semana da Black Friday, em vez de esperar que o movimento se espalhe pelo mês inteiro como em anos de consumo mais forte.",
+    "url": "https://www.bnewssaopaulo.com.br/noticias/negocios/black-friday-2026-varejo-deve-movimentar-r-2968-bi-aponta-estudo-do-iemi.html",
+    "posicao": 3,
+    "batch_date": "2026-11-08"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Fintechs abrem temporada de balanços do 3º trimestre nesta semana",
+    "fonte": "Finsiders Brasil",
+    "data": "08 Nov",
+    "resumo": "PagBank, Agibank, Nubank, Inter e Stone divulgam resultados entre 10 e 12/11, com lucro agregado em alta, mas sinais de cautela com crédito para 2027.",
+    "conteudo": "A temporada de balanços do terceiro trimestre das fintechs brasileiras começa nesta semana: o PagBank abre a fila em 10 de novembro, seguido pelo Agibank em 11 de novembro e por Nubank, Inter e Stone em 12 de novembro. O Itaú BBA projeta lucro de cerca de US$1,078 bilhão para o Nubank (alta de 37,7% sobre o mesmo trimestre de 2025) e de R$587 milhões para o PagBank, enquanto a própria Stone é vista como exceção, com lucro estimado em R$571 milhões — queda de cerca de 11% na comparação anual. No trimestre anterior, Nubank, Stone e PagBank haviam lucrado, respectivamente, US$1,06 bilhão, R$582,7 milhões e R$576 milhões.\n\nQuem usa essas fintechs para maquininha, conta digital ou linha de crédito de capital de giro deve prestar atenção aos resultados: eles costumam sinalizar o apetite de crédito e as taxas que essas instituições vão praticar no início de 2027. Se a queda projetada para a Stone e os comentários sobre inadimplência se confirmarem nas teleconferências, não seria surpresa ver mais cautela na concessão de crédito a pequenos negócios logo no começo do ano — argumento a favor de negociar ou renovar linhas já contratadas antes dessa safra de balanços fechar o humor do setor.",
+    "url": "https://finsidersbrasil.com.br/noticias-sobre-fintechs/fintechs-vao-lucrar-mais-no-3t26-mas-mercado-ja-ve-problemas-para-2027/",
+    "posicao": 4,
+    "batch_date": "2026-11-08"
+  },
+  {
     "tag": "Capital",
     "titulo": "Sicoob e Sebrae liberam R$5 bi em crédito a pequenos negócios até 14/11",
     "fonte": "Sicoob",
@@ -130,49 +174,5 @@
     "url": "https://mercadoeconsumo.com.br/02/11/2026/economia/inadimplencia-atinge-recorde-de-842-milhoes-de-brasileiros/",
     "posicao": 4,
     "batch_date": "2026-11-05"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Bolsa cai pelo 6º pregão e dólar vai a R$5,49 na véspera do Copom",
-    "fonte": "SBT News",
-    "data": "04 Nov",
-    "resumo": "Mercado fecha a pior sequência desde a eleição com juros e câmbio sob pressão, horas antes da decisão do Banco Central sobre a Selic.",
-    "conteudo": "O Ibovespa encerrou a sessão de terça-feira (3/11) em queda de 1,42%, a 165.528,92 pontos, a sexta queda consecutiva desde a confirmação da reeleição de Lula. O dólar fechou em alta de 0,79%, a R$5,487, o maior valor desde 30 de dezembro de 2025, depois de chegar a R$5,515 durante o pregão. O movimento reflete a cautela do mercado diante da indefinição sobre a equipe econômica do novo governo e da expectativa pela decisão do Copom, que o Banco Central anuncia nesta quarta-feira (4/11) à noite: a maioria das casas e das opções negociadas na B3 aposta na manutenção da Selic em 13,75% ao ano, mas uma minoria relevante ainda vê espaço para um corte de 0,25 ponto.\n\nPara quem empreende, esses dois dias resumem o dilema do momento: dólar mais caro pressiona quem compra insumos ou paga contratos em moeda estrangeira, enquanto a possibilidade real de a Selic ficar parada por mais tempo encarece ainda mais o crédito e o financiamento de capital de giro. Vale evitar travar hoje compromissos longos em dólar e acompanhar o comunicado do Copom à noite antes de fechar qualquer renegociação de dívida ou nova linha de crédito nesta semana.",
-    "url": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-cai-pela-6-vez-seguida-e-dolar-bate-recorde-no-ano",
-    "posicao": 1,
-    "batch_date": "2026-11-04"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "NFS-e Nacional já é obrigatória para empresas do Simples Nacional",
-    "fonte": "Receita Federal",
-    "data": "04 Nov",
-    "resumo": "Desde 1º de novembro, microempresas e pequenas empresas devem emitir nota fiscal de serviço pelo padrão nacional da Receita Federal.",
-    "conteudo": "A Resolução CGSN nº 191/2026 tornou obrigatória, a partir de 1º de novembro de 2026, a emissão da Nota Fiscal de Serviço eletrônica (NFS-e) no padrão nacional por microempresas (ME) e empresas de pequeno porte (EPP) optantes do Simples Nacional. A norma revogou um prazo anterior, que previa início em setembro, e determina que a nota passe a ser emitida pelo Emissor Nacional da Receita Federal, seja pelo portal web, seja por integração via API com o sistema de gestão da empresa. Entre novembro e dezembro, a emissão segue as regras atuais do Simples; as mudanças ligadas à CBS e ao IBS só entram em vigor a partir de janeiro de 2027.\n\nNa prática, quem presta serviço e ainda emite nota pelo sistema do próprio município corre o risco de ficar em desacordo com a nova regra nacional, o que pode gerar inconsistência fiscal bem no período de maior movimento do ano, com Black Friday e vendas de fim de ano. O caminho mais seguro é confirmar com o contador ou com o fornecedor do sistema de emissão se a integração com o Emissor Nacional já está ativa, em vez de descobrir isso em dezembro, sob pressão.",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026",
-    "posicao": 2,
-    "batch_date": "2026-11-04"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Inadimplência de pequenos negócios cai e crédito aprovado sobe",
-    "fonte": "Agência Sebrae",
-    "data": "04 Nov",
-    "resumo": "13ª edição do Pulso dos Pequenos Negócios, do Sebrae, mostra queda na dívida em atraso e aprovação de financiamento no maior nível desde 2022.",
-    "conteudo": "A 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, mostra que a parcela de pequenos negócios com dívidas ou empréstimos em atraso caiu de 28% no primeiro trimestre para 25% em julho, uma queda de três pontos percentuais. No mesmo levantamento, a aprovação de crédito bancário para pequenos negócios atingiu o maior nível desde 2022. O presidente do Sebrae, Rodrigo Soares, atribui parte da melhora à queda da taxa de juros ao longo do ano e ao programa Desenrola, que já soma cerca de R$31 bilhões em operações contratadas por pequenos negócios.\n\nA melhora é real, mas vem de uma base ruim: um em cada quatro pequenos negócios ainda está com conta em atraso, e o alívio no crédito pode perder força se o Copom decidir manter os juros parados por mais tempo, como o mercado já precifica para a decisão desta noite. Para quem está pensando em tomar crédito para repor estoque ou fechar o ano, o momento é mais favorável do que há alguns meses, mas vale negociar agora, antes de dezembro, quando a demanda por capital de giro de fim de ano tende a encarecer as linhas disponíveis.",
-    "url": "https://agenciasebrae.com.br/dados/inadimplencia-de-pequenos-negocios-cai-e-aprovacao-de-credito-atinge-maior-nivel-desde-2022/",
-    "posicao": 3,
-    "batch_date": "2026-11-04"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Empresa de brasileira vale US$40 bi após captar US$1 bi nos EUA",
-    "fonte": "Bloomberg Línea",
-    "data": "04 Nov",
-    "resumo": "Kalshi, mercado de previsões fundado pela brasileira Luana Lopes Lara, dobra de valor em seis meses e mostra até onde pode ir uma ideia tocada fora do Brasil.",
-    "conteudo": "A Kalshi, bolsa de mercados de previsão sediada nos Estados Unidos e cofundada pela brasileira Luana Lopes Lara, captou US$1 bilhão em rodada Série G anunciada em 29 de outubro, elevando seu valor de mercado para US$40 bilhões — quase o dobro da avaliação de maio, quando a empresa já havia levantado outro US$1 bilhão em rodada Série F. A companhia afirma que seus mercados fora do universo esportivo já geram receita anualizada acima de US$1 bilhão, com mais de 30 milhões de contas criadas e volume negociado superior a US$1 trilhão no ano.\n\nO caso é americano, mas a repercussão no Brasil é imediata: mostra que fundadores brasileiros estão à frente de alguns dos negócios mais valiosos do mundo em tecnologia, mesmo fora do país, num momento em que o capital de risco por aqui segue escasso e seletivo. Para quem empreende em tecnologia e pensa em crescer além da fronteira brasileira, o caminho da Kalshi — validar o modelo nos EUA antes de buscar escala global — é um lembrete de que mercado de origem e mercado de capital não precisam ser o mesmo.",
-    "url": "https://www.bloomberglinea.com.br/startups/rodadas-da-semana-kalshi-capta-us-1-bilhao-e-chega-a-us-40-bi-de-valuation/",
-    "posicao": 4,
-    "batch_date": "2026-11-04"
   }
 ]
