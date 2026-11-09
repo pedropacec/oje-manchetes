@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Política",
+    "titulo": "Lula promete zerar imposto da cesta básica, mas não detalha ajuste fiscal",
+    "fonte": "BNews",
+    "data": "09 Nov",
+    "resumo": "Em pronunciamento de rede nacional, presidente anuncia isenção tributária para 2027, mas evita explicar como vai conter a alta da dívida pública.",
+    "conteudo": "Em pronunciamento à nação na noite de domingo (8), o presidente Luiz Inácio Lula da Silva, em discurso de cerca de sete minutos, prometeu zerar o imposto sobre os itens da cesta básica a partir de 2027, reafirmou a isenção do Imposto de Renda para quem ganha até R$5.000 por mês e disse ter enviado ao Congresso uma proposta de tarifa zero no transporte público nos fins de semana. O presidente reconheceu que a dívida pública e os juros elevados preocupam o governo, mas não apresentou nenhuma medida concreta de ajuste fiscal nem estimativa de impacto na receita das novas desonerações.\n\nPara quem vende alimentos, opera no varejo ou presta serviço que depende do poder de compra do consumidor, a notícia boa é a confirmação de que o governo seguirá ampliando isenções em 2027 — o que tende a deixar mais dinheiro no bolso do cliente final. O ponto de atenção é justamente o que ficou de fora do discurso: sem sinalização de corte de gastos, o mercado tende a continuar precificando um risco fiscal mais alto, o que significa custo de crédito e câmbio pressionados por mais tempo — vale manter o planejamento financeiro do negócio considerando juros ainda caros ao longo de 2027.",
+    "url": "https://www.bnews.com.br/noticias/politica/em-pronunciamento-lula-promete-zerar-imposto-da-cesta-basica-criar-ministerio-e-defende-reforma-do-judiciario.html",
+    "posicao": 1,
+    "batch_date": "2026-11-09"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "NFS-e Nacional passa a ser obrigatória para ME e EPP do Simples a partir desta semana",
+    "fonte": "Fenacon",
+    "data": "09 Nov",
+    "resumo": "Resolução do Comitê Gestor do Simples Nacional torna obrigatório o uso do Emissor Nacional da nota fiscal de serviço desde 1º de novembro, com regras de transição até 2027.",
+    "conteudo": "A Resolução CGSN nº 191/2026 tornou obrigatório, a partir de 1º de novembro, o uso do Emissor Nacional da NFS-e para microempresas (ME) e empresas de pequeno porte (EPP) optantes pelo Simples Nacional que prestam serviços sujeitos a essa nota — seja pelo aplicativo web, seja por integração via API com o sistema do contador. A norma havia sido editada originalmente com prazo para setembro e foi prorrogada para novembro; entre o início da obrigatoriedade e 31 de dezembro de 2026, a empresa só precisa emitir pelo padrão nacional, sem ainda aplicar as regras de CBS e IBS da reforma tributária, que só valem para o Simples a partir de janeiro de 2027.\n\nQuem ainda emite nota de serviço pelo sistema antigo da prefeitura corre o risco de rejeição a partir de agora, então vale checar com o contador, ainda esta semana, se a emissão já está integrada ao Emissor Nacional ou ao aplicativo web da NFS-e. Como a cobrança efetiva de CBS e IBS só chega em 2027, esse é o momento certo para testar o novo padrão sem o risco de erro afetar o caixa — adiar a adaptação só empilha trabalho para o fim do ano, quando o volume de vendas da Black Friday e do Natal deixa menos tempo livre para resolver pendência fiscal.",
+    "url": "https://fenacon.org.br/noticias/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026/",
+    "posicao": 2,
+    "batch_date": "2026-11-09"
+  },
+  {
+    "tag": "Consumo",
+    "titulo": "Serasa reúne 3,3 mil empresas em feirão com recorde de 84,2 milhões negativados",
+    "fonte": "Jornal do Comércio",
+    "data": "09 Nov",
+    "resumo": "Feirão Limpa Nome, que vai até 6 de dezembro, oferece cerca de 750 milhões de propostas de desconto de até 99% na reta final do ano de maior inadimplência já registrada no país.",
+    "conteudo": "A Serasa deu início, em 3 de novembro, à edição de fim de ano do Feirão Limpa Nome, reunindo mais de 3,3 mil empresas parceiras que juntas oferecem cerca de 750 milhões de propostas de negociação de dívidas, com descontos de até 99%, pelo site, aplicativo, Correios e WhatsApp oficial — tudo gratuito, até as 23h59 de 6 de dezembro. O mutirão ocorre num momento de recorde histórico: o país chegou a 84,2 milhões de consumidores com o nome negativado, segundo o Mapa de Inadimplência da própria Serasa.\n\nPara quem vende a prazo ou tem cliente com conta em atraso, cadastrar as dívidas da própria carteira no feirão — inclusive via empresa parceira — pode significar recuperar parte do caixa que está parado, justamente quando o capital de giro mais pesa. E para quem vai vender na Black Friday e no Natal, o dado de fundo importa tanto quanto o feirão: com quase um em cada cinco adultos negativado, boa parte do público das campanhas de fim de ano ainda está fora do crédito, o que reforça a aposta em pagamento à vista, PIX e entrada facilitada em vez de depender só do cartão.",
+    "url": "https://www.jornaldocomercio.com/economia/2026/11/1269032-rs-soma-42-milhoes-de-inadimplentes-serasa-inicia-feirao-limpa-nome-com-descontos-de-ate-99.html",
+    "posicao": 3,
+    "batch_date": "2026-11-09"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "BH recebe mais de 100 atividades gratuitas na Semana Global do Empreendedorismo",
+    "fonte": "Diário do Comércio",
+    "data": "09 Nov",
+    "resumo": "Sebrae Minas e CDL/BH promovem, de 9 a 13 de novembro, programação com palestras, oficinas e mentorias voltada a donos de pequenos negócios e empreendedores digitais.",
+    "conteudo": "Belo Horizonte recebe, entre esta segunda-feira (9) e a próxima sexta-feira (13), a edição local da Semana Global do Empreendedorismo, organizada pelo Sebrae Minas em parceria com a Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH). A programação reúne mais de 100 atividades gratuitas, das 13h às 19h, no espaço Horizonte – Inovação Empreendedora, ao lado da sede da CDL/BH, organizadas em três trilhas: marketing e vendas, gestão e finanças, e inovação, tecnologia e experiência do cliente.\n\nPara quem está validando uma ideia, formalizando o MEI ou já roda um pequeno negócio em BH, a semana é uma chance concreta de resolver, de graça e perto de casa, dúvidas que normalmente custariam uma consultoria — da precificação ao fluxo de caixa até ferramentas digitais de venda. Vale reservar pelo menos uma tarde na agenda: numa cidade com uma das maiores comunidades de empreendedores do país fora do eixo Rio-São Paulo, esse tipo de evento presencial também é oportunidade de network direto com quem enfrenta os mesmos desafios no dia a dia.",
+    "url": "https://diariodocomercio.com.br/negocios/semana-global-empreendedorismo-bh/",
+    "posicao": 4,
+    "batch_date": "2026-11-09"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Focus pós-eleição eleva projeções de juros, dólar e inflação para 2026",
     "fonte": "Movimento Econômico",
@@ -130,49 +174,5 @@
     "url": "https://amdjus.com.br/dere-primeira-entrega-mensal-vence-em-15-de-novembro-de-2026/",
     "posicao": 4,
     "batch_date": "2026-11-06"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Copom quebra sequência de cortes e mantém Selic em 13,75% ao ano",
-    "fonte": "Suno Notícias",
-    "data": "05 Nov",
-    "resumo": "Decisão unânime surpreende o mercado, que apostava em novo corte, e mantém o crédito caro por mais tempo.",
-    "conteudo": "O Comitê de Política Monetária do Banco Central manteve a taxa Selic em 13,75% ao ano na noite de quarta-feira (4/11), em decisão unânime que interrompeu a sequência de cinco cortes consecutivos de 0,25 ponto percentual em curso desde o primeiro semestre de 2026. A decisão pegou parte do mercado de surpresa, já que a maioria das casas e das opções negociadas na B3 apostava em um sexto corte seguido. O comunicado do BC citou o aumento das expectativas de inflação e a pressão do câmbio como motivos para a pausa; a ata da reunião sai em 10/11, e o Copom volta a se reunir em dezembro.\n\nPara quem empreende, a notícia é direta: o crédito para capital de giro, antecipação de recebíveis e financiamento de estoque — justamente na reta final para a Black Friday — continua caro, sem o alívio que boa parte do mercado já precificava para novembro. Vale repensar o timing de qualquer renegociação de dívida ou nova linha de crédito: esperar a ata de 10/11 pode trazer pistas mais claras sobre se a pausa é pontual ou o início de um novo ciclo de juros estáveis em patamar elevado.",
-    "url": "https://www.suno.com.br/noticias/copom-mantem-selic-1375-novembro-2026-go/",
-    "posicao": 1,
-    "batch_date": "2026-11-05"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Prazo para Lula sancionar ou vetar aumento do teto do MEI termina nesta sexta",
-    "fonte": "Mixvale",
-    "data": "05 Nov",
-    "resumo": "PLP 186/2026 eleva limite de faturamento do MEI de R$81 mil para R$110 mil, mas o texto ainda não foi sancionado.",
-    "conteudo": "O prazo constitucional para o presidente Lula sancionar ou vetar o PLP 186/2026 — que eleva o teto de faturamento do MEI de R$81 mil para R$110 mil a partir de 2027 e para R$140 mil em 2028, além de prever perdão de parte das dívidas do programa — termina nesta sexta-feira (6/11). O projeto, aprovado pelo Senado em outubro e enviado à sanção, seguia sem decisão até 1º de novembro, segundo levantamentos recentes, o que mantém o limite atual de R$81 mil valendo por enquanto para quem abre ou mantém um MEI.\n\nIsso importa para qualquer microempreendedor perto do teto atual: se sancionado sem vetos, o novo limite libera espaço para faturar mais sem migrar para o Simples Nacional — com toda a burocracia e carga tributária que isso implica. Enquanto a decisão não sai, vale manter o planejamento com base na regra de R$81 mil e ficar de olho no Diário Oficial da União a partir de sexta-feira, para não ser pego de surpresa por uma mudança de regra no meio do mês.",
-    "url": "https://www.mixvale.com.br/2026/11/01/teto-do-mei-continua-em-r-81-mil-em-2026-apesar-de-projeto/",
-    "posicao": 2,
-    "batch_date": "2026-11-05"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "TCU fixa alíquota de referência da CBS em 11,3% para 2027",
-    "fonte": "Folha de Pernambuco",
-    "data": "05 Nov",
-    "resumo": "Tribunal de Contas aprova cálculo que serve de base para o novo imposto sobre consumo; Senado decide o valor final até dezembro.",
-    "conteudo": "O Plenário do Tribunal de Contas da União aprovou, em 28/10, o cálculo da alíquota de referência da CBS (Contribuição sobre Bens e Serviços) em 11,3% para 2027, ano em que o novo tributo passa a substituir PIS e Cofins. O número inclui um redutor de 44,2% para determinadas compras da administração pública e serve de parâmetro: cabe ao Senado Federal, até 15/12, fixar por lei a alíquota que efetivamente vai valer, que pode ficar abaixo ou acima do valor calculado pelo TCU.\n\nPara quem precifica produtos e serviços, essa referência de 11,3% já dá uma base concreta para simular o impacto da reforma tributária no custo final ao consumidor a partir de 2027, mesmo antes da decisão definitiva do Senado. Vale rodar esse cálculo agora com o contador, porque 2026 é só o período de teste do novo sistema, e qualquer ajuste de margem feito às pressas em dezembro custa mais caro do que um planejamento antecipado.",
-    "url": "https://www.folhape.com.br/economia/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113/521104/",
-    "posicao": 3,
-    "batch_date": "2026-11-05"
-  },
-  {
-    "tag": "Consumo",
-    "titulo": "Inadimplência bate novo recorde: 84,2 milhões de brasileiros negativados",
-    "fonte": "Mercado&Consumo",
-    "data": "05 Nov",
-    "resumo": "Serasa mostra alta mensal de dívidas em atraso a poucas semanas da Black Friday, com reflexo direto no poder de compra.",
-    "conteudo": "O Mapa da Inadimplência da Serasa, divulgado na segunda-feira (2/11), mostrou que 84,2 milhões de brasileiros estavam com dívidas em atraso em setembro, o maior número da série histórica e cerca de 300 mil pessoas a mais do que em agosto (83,9 milhões). O total das dívidas somou R$597,4 bilhões, alta de 0,90% em relação ao mês anterior, com dívida média de R$7.093,83 por inadimplente.\n\nPara o varejo e o comércio de serviços, o dado é um alerta direto para a Black Friday: parte relevante do público-alvo das promoções está endividada e tende a comprar menos ou priorizar parcelamentos mais longos. Vale ajustar a estratégia de vendas de fim de ano com condições de pagamento flexíveis e foco em recuperar clientes negativados, em vez de apostar só em descontos agressivos para atrair gente nova.",
-    "url": "https://mercadoeconsumo.com.br/02/11/2026/economia/inadimplencia-atinge-recorde-de-842-milhoes-de-brasileiros/",
-    "posicao": 4,
-    "batch_date": "2026-11-05"
   }
 ]
