@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Juros",
+    "titulo": "Ata do Copom mostra por que juros pararam de cair e Selic ficou em 13,75%",
+    "fonte": "Brasil em Folhas",
+    "data": "10 Nov",
+    "resumo": "Documento divulgado nesta terça (10) detalha os motivos que levaram o Copom a interromper, por unanimidade, uma sequência de cinco cortes seguidos na Selic.",
+    "conteudo": "O Banco Central divulgou nesta terça-feira (10), às 8h, a ata da 282ª reunião do Copom, realizada em 4 de novembro, na qual o comitê decidiu, por unanimidade, manter a Selic em 13,75% ao ano — interrompendo uma sequência de cinco cortes seguidos de 0,25 ponto percentual que vinha reduzindo a taxa desde o início do ano. O documento reforça a leitura de que a política monetária segue restritiva e cita o aumento da incerteza e a piora das expectativas de inflação no Boletim Focus como motivos para a pausa. O próximo termômetro vem na quinta-feira (12), quando o IBGE divulga o IPCA de outubro, antes da reunião seguinte do Copom, marcada para 8 e 9 de dezembro.\n\nPara quem toma crédito para capital de giro, financia equipamento ou vende a prazo no cartão, a mensagem da ata é que o custo do dinheiro não deve cair tão cedo — o corte que parte do mercado via como certo para dezembro perdeu força. Vale revisar agora, antes da Black Friday, se as linhas de crédito contratadas estão com taxa pré ou pós-fixada e renegociar prazos com fornecedores enquanto a Selic ainda não confirma uma trajetória de queda, em vez de represar decisões de investimento esperando juro mais baixo no curto prazo.",
+    "url": "https://brasilemfolhas.com.br/2026/11/banco-central-divulga-ata-do-copom-nesta-terca-feira/",
+    "posicao": 1,
+    "batch_date": "2026-11-10"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Governo descarta adiar CBS para 2028 após pedido de entidades empresariais",
+    "fonte": "Jornal Contábil",
+    "data": "10 Nov",
+    "resumo": "Carta aberta de entidades como a APET pede mais tempo para a reforma tributária, mas Fazenda confirma início pleno da CBS em janeiro de 2027.",
+    "conteudo": "Em carta aberta assinada em 31 de outubro, entidades dos setores jurídico, tributário e empresarial — entre elas a Associação Paulista de Estudos Tributários (APET) — pediram o adiamento da cobrança efetiva da CBS, hoje prevista para começar em janeiro de 2027, para no mínimo 2028, com o argumento de que 2027 deveria servir só como ano de testes. Os signatários apontam como principais entraves a falta de definição das alíquotas finais, a regulamentação ainda incompleta do Imposto Seletivo e o tempo necessário para adaptar sistemas de emissão de notas fiscais. Em 5 de novembro, porém, o ministro extraordinário da Reforma Tributária, Dario Durigan, descartou publicamente qualquer mudança no calendário: a extinção de PIS e Cofins e a cobrança plena da CBS continuam previstas para 1º de janeiro de 2027, mesmo com uma PEC da deputada Any Ortiz (PP-RS) propondo o adiamento ainda tramitando no Congresso.\n\nPara o dono de negócio, a posição do governo é um alerta prático: não vale a pena esperar um adiamento para só então ajustar o sistema de emissão de nota, treinar a equipe financeira ou rever contratos com fornecedores pensando na CBS. Como a PEC de adiamento não tem data para votação e a Fazenda já disse que não muda o cronograma, o caminho mais seguro é tratar janeiro de 2027 como data real e usar as próximas semanas para testar a emissão sob o novo regime, já que o período de teste de 2026 — com alíquotas simbólicas de CBS e IBS — termina em dezembro.",
+    "url": "https://jornalcontabil.com.br/noticia/reforma-tributaria-entidades-pedem-adiamento-da-cbs-para-2028/",
+    "posicao": 2,
+    "batch_date": "2026-11-10"
+  },
+  {
+    "tag": "Simples",
+    "titulo": "Simples Nacional tem até 20/12 para desistir do regime regular de IBS e CBS",
+    "fonte": "Foco Tributário",
+    "data": "10 Nov",
+    "resumo": "Janela aberta desde 3 de novembro permite a micro e pequenas empresas cancelar, sem custo, a opção pelo regime regular de IBS e CBS feita até outubro.",
+    "conteudo": "Desde 3 de novembro está aberta a janela, prevista na Resolução CGSN nº 194/2026, para micro e pequenas empresas optantes do Simples Nacional desistirem, de forma irretratável, da opção pelo regime regular de cobrança de IBS e CBS que haviam formalizado até 30 de outubro — ou cancelarem o pedido de ingresso no Simples para 2027. O prazo para decidir vai até 20 de dezembro de 2026, e quem não fizer nada mantém a escolha anterior, que passa a valer a partir de 1º de janeiro de 2027. Quem desistir continua recolhendo IBS e CBS dentro do DAS, pelo regime simplificado do Simples, sem precisar fazer nova opção.\n\nEssa é a última chance, sem multa ou burocracia extra, de corrigir uma escolha feita com pressa no fim de outubro — muita empresa optou pelo regime regular apostando em mais créditos tributários sem ter rodado a conta completa com o contador. Vale pedir agora, ainda em novembro, uma simulação comparando os dois regimes para o próximo ano: depois de 20 de dezembro a decisão trava para todo o ano de 2027, bem no período em que o fluxo de caixa já fica mais apertado com a Black Friday e o 13º salário.",
+    "url": "https://focotributario.com.br/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs-comeca-nesta-terca-3/",
+    "posicao": 3,
+    "batch_date": "2026-11-10"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Novas regras do FGTS reduzem de 5 para 3 as parcelas do Saque-Aniversário",
+    "fonte": "MeuTudo",
+    "data": "10 Nov",
+    "resumo": "Resolução do CCFGTS em vigor desde 1º de novembro limita a três o número de parcelas antecipáveis por ano e cada uma a no máximo R$500.",
+    "conteudo": "Passou a valer em 1º de novembro a Resolução CCFGTS nº 1.130/2025, que reduz de cinco para três o número de parcelas do Saque-Aniversário do FGTS que podem ser antecipadas por ano junto a bancos e fintechs, com cada parcela antecipada limitada a uma faixa entre R$100 e R$500. A mudança vale só para quem contratar a antecipação a partir de agora; contratos já fechados mantêm as condições antigas até o fim do prazo. A regra havia sido contestada na Justiça, mas o STF rejeitou, ainda em janeiro, a ação que pedia para derrubá-la.\n\nNa prática, encolhe o volume de dinheiro que o trabalhador CLT consegue antecipar de uma vez — recurso que muita gente usa como entrada para abrir um pequeno negócio, reformar o ponto comercial ou comprar estoque inicial. Quem vende equipamento, insumo ou franquia para esse público, ou aceita o FGTS antecipado como parte do pagamento, deve esperar tíquetes menores por operação a partir de agora, e vale ajustar a oferta de entrada ou prazo para quem ainda depende dessa linha de crédito para começar a empreender.",
+    "url": "https://meutudo.com.br/blog/?p=291662",
+    "posicao": 4,
+    "batch_date": "2026-11-10"
+  },
+  {
     "tag": "Política",
     "titulo": "Lula promete zerar imposto da cesta básica, mas não detalha ajuste fiscal",
     "fonte": "BNews",
@@ -86,93 +130,5 @@
     "url": "https://finsidersbrasil.com.br/noticias-sobre-fintechs/fintechs-vao-lucrar-mais-no-3t26-mas-mercado-ja-ve-problemas-para-2027/",
     "posicao": 4,
     "batch_date": "2026-11-08"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Sicoob e Sebrae liberam R$5 bi em crédito a pequenos negócios até 14/11",
-    "fonte": "Sicoob",
-    "data": "07 Nov",
-    "resumo": "Linha com taxas a partir de 2,09% ao mês e aval do Fampe fecha as contratações na próxima sexta-feira.",
-    "conteudo": "O Sicoob, em parceria com o Sebrae, reservou R$5 bilhões para financiar micro e pequenas empresas em linha de crédito com taxas a partir de 2,09% ao mês e prazo de pagamento de até 60 meses, sujeitas à análise de crédito de cada cooperativa. As operações podem contar com a garantia complementar do Fundo de Aval às Micro e Pequenas Empresas (Fampe), administrado pelo Sebrae, o que reduz a exigência de garantias próprias do tomador. As contratações seguem abertas até 14 de novembro.\n\nPara quem precisa repor estoque ou reforçar o caixa antes da Black Friday e do fim de ano, a linha chega num momento em que o crédito bancário tradicional continua caro, com a Selic parada em 13,75% ao ano. Vale simular o financiamento com a cooperativa Sicoob da região ainda esta semana — tanto pela janela curta de contratação quanto porque taxa e aprovação dependem da análise individual do negócio, que pode levar alguns dias.",
-    "url": "https://www.sicoob.com.br/web/sicoobcentralsp/noticias/-/asset_publisher/xAioIawpOI5S/content/id/327969410",
-    "posicao": 1,
-    "batch_date": "2026-11-07"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Ibovespa encerra 1ª semana positiva em três; dólar fecha a R$5,51",
-    "fonte": "InfoMoney",
-    "data": "07 Nov",
-    "resumo": "Bolsa subiu 1,39% na sexta-feira e rompeu sequência de perdas após o Copom manter os juros parados.",
-    "conteudo": "O Ibovespa fechou a sexta-feira (6/11) em alta de 1,39%, a 168.498,45 pontos, encerrando a semana com ganho acumulado de 0,34% — a primeira semana positiva depois de três consecutivas no negativo. O dólar, por outro lado, subiu 0,36% no dia, a R$5,508, numa combinação que mostra o mercado ainda calibrando o impacto da decisão do Copom de manter a Selic em 13,75% ao ano e encerrar o ciclo de cortes de juros.\n\nA combinação de bolsa em recuperação com dólar mais caro é um sinal misto para quem empreende: o clima de menos pânico ajuda a confiança do consumidor e do investidor, mas o câmbio pressionado continua encarecendo insumos e equipamentos importados bem na reta final das compras de Black Friday e Natal. Vale acompanhar os próximos pregões antes de fechar qualquer compra grande cotada em dólar, já que a estabilização ainda é recente e pode não durar.",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/",
-    "posicao": 2,
-    "batch_date": "2026-11-07"
-  },
-  {
-    "tag": "Emprego",
-    "titulo": "Desemprego cai a 5,2% no 3º trimestre, menor nível da história",
-    "fonte": "Diário do Nordeste",
-    "data": "07 Nov",
-    "resumo": "IBGE registra 103,6 milhões de ocupados, mas mercado de trabalho mais apertado encarece a contratação.",
-    "conteudo": "A taxa de desemprego no Brasil caiu para 5,2% no trimestre de julho a setembro de 2026, o menor percentual para o período desde o início da série histórica da PNAD Contínua, em 2012, segundo dados divulgados pelo IBGE em 30 de outubro. A população ocupada chegou a 103,6 milhões de pessoas, também o maior número já registrado pela pesquisa.\n\nPara quem contrata, o dado tem um lado bom e um ruim: há mais gente trabalhando e consumindo, mas a oferta de mão de obra qualificada fica mais disputada, o que tende a pressionar salários e dificultar a reposição de vagas em aberto. Vale revisar agora a política de retenção de equipe — treinamento, plano de carreira, benefícios — em vez de descobrir no meio da alta demanda de fim de ano que o concorrente está oferecendo salário maior para o mesmo funcionário.",
-    "url": "https://diariodonordeste.verdesmares.com.br/negocios/taxa-de-desemprego-no-brasil-cai-e-chega-a-52-no-3-trimestre-de-2026-1.3802435",
-    "posicao": 3,
-    "batch_date": "2026-11-07"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Eduardo Braga é confirmado relator do Orçamento de 2027 no Senado",
-    "fonte": "Gazeta do Povo",
-    "data": "07 Nov",
-    "resumo": "Definição do relator-geral da LOA marca a largada da briga por prioridades e emendas no Orçamento do próximo ano.",
-    "conteudo": "Líderes partidários e o presidente do Senado, Davi Alcolumbre, confirmaram nesta semana o senador Eduardo Braga (MDB-AM) como relator-geral do projeto de lei orçamentária de 2027, enviado pelo governo ao Congresso em 31 de agosto com previsão de salário mínimo de R$1.741, inflação de 3,6% e crescimento do PIB de 2,46%. O texto agora segue para a Comissão Mista de Orçamento antes de ir a votação em plenário, processo que historicamente se arrasta até o fim do ano.\n\nO calendário importa para quem depende de programas, créditos ou contratos ligados ao Orçamento federal — linhas do BNDES, parcerias com o Sebrae, obras e compras públicas: se a LOA não for votada e sancionada antes de 2027, o governo passa a executar despesas de forma provisória, o que historicamente atrasa repasses e empenhos no início do ano. Vale já conversar com o contador ou o setor público que atende seu negócio sobre eventuais efeitos desse atraso no planejamento do primeiro trimestre.",
-    "url": "https://www.gazetadopovo.com.br/economia/senador-eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027/",
-    "posicao": 4,
-    "batch_date": "2026-11-07"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Dólar sobe a R$ 5,49 e Ibovespa cai com tombo global de ações de tecnologia",
-    "fonte": "Itabira Online",
-    "data": "06 Nov",
-    "resumo": "Pregão de quinta-feira (5/11) foi pressionado pela pior sessão de Wall Street em semanas, em meio ao temor renovado de uma bolha na inteligência artificial.",
-    "conteudo": "O dólar fechou em alta de 0,67% nesta quinta-feira (5/11), cotado a R$ 5,4876, enquanto o Ibovespa recuou 0,82%, a 166.191,45 pontos, no pior desempenho conjunto do câmbio e da bolsa brasileira em semanas. O movimento acompanhou o tombo em Nova York, com o Nasdaq caindo 5,52%, o S&P 500 recuando 4,36% e o Dow Jones perdendo 3,44%, em meio à renovação do temor de uma bolha nas ações ligadas à inteligência artificial. O volume financeiro negociado na B3 somou R$ 31,16 bilhões no dia.\n\nPara quem compra insumos, equipamentos ou componentes cotados em dólar, a moeda mais cara pressiona o custo bem na reta final das compras para a Black Friday e o Natal — vale travar o preço em contratos futuros de câmbio em vez de comprar à vista agora. Quem exporta ou recebe em dólar, por outro lado, ganha fôlego extra no curto prazo. Nos dois casos, o pano de fundo é o mesmo: a desconfiança de Wall Street com os investimentos pesados em inteligência artificial pode continuar contaminando o humor dos mercados nos próximos pregões, e vale acompanhar de perto antes de fechar qualquer compromisso cambial de prazo mais longo.",
-    "url": "https://itabiraonline.com.br/2026/11/05/dolar-fecha-em-alta-e-bolsa-cai-082-com-pressao-dos-mercados-internacionais/",
-    "posicao": 1,
-    "batch_date": "2026-11-06"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Simples Nacional perde o regime de caixa na apuração de impostos em 2027",
-    "fonte": "Jornal Contábil",
-    "data": "06 Nov",
-    "resumo": "A partir de janeiro, o imposto do Simples passa a seguir a nota emitida, e não mais o dinheiro que efetivamente entrou no caixa da empresa.",
-    "conteudo": "A partir de 1º de janeiro de 2027, as empresas do Simples Nacional deixam de poder apurar o imposto mensal pelo regime de caixa — que considera o momento em que o dinheiro efetivamente entra na empresa — e passam a usar apenas o regime de competência, baseado na receita bruta registrada na nota fiscal emitida, segundo a Resolução CGSN nº 190/2026. A mudança faz parte da adaptação do Simples à reforma tributária e vale para toda venda feita a partir da virada do ano, independentemente de quando o cliente efetivamente pagar.\n\nNa prática, quem vende a prazo — parcelado, com boleto de 30/60/90 dias ou cartão com repasse futuro — vai ter de recolher o imposto sobre uma venda cujo dinheiro ainda não chegou ao caixa, o que aperta o fluxo de quem já opera no limite. Quem já segue o regime de competência não sente diferença, mas vale revisar agora, com o contador, o prazo médio de recebimento da carteira de clientes e ajustar o capital de giro para não ser pego de surpresa em janeiro com imposto vencendo antes do dinheiro da venda cair na conta.",
-    "url": "https://jornalcontabil.com.br/noticia/simples-nacional-elimina-o-regime-de-caixa-na-apuracao-de-impostos-em-2027/",
-    "posicao": 2,
-    "batch_date": "2026-11-06"
-  },
-  {
-    "tag": "Varejo",
-    "titulo": "Black Friday 2026 deve faturar R$13,3 bi no e-commerce, alta de 20,7%",
-    "fonte": "Meio & Mensagem",
-    "data": "06 Nov",
-    "resumo": "Projeção da Confi/Neotrust para os quatro dias de venda, de 26 a 29 de novembro, exige planejamento de estoque e frete com três semanas de antecedência.",
-    "conteudo": "A Confi, em parceria com a Neotrust, projeta faturamento de R$13,3 bilhões no e-commerce brasileiro durante os quatro dias da Black Friday 2026, marcada para o período de 26 a 29 de novembro — uma alta de 20,7% sobre o mesmo recorte do ano passado. O levantamento da Neotrust para o acumulado de janeiro a setembro já mostrava o número de pedidos online crescendo 34,9% no período, com o ticket médio recuando 13,4%, sinal de que o consumidor está comprando mais vezes, mas gastando menos por compra.\n\nFaltando três semanas para a data, o recado para quem vende — online ou na loja física — é negociar prazo de entrega e reforço de estoque com fornecedores agora, antes da corrida de novembro, e recalcular a margem com base num ticket médio menor, em vez de repetir o preço do ano passado. Quem depende de marketplace também deve confirmar os prazos de repasse do recebível com a plataforma, já que o volume maior de pedidos tende a esticar o tempo entre a venda e o dinheiro cair na conta.",
-    "url": "https://www.meioemensagem.com.br/marketing/black-friday-deve-movimentar-r-133-bi-no-e-commerce",
-    "posicao": 3,
-    "batch_date": "2026-11-06"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Nova declaração mensal da reforma tributária, a DeRE, vence em 15/11",
-    "fonte": "AmdJus",
-    "data": "06 Nov",
-    "resumo": "Primeira entrega da Declaração de Regimes Específicos cobre dados de outubro; prazo cai em domingo e feriado, sem prorrogação automática prevista.",
-    "conteudo": "A Declaração de Regimes Específicos (DeRE), nova obrigação acessória da reforma tributária, tem sua primeira entrega mensal marcada para 15 de novembro de 2026, com informações referentes a outubro. A obrigação vale, em regra, para instituições financeiras, operadoras de planos de saúde e empresas de apostas — setores sujeitos a regimes específicos de cobrança do IBS e da CBS —, que precisam informar mensalmente dados contábeis e fiscais usados na apuração dos novos tributos. Empresas do Simples Nacional ficam dispensadas, salvo se optarem pelo regime regular de IBS/CBS ou ultrapassarem o sublimite de receita bruta. Como o prazo cai em domingo e feriado nacional, e não há previsão de prorrogação automática, a recomendação é antecipar o envio.\n\nMesmo quem não está na lista de obrigados sente o efeito indireto: o calendário da reforma tributária segue apertando mês a mês, com uma nova obrigação acessória atrás da outra, e o contador que atende pequenas e médias empresas está mais sobrecarregado nesse período de transição. Vale aproveitar o momento para confirmar com o escritório de contabilidade se o enquadramento tributário do seu negócio está correto e se não há nenhum prazo da reforma passando batido no meio desse volume de novidades.",
-    "url": "https://amdjus.com.br/dere-primeira-entrega-mensal-vence-em-15-de-novembro-de-2026/",
-    "posicao": 4,
-    "batch_date": "2026-11-06"
   }
 ]
