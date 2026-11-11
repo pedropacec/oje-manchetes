@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Política",
+    "titulo": "Fim da escala 6x1 passa a valer em 15/12; empresas têm 1 mês para se ajustar",
+    "fonte": "Agência Brasil",
+    "data": "11 Nov",
+    "resumo": "Emenda Constitucional 141, que acaba com a escala 6x1, entra em vigor em todo o país em pouco mais de um mês, e o custo cai sobre quem contrata.",
+    "conteudo": "A Câmara dos Deputados aprovou em dois turnos, em 27 de maio de 2026, a PEC que acaba com a escala de trabalho 6x1, e o Senado manteve o texto sem alterações na votação de 14 de outubro. Cinco dias depois, as mesas da Câmara e do Senado promulgaram a Emenda Constitucional nº 141, que garante a todo trabalhador formal dois dias de descanso semanal remunerado e elimina a jornada de seis dias trabalhados por um de folga. Pela regra de transição, o novo regime entra em vigor em todo o país em 15 de dezembro de 2026 — 60 dias após a promulgação —, com a jornada máxima semanal caindo de 44 para 42 horas nessa primeira etapa; trabalhadores terceirizados que prestam serviço à administração pública têm prazo mais longo, de 12 meses, e servidores públicos ficam fora da regra.\n\nPara quem toca comércio, restaurante, farmácia ou qualquer negócio que hoje escala funcionários em 6x1 — folgando um dia só a cada seis trabalhados —, a conta já deveria estar sendo refeita: faltam pouco mais de quatro semanas para a mudança valer, e vai ser preciso redesenhar turnos, calcular se sobra gente para cobrir o segundo dia de descanso ou se é hora de contratar, e revisar a folha de pagamento com o contador antes de dezembro virar. A própria Fiesp já citou o fim da 6x1 como um dos fatores que pesam no índice de confiança da indústria, hoje em 46,4 pontos — ainda em zona de pessimismo —, então vale tratar o ajuste como custo certo do próximo trimestre, não como surpresa de última hora.",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-quando-comeca-valer-o-fim-da-escala-6-por-1",
+    "posicao": 1,
+    "batch_date": "2026-11-11"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Desenrola 3.0 inclui dívida bancária de MEI com desconto mínimo de 90%",
+    "fonte": "Agência Gov",
+    "data": "11 Nov",
+    "resumo": "Ministério do Empreendedorismo confirmou que cerca de R$ 6 bilhões em dívidas bancárias de microempreendedores entram no leilão de renegociação previsto para novembro.",
+    "conteudo": "O Ministério do Empreendedorismo confirmou, em comunicado de 5 de novembro, que a terceira fase do programa Desenrola — que autoriza a União a comprar carteiras de dívida inadimplente de bancos e fintechs com deságio mínimo de 90% — vai incluir uma carteira de cerca de R$ 6 bilhões em dívidas bancárias de pessoa jurídica de microempreendedores individuais, ligada a aproximadamente 1,6 milhão de MEIs. A Portaria MF nº 3.127 abriu o chamamento para que as instituições financeiras interessadas apresentassem suas carteiras de dívida, e o leilão de compra está previsto para novembro, com possibilidade de escorregar para o início de dezembro caso o processo de habilitação dos bancos se estenda.\n\nQuem é MEI e está com conta travada no banco ou na fintech há algum tempo deve procurar diretamente a instituição credora para saber se ela vai apresentar aquela dívida no leilão — a adesão é feita pelo banco, não pelo microempreendedor, e nem toda carteira entra. Vale também guardar o CNPJ e acompanhar o site do Ministério do Empreendedorismo nas próximas semanas: se a dívida for arrematada com desconto de 90% ou mais, o microempreendedor sai de uma inadimplência que hoje trava crédito novo e consegue voltar a negociar capital de giro em condições normais a partir de 2027.",
+    "url": "https://agenciagov.ebc.com.br/noticias/202610/fazenda-inclui-dividas-bancarias-do-mei-na-terceira-fase-da-renegociacao-de-dividas-com-descontos-minimos-de-90",
+    "posicao": 2,
+    "batch_date": "2026-11-11"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Receita Federal confirma testes do split payment; cobrança começa em 2027",
+    "fonte": "Contábeis",
+    "data": "11 Nov",
+    "resumo": "Primeira fase de testes de comunicação de dados do pagamento fracionado de tributos começou em 15 de outubro, mas a cobrança efetiva só passa a valer, de forma facultativa, no ano que vem.",
+    "conteudo": "A Receita Federal confirmou que o split payment — mecanismo que retém automaticamente o valor de CBS e IBS no momento em que o cliente paga, antes de o dinheiro cair na conta da empresa — começa a operar de forma facultativa e escalonada em 2027, dentro do cronograma da reforma tributária. Bancos e instituições de pagamento tiveram até 2 de outubro para formalizar interesse no projeto-piloto junto à Confederação Nacional das Instituições Financeiras, e a primeira fase de testes de comunicação de dados arrancou em 15 de outubro de 2026; a Lei Complementar nº 227/2026 já prevê punições administrativas para instituições que descumprirem as regras de retenção. Bancos e consultorias como EY e KPMG, além de pilotos privados como o lançado pelo Banco Rendimento em parceria com a ROIT, já testam o modelo com clientes selecionados.\n\nO ponto de atenção para quem vende a prazo ou no cartão é o caixa: hoje existe um intervalo entre receber a venda e pagar a guia de tributo, e boa parte das empresas usa esse hiato como colchão de capital de giro — com o split payment, a retenção passa a ser automática na liquidação da venda, e esse colchão desaparece. Mesmo com a cobrança começando apenas em 2027 e de forma opcional, vale perguntar já ao banco ou à adquirente de cartões se eles entraram no piloto e simular o impacto no fluxo de caixa dos próximos meses, para não ser pego de surpresa quando a retenção deixar de ser opcional.",
+    "url": "https://www.contabeis.com.br/noticias/71509/receita-federal-confirma-split-payment-a-partir-de-2027/",
+    "posicao": 3,
+    "batch_date": "2026-11-11"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Sebrae e ApexBrasil levam 300 startups brasileiras ao Web Summit Lisboa",
+    "fonte": "Correio da Manhã",
+    "data": "11 Nov",
+    "resumo": "Missão apoiada pelo Sebrae tenta repetir o resultado de 2025, quando startups brasileiras fecharam US$ 2,6 milhões em negócios durante o evento em Portugal.",
+    "conteudo": "O Web Summit Lisboa 2026, que começou no dia 9 e segue nesta semana, reúne uma delegação brasileira de cerca de 300 startups organizada pelo Sebrae e pela ApexBrasil, com apoio do Serpro, da Embratur e do Ministério das Relações Exteriores. Do total, 40 empresas tiveram passagem aérea e seguro-viagem pagos integralmente pelo Sebrae, e as soluções levadas ao Pavilhão Brasil se concentram em inteligência artificial, saúde, energia, mobilidade elétrica, bioeconomia e sustentabilidade. A meta declarada da missão é aproximar as startups brasileiras de investidores internacionais, clientes e novos mercados; na edição de 2025, a delegação fechou US$ 2,6 milhões em negócios durante o próprio evento e identificou outros US$ 16 milhões em oportunidades para os 12 meses seguintes.\n\nPara o dono de startup ou de um negócio de base tecnológica que não embarcou para Lisboa, o evento ainda vale de olho fora da feira: historicamente o Sebrae abre, nas semanas seguintes ao Web Summit, editais de conexão e rodadas de matchmaking com os investidores e fundos que passaram pelo Pavilhão Brasil, inclusive para quem não fez parte da delegação oficial. Os setores priorizados pela curadoria deste ano — IA aplicada, saúde e bioeconomia — também são uma pista de onde fundos e compradores internacionais estão olhando para o Brasil agora, útil para quem está calibrando o pitch ou decidindo em que vertical focar o produto em 2027.",
+    "url": "https://www.correiodamanha.com.br/economia/2026/11/332353-lisboa-startups-brasileiras-buscam-negocios-globais.html",
+    "posicao": 4,
+    "batch_date": "2026-11-11"
+  },
+  {
     "tag": "Juros",
     "titulo": "Ata do Copom mostra por que juros pararam de cair e Selic ficou em 13,75%",
     "fonte": "Brasil em Folhas",
