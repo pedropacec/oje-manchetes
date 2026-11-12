@@ -1,6 +1,50 @@
 [
   {
     "tag": "Política",
+    "titulo": "Senado vota hoje pacote fiscal de até R$ 60 bi que dobra corte de incentivos",
+    "fonte": "Tribuna do Sertão",
+    "data": "12 Nov",
+    "resumo": "PLP 299/2026 chega ao plenário nesta quinta após disputa entre governo e oposição, e amplia de 10% para 20% o corte linear de benefícios tributários federais.",
+    "conteudo": "O Senado retirou de pauta na quarta-feira (11) a votação do Projeto de Lei Complementar 299/2026, pacote de ajuste fiscal do governo Lula, depois que a oposição alegou falta de tempo para analisar um texto apresentado poucas horas antes da sessão; o presidente da Casa, Davi Alcolumbre, remarcou a votação para as 16h desta quinta-feira (12). O relator, senador Eduardo Braga (MDB-AM), argumenta que aprovar o projeto é pré-requisito para destravar a tramitação da LDO e da LOA de 2027. O texto amplia de 10% para 20% o corte linear de incentivos fiscais federais, cria um limite adicional para o crescimento de despesas acima da inflação e aperta as regras de bloqueio de gastos e de compensação tributária; segundo o Ministério do Planejamento, o impacto fiscal do pacote vai de R$ 50 bilhões a R$ 60 bilhões até 2027.\n\nQuem usa benefício fiscal federal — crédito presumido, isenção setorial, regime especial de apuração — para fechar a conta do negócio deve prestar atenção a esse corte linear de 20%, já que ele incide de forma automática e igual sobre todo mundo que tem incentivo ativo; vale simular agora o impacto na margem de 2027 em vez de esperar a lei virar norma publicada. O mesmo cuidado serve para quem usa compensação tributária como ferramenta de caixa, já que o texto aperta justamente esse mecanismo — conversar com o contador antes de dezembro ajuda a saber se a empresa está entre as que perdem parte do benefício.",
+    "url": "https://www.tribunadosertao.com.br/geral/2026/11/12/1019755-senado-vota-ajuste-fiscal-de-lula-com-impacto-estimado-em-r-60-bilhoes-ate-2027",
+    "posicao": 1,
+    "batch_date": "2026-11-12"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Galípolo evita sinalizar corte da Selic e reforça discurso de juro restritivo",
+    "fonte": "Portal IN",
+    "data": "12 Nov",
+    "resumo": "Em evento do Bradesco Asset nesta quarta, presidente do BC disse que o custo de antecipar os próximos passos da Selic supera o benefício.",
+    "conteudo": "Em evento do Bradesco Asset nesta quarta-feira (11), o presidente do Banco Central, Gabriel Galípolo, afirmou que a autoridade monetária não vai sinalizar de antemão os próximos passos da Selic, hoje em 13,75% ao ano depois que o Copom interrompeu, na reunião de 4 de novembro, uma sequência de cinco cortes seguidos de 0,25 ponto percentual. Segundo ele, a incerteza atual do cenário é grande demais para que o benefício de dar esse guidance ao mercado supere o custo de um sinal errado; Galípolo descreveu uma combinação de desaceleração da atividade econômica com piora das expectativas de inflação, atribuída a choques de oferta, e disse que os efeitos da política monetária restritiva sobre a economia real estão cada vez mais visíveis.\n\nNa prática, o recado para quem toma crédito é continuar planejando com juro alto por mais tempo do que boa parte do mercado apostava há poucas semanas — a recusa do BC em sinalizar um corte tira o chão de quem já contava com alívio em dezembro. Vale usar as próximas semanas, antes da reunião do Copom de 8 e 9 de dezembro, para renegociar prazo e taxa de linhas de capital de giro já contratadas, e evitar fechar dívida nova pré-fixada apostando numa queda da Selic que o próprio presidente do Banco Central se recusou a prometer.",
+    "url": "https://www.portalin.com.br/business/galipolo-evita-sinalizar-proximos-passos-da-selic-e-defende-manutencao-de-juros-restritivos/",
+    "posicao": 2,
+    "batch_date": "2026-11-12"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Subvenção extra ao diesel importado vence hoje e reduz desconto para R$ 2,12",
+    "fonte": "Garagem 360",
+    "data": "12 Nov",
+    "resumo": "Parcela de R$ 1,40 por litro criada para o diesel importado perde validade nesta quinta, cortando pela metade o desconto federal ao combustível.",
+    "conteudo": "O diesel vendido no Brasil carrega hoje R$ 3,52 por litro em subvenção federal, soma de duas parcelas: R$ 2,12 para produtores e importadores em geral, fixados pela Portaria MF nº 2.946 por 30 dias a partir de 27 de setembro, e um adicional de R$ 1,40 exclusivo para o diesel rodoviário importado, criado pela Portaria MF nº 3.082, publicada em 13 de outubro, também com prazo de 30 dias. Essa segunda parcela perde validade nesta quinta-feira (12), e até a publicação desta matéria o governo não havia editado nova portaria prorrogando o benefício; a parcela de R$ 2,12, por sua vez, só vence em 26 de novembro e segue valendo normalmente.\n\nSem renovação, o desconto ao litro do diesel cai de R$ 3,52 para R$ 2,12 a partir de hoje — uma redução que tende a aparecer primeiro na planilha de transportadoras e distribuidoras, antes de chegar ao preço da bomba. Quem depende de frete terceirizado, frota própria a diesel ou logística de entrega faz bem em cotar o combustível com o fornecedor ainda esta semana e rever o preço de venda ou o contrato de frete com antecedência, em vez de só sentir o efeito na próxima nota fiscal.",
+    "url": "https://garagem360.com.br/?p=321602",
+    "posicao": 3,
+    "batch_date": "2026-11-12"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Maturidade digital dos pequenos negócios sobe 10% em 2 anos, mostra Sebrae",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "12 Nov",
+    "resumo": "Índice do Sebrae com a ABDI mostra que empreendedores de até 34 anos pontuam acima da média nacional, mas e-commerce e cooperação com startups seguem fracos.",
+    "conteudo": "O Índice de Maturidade Digital dos Pequenos Negócios (IMD-PN), calculado pelo Sebrae em parceria com a Agência Brasileira de Desenvolvimento Industrial (ABDI) e divulgado em 26 de outubro, subiu 10% em dois anos, passando de 35 pontos, em 2024, para 39 pontos em 2026, numa escala de zero a 80. A fatia de negócios no estágio \"Iniciante\" caiu de 17% para 2%, enquanto os \"Líderes Digitais\" foram de 5% para 9%; por porte, as Empresas de Pequeno Porte lideram com 46 pontos e os MEI têm a menor média, 35 pontos, mas o maior avanço relativo, de 12%. Entre os empreendedores de até 34 anos, a média chega a 44 pontos, acima da média nacional.\n\nO dado reforça que dono de negócio jovem já parte na frente da digitalização, mas o próprio levantamento aponta onde a maturidade ainda trava: uso de plataformas de e-commerce e cooperação com startups ou centros tecnológicos para desenvolver produto continuam entre os pontos mais fracos do índice, mesmo nas faixas de maior pontuação. Vale usar esse raio-x do Sebrae como checklist prático — se o negócio já tem presença digital básica mas ainda vende só por WhatsApp ou rede social, o próximo passo de maturidade, segundo o próprio índice, é organizar a venda num canal de e-commerce e buscar parceria com startups ou incubadoras locais para ganhar eficiência, em vez de tentar resolver tudo sozinho.",
+    "url": "https://agenciasebrae.com.br/dados/maturidade-digital-dos-pequenos-negocios-brasileiros-cresce-10-em-dois-anos/",
+    "posicao": 4,
+    "batch_date": "2026-11-12"
+  },
+  {
+    "tag": "Política",
     "titulo": "Fim da escala 6x1 passa a valer em 15/12; empresas têm 1 mês para se ajustar",
     "fonte": "Agência Brasil",
     "data": "11 Nov",
@@ -130,49 +174,5 @@
     "url": "https://diariodocomercio.com.br/negocios/semana-global-empreendedorismo-bh/",
     "posicao": 4,
     "batch_date": "2026-11-09"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Focus pós-eleição eleva projeções de juros, dólar e inflação para 2026",
-    "fonte": "Movimento Econômico",
-    "data": "08 Nov",
-    "resumo": "Primeiro Boletim Focus divulgado após a reeleição de Lula piora as três variáveis que mais pesam no custo de vida e no crédito das empresas.",
-    "conteudo": "No Boletim Focus de 3 de novembro, o primeiro divulgado pelo Banco Central após a confirmação da reeleição de Lula, os economistas consultados pioraram as três principais apostas para 2026: a projeção de inflação subiu para 5,22% — acima do teto de 4,5% da meta —, a expectativa para a Selic no fim do ano passou de 13,25% para 13,50%, e a previsão do dólar foi revisada de R$5,05 para R$5,34.\n\nPara quem compra insumos, peças ou equipamentos cotados em dólar, a revisão para cima do câmbio é um motivo concreto para travar preço em contrato futuro em vez de esperar o fim do ano. E para quem está com crédito no radar — capital de giro, financiamento de estoque para a Black Friday —, a mudança na expectativa da Selic reforça que o alívio nos juros deve demorar mais do que o mercado apostava até outubro: vale rever agora o orçamento de 2027 que tenha sido montado com base em projeções mais otimistas do início do ano.",
-    "url": "https://movimentoeconomico.com.br/economia/2026/11/03/primeiro-focus-pos-eleicao-eleva-projecoes-de-inflacao-selic-e-dolar-para-2026/",
-    "posicao": 1,
-    "batch_date": "2026-11-08"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "MP fixa alíquotas do Imposto Seletivo que valem a partir de fevereiro de 2027",
-    "fonte": "Mercado&Consumo",
-    "data": "08 Nov",
-    "resumo": "Governo publica a MP 1.399/2026 com as taxas do novo \"imposto do pecado\" sobre bebidas, cigarros, veículos e mineração; emendas podem ser apresentadas até 10/11.",
-    "conteudo": "O governo publicou em 4 de novembro, em edição extra do Diário Oficial, a MP 1.399/2026, que fixa as alíquotas do Imposto Seletivo (IS) para 2027 em regime de implementação gradual: 2,6% para refrigerantes, 4,2% para cervejas, até 24% para bebidas alcoólicas e 66,7% para cigarros, entre outras taxas por produto. A extração mineral fica com alíquota zerada até 31 de dezembro de 2027, e os veículos seguem a tabela do IPI Verde já em vigor. A cobrança efetiva do imposto só começa em 2 de fevereiro de 2027; até lá, a MP vale por 60 dias, prorrogáveis por mais 60, e deputados e senadores podem apresentar emendas ao texto até 10 de novembro.\n\nQuem vende bebidas, cigarros, veículos ou atua em mineração precisa rever preço e margem agora, já que a janela para tentar mudar o texto no Congresso se encerra em poucos dias. Para os demais setores, o episódio serve de termômetro: a reforma tributária continua avançando em capítulos específicos, com prazos curtos e concretos, e vale manter o contador de olho nesse calendário mesmo quando o seu negócio não está na lista de produtos afetados por enquanto.",
-    "url": "https://mercadoeconsumo.com.br/05/11/2026/industria/governo-define-aliquotas-do-imposto-do-pecado-para-2027-veja-produtos-afetados/",
-    "posicao": 2,
-    "batch_date": "2026-11-08"
-  },
-  {
-    "tag": "Consumo",
-    "titulo": "Varejo deve recuar 2,5% em novembro mesmo com a Black Friday, projeta IEMI",
-    "fonte": "BNews São Paulo",
-    "data": "08 Nov",
-    "resumo": "Levantamento do instituto de inteligência de mercado prevê R$296,8 bi em vendas no mês, puxado para baixo pelo comércio físico, mesmo com o e-commerce crescendo na data promocional.",
-    "conteudo": "A IEMI (Inteligência de Mercado) projeta faturamento de R$296,8 bilhões para o varejo brasileiro em novembro de 2026 — englobando supermercados, vestuário, calçados, móveis e eletrodomésticos —, uma queda de 2,5% em relação ao mesmo mês de 2025. O número contrasta com as projeções específicas para o e-commerce na Black Friday, que apontam crescimento de dois dígitos nos quatro dias de venda (27 a 30/11), já divulgadas em levantamentos anteriores. Para o ano inteiro, a IEMI estima faturamento total do varejo em R$3,43 trilhões, alta de apenas 0,9% sobre 2025.\n\nO contraste mostra que a Black Friday pode brilhar no site e no aplicativo sem segurar o resultado da loja física no mês como um todo — reflexo direto do crédito caro e da inadimplência recorde, que seguem travando o consumo fora da data promocional. Para quem vende no balcão, a leitura prática é concentrar o esforço de divulgação e de margem na própria semana da Black Friday, em vez de esperar que o movimento se espalhe pelo mês inteiro como em anos de consumo mais forte.",
-    "url": "https://www.bnewssaopaulo.com.br/noticias/negocios/black-friday-2026-varejo-deve-movimentar-r-2968-bi-aponta-estudo-do-iemi.html",
-    "posicao": 3,
-    "batch_date": "2026-11-08"
-  },
-  {
-    "tag": "Pagamentos",
-    "titulo": "Fintechs abrem temporada de balanços do 3º trimestre nesta semana",
-    "fonte": "Finsiders Brasil",
-    "data": "08 Nov",
-    "resumo": "PagBank, Agibank, Nubank, Inter e Stone divulgam resultados entre 10 e 12/11, com lucro agregado em alta, mas sinais de cautela com crédito para 2027.",
-    "conteudo": "A temporada de balanços do terceiro trimestre das fintechs brasileiras começa nesta semana: o PagBank abre a fila em 10 de novembro, seguido pelo Agibank em 11 de novembro e por Nubank, Inter e Stone em 12 de novembro. O Itaú BBA projeta lucro de cerca de US$1,078 bilhão para o Nubank (alta de 37,7% sobre o mesmo trimestre de 2025) e de R$587 milhões para o PagBank, enquanto a própria Stone é vista como exceção, com lucro estimado em R$571 milhões — queda de cerca de 11% na comparação anual. No trimestre anterior, Nubank, Stone e PagBank haviam lucrado, respectivamente, US$1,06 bilhão, R$582,7 milhões e R$576 milhões.\n\nQuem usa essas fintechs para maquininha, conta digital ou linha de crédito de capital de giro deve prestar atenção aos resultados: eles costumam sinalizar o apetite de crédito e as taxas que essas instituições vão praticar no início de 2027. Se a queda projetada para a Stone e os comentários sobre inadimplência se confirmarem nas teleconferências, não seria surpresa ver mais cautela na concessão de crédito a pequenos negócios logo no começo do ano — argumento a favor de negociar ou renovar linhas já contratadas antes dessa safra de balanços fechar o humor do setor.",
-    "url": "https://finsidersbrasil.com.br/noticias-sobre-fintechs/fintechs-vao-lucrar-mais-no-3t26-mas-mercado-ja-ve-problemas-para-2027/",
-    "posicao": 4,
-    "batch_date": "2026-11-08"
   }
 ]
