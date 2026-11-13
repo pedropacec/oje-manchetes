@@ -1,6 +1,50 @@
 [
   {
     "tag": "Política",
+    "titulo": "Senado aprova texto-base do pacote fiscal; falta só votar destaques",
+    "fonte": "Gazeta do Povo",
+    "data": "13 Nov",
+    "resumo": "Texto principal do PLP 299/2026 passou por 45 votos a 31 na noite de quinta; projeto só vai à Câmara depois da votação de quatro destaques, marcada para terça (17).",
+    "conteudo": "O Senado aprovou, na noite de quinta-feira (12), o texto principal do Projeto de Lei Complementar 299/2026 por 45 votos a 31. O PLP 299 é o pacote de ajuste fiscal do governo Lula que amplia o corte linear de incentivos tributários federais, cria limite adicional para o crescimento de despesas acima da inflação e aperta as regras de compensação tributária. Segundo a Agência Senado, o Executivo estima melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. O projeto ainda não foi enviado à Câmara dos Deputados: restam quatro destaques — emendas que podem alterar pontos específicos do texto — com votação marcada para a próxima terça-feira (17), e só depois desse resultado o PLP segue para análise dos deputados.\n\nQuem usa benefício fiscal federal ainda tem uma pequena janela antes da palavra final: os destaques de terça podem mudar detalhes do corte setorial, então vale acompanhar o resultado antes de fechar o orçamento de 2027 com a régua de corte já certa. Como o texto também aperta a compensação tributária, negócio que usa esse mecanismo para aliviar caixa deve simular com o contador, ainda esta semana, se a versão que sair do Senado muda a conta — a palavra final só vem depois da Câmara, mas o desenho básico do corte já está dado.",
+    "url": "https://www.gazetadopovo.com.br/economia/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/",
+    "posicao": 1,
+    "batch_date": "2026-11-13"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Dólar fecha a R$5,65, maior valor em 17 meses, com pressão fiscal e BB",
+    "fonte": "NC News",
+    "data": "13 Nov",
+    "resumo": "Moeda subiu cerca de 1,6% nesta quinta e Ibovespa caiu, pressionados por dúvida sobre o pacote fiscal no Senado e por balanço fraco do Banco do Brasil.",
+    "conteudo": "O dólar fechou a R$ 5,65 nesta quinta-feira (12), alta de cerca de 1,6% no dia e o maior valor desde junho de 2025 — 17 meses —, enquanto o Ibovespa recuou na mesma sessão. Parte da pressão veio da indefinição em torno do pacote fiscal em tramitação no Senado, e parte do resultado do Banco do Brasil, cujo lucro trimestral caiu 66,5% na comparação anual, segundo o balanço divulgado nesta semana.\n\nDólar mais caro pesa direto em quem importa insumo, matéria-prima ou equipamento, e também mexe no custo de linha de crédito atrelada a moeda estrangeira — vale travar cotação com fornecedor ou negociar hedge antes da próxima leva de pedidos, em vez de só sentir o reajuste no fechamento do mês. O resultado fraco do Banco do Brasil também é sinal de alerta para quem depende de crédito bancário: banco com lucro em queda tende a apertar a análise de risco, o que pode encarecer ou dificultar a renovação de linha de capital de giro nos próximos meses.",
+    "url": "https://ncnews.com.br/2026/11/12/dolar-ibovespa-hoje-12-novembro/",
+    "posicao": 2,
+    "batch_date": "2026-11-13"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Healthtech Rivio capta R$180 milhões e passa de R$1 bi em valuation",
+    "fonte": "Startups.com.br",
+    "data": "13 Nov",
+    "resumo": "Rivio, que usa IA para reduzir perda no faturamento de hospitais, fechou Série A liderada pela Valor Capital Group e já atua em 13 grupos hospitalares.",
+    "conteudo": "A healthtech Rivio, que usa inteligência artificial para reduzir glosa e perdas no faturamento de hospitais, fechou em 4 de novembro a Série A em R$ 180 milhões, somando uma extensão de R$ 80 milhões à rodada inicial de R$ 100 milhões captada em janeiro. A nova etapa foi liderada pela Valor Capital Group, com participação de Monashees, Positive Ventures e APL, e levou o valuation da empresa a mais de R$ 1 bilhão; a startup já roda em 13 grupos hospitalares, entre eles Hospital Israelita Albert Einstein, Hospital Sírio-Libanês e A.C.Camargo Cancer Center.\n\nO caso mostra que o investidor institucional continua de olho em negócio que resolve um problema concreto e mensurável de custo — no caso da Rivio, glosa hospitalar — em vez de apostar só em crescimento de usuário. Para quem busca captação, o roteiro é replicável em escala menor: validar o ganho financeiro do produto com poucos clientes-âncora antes de buscar rodada, já que foi esse histórico que sustentou a extensão da Série A em menos de um ano após a primeira rodada.",
+    "url": "https://startups.com.br/negocios/rodada-de-investimento/rivio-fecha-serie-a-de-r-180m-e-passa-de-r-1-bi-em-valuation/",
+    "posicao": 3,
+    "batch_date": "2026-11-13"
+  },
+  {
+    "tag": "Varejo",
+    "titulo": "Black Friday é em 27/11, mas é o frete que decide a margem do lojista",
+    "fonte": "Monitor Mercantil",
+    "data": "13 Nov",
+    "resumo": "A duas semanas da data, 39% dos comerciantes esperam vendas de fim de ano melhores que no ano passado, mas consultores alertam que o frete pode consumir o desconto.",
+    "conteudo": "A Black Friday 2026 será no dia 27 de novembro, e levantamento da CNDL com o SPC Brasil mostra que cerca de 39% dos comerciantes brasileiros esperam vendas de fim de ano melhores do que no ano anterior; já pesquisa da Shopee indica que 86% dos consumidores pretendem comprar em pelo menos uma das datas promocionais de novembro. Apesar da expectativa de alta no volume de pedidos, consultores de varejo alertam que o tíquete médio tende a cair na data, pressionado por produto com desconto mais agressivo, o que reduz a margem disponível para cobrir o custo do frete.\n\nNa prática, para quem vai vender na Black Friday, o ponto que decide se a data dá lucro ou só movimenta caixa é fechar, ainda esta semana, o preço do frete com a transportadora e simular a margem já descontando esse custo — faltam menos de duas semanas para 27 de novembro, pouco tempo para renegociar depois que a campanha começar. Também vale definir de antemão qual é o desconto máximo que o negócio aguenta sem vender no prejuízo, em vez de ajustar o preço correndo atrás da concorrência durante a própria data.",
+    "url": "https://monitormercantil.com.br/para-39-dos-comerciantes-vendas-neste-fim-de-ano-devem-superar-resultado-anterior/",
+    "posicao": 4,
+    "batch_date": "2026-11-13"
+  },
+  {
+    "tag": "Política",
     "titulo": "Senado vota hoje pacote fiscal de até R$ 60 bi que dobra corte de incentivos",
     "fonte": "Tribuna do Sertão",
     "data": "12 Nov",
@@ -130,49 +174,5 @@
     "url": "https://meutudo.com.br/blog/?p=291662",
     "posicao": 4,
     "batch_date": "2026-11-10"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Lula promete zerar imposto da cesta básica, mas não detalha ajuste fiscal",
-    "fonte": "BNews",
-    "data": "09 Nov",
-    "resumo": "Em pronunciamento de rede nacional, presidente anuncia isenção tributária para 2027, mas evita explicar como vai conter a alta da dívida pública.",
-    "conteudo": "Em pronunciamento à nação na noite de domingo (8), o presidente Luiz Inácio Lula da Silva, em discurso de cerca de sete minutos, prometeu zerar o imposto sobre os itens da cesta básica a partir de 2027, reafirmou a isenção do Imposto de Renda para quem ganha até R$5.000 por mês e disse ter enviado ao Congresso uma proposta de tarifa zero no transporte público nos fins de semana. O presidente reconheceu que a dívida pública e os juros elevados preocupam o governo, mas não apresentou nenhuma medida concreta de ajuste fiscal nem estimativa de impacto na receita das novas desonerações.\n\nPara quem vende alimentos, opera no varejo ou presta serviço que depende do poder de compra do consumidor, a notícia boa é a confirmação de que o governo seguirá ampliando isenções em 2027 — o que tende a deixar mais dinheiro no bolso do cliente final. O ponto de atenção é justamente o que ficou de fora do discurso: sem sinalização de corte de gastos, o mercado tende a continuar precificando um risco fiscal mais alto, o que significa custo de crédito e câmbio pressionados por mais tempo — vale manter o planejamento financeiro do negócio considerando juros ainda caros ao longo de 2027.",
-    "url": "https://www.bnews.com.br/noticias/politica/em-pronunciamento-lula-promete-zerar-imposto-da-cesta-basica-criar-ministerio-e-defende-reforma-do-judiciario.html",
-    "posicao": 1,
-    "batch_date": "2026-11-09"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "NFS-e Nacional passa a ser obrigatória para ME e EPP do Simples a partir desta semana",
-    "fonte": "Fenacon",
-    "data": "09 Nov",
-    "resumo": "Resolução do Comitê Gestor do Simples Nacional torna obrigatório o uso do Emissor Nacional da nota fiscal de serviço desde 1º de novembro, com regras de transição até 2027.",
-    "conteudo": "A Resolução CGSN nº 191/2026 tornou obrigatório, a partir de 1º de novembro, o uso do Emissor Nacional da NFS-e para microempresas (ME) e empresas de pequeno porte (EPP) optantes pelo Simples Nacional que prestam serviços sujeitos a essa nota — seja pelo aplicativo web, seja por integração via API com o sistema do contador. A norma havia sido editada originalmente com prazo para setembro e foi prorrogada para novembro; entre o início da obrigatoriedade e 31 de dezembro de 2026, a empresa só precisa emitir pelo padrão nacional, sem ainda aplicar as regras de CBS e IBS da reforma tributária, que só valem para o Simples a partir de janeiro de 2027.\n\nQuem ainda emite nota de serviço pelo sistema antigo da prefeitura corre o risco de rejeição a partir de agora, então vale checar com o contador, ainda esta semana, se a emissão já está integrada ao Emissor Nacional ou ao aplicativo web da NFS-e. Como a cobrança efetiva de CBS e IBS só chega em 2027, esse é o momento certo para testar o novo padrão sem o risco de erro afetar o caixa — adiar a adaptação só empilha trabalho para o fim do ano, quando o volume de vendas da Black Friday e do Natal deixa menos tempo livre para resolver pendência fiscal.",
-    "url": "https://fenacon.org.br/noticias/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026/",
-    "posicao": 2,
-    "batch_date": "2026-11-09"
-  },
-  {
-    "tag": "Consumo",
-    "titulo": "Serasa reúne 3,3 mil empresas em feirão com recorde de 84,2 milhões negativados",
-    "fonte": "Jornal do Comércio",
-    "data": "09 Nov",
-    "resumo": "Feirão Limpa Nome, que vai até 6 de dezembro, oferece cerca de 750 milhões de propostas de desconto de até 99% na reta final do ano de maior inadimplência já registrada no país.",
-    "conteudo": "A Serasa deu início, em 3 de novembro, à edição de fim de ano do Feirão Limpa Nome, reunindo mais de 3,3 mil empresas parceiras que juntas oferecem cerca de 750 milhões de propostas de negociação de dívidas, com descontos de até 99%, pelo site, aplicativo, Correios e WhatsApp oficial — tudo gratuito, até as 23h59 de 6 de dezembro. O mutirão ocorre num momento de recorde histórico: o país chegou a 84,2 milhões de consumidores com o nome negativado, segundo o Mapa de Inadimplência da própria Serasa.\n\nPara quem vende a prazo ou tem cliente com conta em atraso, cadastrar as dívidas da própria carteira no feirão — inclusive via empresa parceira — pode significar recuperar parte do caixa que está parado, justamente quando o capital de giro mais pesa. E para quem vai vender na Black Friday e no Natal, o dado de fundo importa tanto quanto o feirão: com quase um em cada cinco adultos negativado, boa parte do público das campanhas de fim de ano ainda está fora do crédito, o que reforça a aposta em pagamento à vista, PIX e entrada facilitada em vez de depender só do cartão.",
-    "url": "https://www.jornaldocomercio.com/economia/2026/11/1269032-rs-soma-42-milhoes-de-inadimplentes-serasa-inicia-feirao-limpa-nome-com-descontos-de-ate-99.html",
-    "posicao": 3,
-    "batch_date": "2026-11-09"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "BH recebe mais de 100 atividades gratuitas na Semana Global do Empreendedorismo",
-    "fonte": "Diário do Comércio",
-    "data": "09 Nov",
-    "resumo": "Sebrae Minas e CDL/BH promovem, de 9 a 13 de novembro, programação com palestras, oficinas e mentorias voltada a donos de pequenos negócios e empreendedores digitais.",
-    "conteudo": "Belo Horizonte recebe, entre esta segunda-feira (9) e a próxima sexta-feira (13), a edição local da Semana Global do Empreendedorismo, organizada pelo Sebrae Minas em parceria com a Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH). A programação reúne mais de 100 atividades gratuitas, das 13h às 19h, no espaço Horizonte – Inovação Empreendedora, ao lado da sede da CDL/BH, organizadas em três trilhas: marketing e vendas, gestão e finanças, e inovação, tecnologia e experiência do cliente.\n\nPara quem está validando uma ideia, formalizando o MEI ou já roda um pequeno negócio em BH, a semana é uma chance concreta de resolver, de graça e perto de casa, dúvidas que normalmente custariam uma consultoria — da precificação ao fluxo de caixa até ferramentas digitais de venda. Vale reservar pelo menos uma tarde na agenda: numa cidade com uma das maiores comunidades de empreendedores do país fora do eixo Rio-São Paulo, esse tipo de evento presencial também é oportunidade de network direto com quem enfrenta os mesmos desafios no dia a dia.",
-    "url": "https://diariodocomercio.com.br/negocios/semana-global-empreendedorismo-bh/",
-    "posicao": 4,
-    "batch_date": "2026-11-09"
   }
 ]
