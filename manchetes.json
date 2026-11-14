@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Dólar fecha a semana em R$5,65, maior valor em 17 meses; Ibovespa sobe 0,66%",
+    "fonte": "Imirante.com",
+    "data": "14 Nov",
+    "resumo": "Moeda fechou estável nesta sexta (13), mas acumula alta de 2,63% na semana, enquanto o Ibovespa avançou e encerrou perto de 172,5 mil pontos.",
+    "conteudo": "O dólar fechou a sexta-feira (13) em R$ 5,65, praticamente estável no dia (alta de 0,05%), mas no maior nível de fechamento desde junho de 2025 — ou seja, em 17 meses. Na semana, a moeda acumulou alta de 2,63%. O Ibovespa, por sua vez, subiu 0,66% na sessão, encerrando em 172.457 pontos, após oscilar entre uma mínima de 171.132 e uma máxima de 172.715 pontos, com volume financeiro de R$ 16,75 bilhões. O mercado seguiu de olho na tramitação do pacote fiscal no Senado, em declarações do presidente do Banco Central, Gabriel Galípolo, e na volatilidade externa.\n\nPara quem compra insumo ou equipamento importado, ou tem dívida em dólar, o recado é que o custo mais alto já não é oscilação pontual: é tendência de várias semanas. Vale travar cotação com fornecedor agora e revisar o orçamento de compras de dezembro e janeiro considerando um dólar perto de R$ 5,65, em vez de usar a cotação de um mês atrás. Quem exporta, por outro lado, ganha margem extra com o câmbio mais depreciado — é um bom momento para revisar a tabela de preços para o mercado externo.",
+    "url": "https://imirante.com/noticias/brasil/2026/11/13/dolar-fecha-estavel-r-565-sobe-263-semana",
+    "posicao": 1,
+    "batch_date": "2026-11-14"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "13º salário injeta R$339 bi na economia; 1ª parcela deve sair até 30/11",
+    "fonte": "O Tempo",
+    "data": "14 Nov",
+    "resumo": "Pagamento do 13º salário deve movimentar R$339,21 bilhões em 2026, e a primeira parcela tem prazo legal até 30 de novembro.",
+    "conteudo": "O pagamento do 13º salário deve injetar R$ 339,21 bilhões na economia brasileira em 2026, o equivalente a 2,9% do PIB, segundo estimativa citada pelo jornal O Tempo em reportagem publicada em 13 de novembro. A primeira parcela do benefício, sem desconto de INSS ou Imposto de Renda, precisa ser paga pelas empresas com empregados CLT até 30 de novembro. A segunda parcela, que normalmente venceria em 20 de dezembro, foi antecipada para 18 de dezembro porque o dia 20 cai num domingo em 2026 — não se trata de parcela extra, apenas de ajuste de calendário.\n\nPara quem emprega CLT, o alerta prático é de caixa: faltam pouco mais de duas semanas para o prazo de 30 de novembro, e vale separar o valor agora para não disputar linha de crédito de curto prazo em cima da hora. Para quem vende para o consumidor final, o calendário também é oportunidade — farmácia, supermercado e varejo em geral tendem a sentir o reforço do 13º já na primeira quinzena de dezembro, o que ajuda a calibrar estoque e equipe de vendas para o período.",
+    "url": "https://www.otempo.com.br/economia/2026/11/13/pagamento-do-13-salario-injeta-r-339-bi-na-economia-brasileira-veja-calendario-e-quem-recebe",
+    "posicao": 2,
+    "batch_date": "2026-11-14"
+  },
+  {
+    "tag": "Tributário",
+    "titulo": "Simples Nacional tem NFS-e Nacional obrigatória desde 1º de novembro",
+    "fonte": "Contábeis",
+    "data": "14 Nov",
+    "resumo": "Resolução do Comitê Gestor do Simples Nacional torna obrigatório o Emissor Nacional de nota fiscal de serviço para ME e EPP, com regra de transição até dezembro.",
+    "conteudo": "A Resolução CGSN nº 191/2026 tornou obrigatório, desde 1º de novembro, o uso do Emissor Nacional da NFS-e para microempresas (ME) e empresas de pequeno porte (EPP) optantes pelo Simples Nacional que prestam serviço sujeito a nota fiscal de serviço, segundo apuração do portal Contábeis. A nova data substituiu o prazo anterior, de setembro, previsto em resolução editada antes. A emissão pode ser feita pelo portal web do sistema nacional ou por integração via API com o sistema de gestão da empresa. Segundo a Receita Federal, a obrigação roda em regime de transição até 31 de dezembro de 2026, período em que as regras tributárias próprias do Simples continuam valendo normalmente.\n\nQuem presta serviço e ainda emite nota só pelo sistema do município corre risco de ficar fora de compliance já nesta virada de novembro para dezembro — vale checar com o contador, ainda esta semana, se a empresa já migrou para o Emissor Nacional ou se depende de ajuste no sistema de gestão (ERP) para continuar faturando sem problema. A boa notícia é que o preenchimento dos campos de IBS e CBS na nota só passa a ser exigido do Simples em 2027, então o esforço agora é só de adaptação ao novo emissor, não de cálculo de novo tributo.",
+    "url": "https://www.contabeis.com.br/noticias/80408/nfs-e-nacional-no-simples-sera-obrigatoria-a-partir-de-1o-de-novembro/",
+    "posicao": 3,
+    "batch_date": "2026-11-14"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Fintech Finaya recebe aporte da Crescera e da GS1 Brasil Ventures",
+    "fonte": "LetsMoney",
+    "data": "14 Nov",
+    "resumo": "Finaya, que oferece conta digital, Pix e cartão com marca própria para varejistas, capta recursos da Crescera Capital e ganha acesso à rede associada da GS1 Brasil.",
+    "conteudo": "A Finaya, fintech brasileira de embedded finance, recebeu nesta semana um aporte, de valor não divulgado, da Crescera Capital — via o fundo Criatec 4, administrado em parceria com a Triaxis Capital e ancorado pelo BNDES —, com participação da GS1 Brasil Ventures, braço de capital de risco da associação GS1 Brasil. A empresa permite que varejistas e grandes empresas ofereçam conta digital, Pix, cartão e crédito sob a própria marca, sem precisar construir essa estrutura internamente. Pela parceria com a GS1 Brasil Ventures, a Finaya passa a ter acesso a uma base de cerca de 62 mil empresas associadas em mais de 70 setores — o segundo investimento em startups feito pelo braço de venture capital da associação em 2026, depois da agtech Ecotrace.\n\nO aporte mostra que o caminho mais rápido para o embedded finance ganhar escala no Brasil passa por parceria com quem já tem a rede de clientes B2B pronta, não só por capital — vale observar esse modelo para quem pensa em oferecer serviço financeiro dentro do próprio produto. Para dono de varejo ou negócio B2B associado à GS1 Brasil, a notícia também é uma porta de entrada concreta: oferecer conta digital e crédito com a própria marca, via parceiro como a Finaya, pode sair mais barato e mais rápido do que montar essa estrutura do zero.",
+    "url": "https://letsmoney.com.br/embedded-finance/finaya-aporte-crescera-gs1-embedded-finance/",
+    "posicao": 4,
+    "batch_date": "2026-11-14"
+  },
+  {
     "tag": "Política",
     "titulo": "Senado aprova texto-base do pacote fiscal; falta só votar destaques",
     "fonte": "Gazeta do Povo",
@@ -130,49 +174,5 @@
     "url": "https://www.correiodamanha.com.br/economia/2026/11/332353-lisboa-startups-brasileiras-buscam-negocios-globais.html",
     "posicao": 4,
     "batch_date": "2026-11-11"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Ata do Copom mostra por que juros pararam de cair e Selic ficou em 13,75%",
-    "fonte": "Brasil em Folhas",
-    "data": "10 Nov",
-    "resumo": "Documento divulgado nesta terça (10) detalha os motivos que levaram o Copom a interromper, por unanimidade, uma sequência de cinco cortes seguidos na Selic.",
-    "conteudo": "O Banco Central divulgou nesta terça-feira (10), às 8h, a ata da 282ª reunião do Copom, realizada em 4 de novembro, na qual o comitê decidiu, por unanimidade, manter a Selic em 13,75% ao ano — interrompendo uma sequência de cinco cortes seguidos de 0,25 ponto percentual que vinha reduzindo a taxa desde o início do ano. O documento reforça a leitura de que a política monetária segue restritiva e cita o aumento da incerteza e a piora das expectativas de inflação no Boletim Focus como motivos para a pausa. O próximo termômetro vem na quinta-feira (12), quando o IBGE divulga o IPCA de outubro, antes da reunião seguinte do Copom, marcada para 8 e 9 de dezembro.\n\nPara quem toma crédito para capital de giro, financia equipamento ou vende a prazo no cartão, a mensagem da ata é que o custo do dinheiro não deve cair tão cedo — o corte que parte do mercado via como certo para dezembro perdeu força. Vale revisar agora, antes da Black Friday, se as linhas de crédito contratadas estão com taxa pré ou pós-fixada e renegociar prazos com fornecedores enquanto a Selic ainda não confirma uma trajetória de queda, em vez de represar decisões de investimento esperando juro mais baixo no curto prazo.",
-    "url": "https://brasilemfolhas.com.br/2026/11/banco-central-divulga-ata-do-copom-nesta-terca-feira/",
-    "posicao": 1,
-    "batch_date": "2026-11-10"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Governo descarta adiar CBS para 2028 após pedido de entidades empresariais",
-    "fonte": "Jornal Contábil",
-    "data": "10 Nov",
-    "resumo": "Carta aberta de entidades como a APET pede mais tempo para a reforma tributária, mas Fazenda confirma início pleno da CBS em janeiro de 2027.",
-    "conteudo": "Em carta aberta assinada em 31 de outubro, entidades dos setores jurídico, tributário e empresarial — entre elas a Associação Paulista de Estudos Tributários (APET) — pediram o adiamento da cobrança efetiva da CBS, hoje prevista para começar em janeiro de 2027, para no mínimo 2028, com o argumento de que 2027 deveria servir só como ano de testes. Os signatários apontam como principais entraves a falta de definição das alíquotas finais, a regulamentação ainda incompleta do Imposto Seletivo e o tempo necessário para adaptar sistemas de emissão de notas fiscais. Em 5 de novembro, porém, o ministro extraordinário da Reforma Tributária, Dario Durigan, descartou publicamente qualquer mudança no calendário: a extinção de PIS e Cofins e a cobrança plena da CBS continuam previstas para 1º de janeiro de 2027, mesmo com uma PEC da deputada Any Ortiz (PP-RS) propondo o adiamento ainda tramitando no Congresso.\n\nPara o dono de negócio, a posição do governo é um alerta prático: não vale a pena esperar um adiamento para só então ajustar o sistema de emissão de nota, treinar a equipe financeira ou rever contratos com fornecedores pensando na CBS. Como a PEC de adiamento não tem data para votação e a Fazenda já disse que não muda o cronograma, o caminho mais seguro é tratar janeiro de 2027 como data real e usar as próximas semanas para testar a emissão sob o novo regime, já que o período de teste de 2026 — com alíquotas simbólicas de CBS e IBS — termina em dezembro.",
-    "url": "https://jornalcontabil.com.br/noticia/reforma-tributaria-entidades-pedem-adiamento-da-cbs-para-2028/",
-    "posicao": 2,
-    "batch_date": "2026-11-10"
-  },
-  {
-    "tag": "Simples",
-    "titulo": "Simples Nacional tem até 20/12 para desistir do regime regular de IBS e CBS",
-    "fonte": "Foco Tributário",
-    "data": "10 Nov",
-    "resumo": "Janela aberta desde 3 de novembro permite a micro e pequenas empresas cancelar, sem custo, a opção pelo regime regular de IBS e CBS feita até outubro.",
-    "conteudo": "Desde 3 de novembro está aberta a janela, prevista na Resolução CGSN nº 194/2026, para micro e pequenas empresas optantes do Simples Nacional desistirem, de forma irretratável, da opção pelo regime regular de cobrança de IBS e CBS que haviam formalizado até 30 de outubro — ou cancelarem o pedido de ingresso no Simples para 2027. O prazo para decidir vai até 20 de dezembro de 2026, e quem não fizer nada mantém a escolha anterior, que passa a valer a partir de 1º de janeiro de 2027. Quem desistir continua recolhendo IBS e CBS dentro do DAS, pelo regime simplificado do Simples, sem precisar fazer nova opção.\n\nEssa é a última chance, sem multa ou burocracia extra, de corrigir uma escolha feita com pressa no fim de outubro — muita empresa optou pelo regime regular apostando em mais créditos tributários sem ter rodado a conta completa com o contador. Vale pedir agora, ainda em novembro, uma simulação comparando os dois regimes para o próximo ano: depois de 20 de dezembro a decisão trava para todo o ano de 2027, bem no período em que o fluxo de caixa já fica mais apertado com a Black Friday e o 13º salário.",
-    "url": "https://focotributario.com.br/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs-comeca-nesta-terca-3/",
-    "posicao": 3,
-    "batch_date": "2026-11-10"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Novas regras do FGTS reduzem de 5 para 3 as parcelas do Saque-Aniversário",
-    "fonte": "MeuTudo",
-    "data": "10 Nov",
-    "resumo": "Resolução do CCFGTS em vigor desde 1º de novembro limita a três o número de parcelas antecipáveis por ano e cada uma a no máximo R$500.",
-    "conteudo": "Passou a valer em 1º de novembro a Resolução CCFGTS nº 1.130/2025, que reduz de cinco para três o número de parcelas do Saque-Aniversário do FGTS que podem ser antecipadas por ano junto a bancos e fintechs, com cada parcela antecipada limitada a uma faixa entre R$100 e R$500. A mudança vale só para quem contratar a antecipação a partir de agora; contratos já fechados mantêm as condições antigas até o fim do prazo. A regra havia sido contestada na Justiça, mas o STF rejeitou, ainda em janeiro, a ação que pedia para derrubá-la.\n\nNa prática, encolhe o volume de dinheiro que o trabalhador CLT consegue antecipar de uma vez — recurso que muita gente usa como entrada para abrir um pequeno negócio, reformar o ponto comercial ou comprar estoque inicial. Quem vende equipamento, insumo ou franquia para esse público, ou aceita o FGTS antecipado como parte do pagamento, deve esperar tíquetes menores por operação a partir de agora, e vale ajustar a oferta de entrada ou prazo para quem ainda depende dessa linha de crédito para começar a empreender.",
-    "url": "https://meutudo.com.br/blog/?p=291662",
-    "posicao": 4,
-    "batch_date": "2026-11-10"
   }
 ]
