@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "Senado decide até 15/12 alíquota da CBS; TCU propõe 11,3%, acima do esperado",
+    "fonte": "Congresso em Foco",
+    "data": "15 Nov",
+    "resumo": "CAE do Senado ouve Fazenda, Receita e TCU nos dias 17 e 18 antes de fixar o imposto que substitui PIS/Cofins a partir de 2027.",
+    "conteudo": "O Tribunal de Contas da União calculou a alíquota de referência da CBS em 11,3468%, arredondada para 11,3% pela regra de uma casa decimal da Lei Complementar 214/2025 — valor acima do que estudos da própria Fazenda vinham indicando, algo em torno de 9,2%. O relator da matéria no Senado, Eduardo Braga (MDB-AM), disse que \"fomos pegos de surpresa\" com o número do TCU e pediu audiência pública antes de votar. A Comissão de Assuntos Econômicos remarcou as audiências para terça e quarta (17 e 18): no primeiro dia depõem o secretário da Fazenda Dario Durigan, o secretário da Receita Robson Barreirinhas e o presidente do TCU, Vital do Rêgo; no segundo, representantes da FGV e da OAB. Se o Senado não aprovar uma resolução até 15 de dezembro, prazo que pode se estender a 22 de dezembro, prevalece automaticamente o cálculo do TCU.\n\nA CBS substitui PIS e Cofins a partir de 2027 e incide sobre praticamente toda venda de bem e serviço no país, então a diferença entre 9,2% e 11,3% já deveria entrar no orçamento de preços do próximo ano como cenário-base, não como hipótese otimista. Quem está fechando contrato de longo prazo, tabela de preço ou planejamento tributário para 2027 faz bem em simular a conta com a alíquota mais alta e acompanhar o resultado das audiências desta semana — é nelas que vai ficar claro se o Senado vai tentar reduzir o número do TCU ou só homologá-lo.",
+    "url": "https://www.congressoemfoco.com.br/noticia/131494/cbs-senado-ouvira-durigan-e-vital-do-rego-na-proxima-semana",
+    "posicao": 1,
+    "batch_date": "2026-11-15"
+  },
+  {
+    "tag": "Juros",
+    "titulo": "Copom surpreende mercado e mantém Selic em 13,75%, rompe 5 cortes seguidos",
+    "fonte": "Muita Informação",
+    "data": "15 Nov",
+    "resumo": "Decisão unânime da 282ª reunião, em 4/11, pegou de surpresa 39 das 75 casas consultadas pela Projeções Broadcast, que esperavam novo corte.",
+    "conteudo": "Na 282ª reunião do Copom, em 4 de novembro, o Banco Central decidiu, por unanimidade, manter a Selic em 13,75% ao ano, interrompendo uma sequência de cinco cortes seguidos que vinha reduzindo a taxa havia meses. Levantamento da Projeções Broadcast com 75 instituições mostrava que 39 delas esperavam novo corte, para 13,50%, e 36 apostavam em manutenção — ou seja, a decisão frustrou boa parte do mercado. No comunicado, o comitê citou piora das condições domésticas e externas desde a reunião anterior, em 16 de setembro, além de instabilidade cambial e risco de alta na inflação; as próprias projeções do Copom indicam IPCA de 5,6% em 2026 e 4,7% em 2027, ainda acima da meta.\n\nCom a pausa, o custo do crédito para empresa segue no patamar mais restritivo dos últimos anos, sem o Banco Central dar qualquer sinal de quando o ciclo de corte deve ser retomado. Quem estava esperando folga no juro para renegociar capital de giro, financiar equipamento ou alongar dívida em 2027 deve revisar esse planejamento assumindo Selic alta por mais tempo do que o próprio mercado apostava até a véspera da reunião — e evitar contratar dívida nova pré-fixada só na expectativa de um corte que o BC não prometeu.",
+    "url": "https://muitainformacao.com.br/negocios/banco-central-surpreende-mercado-mantem-selic-em-1375-e-interrompe-sequencia-de-cinco-cortes-nos-juros/",
+    "posicao": 2,
+    "batch_date": "2026-11-15"
+  },
+  {
+    "tag": "Pagamentos",
+    "titulo": "Pix ganha cobrança híbrida com boleto; regra de segurança vale desde fev/2027",
+    "fonte": "Mercado&Consumo",
+    "data": "15 Nov",
+    "resumo": "Resolução BCB 587/2026 cria documento único que reúne boleto e QR Code Pix e cancela automaticamente o meio não usado, evitando pagamento em duplicidade.",
+    "conteudo": "A Resolução BCB nº 587/2026 criou a \"cobrança híbrida\", que reúne boleto e QR Code do Pix num único documento de cobrança: quando o cliente paga por um dos dois meios, o sistema baixa o boleto ou cancela o QR Code automaticamente, eliminando o risco de pagamento em duplicidade que hoje obriga lojista a devolver valor pago duas vezes. A oferta da cobrança híbrida continua facultativa para quem recebe, mas o pacote de regras que a acompanha — incluindo trava antifraude e novo fluxo de devolução — entra em vigor em 1º de fevereiro de 2027. O mesmo pacote também autorizou Pix automático vinculado a conta-salário.\n\nQuem hoje emite boleto para aluguel, mensalidade ou venda parcelada ganha a opção de oferecer o Pix como alternativa instantânea no mesmo documento, sem manter dois sistemas de cobrança separados — o que tende a reduzir a inadimplência causada só por atraso na baixa manual do boleto. Negócio que usa sistema de cobrança terceirizado (ERP, gateway de pagamento) deve perguntar ao fornecedor se a função já está no cronograma de atualização, porque a adequação técnica costuma levar meses e fevereiro de 2027 chega rápido para quem deixar para testar depois do carnaval.",
+    "url": "https://mercadoeconsumo.com.br/18/09/2026/meios-de-pagamento/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario/",
+    "posicao": 3,
+    "batch_date": "2026-11-15"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Ginastee capta R$650 mil em rodada que troca parte do cheque por mentoria",
+    "fonte": "Startups.com.br",
+    "data": "15 Nov",
+    "resumo": "Plataforma de bem-estar fundada por Rafael Paiva fecha pré-seed estruturado pela Koinz Capital, gestora que injeta \"capital intelectual\" ao lado do aporte em dinheiro.",
+    "conteudo": "A Ginastee, plataforma social de bem-estar que permite a criadores de fitness e wellness publicar conteúdo e engajar seguidores em comunidades digitais privadas, captou uma rodada pré-seed de R$ 650 mil estruturada pela Koinz Capital, gestora fundada por Leonardo Cruz que acompanha a startup desde o estágio de MVP. O diferencial do modelo é que parte do valor não vem só em dinheiro: mentores e investidores da rede da Koinz colocam capital próprio e assessoria direta na operação da empresa, numa combinação que a gestora chama de \"capital intelectual\" — a proporção exata entre dinheiro e valor de mentoria não foi divulgada. A startup, que já passou por outros pivôs de produto, projeta R$ 20 milhões em operações de bem-estar até o fim de 2027 e planeja expansão internacional, com foco no mercado americano, a partir de 2028.\n\nPara empreendedor em estágio inicial que não quer — ou não consegue — abrir capital com fundo de venture capital tradicional, o caso mostra um caminho alternativo de captação: trocar uma fatia menor da empresa por rede de contatos e orientação de quem já passou pelo mesmo problema, em vez de buscar só o cheque mais alto possível. A lógica vale especialmente para negócio de nicho — saúde, bem-estar, fitness —, em que a experiência prática de quem já escalou algo parecido costuma valer mais, no curto prazo, do que um aporte maior sem nenhum acompanhamento.",
+    "url": "https://startups.com.br/negocios/rodada-de-investimento/startup-de-pai-e-filho-recebe-aporte-da-koinz-capital-e-mira-proxima-rodada/",
+    "posicao": 4,
+    "batch_date": "2026-11-15"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Dólar fecha a semana em R$5,65, maior valor em 17 meses; Ibovespa sobe 0,66%",
     "fonte": "Imirante.com",
@@ -130,49 +174,5 @@
     "url": "https://agenciasebrae.com.br/dados/maturidade-digital-dos-pequenos-negocios-brasileiros-cresce-10-em-dois-anos/",
     "posicao": 4,
     "batch_date": "2026-11-12"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Fim da escala 6x1 passa a valer em 15/12; empresas têm 1 mês para se ajustar",
-    "fonte": "Agência Brasil",
-    "data": "11 Nov",
-    "resumo": "Emenda Constitucional 141, que acaba com a escala 6x1, entra em vigor em todo o país em pouco mais de um mês, e o custo cai sobre quem contrata.",
-    "conteudo": "A Câmara dos Deputados aprovou em dois turnos, em 27 de maio de 2026, a PEC que acaba com a escala de trabalho 6x1, e o Senado manteve o texto sem alterações na votação de 14 de outubro. Cinco dias depois, as mesas da Câmara e do Senado promulgaram a Emenda Constitucional nº 141, que garante a todo trabalhador formal dois dias de descanso semanal remunerado e elimina a jornada de seis dias trabalhados por um de folga. Pela regra de transição, o novo regime entra em vigor em todo o país em 15 de dezembro de 2026 — 60 dias após a promulgação —, com a jornada máxima semanal caindo de 44 para 42 horas nessa primeira etapa; trabalhadores terceirizados que prestam serviço à administração pública têm prazo mais longo, de 12 meses, e servidores públicos ficam fora da regra.\n\nPara quem toca comércio, restaurante, farmácia ou qualquer negócio que hoje escala funcionários em 6x1 — folgando um dia só a cada seis trabalhados —, a conta já deveria estar sendo refeita: faltam pouco mais de quatro semanas para a mudança valer, e vai ser preciso redesenhar turnos, calcular se sobra gente para cobrir o segundo dia de descanso ou se é hora de contratar, e revisar a folha de pagamento com o contador antes de dezembro virar. A própria Fiesp já citou o fim da 6x1 como um dos fatores que pesam no índice de confiança da indústria, hoje em 46,4 pontos — ainda em zona de pessimismo —, então vale tratar o ajuste como custo certo do próximo trimestre, não como surpresa de última hora.",
-    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-quando-comeca-valer-o-fim-da-escala-6-por-1",
-    "posicao": 1,
-    "batch_date": "2026-11-11"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Desenrola 3.0 inclui dívida bancária de MEI com desconto mínimo de 90%",
-    "fonte": "Agência Gov",
-    "data": "11 Nov",
-    "resumo": "Ministério do Empreendedorismo confirmou que cerca de R$ 6 bilhões em dívidas bancárias de microempreendedores entram no leilão de renegociação previsto para novembro.",
-    "conteudo": "O Ministério do Empreendedorismo confirmou, em comunicado de 5 de novembro, que a terceira fase do programa Desenrola — que autoriza a União a comprar carteiras de dívida inadimplente de bancos e fintechs com deságio mínimo de 90% — vai incluir uma carteira de cerca de R$ 6 bilhões em dívidas bancárias de pessoa jurídica de microempreendedores individuais, ligada a aproximadamente 1,6 milhão de MEIs. A Portaria MF nº 3.127 abriu o chamamento para que as instituições financeiras interessadas apresentassem suas carteiras de dívida, e o leilão de compra está previsto para novembro, com possibilidade de escorregar para o início de dezembro caso o processo de habilitação dos bancos se estenda.\n\nQuem é MEI e está com conta travada no banco ou na fintech há algum tempo deve procurar diretamente a instituição credora para saber se ela vai apresentar aquela dívida no leilão — a adesão é feita pelo banco, não pelo microempreendedor, e nem toda carteira entra. Vale também guardar o CNPJ e acompanhar o site do Ministério do Empreendedorismo nas próximas semanas: se a dívida for arrematada com desconto de 90% ou mais, o microempreendedor sai de uma inadimplência que hoje trava crédito novo e consegue voltar a negociar capital de giro em condições normais a partir de 2027.",
-    "url": "https://agenciagov.ebc.com.br/noticias/202610/fazenda-inclui-dividas-bancarias-do-mei-na-terceira-fase-da-renegociacao-de-dividas-com-descontos-minimos-de-90",
-    "posicao": 2,
-    "batch_date": "2026-11-11"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Receita Federal confirma testes do split payment; cobrança começa em 2027",
-    "fonte": "Contábeis",
-    "data": "11 Nov",
-    "resumo": "Primeira fase de testes de comunicação de dados do pagamento fracionado de tributos começou em 15 de outubro, mas a cobrança efetiva só passa a valer, de forma facultativa, no ano que vem.",
-    "conteudo": "A Receita Federal confirmou que o split payment — mecanismo que retém automaticamente o valor de CBS e IBS no momento em que o cliente paga, antes de o dinheiro cair na conta da empresa — começa a operar de forma facultativa e escalonada em 2027, dentro do cronograma da reforma tributária. Bancos e instituições de pagamento tiveram até 2 de outubro para formalizar interesse no projeto-piloto junto à Confederação Nacional das Instituições Financeiras, e a primeira fase de testes de comunicação de dados arrancou em 15 de outubro de 2026; a Lei Complementar nº 227/2026 já prevê punições administrativas para instituições que descumprirem as regras de retenção. Bancos e consultorias como EY e KPMG, além de pilotos privados como o lançado pelo Banco Rendimento em parceria com a ROIT, já testam o modelo com clientes selecionados.\n\nO ponto de atenção para quem vende a prazo ou no cartão é o caixa: hoje existe um intervalo entre receber a venda e pagar a guia de tributo, e boa parte das empresas usa esse hiato como colchão de capital de giro — com o split payment, a retenção passa a ser automática na liquidação da venda, e esse colchão desaparece. Mesmo com a cobrança começando apenas em 2027 e de forma opcional, vale perguntar já ao banco ou à adquirente de cartões se eles entraram no piloto e simular o impacto no fluxo de caixa dos próximos meses, para não ser pego de surpresa quando a retenção deixar de ser opcional.",
-    "url": "https://www.contabeis.com.br/noticias/71509/receita-federal-confirma-split-payment-a-partir-de-2027/",
-    "posicao": 3,
-    "batch_date": "2026-11-11"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Sebrae e ApexBrasil levam 300 startups brasileiras ao Web Summit Lisboa",
-    "fonte": "Correio da Manhã",
-    "data": "11 Nov",
-    "resumo": "Missão apoiada pelo Sebrae tenta repetir o resultado de 2025, quando startups brasileiras fecharam US$ 2,6 milhões em negócios durante o evento em Portugal.",
-    "conteudo": "O Web Summit Lisboa 2026, que começou no dia 9 e segue nesta semana, reúne uma delegação brasileira de cerca de 300 startups organizada pelo Sebrae e pela ApexBrasil, com apoio do Serpro, da Embratur e do Ministério das Relações Exteriores. Do total, 40 empresas tiveram passagem aérea e seguro-viagem pagos integralmente pelo Sebrae, e as soluções levadas ao Pavilhão Brasil se concentram em inteligência artificial, saúde, energia, mobilidade elétrica, bioeconomia e sustentabilidade. A meta declarada da missão é aproximar as startups brasileiras de investidores internacionais, clientes e novos mercados; na edição de 2025, a delegação fechou US$ 2,6 milhões em negócios durante o próprio evento e identificou outros US$ 16 milhões em oportunidades para os 12 meses seguintes.\n\nPara o dono de startup ou de um negócio de base tecnológica que não embarcou para Lisboa, o evento ainda vale de olho fora da feira: historicamente o Sebrae abre, nas semanas seguintes ao Web Summit, editais de conexão e rodadas de matchmaking com os investidores e fundos que passaram pelo Pavilhão Brasil, inclusive para quem não fez parte da delegação oficial. Os setores priorizados pela curadoria deste ano — IA aplicada, saúde e bioeconomia — também são uma pista de onde fundos e compradores internacionais estão olhando para o Brasil agora, útil para quem está calibrando o pitch ou decidindo em que vertical focar o produto em 2027.",
-    "url": "https://www.correiodamanha.com.br/economia/2026/11/332353-lisboa-startups-brasileiras-buscam-negocios-globais.html",
-    "posicao": 4,
-    "batch_date": "2026-11-11"
   }
 ]
