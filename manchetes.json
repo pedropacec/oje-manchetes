@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Crédito",
+    "titulo": "Aprovação de crédito a pequenos negócios chega ao maior nível desde 2022",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "17 Nov",
+    "resumo": "Pesquisa Pulso dos Pequenos Negócios mostra 46% dos pedidos de financiamento bancário aprovados nos últimos três meses, e inadimplência referida pelos donos cai de 28% para 25%.",
+    "conteudo": "A 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, mostra que 46% dos pequenos negócios que pediram financiamento bancário nos três meses anteriores ao levantamento tiveram o crédito aprovado — o maior percentual desde o início da série, em 2022. A proporção de negócios que relatam ter dívida em atraso também caiu, de 28% em março para 25% em julho. O presidente do Sebrae, Rodrigo Soares, associa a melhora ao movimento de queda de juros e ao programa Desenrola, que já soma cerca de R$ 31 bilhões em operações para pequenos negócios.\n\nIsso não quer dizer que o crédito ficou barato: a própria pesquisa avisa que aprovação maior não equivale a juro menor nem a linha adequada para todo tipo de negócio. Na prática, vale usar esse momento para reabrir conversa com o banco sobre capital de giro ou renegociação pelo Desenrola — o MEI tem adesão aberta até 31 de março de 2027 — e comparar pelo menos duas ou três instituições antes de fechar, já que a aprovação mais fácil não elimina a diferença de taxa entre elas.",
+    "url": "https://agenciasebrae.com.br/dados/inadimplencia-de-pequenos-negocios-cai-e-aprovacao-de-credito-atinge-maior-nivel-desde-2022/",
+    "posicao": 1,
+    "batch_date": "2026-11-17"
+  },
+  {
+    "tag": "Inadimplência",
+    "titulo": "Dívidas negativadas de empresas batem novo recorde em setembro",
+    "fonte": "LetsMoney",
+    "data": "17 Nov",
+    "resumo": "Serasa Experian registrou 9,4 milhões de CNPJs com dívidas em atraso em setembro, alta de 12% em um ano, somando R$ 247,8 bilhões — maior número da série.",
+    "conteudo": "O Brasil terminou setembro com 9,4 milhões de empresas negativadas, segundo o Indicador Serasa Experian, o maior número da série histórica e 12% acima do registrado um ano antes; juntas, essas empresas devem R$ 247,8 bilhões. O levantamento é o segundo recorde consecutivo, depois dos 9,3 milhões de CNPJs inadimplentes em agosto, e a economista-chefe da Serasa, Camila Abdelmalack, associa o quadro aos juros ainda elevados e ao crédito mais restritivo, que pesam principalmente sobre micro e pequenas empresas.\n\nO dado conversa com a melhora na aprovação de crédito mostrada pelo Sebrae: uma coisa é o banco liberar mais pedidos novos, outra é o estoque de dívida velha que já está em atraso — e esse estoque continua crescendo. Quem vende com prazo (boleto, nota a receber, parcelamento para cliente pessoa jurídica) ganha em checar o CNPJ do comprador antes de fechar venda grande a prazo, e vale revisar a política de cobrança e de desconto para pagamento à vista, já que a inadimplência de clientes tende a pesar mais enquanto esse indicador não virar.",
+    "url": "https://www.letsmoney.com.br/credito/serasa-inadimplencia-empresas-setembro-2026/",
+    "posicao": 2,
+    "batch_date": "2026-11-17"
+  },
+  {
+    "tag": "Varejo",
+    "titulo": "Varejo trava em setembro e reforça sinal de estagflação, aponta IBGE",
+    "fonte": "Monitor Mercantil",
+    "data": "17 Nov",
+    "resumo": "Pesquisa Mensal de Comércio do IBGE mostra alta de apenas 0,2% em setembro, com queda em veículos e material de construção; avanço de 1,7% em 12 meses não anima analistas.",
+    "conteudo": "A Pesquisa Mensal de Comércio do IBGE, divulgada em 13 de novembro, mostrou que o varejo cresceu apenas 0,2% em setembro frente a agosto — dentro da margem que o próprio instituto classifica como estabilidade —, repetindo a taxa do mês anterior. No acumulado de 12 meses a alta é de 1,7%, mas no varejo ampliado (que inclui veículos e construção) o resultado foi pior: queda de 1,8% em veículos, motos, partes e peças e de 1,3% em material de construção; o destaque positivo veio do setor de informática e comunicação, que liderou o crescimento entre as oito atividades pesquisadas.\n\nO cenário reforça a leitura de que o país combina atividade fraca com juro e inflação ainda altos — o apelido \"estagflação\" que vem aparecendo na imprensa especializada. Para quem vende para o consumidor final, o recado é não contar com crescimento orgânico de demanda para bater a meta do próximo trimestre, e olhar com atenção para o segmento em que o negócio está: quem vende equipamento, veículo ou material de construção enfrenta vento contrário mais forte do que a média do varejo.",
+    "url": "https://monitormercantil.com.br/comercio-segue-industria-e-confirma-pais-em-estagflacao/",
+    "posicao": 3,
+    "batch_date": "2026-11-17"
+  },
+  {
+    "tag": "E-commerce",
+    "titulo": "Compras internacionais sob US$ 50 sobem 82% e pressionam varejo nacional",
+    "fonte": "Mercado&Consumo",
+    "data": "17 Nov",
+    "resumo": "Levantamento do BTG mostra forte alta nas compras em Shein, Shopee e AliExpress desde o fim da \"taxa das blusinhas\", ampliando a concorrência para quem vende no Brasil.",
+    "conteudo": "Desde que o Imposto de Importação de 20% sobre compras internacionais de até US$ 50 foi zerado, dentro do programa Remessa Conforme, as compras nessa faixa de valor em plataformas como Shein, Shopee e AliExpress subiram 82%, segundo levantamento do BTG citado pela Abit. O ICMS estadual continua sendo cobrado normalmente, entre 17% e 20% dependendo do estado, mas a isenção do imposto federal tornou essas plataformas mais competitivas frente ao varejo nacional em categorias como moda, acessórios e bazar.\n\nPara o lojista brasileiro, sobretudo de moda e utilidades de ticket baixo, a conta mudou: competir só por preço contra um produto sem Imposto de Importação tende a ser batalha perdida, e vale migrar o discurso de venda para entrega mais rápida, troca mais fácil e suporte em português — vantagens que o comprador perde ao importar direto. Também vale revisar a curva de produtos abaixo de R$ 250: é ali que a concorrência das plataformas chinesas mais aperta a margem.",
+    "url": "https://mercadoeconsumo.com.br/16/10/2026/noticias-varejo/compras-internacionais-abaixo-de-us-50-sobem-82-apos-fim-da-taxa-das-blusinhas/",
+    "posicao": 4,
+    "batch_date": "2026-11-17"
+  },
+  {
     "tag": "MEI",
     "titulo": "Lei sancionada eleva teto do MEI a R$140 mil e perdoa dívidas federais",
     "fonte": "Times Brasil",
@@ -130,49 +174,5 @@
     "url": "https://letsmoney.com.br/embedded-finance/finaya-aporte-crescera-gs1-embedded-finance/",
     "posicao": 4,
     "batch_date": "2026-11-14"
-  },
-  {
-    "tag": "Política",
-    "titulo": "Senado aprova texto-base do pacote fiscal; falta só votar destaques",
-    "fonte": "Gazeta do Povo",
-    "data": "13 Nov",
-    "resumo": "Texto principal do PLP 299/2026 passou por 45 votos a 31 na noite de quinta; projeto só vai à Câmara depois da votação de quatro destaques, marcada para terça (17).",
-    "conteudo": "O Senado aprovou, na noite de quinta-feira (12), o texto principal do Projeto de Lei Complementar 299/2026 por 45 votos a 31. O PLP 299 é o pacote de ajuste fiscal do governo Lula que amplia o corte linear de incentivos tributários federais, cria limite adicional para o crescimento de despesas acima da inflação e aperta as regras de compensação tributária. Segundo a Agência Senado, o Executivo estima melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. O projeto ainda não foi enviado à Câmara dos Deputados: restam quatro destaques — emendas que podem alterar pontos específicos do texto — com votação marcada para a próxima terça-feira (17), e só depois desse resultado o PLP segue para análise dos deputados.\n\nQuem usa benefício fiscal federal ainda tem uma pequena janela antes da palavra final: os destaques de terça podem mudar detalhes do corte setorial, então vale acompanhar o resultado antes de fechar o orçamento de 2027 com a régua de corte já certa. Como o texto também aperta a compensação tributária, negócio que usa esse mecanismo para aliviar caixa deve simular com o contador, ainda esta semana, se a versão que sair do Senado muda a conta — a palavra final só vem depois da Câmara, mas o desenho básico do corte já está dado.",
-    "url": "https://www.gazetadopovo.com.br/economia/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/",
-    "posicao": 1,
-    "batch_date": "2026-11-13"
-  },
-  {
-    "tag": "Mercado",
-    "titulo": "Dólar fecha a R$5,65, maior valor em 17 meses, com pressão fiscal e BB",
-    "fonte": "NC News",
-    "data": "13 Nov",
-    "resumo": "Moeda subiu cerca de 1,6% nesta quinta e Ibovespa caiu, pressionados por dúvida sobre o pacote fiscal no Senado e por balanço fraco do Banco do Brasil.",
-    "conteudo": "O dólar fechou a R$ 5,65 nesta quinta-feira (12), alta de cerca de 1,6% no dia e o maior valor desde junho de 2025 — 17 meses —, enquanto o Ibovespa recuou na mesma sessão. Parte da pressão veio da indefinição em torno do pacote fiscal em tramitação no Senado, e parte do resultado do Banco do Brasil, cujo lucro trimestral caiu 66,5% na comparação anual, segundo o balanço divulgado nesta semana.\n\nDólar mais caro pesa direto em quem importa insumo, matéria-prima ou equipamento, e também mexe no custo de linha de crédito atrelada a moeda estrangeira — vale travar cotação com fornecedor ou negociar hedge antes da próxima leva de pedidos, em vez de só sentir o reajuste no fechamento do mês. O resultado fraco do Banco do Brasil também é sinal de alerta para quem depende de crédito bancário: banco com lucro em queda tende a apertar a análise de risco, o que pode encarecer ou dificultar a renovação de linha de capital de giro nos próximos meses.",
-    "url": "https://ncnews.com.br/2026/11/12/dolar-ibovespa-hoje-12-novembro/",
-    "posicao": 2,
-    "batch_date": "2026-11-13"
-  },
-  {
-    "tag": "Capital",
-    "titulo": "Healthtech Rivio capta R$180 milhões e passa de R$1 bi em valuation",
-    "fonte": "Startups.com.br",
-    "data": "13 Nov",
-    "resumo": "Rivio, que usa IA para reduzir perda no faturamento de hospitais, fechou Série A liderada pela Valor Capital Group e já atua em 13 grupos hospitalares.",
-    "conteudo": "A healthtech Rivio, que usa inteligência artificial para reduzir glosa e perdas no faturamento de hospitais, fechou em 4 de novembro a Série A em R$ 180 milhões, somando uma extensão de R$ 80 milhões à rodada inicial de R$ 100 milhões captada em janeiro. A nova etapa foi liderada pela Valor Capital Group, com participação de Monashees, Positive Ventures e APL, e levou o valuation da empresa a mais de R$ 1 bilhão; a startup já roda em 13 grupos hospitalares, entre eles Hospital Israelita Albert Einstein, Hospital Sírio-Libanês e A.C.Camargo Cancer Center.\n\nO caso mostra que o investidor institucional continua de olho em negócio que resolve um problema concreto e mensurável de custo — no caso da Rivio, glosa hospitalar — em vez de apostar só em crescimento de usuário. Para quem busca captação, o roteiro é replicável em escala menor: validar o ganho financeiro do produto com poucos clientes-âncora antes de buscar rodada, já que foi esse histórico que sustentou a extensão da Série A em menos de um ano após a primeira rodada.",
-    "url": "https://startups.com.br/negocios/rodada-de-investimento/rivio-fecha-serie-a-de-r-180m-e-passa-de-r-1-bi-em-valuation/",
-    "posicao": 3,
-    "batch_date": "2026-11-13"
-  },
-  {
-    "tag": "Varejo",
-    "titulo": "Black Friday é em 27/11, mas é o frete que decide a margem do lojista",
-    "fonte": "Monitor Mercantil",
-    "data": "13 Nov",
-    "resumo": "A duas semanas da data, 39% dos comerciantes esperam vendas de fim de ano melhores que no ano passado, mas consultores alertam que o frete pode consumir o desconto.",
-    "conteudo": "A Black Friday 2026 será no dia 27 de novembro, e levantamento da CNDL com o SPC Brasil mostra que cerca de 39% dos comerciantes brasileiros esperam vendas de fim de ano melhores do que no ano anterior; já pesquisa da Shopee indica que 86% dos consumidores pretendem comprar em pelo menos uma das datas promocionais de novembro. Apesar da expectativa de alta no volume de pedidos, consultores de varejo alertam que o tíquete médio tende a cair na data, pressionado por produto com desconto mais agressivo, o que reduz a margem disponível para cobrir o custo do frete.\n\nNa prática, para quem vai vender na Black Friday, o ponto que decide se a data dá lucro ou só movimenta caixa é fechar, ainda esta semana, o preço do frete com a transportadora e simular a margem já descontando esse custo — faltam menos de duas semanas para 27 de novembro, pouco tempo para renegociar depois que a campanha começar. Também vale definir de antemão qual é o desconto máximo que o negócio aguenta sem vender no prejuízo, em vez de ajustar o preço correndo atrás da concorrência durante a própria data.",
-    "url": "https://monitormercantil.com.br/para-39-dos-comerciantes-vendas-neste-fim-de-ano-devem-superar-resultado-anterior/",
-    "posicao": 4,
-    "batch_date": "2026-11-13"
   }
 ]
