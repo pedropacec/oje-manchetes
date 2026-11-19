@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Política",
+    "titulo": "Senado aprova ajuste fiscal por 69 votos a 2; texto agora vai à Câmara",
+    "fonte": "Mixvale",
+    "data": "19 Nov",
+    "resumo": "Em turno suplementar, Senado fechou acordo sobre Lei Kandir, diesel e supersalários e enviou o PLP 299/2026 à Câmara dos Deputados.",
+    "conteudo": "O Senado concluiu nesta quarta-feira (18) a votação do PLP 299/2026, projeto de ajuste fiscal do governo, aprovando o texto em turno suplementar por 69 votos a 2, com uma abstenção — resultado bem mais tranquilo do que os 45 a 31 do texto-base, aprovado em 12 de novembro. Para fechar o acordo, o relator Eduardo Braga (MDB-AM) cedeu em pontos sensíveis: manteve os repasses da Lei Kandir a estados e municípios sem o corte que o texto original previa, autorizou deduzir até R$ 10,5 bilhões gastos em 2026 com a subvenção ao diesel da meta fiscal do ano, e aceitou emenda que reduz de 120 para 60 dias o prazo para o Congresso regulamentar o teto dos supersalários do funcionalismo. O projeto segue agora para a Câmara, onde o deputado Mauro Benevides Filho (União-CE) é o relator, com votação prevista até a próxima terça-feira (24).\n\nPara quem empreende, o principal efeito indireto é sobre o espaço fiscal do governo para 2027: o pacote pretende gerar até R$ 56 bilhões em economia e ajuste de receita, o que tende a pesar na definição dos próximos passos da reforma tributária e no humor do mercado com os juros. Negócio que fornece para estado ou município ligado à exportação, setor que usava a Lei Kandir como argumento de pressão sobre caixa estadual, ganha mais previsibilidade; e quem opera com diesel subsidiado (transporte, agro) deve acompanhar se a União mantém o repasse sem atraso agora que a conta ficou fora da meta fiscal. Como o texto ainda pode mudar na Câmara, vale esperar a votação de terça antes de fazer qualquer aposta de planejamento baseada só no que já passou no Senado.",
+    "url": "https://www.mixvale.com.br/2026/11/18/senado-aprova-ajuste-fiscal-por-69-votos-a-2-e-envia-texto-a-camara/",
+    "posicao": 1,
+    "batch_date": "2026-11-19"
+  },
+  {
+    "tag": "Mercado",
+    "titulo": "Indicador do BC mostra economia encolhendo 0,9% no 3º trimestre",
+    "fonte": "Forbes Brasil",
+    "data": "19 Nov",
+    "resumo": "IBC-Br, a prévia oficial do PIB, recuou 0,9% entre julho e setembro, com queda em agropecuária, indústria e serviços.",
+    "conteudo": "O Banco Central informou, em 16 de novembro, que o IBC-Br — indicador usado como prévia do PIB — recuou 0,9% no terceiro trimestre de 2026 em relação ao trimestre anterior, já com ajuste sazonal, a maior retração trimestral do ano. A queda foi disseminada entre os três grandes setores: a agropecuária caiu 2%, a indústria recuou 1,1% e os serviços tiveram baixa de 0,5%. Mesmo com o tropeço do trimestre, o indicador ainda acumula alta de 1,4% tanto no ano quanto nos últimos 12 meses, e o resultado oficial do PIB, medido pelo IBGE, só sai em 2 de dezembro.\n\nComo o IBC-Br é um dos termômetros que o próprio Banco Central usa para calibrar a Selic, uma desaceleração como essa tende a reforçar o argumento de quem defende manter os juros altos por mais tempo — o que significa crédito e capital de giro caros por mais tempo também para quem empreende. Na prática, é hora de revisar a previsão de vendas do quarto trimestre com mais cautela, sobretudo em indústria e serviços, que respondem pela maior parte do recuo, e de evitar comprometer caixa com dívida nova enquanto a trajetória dos juros não ficar mais clara nas próximas decisões do Copom.",
+    "url": "https://forbes.com.br/forbes-money/2026/11/economia-brasileira-encolhe-09-no-3o-trimestre-aponta-banco-central/",
+    "posicao": 2,
+    "batch_date": "2026-11-19"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Nubank bate recorde de lucro no 3T26, mas inadimplência também sobe",
+    "fonte": "Money Times",
+    "data": "19 Nov",
+    "resumo": "Lucro chegou a US$1,1 bi, alta de 31% em câmbio constante, enquanto atrasos acima de 90 dias passaram de 6,9% para 7,3% da carteira.",
+    "conteudo": "O Nubank reportou lucro líquido recorde de cerca de US$ 1,1 bilhão no terceiro trimestre de 2026, alta de 31% em câmbio constante sobre o mesmo período do ano anterior, com receita gerencial de US$ 6,26 bilhões (alta de 37%) e ROE de 32%. O balanço, divulgado nesta semana, também mostrou que a inadimplência de mais de 90 dias subiu de 6,9% no segundo trimestre para 7,3% no terceiro, acima do que parte do mercado projetava, enquanto os atrasos entre 15 e 90 dias ficaram em 4,9% da carteira.\n\nO dado importa além do balanço de um banco só: o Nubank hoje concentra uma fatia relevante do crédito a pessoa física e a pequenos negócios no Brasil, e inadimplência subindo nessa escala é sinal de que o consumidor e o pequeno empresário estão mais apertados para pagar em dia, mesmo com juro de cartão e de crédito pessoal entre os mais altos do mercado. Para quem vende a prazo ou fia para cliente final, vale reforçar a análise de crédito antes de ampliar limite ou prazo de pagamento, e não tratar a aprovação mais fácil de empréstimo como sinal de que o risco de atraso caiu — pelo contrário, ele está subindo.",
+    "url": "https://www.moneytimes.com.br/nubank-roxo34nu-lucro-bate-recorde-de-us-1-bilhao-no-3t26-alta-de-31/",
+    "posicao": 3,
+    "batch_date": "2026-11-19"
+  },
+  {
+    "tag": "Startups",
+    "titulo": "Nomad capta R$172 milhões com a Tether e dobra valuation para R$4 bi",
+    "fonte": "Startups.com.br",
+    "data": "19 Nov",
+    "resumo": "Fintech brasileira de conta global atraiu rodada Série C liderada pela Tether Capital e já soma 5 milhões de clientes.",
+    "conteudo": "A fintech brasileira Nomad, que oferece conta em dólar, cartão internacional e investimentos no exterior para brasileiros, anunciou em 16 de novembro uma rodada Série C de R$ 172 milhões liderada pela Tether Capital, com participação de Endeavor, Globo Ventures, Tiger Global e Spark Capital. A captação mais do que dobrou o valuation da empresa, para R$ 4 bilhões, e eleva para mais de R$ 800 milhões o total levantado desde a fundação, em 2020. A Nomad diz ter 5 milhões de clientes, mais de R$ 10 bilhões em ativos sob custódia e receita anualizada acima de R$ 880 milhões, tendo atingido EBITDA positivo em 2025.\n\nO caso mostra que o investidor ainda paga ágio alto por fintech brasileira focada em resolver uma dor concreta — levar dinheiro e investimento para fora do país com menos burocracia — desde que a empresa já mostre caixa saudável, não só crescimento. Para o pequeno empresário que exporta, recebe em dólar ou paga fornecedor no exterior, vale observar de perto esse tipo de serviço como alternativa à conta tradicional em banco múltiplo: tende a ficar mais barato e mais rápido abrir conta internacional nos próximos meses, à medida que mais capital entra nesse tipo de concorrente.",
+    "url": "https://startups.com.br/negocios/nomad-capta-r-172m-com-a-tether-e-mais-que-dobra-valuation-para-r-4b/",
+    "posicao": 4,
+    "batch_date": "2026-11-19"
+  },
+  {
     "tag": "Tributário",
     "titulo": "Durigan diz que alíquota de 11,3% da CBS é teto, não a carga real das empresas",
     "fonte": "JOTA",
@@ -130,49 +174,5 @@
     "url": "https://www.bnewssaopaulo.com.br/noticias/negocios/black-friday-2026-varejo-deve-movimentar-r-2968-bi-aponta-estudo-do-iemi.html",
     "posicao": 4,
     "batch_date": "2026-11-16"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Senado decide até 15/12 alíquota da CBS; TCU propõe 11,3%, acima do esperado",
-    "fonte": "Congresso em Foco",
-    "data": "15 Nov",
-    "resumo": "CAE do Senado ouve Fazenda, Receita e TCU nos dias 17 e 18 antes de fixar o imposto que substitui PIS/Cofins a partir de 2027.",
-    "conteudo": "O Tribunal de Contas da União calculou a alíquota de referência da CBS em 11,3468%, arredondada para 11,3% pela regra de uma casa decimal da Lei Complementar 214/2025 — valor acima do que estudos da própria Fazenda vinham indicando, algo em torno de 9,2%. O relator da matéria no Senado, Eduardo Braga (MDB-AM), disse que \"fomos pegos de surpresa\" com o número do TCU e pediu audiência pública antes de votar. A Comissão de Assuntos Econômicos remarcou as audiências para terça e quarta (17 e 18): no primeiro dia depõem o secretário da Fazenda Dario Durigan, o secretário da Receita Robson Barreirinhas e o presidente do TCU, Vital do Rêgo; no segundo, representantes da FGV e da OAB. Se o Senado não aprovar uma resolução até 15 de dezembro, prazo que pode se estender a 22 de dezembro, prevalece automaticamente o cálculo do TCU.\n\nA CBS substitui PIS e Cofins a partir de 2027 e incide sobre praticamente toda venda de bem e serviço no país, então a diferença entre 9,2% e 11,3% já deveria entrar no orçamento de preços do próximo ano como cenário-base, não como hipótese otimista. Quem está fechando contrato de longo prazo, tabela de preço ou planejamento tributário para 2027 faz bem em simular a conta com a alíquota mais alta e acompanhar o resultado das audiências desta semana — é nelas que vai ficar claro se o Senado vai tentar reduzir o número do TCU ou só homologá-lo.",
-    "url": "https://www.congressoemfoco.com.br/noticia/131494/cbs-senado-ouvira-durigan-e-vital-do-rego-na-proxima-semana",
-    "posicao": 1,
-    "batch_date": "2026-11-15"
-  },
-  {
-    "tag": "Juros",
-    "titulo": "Copom surpreende mercado e mantém Selic em 13,75%, rompe 5 cortes seguidos",
-    "fonte": "Muita Informação",
-    "data": "15 Nov",
-    "resumo": "Decisão unânime da 282ª reunião, em 4/11, pegou de surpresa 39 das 75 casas consultadas pela Projeções Broadcast, que esperavam novo corte.",
-    "conteudo": "Na 282ª reunião do Copom, em 4 de novembro, o Banco Central decidiu, por unanimidade, manter a Selic em 13,75% ao ano, interrompendo uma sequência de cinco cortes seguidos que vinha reduzindo a taxa havia meses. Levantamento da Projeções Broadcast com 75 instituições mostrava que 39 delas esperavam novo corte, para 13,50%, e 36 apostavam em manutenção — ou seja, a decisão frustrou boa parte do mercado. No comunicado, o comitê citou piora das condições domésticas e externas desde a reunião anterior, em 16 de setembro, além de instabilidade cambial e risco de alta na inflação; as próprias projeções do Copom indicam IPCA de 5,6% em 2026 e 4,7% em 2027, ainda acima da meta.\n\nCom a pausa, o custo do crédito para empresa segue no patamar mais restritivo dos últimos anos, sem o Banco Central dar qualquer sinal de quando o ciclo de corte deve ser retomado. Quem estava esperando folga no juro para renegociar capital de giro, financiar equipamento ou alongar dívida em 2027 deve revisar esse planejamento assumindo Selic alta por mais tempo do que o próprio mercado apostava até a véspera da reunião — e evitar contratar dívida nova pré-fixada só na expectativa de um corte que o BC não prometeu.",
-    "url": "https://muitainformacao.com.br/negocios/banco-central-surpreende-mercado-mantem-selic-em-1375-e-interrompe-sequencia-de-cinco-cortes-nos-juros/",
-    "posicao": 2,
-    "batch_date": "2026-11-15"
-  },
-  {
-    "tag": "Pagamentos",
-    "titulo": "Pix ganha cobrança híbrida com boleto; regra de segurança vale desde fev/2027",
-    "fonte": "Mercado&Consumo",
-    "data": "15 Nov",
-    "resumo": "Resolução BCB 587/2026 cria documento único que reúne boleto e QR Code Pix e cancela automaticamente o meio não usado, evitando pagamento em duplicidade.",
-    "conteudo": "A Resolução BCB nº 587/2026 criou a \"cobrança híbrida\", que reúne boleto e QR Code do Pix num único documento de cobrança: quando o cliente paga por um dos dois meios, o sistema baixa o boleto ou cancela o QR Code automaticamente, eliminando o risco de pagamento em duplicidade que hoje obriga lojista a devolver valor pago duas vezes. A oferta da cobrança híbrida continua facultativa para quem recebe, mas o pacote de regras que a acompanha — incluindo trava antifraude e novo fluxo de devolução — entra em vigor em 1º de fevereiro de 2027. O mesmo pacote também autorizou Pix automático vinculado a conta-salário.\n\nQuem hoje emite boleto para aluguel, mensalidade ou venda parcelada ganha a opção de oferecer o Pix como alternativa instantânea no mesmo documento, sem manter dois sistemas de cobrança separados — o que tende a reduzir a inadimplência causada só por atraso na baixa manual do boleto. Negócio que usa sistema de cobrança terceirizado (ERP, gateway de pagamento) deve perguntar ao fornecedor se a função já está no cronograma de atualização, porque a adequação técnica costuma levar meses e fevereiro de 2027 chega rápido para quem deixar para testar depois do carnaval.",
-    "url": "https://mercadoeconsumo.com.br/18/09/2026/meios-de-pagamento/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario/",
-    "posicao": 3,
-    "batch_date": "2026-11-15"
-  },
-  {
-    "tag": "Startups",
-    "titulo": "Ginastee capta R$650 mil em rodada que troca parte do cheque por mentoria",
-    "fonte": "Startups.com.br",
-    "data": "15 Nov",
-    "resumo": "Plataforma de bem-estar fundada por Rafael Paiva fecha pré-seed estruturado pela Koinz Capital, gestora que injeta \"capital intelectual\" ao lado do aporte em dinheiro.",
-    "conteudo": "A Ginastee, plataforma social de bem-estar que permite a criadores de fitness e wellness publicar conteúdo e engajar seguidores em comunidades digitais privadas, captou uma rodada pré-seed de R$ 650 mil estruturada pela Koinz Capital, gestora fundada por Leonardo Cruz que acompanha a startup desde o estágio de MVP. O diferencial do modelo é que parte do valor não vem só em dinheiro: mentores e investidores da rede da Koinz colocam capital próprio e assessoria direta na operação da empresa, numa combinação que a gestora chama de \"capital intelectual\" — a proporção exata entre dinheiro e valor de mentoria não foi divulgada. A startup, que já passou por outros pivôs de produto, projeta R$ 20 milhões em operações de bem-estar até o fim de 2027 e planeja expansão internacional, com foco no mercado americano, a partir de 2028.\n\nPara empreendedor em estágio inicial que não quer — ou não consegue — abrir capital com fundo de venture capital tradicional, o caso mostra um caminho alternativo de captação: trocar uma fatia menor da empresa por rede de contatos e orientação de quem já passou pelo mesmo problema, em vez de buscar só o cheque mais alto possível. A lógica vale especialmente para negócio de nicho — saúde, bem-estar, fitness —, em que a experiência prática de quem já escalou algo parecido costuma valer mais, no curto prazo, do que um aporte maior sem nenhum acompanhamento.",
-    "url": "https://startups.com.br/negocios/rodada-de-investimento/startup-de-pai-e-filho-recebe-aporte-da-koinz-capital-e-mira-proxima-rodada/",
-    "posicao": 4,
-    "batch_date": "2026-11-15"
   }
 ]
