@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Mercado",
+    "titulo": "Dólar fecha no maior nível em 19 meses e Ibovespa cai pela 2ª sessão",
+    "fonte": "InfoMoney",
+    "data": "20 Nov",
+    "resumo": "Moeda bateu R$5,9350 na quarta (18) e chegou a R$5,924 na quinta (19), enquanto a bolsa acumulou perda semanal de 3,53% com o noticiário fiscal no radar.",
+    "conteudo": "O dólar fechou a quarta-feira (18) em R$ 5,9350, alta de 1,16% no dia e o maior patamar de fechamento em 19 meses, e chegou a tocar R$ 5,924 na máxima da quinta-feira (19), segundo o InfoMoney. No mesmo pregão de quinta, o Ibovespa caiu 0,69%, a 166.376,43 pontos, fechando a semana com perda acumulada de 3,53% — o mercado segue monitorando a tramitação do pacote fiscal do governo no Congresso e o risco de o ajuste não ser suficiente para conter o gasto público em 2027.\n\nPara quem importa insumo, paga fornecedor em dólar ou tem dívida atrelada à moeda americana, essa alta encarece o custo em reais de um dia para o outro, e vale reprecificar contrato e revisar proteção cambial se a operação depende de câmbio importado. Quem exporta ou recebe em dólar, ao contrário, ganha margem extra enquanto a cotação seguir nesse patamar — mas, com bolsa em queda e câmbio nessa volatilidade, o mais seguro é evitar comprometer capital de giro em aposta de curto prazo até o mercado digerir os próximos passos do ajuste fiscal.",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/",
+    "posicao": 1,
+    "batch_date": "2026-11-20"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Febraban reduz projeção de crédito para empresas e vê inadimplência subir",
+    "fonte": "InfoMoney",
+    "data": "20 Nov",
+    "resumo": "Entidade cortou estimativa de crescimento do crédito livre a pessoa jurídica de 3,5% para 2,5% em 2026, citando juros altos e atraso em alta.",
+    "conteudo": "A Federação Brasileira de Bancos (Febraban) revisou para baixo, em pesquisa divulgada na quinta-feira (19), a projeção de crescimento do crédito em recursos livres para pessoa jurídica em 2026, de 3,5% para 2,5%, e reduziu também a estimativa para o total da carteira, de 8,9% para 8,6%. A entidade atribui o ajuste à combinação de juros ainda elevados com inadimplência em alta, enquanto o crédito direcionado a pessoa jurídica — puxado por programas oficiais para micro, pequenas e médias empresas — segue mais resiliente, com projeção de alta de 13,3%.\n\nNa prática, os bancos devem continuar mais seletivos e mais caros para conceder capital de giro e linhas livres neste fim de ano, o que reforça a importância de priorizar linha com aval de programa oficial para MPME, geralmente com taxa menor e prazo mais longo, em vez de recorrer a crédito rotativo ou cheque especial da empresa. Quem já tem empréstimo contratado com taxa pós-fixada também deve simular o efeito de uma Selic que não cede tão rápido quanto se esperava, e manter reserva de caixa maior do que o normal para não precisar renovar dívida cara no meio do caminho.",
+    "url": "https://www.infomoney.com.br/economia/pesquisa-da-febraban-mostra-carteira-credito-crescendo-menos-e-inadimplencia-em-alta/",
+    "posicao": 2,
+    "batch_date": "2026-11-20"
+  },
+  {
+    "tag": "Capital",
+    "titulo": "Avenia capta mais R$140 milhões e soma R$230 milhões captados em 2026",
+    "fonte": "Startups.com.br",
+    "data": "20 Nov",
+    "resumo": "Fintech de stablecoin, antes chamada BRLA, estendeu a rodada Série A liderada pela Lightspeed Faction para acelerar expansão na América Latina e nos EUA.",
+    "conteudo": "A Avenia, fintech de stablecoin antes chamada BRLA, anunciou uma extensão de R$ 140 milhões à sua rodada Série A, liderada pela gestora Lightspeed Faction, elevando para R$ 230 milhões o total captado pela empresa somente em 2026 — depois de uma primeira etapa da própria Série A, de cerca de R$ 90 milhões, fechada em fevereiro. A companhia opera emissão e movimentação de stablecoin atrelada ao real e vai usar o aporte para acelerar a expansão na América Latina e nos Estados Unidos.\n\nO caso confirma que gestoras internacionais continuam dispostas a apostar pesado em infraestrutura de stablecoin brasileira, num momento em que o dólar está caro e a demanda por proteção cambial cresce. Para o pequeno e médio empresário que recebe ou paga no exterior, vale observar de perto esse tipo de solução como alternativa às contas internacionais tradicionais: quanto mais capital entra nesse mercado, maior a chance de taxa de conversão e de transferência mais competitiva chegar ao varejo nos próximos meses.",
+    "url": "https://startups.com.br/negocios/rodada-de-investimento/avenia-estende-serie-a-e-soma-r-230m-captados-em-2026/",
+    "posicao": 3,
+    "batch_date": "2026-11-20"
+  },
+  {
+    "tag": "Franquias",
+    "titulo": "Chilli Beans usa venda do franqueado para destravar crédito negado por banco",
+    "fonte": "Startups.com.br",
+    "data": "20 Nov",
+    "resumo": "No Zoop Summit 2026, fundador da marca disse que 15% dos franqueados não conseguiam crédito bancário para comprar da franquia; solução interna já destravou 20% deles.",
+    "conteudo": "No Zoop Summit 2026, o fundador da Chilli Beans, Caito Maia, revelou que cerca de 15% dos quase 900 franqueados da marca estavam sem crédito bancário para comprar mercadoria da própria franqueadora — problema grave o bastante para a empresa montar um departamento interno só para tentar destravar esses casos junto a banco. A saída encontrada foi a Chilli Pay, solução de crédito desenvolvida com a fintech Zoop que usa o fluxo de vendas no cartão de cada loja como garantia, liberando limite de até 30% do faturamento registrado, sem depender da análise tradicional de crédito bancário. Segundo Maia, a ferramenta já destravou cerca de 20% dos franqueados que estavam impedidos de comprar, com a meta de chegar ao restante da rede.\n\nO caso ilustra uma saída cada vez mais comum para o aperto de crédito bancário que vem pressionando pequenos negócios: em vez de depender do banco tradicional, usar o próprio dado de venda — cartão, Pix, boleto — como garantia para liberar capital de giro. Para quem franqueia uma rede ou vende para revendedor, vale avaliar com a franqueadora ou com o fornecedor se existe, ou pode existir, esse tipo de linha baseada em faturamento; e para quem toca negócio próprio sem ligação com franquia, maquininha e adquirente que oferecem antecipação ou crédito via fluxo de cartão cumprem função parecida, geralmente com taxa mais previsível do que cheque especial ou cartão rotativo.",
+    "url": "https://startups.com.br/negocios/varejo/para-caito-maia-o-credito-do-varejo-mudou-de-balcao/",
+    "posicao": 4,
+    "batch_date": "2026-11-20"
+  },
+  {
     "tag": "Política",
     "titulo": "Senado aprova ajuste fiscal por 69 votos a 2; texto agora vai à Câmara",
     "fonte": "Mixvale",
@@ -130,49 +174,5 @@
     "url": "https://mercadoeconsumo.com.br/16/10/2026/noticias-varejo/compras-internacionais-abaixo-de-us-50-sobem-82-apos-fim-da-taxa-das-blusinhas/",
     "posicao": 4,
     "batch_date": "2026-11-17"
-  },
-  {
-    "tag": "MEI",
-    "titulo": "Lei sancionada eleva teto do MEI a R$140 mil e perdoa dívidas federais",
-    "fonte": "Times Brasil",
-    "data": "16 Nov",
-    "resumo": "Lei Complementar 238/2026, sancionada em 21/10, aumenta o limite de faturamento em duas etapas e perdoa débitos tributários federais inscritos até 13 de outubro.",
-    "conteudo": "O presidente Luiz Inácio Lula da Silva sancionou, em 21 de outubro, a Lei Complementar 238/2026, originada do PLP 186/2026, aprovado por 461 votos a 4 na Câmara e por 78 a 0 no Senado. A partir de 2027 o teto de faturamento do MEI sobe de R$ 81 mil para R$ 110 mil ao ano, chegando a R$ 140 mil em 2028; a lei também permite contratar até dois funcionários, em vez de só um, e perdoa dívidas tributárias federais do MEI com a União inscritas até 13 de outubro deste ano.\n\nPara quem fatura hoje perto do limite atual e vinha recusando pedido ou atrasando emissão de nota para não estourar o teto, a mudança abre espaço real de crescimento a partir de janeiro — vale já simular o novo limite no planejamento de preço e de vendas de 2027. Quem tem débito federal como MEI deve checar no portal do Simples Nacional se a dívida entra na remissão automática; quem estava em disputa judicial pela cobrança precisa desistir formalmente do processo para ter acesso ao perdão.",
-    "url": "https://timesbrasil.com.br/brasil/lula-sanciona-lei-que-perdoa-dividas-de-meis-e-amplia-teto-de-faturamento-para-r-140-mil/",
-    "posicao": 1,
-    "batch_date": "2026-11-16"
-  },
-  {
-    "tag": "Tributário",
-    "titulo": "Micro e pequenas empresas têm até 20/12 para desistir do Simples híbrido",
-    "fonte": "Coad",
-    "data": "16 Nov",
-    "resumo": "Janela aberta em 3 de novembro pela Resolução CGSN 194/2026 permite cancelar, de forma irreversível, a opção pelo regime regular de IBS e CBS feita em setembro.",
-    "conteudo": "A Resolução CGSN nº 194/2026 abriu, em 3 de novembro, uma nova janela para micro e pequenas empresas revisarem a escolha tributária feita em setembro para 2027: quem optou pelo regime regular de apuração do IBS e da CBS — o chamado Simples híbrido — e quer voltar a recolher tudo pela guia única do DAS tem até 20 de dezembro para pedir o cancelamento no portal do Simples Nacional. A decisão, qualquer que seja, passa a valer para todo o primeiro semestre de 2027 e se torna irreversível depois do prazo.\n\nQuem fez a escolha em setembro sem saber ainda qual seria a alíquota de referência da CBS — que só deve ser votada no Senado até 15 de dezembro — corre o risco de ter decidido com base em número que ainda pode mudar. Vale revisar a conta com o contador antes do fim do ano: negócio que compra bastante insumo com crédito de ICMS/ISS tende a se beneficiar mais do regime regular, enquanto quem presta serviço com poucos créditos geralmente ainda sai melhor recolhendo tudo pelo DAS único.",
-    "url": "https://coad.com.br/home/noticias-detalhe/140588/reforma-tributaria-prazo-para-desistir-do-regime-hibrido-termina-em-20-de-dezembro",
-    "posicao": 2,
-    "batch_date": "2026-11-16"
-  },
-  {
-    "tag": "CBS",
-    "titulo": "Governo propõe pagar CBS por estimativa, com acerto só um mês depois",
-    "fonte": "Brasil de Fato",
-    "data": "16 Nov",
-    "resumo": "Secretário da Receita, Robinson Barreirinhas, diz que regra será opcional e busca dar segurança às empresas na estreia do tributo, em janeiro de 2027.",
-    "conteudo": "O secretário especial da Receita Federal, Robinson Barreirinhas, anunciou que o governo vai enviar ao Congresso um projeto de lei complementar para permitir que as empresas recolham a CBS por estimativa mês a mês e só fechem a conta definitiva um mês depois de cada competência. Segundo ele, a regra será opcional, pensada para dar \"segurança absoluta\" ao contribuinte na estreia do tributo, marcada para janeiro de 2027, e precisa passar pela Câmara e pelo Senado ainda este ano para valer a tempo.\n\nSe aprovada, a medida dá um mês extra de fôlego de caixa para quem hoje tem dificuldade de apurar o valor exato do imposto antes do vencimento — útil sobretudo para negócio com faturamento irregular mês a mês ou que depende de nota fiscal de fornecedor que chega atrasada. Como o projeto ainda não foi protocolado, vale acompanhar a tramitação antes de montar o fluxo de caixa de 2027 em torno dessa flexibilidade: sem aprovação a tempo, prevalece a regra padrão, com apuração e pagamento dentro do mesmo mês.",
-    "url": "https://www.brasildefato.com.br/2026/11/11/governo-apresentara-texto-que-facilita-adaptacao-a-reforma-tributaria/",
-    "posicao": 3,
-    "batch_date": "2026-11-16"
-  },
-  {
-    "tag": "Varejo",
-    "titulo": "Black Friday 2026 deve girar R$13,3 bi no e-commerce, alta de 20,7%",
-    "fonte": "BNews São Paulo",
-    "data": "16 Nov",
-    "resumo": "Estudo do IEMI projeta R$296,8 bi para o comércio em geral em novembro; data cai em 27/11, mas promoções já tomam conta do mês inteiro.",
-    "conteudo": "Levantamento do IEMI (Inteligência de Mercado) projeta que o comércio em geral — supermercado, vestuário, calçado, móveis e eletrodoméstico — deve faturar R$ 296,8 bilhões em novembro de 2026, com o e-commerce isolado respondendo por R$ 13,3 bilhões na Black Friday, alta de 20,7% sobre o ano passado. A data oficial é sexta-feira, 27 de novembro, mas o próprio instituto destaca que boa parte das promoções já se espalhou pelo mês inteiro, diluindo o pico de vendas que antes se concentrava só naquela sexta-feira.\n\nPara o pequeno varejista, o recado prático é duplo: primeiro, quem ainda não negociou condição especial com fornecedor para a data corre atrás de margem, já que o próprio setor vem alertando para ticket médio mais baixo este ano, o que aperta a rentabilidade se o desconto não vier acompanhado de custo melhor; segundo, como as vendas já começaram a se antecipar, esperar a véspera do dia 27 para lançar oferta é abrir mão de parte do movimento que o consumidor já está fazendo agora, ao longo de novembro.",
-    "url": "https://www.bnewssaopaulo.com.br/noticias/negocios/black-friday-2026-varejo-deve-movimentar-r-2968-bi-aponta-estudo-do-iemi.html",
-    "posicao": 4,
-    "batch_date": "2026-11-16"
   }
 ]
