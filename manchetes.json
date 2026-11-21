@@ -1,5 +1,49 @@
 [
   {
+    "tag": "Tributário",
+    "titulo": "Receita propõe pagar CBS por estimativa em 2027 e dar 30 dias extras",
+    "fonte": "Folha de Pernambuco",
+    "data": "21 Nov",
+    "resumo": "Secretário Robinson Barreirinhas anunciou regra de transição opcional para o novo tributo, com cálculo por estimativa e sem multa por erro de boa-fé nos primeiros meses.",
+    "conteudo": "No dia 11 de novembro, o secretário da Receita Federal, Robinson Barreirinhas, anunciou que o governo vai propor ao Congresso uma regra de transição opcional para a cobrança da CBS, o novo tributo federal da reforma. Pela proposta, que ainda depende de lei complementar, a empresa poderá recolher o imposto por estimativa nos primeiros meses de 2027 e fechar o cálculo definitivo até 30 dias depois, sem multa para erro cometido de boa-fé nesse período de adaptação. A Receita também prometeu publicar até 30 de novembro o leiaute dos ajustes no módulo simplificado de apuração assistida, com ambiente de testes liberado em dezembro.\n\nPara quem toca um negócio, a folga extra de um mês para fechar a conta da CBS reduz o risco de pagar imposto errado justamente no período de adaptação a um tributo totalmente novo. Vale simular, desde já, o impacto do cálculo por estimativa no fluxo de caixa de janeiro e fevereiro de 2027 e cobrar do contador ou do sistema de gestão a atualização para o layout simplificado que a Receita promete publicar até o fim deste mês — quem chegar atrasado a essa adaptação corre risco maior de erro, mesmo com a regra de boa-fé servindo de colchão.",
+    "url": "https://www.folhape.com.br/economia/reforma-tributaria-governo-quer-ampliar-em-30-dias-prazo-para/523664/",
+    "posicao": 1,
+    "batch_date": "2026-11-21"
+  },
+  {
+    "tag": "Câmbio",
+    "titulo": "BC vende US$ 1 bi em leilão extra para tentar frear alta do dólar",
+    "fonte": "SBT News",
+    "data": "21 Nov",
+    "resumo": "Intervenção ocorreu na quinta-feira (19), quando a moeda passou de R$5,92 na máxima do dia, mas não impediu o sexto pregão seguido de alta.",
+    "conteudo": "Na quinta-feira (19), o Banco Central vendeu US$ 1 bilhão em leilão extraordinário à vista para tentar conter a disparada do dólar, que chegou a superar R$ 5,92 na máxima da manhã. A autoridade monetária aceitou cinco propostas, com taxa de corte de R$ 5,86, mas o efeito foi limitado: a moeda voltou a subir à tarde e fechou o pregão em alta, no sexto dia consecutivo de valorização e no maior nível desde abril de 2025.\n\nO episódio mostra que, mesmo com o Banco Central disposto a usar reservas para segurar o câmbio, a tendência de alta do dólar não deu sinal de reversão nesta semana — o que pesa sobre quem paga fornecedor, equipamento ou software em moeda estrangeira. Nesse cenário, faz sentido travar taxa em contrato de importação sempre que possível (termo de câmbio, NDF ou adiantamento de pagamento) em vez de apostar que uma nova intervenção do BC vai trazer alívio duradouro; quem exporta ou fatura em dólar, por ora, continua se beneficiando do patamar mais alto da moeda.",
+    "url": "https://sbtnews.sbt.com.br/noticia/economia/banco-central-vende-us-1-bi-para-conter-alta-do-dolar",
+    "posicao": 2,
+    "batch_date": "2026-11-21"
+  },
+  {
+    "tag": "Crédito",
+    "titulo": "Sebrae disputa prêmio global com programa de crédito orientado a pequenos negócios",
+    "fonte": "Agência Sebrae de Notícias",
+    "data": "21 Nov",
+    "resumo": "Projeto Crédito Orientado e Assistido é um dos 19 finalistas da categoria Inovação de Produto do Global SME Finance Awards 2026, com resultado anunciado em Singapura.",
+    "conteudo": "O Sebrae chegou à lista de 19 finalistas, entre 77 inscritos, da categoria Inovação de Produto do Global SME Finance Awards 2026, prêmio ligado ao Global SME Finance Forum, iniciativa internacional vinculada ao Banco Mundial e à IFC. O resultado foi anunciado em Singapura no dia 19 de novembro, e o projeto concorrente, batizado Crédito Orientado e Assistido, combina acesso a financiamento com orientação empresarial e acompanhamento do uso do dinheiro pelo empreendedor, dentro do programa Acredita, que já soma mais de um milhão de atendimentos desse tipo e tem meta de consolidar uma carteira de cerca de R$ 30 bilhões em 2026.\n\nO destaque do Sebrae no cenário internacional é um sinal para quem administra um pequeno negócio: crédito sozinho resolve pouco se vier sem orientação sobre taxa, prazo e uso do recurso, e é esse acompanhamento que tende a reduzir inadimplência mais na frente. Antes de contratar uma nova linha, vale procurar o atendimento de crédito orientado do Sebrae — pelo aplicativo, pelo portal ou com um agente de crédito — para comparar condições e organizar o fluxo de caixa antes de assumir a dívida, em vez de negociar direto no balcão do banco sem esse suporte.",
+    "url": "https://agenciasebrae.com.br/?p=44001",
+    "posicao": 3,
+    "batch_date": "2026-11-21"
+  },
+  {
+    "tag": "Empreendedorismo",
+    "titulo": "Brasil bate recorde de 10,4 milhões de mulheres donas de negócio",
+    "fonte": "Brasil61",
+    "data": "21 Nov",
+    "resumo": "No Dia Internacional da Empreendedora (19/11), entidade lança guia gratuito de plano de negócios enquanto Sebrae confirma marca histórica entre empreendedoras do país.",
+    "conteudo": "No Dia Internacional da Empreendedora, 19 de novembro, o Conselho Nacional da Mulher Empreendedora e da Cultura (CMEC), ligado à CACB e presente em mais de mil municípios, lançou o \"Guia Prático da Empreendedora: Plano de Negócios Descomplicado\", e-book gratuito de 67 páginas com exercícios de gestão, análise de mercado e planejamento financeiro. O lançamento citou dado do Sebrae: o Brasil encerrou dezembro de 2025 com 10,4 milhões de mulheres à frente de negócios, o maior número da série histórica.\n\nO recorde confirma que empreender já não é exceção entre as mulheres — mas ter o negócio registrado não resolve sozinho a etapa seguinte, que é planejar caixa, preço e expansão com algum método. Para quem está começando ou revisando o negócio neste fim de ano, vale baixar esse tipo de guia gratuito, disponível no site do CMEC, como ponto de partida antes de qualquer decisão maior, como pedir crédito ou abrir uma nova unidade, e chegar mais preparada à conversa com o banco ou com um agente de crédito do Sebrae.",
+    "url": "https://brasil61.com/n/empreendedoras-ganham-guia-gratuito-com-orientacoes-para-estruturar-negocios-cacb260289",
+    "posicao": 4,
+    "batch_date": "2026-11-21"
+  },
+  {
     "tag": "Mercado",
     "titulo": "Dólar fecha no maior nível em 19 meses e Ibovespa cai pela 2ª sessão",
     "fonte": "InfoMoney",
@@ -130,49 +174,5 @@
     "url": "https://exame.com/tecnologia/comp-zivo-ia-rh-nubank-receita-cinco-vezes/",
     "posicao": 4,
     "batch_date": "2026-11-18"
-  },
-  {
-    "tag": "Crédito",
-    "titulo": "Aprovação de crédito a pequenos negócios chega ao maior nível desde 2022",
-    "fonte": "Agência Sebrae de Notícias",
-    "data": "17 Nov",
-    "resumo": "Pesquisa Pulso dos Pequenos Negócios mostra 46% dos pedidos de financiamento bancário aprovados nos últimos três meses, e inadimplência referida pelos donos cai de 28% para 25%.",
-    "conteudo": "A 13ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, mostra que 46% dos pequenos negócios que pediram financiamento bancário nos três meses anteriores ao levantamento tiveram o crédito aprovado — o maior percentual desde o início da série, em 2022. A proporção de negócios que relatam ter dívida em atraso também caiu, de 28% em março para 25% em julho. O presidente do Sebrae, Rodrigo Soares, associa a melhora ao movimento de queda de juros e ao programa Desenrola, que já soma cerca de R$ 31 bilhões em operações para pequenos negócios.\n\nIsso não quer dizer que o crédito ficou barato: a própria pesquisa avisa que aprovação maior não equivale a juro menor nem a linha adequada para todo tipo de negócio. Na prática, vale usar esse momento para reabrir conversa com o banco sobre capital de giro ou renegociação pelo Desenrola — o MEI tem adesão aberta até 31 de março de 2027 — e comparar pelo menos duas ou três instituições antes de fechar, já que a aprovação mais fácil não elimina a diferença de taxa entre elas.",
-    "url": "https://agenciasebrae.com.br/dados/inadimplencia-de-pequenos-negocios-cai-e-aprovacao-de-credito-atinge-maior-nivel-desde-2022/",
-    "posicao": 1,
-    "batch_date": "2026-11-17"
-  },
-  {
-    "tag": "Inadimplência",
-    "titulo": "Dívidas negativadas de empresas batem novo recorde em setembro",
-    "fonte": "LetsMoney",
-    "data": "17 Nov",
-    "resumo": "Serasa Experian registrou 9,4 milhões de CNPJs com dívidas em atraso em setembro, alta de 12% em um ano, somando R$ 247,8 bilhões — maior número da série.",
-    "conteudo": "O Brasil terminou setembro com 9,4 milhões de empresas negativadas, segundo o Indicador Serasa Experian, o maior número da série histórica e 12% acima do registrado um ano antes; juntas, essas empresas devem R$ 247,8 bilhões. O levantamento é o segundo recorde consecutivo, depois dos 9,3 milhões de CNPJs inadimplentes em agosto, e a economista-chefe da Serasa, Camila Abdelmalack, associa o quadro aos juros ainda elevados e ao crédito mais restritivo, que pesam principalmente sobre micro e pequenas empresas.\n\nO dado conversa com a melhora na aprovação de crédito mostrada pelo Sebrae: uma coisa é o banco liberar mais pedidos novos, outra é o estoque de dívida velha que já está em atraso — e esse estoque continua crescendo. Quem vende com prazo (boleto, nota a receber, parcelamento para cliente pessoa jurídica) ganha em checar o CNPJ do comprador antes de fechar venda grande a prazo, e vale revisar a política de cobrança e de desconto para pagamento à vista, já que a inadimplência de clientes tende a pesar mais enquanto esse indicador não virar.",
-    "url": "https://www.letsmoney.com.br/credito/serasa-inadimplencia-empresas-setembro-2026/",
-    "posicao": 2,
-    "batch_date": "2026-11-17"
-  },
-  {
-    "tag": "Varejo",
-    "titulo": "Varejo trava em setembro e reforça sinal de estagflação, aponta IBGE",
-    "fonte": "Monitor Mercantil",
-    "data": "17 Nov",
-    "resumo": "Pesquisa Mensal de Comércio do IBGE mostra alta de apenas 0,2% em setembro, com queda em veículos e material de construção; avanço de 1,7% em 12 meses não anima analistas.",
-    "conteudo": "A Pesquisa Mensal de Comércio do IBGE, divulgada em 13 de novembro, mostrou que o varejo cresceu apenas 0,2% em setembro frente a agosto — dentro da margem que o próprio instituto classifica como estabilidade —, repetindo a taxa do mês anterior. No acumulado de 12 meses a alta é de 1,7%, mas no varejo ampliado (que inclui veículos e construção) o resultado foi pior: queda de 1,8% em veículos, motos, partes e peças e de 1,3% em material de construção; o destaque positivo veio do setor de informática e comunicação, que liderou o crescimento entre as oito atividades pesquisadas.\n\nO cenário reforça a leitura de que o país combina atividade fraca com juro e inflação ainda altos — o apelido \"estagflação\" que vem aparecendo na imprensa especializada. Para quem vende para o consumidor final, o recado é não contar com crescimento orgânico de demanda para bater a meta do próximo trimestre, e olhar com atenção para o segmento em que o negócio está: quem vende equipamento, veículo ou material de construção enfrenta vento contrário mais forte do que a média do varejo.",
-    "url": "https://monitormercantil.com.br/comercio-segue-industria-e-confirma-pais-em-estagflacao/",
-    "posicao": 3,
-    "batch_date": "2026-11-17"
-  },
-  {
-    "tag": "E-commerce",
-    "titulo": "Compras internacionais sob US$ 50 sobem 82% e pressionam varejo nacional",
-    "fonte": "Mercado&Consumo",
-    "data": "17 Nov",
-    "resumo": "Levantamento do BTG mostra forte alta nas compras em Shein, Shopee e AliExpress desde o fim da \"taxa das blusinhas\", ampliando a concorrência para quem vende no Brasil.",
-    "conteudo": "Desde que o Imposto de Importação de 20% sobre compras internacionais de até US$ 50 foi zerado, dentro do programa Remessa Conforme, as compras nessa faixa de valor em plataformas como Shein, Shopee e AliExpress subiram 82%, segundo levantamento do BTG citado pela Abit. O ICMS estadual continua sendo cobrado normalmente, entre 17% e 20% dependendo do estado, mas a isenção do imposto federal tornou essas plataformas mais competitivas frente ao varejo nacional em categorias como moda, acessórios e bazar.\n\nPara o lojista brasileiro, sobretudo de moda e utilidades de ticket baixo, a conta mudou: competir só por preço contra um produto sem Imposto de Importação tende a ser batalha perdida, e vale migrar o discurso de venda para entrega mais rápida, troca mais fácil e suporte em português — vantagens que o comprador perde ao importar direto. Também vale revisar a curva de produtos abaixo de R$ 250: é ali que a concorrência das plataformas chinesas mais aperta a margem.",
-    "url": "https://mercadoeconsumo.com.br/16/10/2026/noticias-varejo/compras-internacionais-abaixo-de-us-50-sobem-82-apos-fim-da-taxa-das-blusinhas/",
-    "posicao": 4,
-    "batch_date": "2026-11-17"
   }
 ]
